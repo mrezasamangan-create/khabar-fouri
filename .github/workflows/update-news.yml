@@ -1,0 +1,35 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # هر روز ساعت ۶ صبح به وقت تهران (۲:۳۰ UTC)
+    - cron: '30 2 * * *'
+  workflow_dispatch: # امکان اجرای دستی
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update timestamp in index.html
+        run: |
+          # فقط برای اینکه کش مرورگرها بشکند و صفحه تازه لود شود
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          sed -i "s|آخرین به‌روزرسانی خودکار:.*|آخرین به‌روزرسانی خودکار: $TIMESTAMP|" index.html || true
+          # اگر خط وجود نداشت اضافه کن
+          if ! grep -q "آخرین به‌روزرسانی خودکار" index.html; then
+            sed -i "s|آپدیت خودکار هر ۴ دقیقه|آپدیت خودکار هر ۴ دقیقه • آخرین به‌روزرسانی خودکار: $TIMESTAMP|" index.html
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add index.html
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: daily news refresh $(date -u +%Y-%m-%d)"
+          git push
