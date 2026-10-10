@@ -238,8 +238,18 @@ function render(){
 
 function openArticle(n){
   $('modalTitle').textContent=n.title||'';
-  $('modalMeta').innerHTML=`<span class="bg-slate-100 rounded-full px-2 py-1">${escapeHtml(n.source||'نامشخص')}</span><span class="bg-red-50 text-red-700 rounded-full px-2 py-1">${escapeHtml(n.published_fa||n.published||'')}</span>`;
-  $('modalBody').textContent=n.summary||'خلاصه‌ای در دسترس نیست.';
+  $('modalMeta').innerHTML=`<span class="bg-slate-100 rounded-full px-2 py-1">${escapeHtml(n.source||'نامشخص')}</span><span class="bg-red-50 text-red-700 rounded-full px-2 py-1">${escapeHtml(n.published_fa||n.published||'')}</span>${n.translated?'<span class="bg-amber-100 text-amber-800 rounded-full px-2 py-1 font-semibold">ترجمه‌شده</span>':''}`;
+  
+  let bodyHtml = '';
+  if (n.summary) {
+    bodyHtml += `<div class="text-sm leading-7 text-slate-700 whitespace-pre-line">${escapeHtml(n.summary)}</div>`;
+  }
+  if (n.title_original) {
+    bodyHtml += `<details class="mt-4 bg-slate-50 rounded-lg p-3"><summary class="cursor-pointer text-xs font-semibold text-slate-600">متن اصلی انگلیسی</summary><div class="mt-2 text-xs text-slate-600 leading-6" dir="ltr">${escapeHtml(n.title_original)}${n.summary_original?'<br><br>'+escapeHtml(n.summary_original):''}</div></details>`;
+  }
+  if (!bodyHtml) bodyHtml = 'خلاصه‌ای در دسترس نیست.';
+  
+  $('modalBody').innerHTML = bodyHtml;
   const a=$('modalLink'); a.href=n.link||'#'; a.style.display=n.link?'inline-flex':'none';
   $('modal').classList.add('active'); document.body.style.overflow='hidden';
 }
