@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T23:17:43.017313+00:00",
-  "generated_at_fa": "1405/07/19 - 02:47",
+  "generated_at": "2026-10-10T23:34:02.729412+00:00",
+  "generated_at_fa": "1405/07/19 - 03:04",
   "count": 435,
   "items": [
     {
@@ -15,8 +15,8 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T02:43:33.597891+03:30",
-      "published_fa": "1405/07/19 - 02:43",
+      "published": "2026-10-11T02:59:57.232822+03:30",
+      "published_fa": "1405/07/19 - 02:59",
       "translated": false,
       "verified_source": true
     },
@@ -33,9 +33,42 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T02:43:33.596615+03:30",
+      "published": "2026-10-11T02:59:57.232003+03:30",
+      "published_fa": "1405/07/19 - 02:59",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "گروهی که با یک نظام مالی چند صد ساله، صدها میلیون یورو برای مجرمان پول‌شویی می‌کرد",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/c6n8md511lvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "تحقیقات مشترک چند رسانه اروپایی نشان می‌دهد یک گروه چت در واتس‌اپ برای پول‌شویی صدها میلیون یورو پول نقد در سراسر جهان به کار گرفته شده و بدون برجا گذاشتن ردپایی مکتوب، منابع مالی جرایم سازمان‌یافته و گروه‌های افراط‌گرا را تامین کرده است.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T02:43:23+03:30",
       "published_fa": "1405/07/19 - 02:43",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "President talks 'Trump Ocean,' trades jokes with Tennessee crowd as Kid Rock kicks off sprawling rally",
+      "title_original": "President talks 'Trump Ocean,' trades jokes with Tennessee crowd as Kid Rock kicks off sprawling rally",
+      "link": "https://www.foxnews.com/politics/president-talks-trump-ocean-trades-jokes-tennessee-crowd-kid-rock-kicks-sprawling-rally",
+      "summary": "President Donald Trump touted billions of dollars in manufacturing investments and his administration's efforts to combat crime in Tennessee on Saturday, while calling Iranian leaders \"crazy\" and floating the idea of a \"Trump Ocean\" during a wide-ranging rally featuring musician Kid Rock. The president appeared in Clarksville ahead of the Nov. 3 midterm elections, campaigning for Republican Sen. Bill Hagerty and gubernatorial candidate Marsha Blackburn while mixing economic talking points, foreign policy and off-script humor. Kid Rock opened the event with a religious-themed introduction, praising Trump's leadership while taking aim at the news media. TRUMP TOUTS ‘GOLDEN AGE’ AT OHIO RALLY, URGES VOTERS TO DELIVER GOP MIDTERM WINS \"Literally, President Trump could walk across the Cumberlan",
+      "summary_original": "President Donald Trump touted billions of dollars in manufacturing investments and his administration's efforts to combat crime in Tennessee on Saturday, while calling Iranian leaders \"crazy\" and floating the idea of a \"Trump Ocean\" during a wide-ranging rally featuring musician Kid Rock. The president appeared in Clarksville ahead of the Nov. 3 midterm elections, campaigning for Republican Sen. Bill Hagerty and gubernatorial candidate Marsha Blackburn while mixing economic talking points, foreign policy and off-script humor. Kid Rock opened the event with a religious-themed introduction, praising Trump's leadership while taking aim at the news media. TRUMP TOUTS ‘GOLDEN AGE’ AT OHIO RALLY, URGES VOTERS TO DELIVER GOP MIDTERM WINS \"Literally, President Trump could walk across the Cumberland River, and tomorrow the headline would say President Trump refuses to swim,\" the musician joked. The rocker also condemned Islamist extremism and defended religious freedom, arguing that Americans should not be forced to live under religious laws that override the Constitution. \"We are not, and we will never be, one nation under Mohammed, because we are, and we always will be, one nation under God,\" Kid Rock told the crowd. Trump later thanked his longtime supporter and friend by his given name, Bob, before turning to an array of domestic and international issues. The president addressed tensions with Iran, calling the country's leaders \"crazy\" while claiming that Tehran's rhetoric had sof",
+      "source": "Fox News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-11T02:37:06+03:30",
+      "published_fa": "1405/07/19 - 02:37",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -65,6 +98,21 @@
       "urgent": false,
       "published": "2026-10-11T02:13:08+03:30",
       "published_fa": "1405/07/19 - 02:13",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say - Reuters",
+      "title_original": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+      "summary": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say Reuters",
+      "summary_original": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say Reuters",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T02:11:03+03:30",
+      "published_fa": "1405/07/19 - 02:11",
       "translated": true,
       "verified_source": true
     },
@@ -202,21 +250,6 @@
       "urgent": false,
       "published": "2026-10-11T01:10:20+03:30",
       "published_fa": "1405/07/19 - 01:10",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
-      "title_original": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "summary": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say Reuters",
-      "summary_original": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say Reuters",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:56:51+03:30",
-      "published_fa": "1405/07/19 - 00:56",
       "translated": true,
       "verified_source": true
     },
@@ -531,7 +564,7 @@
     {
       "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajansı",
       "title_original": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGpOcWdmNk5WcmRweGtHa2dFYTRpMWRpSWlfOGtabGFyODZTY2g1R2wySUt0MXFFbEtkQmdkUHFlaDFKNnRnZUdsNThHZms1eTJUSkJzWFRjczNmbmYyTXBwTU1ZeEJVLWJBczI0M1dJOVhpN05ULWdtYzBTUHJ6akNvemJKZkxnY3Bld1ppVWNqdElOQnBwNzhiUW53TnBnaHhpUkg5TmM2MkZjSzEwRjhPRHVER05lWTJwb1Q1cDhJU0VaS0REeTFXZGg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORWVPUHBLV2F5SnJablI2Vk9adC1JR29uMTBDM2xVM0pDaEtnNDJhUzVrcnF3NHI1a0ZpN0s2QVBWQ3R1b3hZckpCcjkzbDkxRFgzZXRxWC01amZ2YS1TNl9jY2ZTRjNrV1prZDVaRzlZUVBpdERtUG8tcFZielhIbFh3VUtqOFpDSzh0SmphdVlQaTNxSlhFLVRCc1djcTdHblhsODBfNUIzRGd6MmxVd2EtZEZ2RFRRTXpuRXVIc0Z5WmtPS1dfMF9HS21KLUplQUE?oc=5",
       "summary": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say Anadolu Ajansı",
       "summary_original": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say Anadolu Ajansı",
       "source": "Google News",
@@ -875,11 +908,11 @@
       "verified_source": true
     },
     {
-      "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-      "title_original": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+      "title": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
+      "title_original": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
       "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
-      "summary_original": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+      "summary": "Aviation authority says death toll includes four Saudis and eight foreign nationals.",
+      "summary_original": "Aviation authority says death toll includes four Saudis and eight foreign nationals.",
       "source": "Al Jazeera",
       "category": "military",
       "tags": [],
@@ -1045,19 +1078,17 @@
       "verified_source": true
     },
     {
-      "title": "Trump’s ICC sanctions are diplomatic overreach - UnHerd",
-      "title_original": "Trump’s ICC sanctions are diplomatic overreach - UnHerd",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjckpzZ3lmMk1zcmRIeW1TTkFBUnFqbnYzTFY2WTlVMkNidWRsS25sdWhfS0xqQUxqTGFWV2FmUW9YYXNmYXcxLW9LUnZnX2pCQXcwMTFOaTVOQkdMZ2hFZlFkQ2VTcmtiRkxzSk54Y2k0T3NfT1VDaF83QndSQlU?oc=5",
-      "summary": "Trump’s ICC sanctions are diplomatic overreach UnHerd",
-      "summary_original": "Trump’s ICC sanctions are diplomatic overreach UnHerd",
+      "title": "Iran may be restoring activity at nuclear-linked site struck by Israel - Iran International",
+      "title_original": "Iran may be restoring activity at nuclear-linked site struck by Israel - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXS0RINjZ3cWlBSWoyVUtfVVg2M1RtbXpRQnZwNVJIQl92eU1fMnJwTVp5NTFPQ3NHWTR4OGlTekI3Wmp1enJ5NWg0Q2I4QWJpMVE?oc=5",
+      "summary": "Iran may be restoring activity at nuclear-linked site struck by Israel Iran International",
+      "summary_original": "Iran may be restoring activity at nuclear-linked site struck by Israel Iran International",
       "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
+      "category": "other",
+      "tags": [],
       "urgent": false,
-      "published": "2026-10-10T20:17:43+03:30",
-      "published_fa": "1405/07/18 - 20:17",
+      "published": "2026-10-10T20:08:12+03:30",
+      "published_fa": "1405/07/18 - 20:08",
       "translated": true,
       "verified_source": true
     },
@@ -1125,21 +1156,6 @@
       "published": "2026-10-10T19:08:53+03:30",
       "published_fa": "1405/07/18 - 19:08",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities - Al Jazeera",
-      "title_original": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2hKQnU0RnNlWmR5M0dpZy1GdkEybmxWRm1scHZNMlREbG52WmpkLWlRUnI4M3hRQkZKUXAtX3doSGxHbnZ5Tl9ybGp2SHVSLTlvUC0wUG9rOFVZeG81UmxvZ0hzNTZsa25fMTF5Y0V1Q1QwbjdjQnVScGdfZlUzQzg0TXo3aVFnSGVuWlRyazZ6M2N2NzItYnNhMHJrNDg5dGxhUlNoNVU3OGZva3djcmQ2eGQyOU43N21Z0gHAAUFVX3lxTFB0ZXVSYWwwdm1HYnp0cWY5eWNRXzRYb1BaOVRjcXBZVUpDOEpPUmFxeVJZT2x4U01Ma2ljMmN6Z2N0S19kZTVXekp6dTZFamp0NGRZMHp2UzhrcmJVOENPd3N3d3RXR2E2aU55TEN6QWpSVHZsbjhHUUxPU25YREd1MmFtMXUtVmNvLXdHTEY3NWpBZm5MZ0RBandXcS0xZkpVbVZtQkZEeFN6OHlMOTZlcWo2Q2FVVHFuN0hkcVU0SQ?oc=5",
-      "summary": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities Al Jazeera",
-      "summary_original": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities Al Jazeera",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T18:49:27+03:30",
-      "published_fa": "1405/07/18 - 18:49",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2569,23 +2585,6 @@
       "verified_source": true
     },
     {
-      "title": "کیتی زکریا، مفسر محافظه‌کار، سخنگوی جدید کاخ سفید شد",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/ck1l3vdzlj3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "دونالد ترامپ، رئیس‌جمهور آمریکا، کیتی زکریا، مفسر محافظه‌کار و مشاور ارتباطات «ترامپ مدیا و تکنولوژی گروپ»، را به عنوان سخنگوی جدید کاخ سفید انتخاب کرده است.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T00:35:48+03:30",
-      "published_fa": "1405/07/18 - 00:35",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "Culture clash laid bare as violent Somali gangs grip suburban communities: ‘These kids are different’",
       "title_original": "Culture clash laid bare as violent Somali gangs grip suburban communities: ‘These kids are different’",
       "link": "https://www.foxnews.com/politics/culture-clash-laid-bare-violent-somali-gangs-grip-suburban-communities-these-kids-are-different",
@@ -2692,6 +2691,23 @@
       "published": "2026-10-09T23:00:47+03:30",
       "published_fa": "1405/07/17 - 23:00",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+      "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
+      "summary": "Trump says US will not attack Iran before midterm elections in November Reuters",
+      "summary_original": "Trump says US will not attack Iran before midterm elections in November Reuters",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T22:49:06+03:30",
+      "published_fa": "1405/07/17 - 22:49",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -2960,23 +2976,6 @@
       "verified_source": true
     },
     {
-      "title": "Denver, Boulder ignored ICE detainers for migrants with child abuse, assault arrests, House GOP report reveals",
-      "title_original": "Denver, Boulder ignored ICE detainers for migrants with child abuse, assault arrests, House GOP report reveals",
-      "link": "https://www.foxnews.com/politics/denver-boulder-ignored-ice-detainers-migrants-child-abuse-assault-arrests-house-gop-report-reveals",
-      "summary": "FIRST ON FOX: A blue state's law enforcement officials are keeping illegal immigrants accused of violent crimes out of the reach of federal authorities, a new report claims. The House Judiciary Committee, led by Rep. Jim Jordan, R-Ohio, released new findings Friday in its investigation into sanctuary jurisdictions and their impact on law enforcement across the country. The latest is a 25-page report that accuses top prosecutors in Denver and Boulder of helping illegal immigrants evade Immigration and Customs Enforcement (ICE), while also revealing for the first time the names and graphic charges against some of those whom House GOP investigators say are being shielded from President Donald Trump's federal crackdown. Both the district attorneys for Denver and Boulder pushed back against Rep",
-      "summary_original": "FIRST ON FOX: A blue state's law enforcement officials are keeping illegal immigrants accused of violent crimes out of the reach of federal authorities, a new report claims. The House Judiciary Committee, led by Rep. Jim Jordan, R-Ohio, released new findings Friday in its investigation into sanctuary jurisdictions and their impact on law enforcement across the country. The latest is a 25-page report that accuses top prosecutors in Denver and Boulder of helping illegal immigrants evade Immigration and Customs Enforcement (ICE), while also revealing for the first time the names and graphic charges against some of those whom House GOP investigators say are being shielded from President Donald Trump's federal crackdown. Both the district attorneys for Denver and Boulder pushed back against Republicans' accusations. JIM JORDAN SUBPOENAS BLUE STATE DAS ACCUSED OF 'PREFERENTIAL TREATMENT' FOR ILLEGAL IMMIGRANT CRIMINALS Among the list is \"Fernando Barrios-Ramirez, a Venezuelan national arrested for sexual assault on a child,\" the report said. Denver District Attorney John Walsh told Fox News Digital, \"Unfortunately, in Barrios-Ramirez’s case, we were prevented from pursuing a decades-long sentence by ICE, who deported Barrios-Ramirez to Mexico over our objection, effectively setting him free.\" Walsh said his office prosecuted other cases listed in the report as well. Another alleged criminal Denver is accused of ignoring an ICE detainer for is Juan Andres Holguin-Mendez, a Mexican n",
-      "source": "Fox News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T19:30:07+03:30",
-      "published_fa": "1405/07/17 - 19:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "El-Sayed refuses to answer whether Iran or Israel is more dangerous - Fox News",
       "title_original": "El-Sayed refuses to answer whether Iran or Israel is more dangerous - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hVE4tUThFTDhLaC1PQzU4V1p0NFkwRWpMQjJaM0VHOHp0dEVxNGxWMkZ6dUtLaEVOWl85OTdyVzhYWS10MUhfV2lhekVfaGVpS09hNWJn?oc=5",
@@ -3169,6 +3168,21 @@
       "urgent": false,
       "published": "2026-10-09T15:13:00+03:30",
       "published_fa": "1405/07/17 - 15:13",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "UK men plead not guilty of surveilling Israeli embassy, other targets for Iran - The Jerusalem Post",
+      "title_original": "UK men plead not guilty of surveilling Israeli embassy, other targets for Iran - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vZ01UOUpMcHVCckcyNkVfV2tOVGd3VTZmaklGT3VkTFJBRXUwakVwT1NrNEtlNEJCZWFla2NJSzItTlZuMjlTRURBUHYtbkZGYmNQVWxKRHNsLTZrdjAtTlJiWVYyNWxwemc?oc=5",
+      "summary": "UK men plead not guilty of surveilling Israeli embassy, other targets for Iran The Jerusalem Post",
+      "summary_original": "UK men plead not guilty of surveilling Israeli embassy, other targets for Iran The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-09T15:05:02+03:30",
+      "published_fa": "1405/07/17 - 15:05",
       "translated": true,
       "verified_source": true
     },
@@ -3406,21 +3420,6 @@
       "verified_source": true
     },
     {
-      "title": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment - New York Post",
-      "title_original": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNlNIdHZ1S2pQMG9lSUU2dmpkZGlQRGVpZDE3UkJwVk5ZT0d6eFczNEl6LVAwUkprNHZxWk9SY2VRajlGMUxJZ0kwZWFDOGhDaVFCa1VGMVBkMnBNOFB6SlJYb2c4X3NEd1pUMWUzYmI4ZUhiWk51ZlZ6RC1kYm1aQmxfbmw4ZDJVMFJNUm9xSWc5TmZyd0dzTk03dnprWHp4RmVTNmJRS3NSaExSd3BMREFUUkRjVEhZc2xuQ0dWLURWZw?oc=5",
-      "summary": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment New York Post",
-      "summary_original": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment New York Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T05:56:00+03:30",
-      "published_fa": "1405/07/17 - 05:56",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
       "title_original": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
       "link": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
@@ -3624,11 +3623,11 @@
       "verified_source": true
     },
     {
-      "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans - The New York Times",
-      "title_original": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans - The New York Times",
+      "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
+      "title_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5",
-      "summary": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans The New York Times",
-      "summary_original": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans The New York Times",
+      "summary": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates The New York Times",
+      "summary_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates The New York Times",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -3804,23 +3803,6 @@
       "urgent": false,
       "published": "2026-10-08T20:19:00+03:30",
       "published_fa": "1405/07/16 - 20:19",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
-      "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
-      "summary": "Trump says US will not attack Iran before midterm elections in November Reuters",
-      "summary_original": "Trump says US will not attack Iran before midterm elections in November Reuters",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T19:53:00+03:30",
-      "published_fa": "1405/07/16 - 19:53",
       "translated": true,
       "verified_source": true
     },
@@ -4243,6 +4225,23 @@
       "verified_source": true
     },
     {
+      "title": "Iran resumes flights at Imam Khomeini International Airport - Middle East Eye",
+      "title_original": "Iran resumes flights at Imam Khomeini International Airport - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2x3bnN1VmdwMXFueWZ0NHU4M21FUXRRUnR2b2dYblM2dVJGdmVQcWkzRnJCMHhyM0Fkd0ZVQ1NDejJ2UkNDWDNoQXZJdEU5M1NKa05tWVhpQzhMOGt5QkVjcTNnTXNnSzdJMDZzTXZSNTdNMGZRNUhRU2Z0SjAzSFYzZHd3aHZhbFhKZy1qeVhuM0h3WDVmMFFER1pYWjFEX0hvRkxDUV9rblRMRG5KSHdfRQ?oc=5",
+      "summary": "Iran resumes flights at Imam Khomeini International Airport Middle East Eye",
+      "summary_original": "Iran resumes flights at Imam Khomeini International Airport Middle East Eye",
+      "source": "Google News",
+      "category": "other",
+      "tags": [
+        "فلایت رادار"
+      ],
+      "urgent": false,
+      "published": "2026-10-08T08:24:00+03:30",
+      "published_fa": "1405/07/16 - 08:24",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump interrupted by protesters at Texas rally - Al Jazeera",
       "title_original": "Trump interrupted by protesters at Texas rally - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnhXQ205bnl2S0hHUjRYWWxqMFdXSnFEMmh2TGUzam84T1lEVnFQRHhzMmRCRU5HMkVSbEdKd3UybVJIOUhkWDBTMThuYkV6a1R4a3p6QTFkLVJNMEtvMDJNOFBQdUVKbGdubTlXeVdhZlM3LWxtUGpYRmdlMGJ5TlUweDVmRVB3eVl6V01kd3hBQnZmWm1nQ0NMTzJUUdIBowFBVV95cUxQMmJ5dnVSSHhibFRNN0pqYVVtUlcycDcwR0dTYURiRi13bTdJTVdtWU1aSjk1VGZyY3k3dnFXM1BwczV6YzJJd0Z1VHpKSjZfSG9iU1Q3dnZYbjh0ek1ETnM0VTJEWGhNNWdFMjNfZ1VrbXM3WmtoQjZFTWF6cHJWbUVHbU04SHNKNVo5ejR1UUMwX0p4VkpuMWhudkhmZkg5MG9j?oc=5",
@@ -4439,23 +4438,6 @@
       "verified_source": true
     },
     {
-      "title": "\"They hit us bad\": Newly obtained footage, witness accounts detail Iran attack, and U.S. retreat, at major post in Kuwait - CBS News",
-      "title_original": "\"They hit us bad\": Newly obtained footage, witness accounts detail Iran attack, and U.S. retreat, at major post in Kuwait - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTZvN2J2eDlaWml5TXNQYUM5LXFNX1QwdTlpanktTFpwbHMxMzZJUTNMSUlfcHBlWmdyVll4YjViZmg3eDRZRTMxZkpDUmwxQml4UmJZN01FU0E3RWhsOWtaM2prWjc5UDVpbmV3TjVGOUtqaE1BRlNoNGRiUEdGUlFza3c?oc=5",
-      "summary": "\"They hit us bad\": Newly obtained footage, witness accounts detail Iran attack, and U.S. retreat, at major post in Kuwait CBS News",
-      "summary_original": "\"They hit us bad\": Newly obtained footage, witness accounts detail Iran attack, and U.S. retreat, at major post in Kuwait CBS News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "گزارش مردمی"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T00:30:00+03:30",
-      "published_fa": "1405/07/16 - 00:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Mike Waltz fights back tears revealing what Hamas hostage refused to do before release",
       "title_original": "Mike Waltz fights back tears revealing what Hamas hostage refused to do before release",
       "link": "https://www.foxnews.com/world/mike-waltz-fights-back-tears-revealing-what-hamas-hostage-refused-do-before-release",
@@ -4581,8 +4563,8 @@
       "title": "Trump promises not to resume strikes before midterm elections - CBS News",
       "title_original": "Trump promises not to resume strikes before midterm elections - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3NqbnFSYTNQUWFNSU9NdzBQSDlrTHpvdERPVGo0QVJXY1ItMlhYbXN0Y21VWjZSbTlLcmlRWnQ0TGhuNjRhUkZ4cE0tUXp4ZHNiS3llXy0ycWlhZVdrYkowY0JqTHBNa2g0SjNIZHZlcTQ3Q3pKSUI4MzNHeHpmcVNJakp1ZmcyZmJFZTZFMXo1T1ltWVhGM2xIZlc?oc=5",
-      "summary": "Trump promises not to resume strikes before midterm elections CBS News",
-      "summary_original": "Trump promises not to resume strikes before midterm elections CBS News",
+      "summary": "Trump promises not to resume strikes before midterm elections CBS News Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities Al Jazeera",
+      "summary_original": "Trump promises not to resume strikes before midterm elections CBS News Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities Al Jazeera",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -4608,6 +4590,21 @@
       "urgent": false,
       "published": "2026-10-07T14:31:16+03:30",
       "published_fa": "1405/07/15 - 14:31",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "At October 7 Anniversary, Israelis Face an Election and an Unfinished Reckoning - Council on Foreign Relations (CFR)",
+      "title_original": "At October 7 Anniversary, Israelis Face an Election and an Unfinished Reckoning - Council on Foreign Relations (CFR)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXV6amxuMGVLVzIwM2dFdU1IWXdmM081LXpYVEZGS2ZWcWJ4S1ZqTXZ5MnhXMkR5dGQ1bndDZkpna0lPOEZwRDJGNEtPVG9TVVNqb05PTDFjSHdtMzBjWURoUHhrdm5WMzlMeVNfRmc2MVhvWTVKNnBLd2VsdTJpYVhJTi0tRGI4Um92MmpncE5hU0FkVHJ3WXRGSVl4Vnk3VGxISEExVV8wcGs?oc=5",
+      "summary": "At October 7 Anniversary, Israelis Face an Election and an Unfinished Reckoning Council on Foreign Relations (CFR)",
+      "summary_original": "At October 7 Anniversary, Israelis Face an Election and an Unfinished Reckoning Council on Foreign Relations (CFR)",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-07T13:00:00+03:30",
+      "published_fa": "1405/07/15 - 13:00",
       "translated": true,
       "verified_source": true
     },
@@ -4843,21 +4840,6 @@
       "verified_source": true
     },
     {
-      "title": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel - CBS News",
-      "title_original": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ld3o4d2RuWGlVUG5scXB4d3AxRkVkTTdWMVUwN3VHU1Y3VVhQcmtySUtsUnVDZ1BFM25GTXY3akxCQzRSZnFxZ0I2dmw5YmxpX0xQTFplMjVxOVBXU191Yk5UZ0hIOE9tamdqZElDSTRvcEZ4cnk4YjVtTmE?oc=5",
-      "summary": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel CBS News",
-      "summary_original": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel CBS News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-04T19:55:00+03:30",
-      "published_fa": "1405/07/12 - 19:55",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran says Hormuz to remain closed until US meets conditions - Al Jazeera",
       "title_original": "Iran says Hormuz to remain closed until US meets conditions - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEpOSExlamJ6VFM3V3hVMXl2M09LVHYxQnZpUHV6bXZuRkJmM3ljVHA0NFpQTmJ2WS1uZzhQVjAxVUJJYUZXeE5rMTVZMkdma3Z0a2NWUU9qRGJXZlhkSFYyVkVINHE1NjR6bklmTmxZUWdWNS1qaXc0cTNnU0xtZWV2QTRubWoyakdyMDNIUm9KcmpfSy1Jb3Nrb09mTEVMbjBlYVFybGNaa0JFOFhF0gG0AUFVX3lxTE12RHNGM054RWlsaVJaeEgtRWlIUDNKVWN0N0JLQmRfOHA1MU5SUVhXV1pjM1RKRlY2YjVkZlkyaG5vaDhWa0Fhd2hDeVZGMXRYcm5odHB1RWZ1eWJGeEZxRnZrWVNib2FvZHFySGVnNjdqTHlmUVJLdThHZHkwYk14ajdNWlptejNOYnhNR3dacmZMTWlLRDdGMFpkczBqcTBWZlN5UnlSUTV6a3NsWFBvY0djdQ?oc=5",
@@ -4933,18 +4915,17 @@
       "verified_source": true
     },
     {
-      "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
-      "title_original": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1JEUjNsbnRKZ2tUX1RIcDczNFdTQWp6aENMM2JaLTk2WXMtbkllazZFZHg1RjhCUmJiRk9pbllEOFBJa21tYVk0cEpBY0RGM0ZieGRlcUxoaG85cmN2V2NQaDl4bnRsb19EWGY5MkZERTBpcE5aVzNmMVdyX3JyS3RLMWNCREI3UnFOOGlva3pFZXdjNTIzUlJVWnZyMENBNGpFXzBDX2p3NEkwN2c4?oc=5",
-      "summary": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel AP News",
-      "summary_original": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel AP News",
+      "title": "Iran war updates: US deploys aircraft carrier strike group to Middle East - Al Jazeera",
+      "title_original": "Iran war updates: US deploys aircraft carrier strike group to Middle East - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX09XQVdqYXN0MXFCR1d5aVVqWHkxdmxfdjVKUDdaS1AtVmlKSjJ0MTMtdHU0aXVHVVMxQ29CR0R4U0dTb0piRDdkNFpKdlBRdmJUZVN4X3dkc3NzNkNiNHp6U1ZzWUxVWFl1azNpM2IzS29QcTBraGJYOW1WWGpXV3NPTUFOa1RsRU9VNGc4S1U4UzNKeFVmNjBHc3lhdFVjZHlfQThGS0NlOWNrdlZ5TWV6eEbSAboBQVVfeXFMTS1xSlkwb3lQU0hEQWgweTZ3dll0NlVYSEpQeUpoN3BVR05FWTMxN0ZwSUdTaTFVMVNWcDl1bU54alhDa0JUSHViRDNfSDVSQUdCaU1IQ1FCdTl0aGRLMF8yTGZpbjhPOUNhMjhIWUlTczRJNHpKU19ZSnBoeVlNWFIwZGI2YTRxZHZSbXB3WUlFN1Q3X2Z0QTJPdzd6QVhwajVJR2RmNzFGd1VSbFJyeml6Y3ZqSnloLTBB?oc=5",
+      "summary": "Iran war updates: US deploys aircraft carrier strike group to Middle East Al Jazeera",
+      "summary_original": "Iran war updates: US deploys aircraft carrier strike group to Middle East Al Jazeera",
       "source": "Google News",
-      "category": "politics",
+      "category": "military",
       "tags": [
-        "ترامپ",
-        "فلایت رادار"
+        "ناو آمریکا"
       ],
-      "urgent": false,
+      "urgent": true,
       "published": "2026-10-01T10:30:00+03:30",
       "published_fa": "1405/07/09 - 10:30",
       "translated": true,
@@ -5022,23 +5003,6 @@
       "verified_source": true
     },
     {
-      "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says - BBC",
-      "title_original": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QenpyWGY4WndvWkNpZ1RNbGU3TVhvYTVXMnROZFh2ODZ4MHV1M0g4MjF5VFV6NHhMQkp0d1FRdUhOWmtMWk9kaGhGYnVvbGFreXNNR2J4S0lBYl95eEE?oc=5",
-      "summary": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says BBC",
-      "summary_original": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says BBC",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-09-30T10:30:00+03:30",
-      "published_fa": "1405/07/08 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran war updates: Trump says may ‘blow up’ Iran - Al Jazeera",
       "title_original": "Iran war updates: Trump says may ‘blow up’ Iran - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlkxSG8wVkZ1Q0VFS2JDNE5WblUtN3hQU0twSnVrMFNrWmxOaDVlVS1HUGZXbVFGWkJtTkNqQTdhR281Wm9DbEpOY1BqX05PMDBSTWV2eGxOSzMwMWFJNHRJWlktV0txM1pWMEF1RG10UVk0d041dW9xNXRyenljd0l1T2Rqek9jZWVKWHgzUXowdXN4SUhfZ0VtQWRsOFdIdUlZWXdNTncxb1pwb09hYUlNcGdORWFVak5v0gHAAUFVX3lxTE0tbmZweW4xTWxhNm1QTnB4ZEpoWHhMU0RiZ09XX0wxLW1wM3hYZzNkX2ppQkgwRko5M1ROU2l0eEVlQ2Z2a2d2MWtWNm5FQjhLWUY2ZDVLSVBRZlNTb0FVRHJYZDI4UE04ZzZ2YlZwUjdBMUVoLUtYdC0xX3pISV84YUFuTWlNM3ZLMndjeTYzS0tNX0Fja0VQMjlpcWtSaUdaWXJnMDBqU3dZQldqQWxFNVRlOUVyU1l5NXo2c2UxYg?oc=5",
@@ -5048,6 +5012,23 @@
       "category": "politics",
       "tags": [
         "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-09-30T10:30:00+03:30",
+      "published_fa": "1405/07/08 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says - BBC",
+      "title_original": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QenpyWGY4WndvWkNpZ1RNbGU3TVhvYTVXMnROZFh2ODZ4MHV1M0g4MjF5VFV6NHhMQkp0d1FRdUhOWmtMWk9kaGhGYnVvbGFreXNNR2J4S0lBYl95eEE?oc=5",
+      "summary": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says BBC",
+      "summary_original": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says BBC",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "فلایت رادار"
       ],
       "urgent": false,
       "published": "2026-09-30T10:30:00+03:30",
@@ -5497,6 +5478,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
+      "title_original": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXFIdDJyc25WazQtbUl4UVFxZEc0ajl3Y24tN3ozYVF4c2F6QTZtSmxmZEFQemk3OWJiV2x0eDdJVERNUy16NjBpWkdYYS16ZmdKYk9wNWU0VFlBb1hlUExzdlRSSWROSkdCN1JERnpaSzJ3SmV3YWxMeldaNlF0am1Vc1RJQzdWUFktdGoybnA0a2dyeUFGQmY2dHlBQ2lVampKY1dmSFR2QVF2SWVr0gG0AUFVX3lxTFB1YlBBWWlTaDJYeGxrMUpCTGQtZWNxeG1HU0hSSTB3ZnNDQnV6RTkwVXU5YVlwa2xUMkZKdHdNY2tpa19Zbng3eEl5TktKOGFRY1ZfU3BGZzVRV1lVSWFDaHpNWTZyOEQyX2ZmZTFPWGVIQ3pySTZ3NExQeW5acml3b0VyYXB5TGFVdEMwUHRBdnlvaEpLRVBvblNrTnpJOHFfTFotWHJOZGl1djhxSVFuLWQtVA?oc=5",
+      "summary": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
+      "summary_original": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-26T10:30:00+03:30",
+      "published_fa": "1405/06/04 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Azerbaijan is balancing Israeli arms, Iranian drones and Turkish oil - The Jerusalem Post",
       "title_original": "Azerbaijan is balancing Israeli arms, Iranian drones and Turkish oil - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZTI2UXBibU04bmxBQmdLNXJlRVdlZ0JRM0prMXRWdG1WZzVWT2M2Y1ZCVFJBR3FGNGoyRk9fYmlrSDk4UzlWYTAtcG5vNXlJVVpmTUY2YlF0U2h1Rzln?oc=5",
@@ -5860,6 +5856,23 @@
       "verified_source": true
     },
     {
+      "title": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats - Al Jazeera",
+      "title_original": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWZtMDBMZHMxY3Y2bFg0R0hzYlJMaUMza2ZhXzAtaG5UNlk2X1hIQVJBcWxLMzBCZ2pPY2Q1R09IWlFMYnhSbUVmRUNqSHFVZmxhY0VrUkpaVW5iZFBOT0w5c2h2UHBYZ1hja0hnb2ctRnpfRnlENFRjVmIxbEJIVGxkb0E3b0t0Y3oyZWZnMVBqeGZMdE1wMURyS2tmbkliak16NlhlLV9ieTVQTDd1VGdwWnhkQdIBuwFBVV95cUxQLS1ucTVGS2NYdm0xanM1Z1RQbTFOY1h0azNGTzJLblk1YWozaUtzWExSNHQxS1dOS0VsVldTX0dJU0hPSW9xRmJWdFdGX1p3aXBsM0hEZ3Y3QTViWmFWdG1SYXJPbEtjTEFjbnh1X2pLS0xZR3Jsekk4alY3TGZ2WnJZNVFqcGQyazZDT3Y1VU1ibEtDMDFYTW45a3FpSTNyNFA3S1BNVXZlRktuaGpkVUVxd1o2V0hneEtj?oc=5",
+      "summary": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats Al Jazeera",
+      "summary_original": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-08-21T10:30:00+03:30",
+      "published_fa": "1405/05/30 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast - Al Jazeera",
       "title_original": "Why Iran is threatening Europe’s ‘strategically important’ southeast - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85RG5HNmt5bzIxOUNqLVhaRkdkcGcxaGtTUXBQV21yRDFoMEJueFJTN3Jrel8tbmVEdklPWjRZclMxZE1EV05XWndZd05SWUVzeEh6UlQ1c1RwSXVGR3RnR3dDTVhhckQ1eWVUcjYtanlIQXE0TElIaUxXXzkwZ9IBgwFBVV95cUxOSUpNenAxOElBNmdkQjl5RUxTaWh2MzVPTVR0cUp3SS1HUHpDckxFVVNTdTcwZ3A0OWFQRTF5NVhBMzMzQlZFSDRHbXVGd1VUdkNyTWZ2NVZkRFQ3VVAyVUFaN2N4ZXV5NE1VQ08zY2RWZW1sRzVfNzk5UjZGM2FQSmlKTQ?oc=5",
@@ -5868,23 +5881,6 @@
       "source": "Google News",
       "category": "other",
       "tags": [],
-      "urgent": false,
-      "published": "2026-08-21T10:30:00+03:30",
-      "published_fa": "1405/05/30 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats - Al Jazeera",
-      "title_original": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWZtMDBMZHMxY3Y2bFg0R0hzYlJMaUMza2ZhXzAtaG5UNlk2X1hIQVJBcWxLMzBCZ2pPY2Q1R09IWlFMYnhSbUVmRUNqSHFVZmxhY0VrUkpaVW5iZFBOT0w5c2h2UHBYZ1hja0hnb2ctRnpfRnlENFRjVmIxbEJIVGxkb0E3b0t0Y3oyZWZnMVBqeGZMdE1wMURyS2tmbkliak16NlhlLV9ieTVQTDd1VGdwWnhkQQ?oc=5",
-      "summary": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats Al Jazeera",
-      "summary_original": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
       "urgent": false,
       "published": "2026-08-21T10:30:00+03:30",
       "published_fa": "1405/05/30 - 10:30",
@@ -5997,21 +5993,6 @@
       "summary_original": "How Iran has staved off economic collapse despite the US-Israeli war Responsible Statecraft",
       "source": "Google News",
       "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-18T10:30:00+03:30",
-      "published_fa": "1405/05/27 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Israel says strikes on Syrian military airfield were to ensure its security - France 24",
-      "title_original": "Israel says strikes on Syrian military airfield were to ensure its security - France 24",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYnpvd0dzbVhzVWx6c2ZGRXJBcDJzZVpRUUZDbTBfVFZqMUFxUk92OEk4cmpoVENKcWw5b2RjOUdEbVVGUkFSeHRkZFZKRHhBSVpuNDNtNjRoNE1pRVAzNkZQRVJrODVZWHhsTnQxVXpWckF4RWpURlNZeHpEalk5NDE1Mllxbm10T2wybmJpSklLS1hxb3FhN0F1YUgzR3diTzdFN3BMa2RYUEluaGpUZ2s0Q2hTMy1mVnlpaGln?oc=5",
-      "summary": "Israel says strikes on Syrian military airfield were to ensure its security France 24",
-      "summary_original": "Israel says strikes on Syrian military airfield were to ensure its security France 24",
-      "source": "Google News",
-      "category": "military",
       "tags": [],
       "urgent": false,
       "published": "2026-08-18T10:30:00+03:30",
@@ -6527,6 +6508,21 @@
         "ترامپ",
         "نتانیاهو"
       ],
+      "urgent": false,
+      "published": "2026-07-29T10:30:00+03:30",
+      "published_fa": "1405/05/07 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
+      "title_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2NPZmdVZ0xwNXFneGxDWWpGa21KRTE4UHRnWFJ3OXRqRGIxc2JaN3dxQnBnc19IakEtV0pPR25QNHNYb3E1TUxHYW5CRTlKS3FxNDRBWmxvSjZ6SHU3aGk0X3VPTXRVdTg1VXNnM0ZVNHJpaHRjUHYtajJQclBCamliTm5IWjZCWFVBelRuVER6X2c4UHh3LUx3Rk5sdlJ1bHliS3VVbFhheE56aWdiMk9ZcjNkRDZPc2N0dlMwNy1UVjRTUmc?oc=5",
+      "summary": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
+      "summary_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
       "urgent": false,
       "published": "2026-07-29T10:30:00+03:30",
       "published_fa": "1405/05/07 - 10:30",
