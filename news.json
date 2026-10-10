@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T23:34:02.729412+00:00",
-  "generated_at_fa": "1405/07/19 - 03:04",
+  "generated_at": "2026-10-10T23:49:46.679173+00:00",
+  "generated_at_fa": "1405/07/19 - 03:19",
   "count": 435,
   "items": [
     {
@@ -15,8 +15,8 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T02:59:57.232822+03:30",
-      "published_fa": "1405/07/19 - 02:59",
+      "published": "2026-10-11T03:15:48.994231+03:30",
+      "published_fa": "1405/07/19 - 03:15",
       "translated": false,
       "verified_source": true
     },
@@ -33,8 +33,23 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T02:59:57.232003+03:30",
-      "published_fa": "1405/07/19 - 02:59",
+      "published": "2026-10-11T03:15:48.992790+03:30",
+      "published_fa": "1405/07/19 - 03:15",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "توفند «ایسایاس» در آمریکا چهار کشته بر جا گذاشت؛ صدها هزار نفر بدون برق",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cq78px8mv2zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "در پی توفند «ایسایاس» که با بادهای شدید و بارندگی سنگین بخش‌هایی از جنوب آمریکا را درنوردید، دست‌کم چهار نفر کشته و صدها هزار نفر با قطع برق روبه‌رو شده‌اند.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T03:05:19+03:30",
+      "published_fa": "1405/07/19 - 03:05",
       "translated": false,
       "verified_source": true
     },
@@ -1018,21 +1033,6 @@
       "verified_source": true
     },
     {
-      "title": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - Inquirer.com",
-      "title_original": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkQzNDZoQ0dMZmY2TnRSSXFjcTdPQzJMMG5KYmRnSU1kaDlka2Y1SGdlQmFsaHAxNU1UU1BUVzlvTFUzS0dBYUVUeVB3a0hocjBsaDUyQVNSeUw5Tjc3Z0ZvMVcxbTd0N0ZNLWt0NnRDeEQ4MlpBOEkzTXU4ZmpmZFoxMWRiamhweTUzU0kyMmQ0SlR3bUh0RnFMbjV3azYySzFlQy0xWFhMSXdPWGpiQm9Jc2Y0ZGd4VW1vNUxLQnJLZnVsVHFTcFdLQXFBTXBEYXpNWXJtcGE3Z18zdjRjaVNVc1ktdw?oc=5",
-      "summary": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled Inquirer.com",
-      "summary_original": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled Inquirer.com",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T21:00:10+03:30",
-      "published_fa": "1405/07/18 - 21:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
       "title_original": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
@@ -1075,6 +1075,23 @@
       "published": "2026-10-10T20:30:37+03:30",
       "published_fa": "1405/07/18 - 20:30",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Trump’s ICC sanctions are diplomatic overreach - UnHerd",
+      "title_original": "Trump’s ICC sanctions are diplomatic overreach - UnHerd",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjckpzZ3lmMk1zcmRIeW1TTkFBUnFqbnYzTFY2WTlVMkNidWRsS25sdWhfS0xqQUxqTGFWV2FmUW9YYXNmYXcxLW9LUnZnX2pCQXcwMTFOaTVOQkdMZ2hFZlFkQ2VTcmtiRkxzSk54Y2k0T3NfT1VDaF83QndSQlU?oc=5",
+      "summary": "Trump’s ICC sanctions are diplomatic overreach UnHerd",
+      "summary_original": "Trump’s ICC sanctions are diplomatic overreach UnHerd",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T20:17:43+03:30",
+      "published_fa": "1405/07/18 - 20:17",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -1925,6 +1942,23 @@
       "verified_source": true
     },
     {
+      "title": "Trump launches probe into Federal Reserve Governor Lisa Cook - Al Jazeera",
+      "title_original": "Trump launches probe into Federal Reserve Governor Lisa Cook - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2JMVFlBWUdLenV3SlJWX0s0bW01cmo5WWNpb1l3QkpUSGVfclpZS0ZfcnBUVnAwWXctUVZidFl0a09OM1lzMWdKMjFySzhDclFJaU5DNHdLNjNUV3lSSGhkOW9GZ1VUTm9mZG9KcU4zckl2Znk3cjJ5MUNIYTVibFF6YWtFNl9lcUFRSXVMSXVjRUt0V01oeEVBcnpORWY0aUl3ZEdlY9IBrAFBVV95cUxOTHRKdmZEUGkzR0gtRC1aOE10NHU2cVVpeUVXaHFlVTZ6WTJLOGpON3F1OXR2WTB4Y2tWekN0NWxBdnE1bEJ6bUZlUkkyMEhiMU1HN1FsTkVYVUhZbzJ5NDlKZU1UTENuUWo0d3lOd0Z5bkJMY1FTSDNIU1MwbTNCaWppU21tNHQ5QkJmUmNJSXJNcHRkRnNGZW40VkdVclJnYkt0Q0dCOEVCTmNJ?oc=5",
+      "summary": "Trump launches probe into Federal Reserve Governor Lisa Cook Al Jazeera",
+      "summary_original": "Trump launches probe into Federal Reserve Governor Lisa Cook Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T11:24:40+03:30",
+      "published_fa": "1405/07/18 - 11:24",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Washington issues a critical security warning to its citizens in the Middle East, urging them to leave Iran immediately - صوت الإمارات",
       "title_original": "Washington issues a critical security warning to its citizens in the Middle East, urging them to leave Iran immediately - صوت الإمارات",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ3A0aDBVNVkwNjlBVjMzNHp3RkF4cWFtUWk3X1l4ZC1vR1dEX3JpT1lHLVhYZGxJY2VhSW1ZLXZiX2JieXR4SzRBcWNFV1JWUVZVZFloYXN5ak0tRUtKNFZsbGVTTk1hdktrTjJYQVlpd1h1OHNHdmk0bk5CNXJUelBSRk1jY3J0Z0VhaklUcGJpRjZEOE90SGxmc0VIU2cwX0ZSWm9LLV9hM3c1QjRUb3RxS0QtQmdHbWxDamFKenRWUTJNX0NOcUV6Zk5uY3NzV2FGbmRFNkVRMGt1QlJ0eHhEYmVCSzl5OTJQUEFUcWFTek9YVF9BaGMxVXZNbWRlNUQyQg?oc=5",
@@ -2096,6 +2130,21 @@
       "urgent": false,
       "published": "2026-10-10T09:00:37+03:30",
       "published_fa": "1405/07/18 - 09:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - The Independent",
+      "title_original": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2dXd0IzeXVJNEozTDR2OHp6WFNadi02VEhQbjdxUnpDZ2lsZUdyQXdKendoMzBSUFJEVGtTbFBBaVVGWVVLcmVOcFpsUjZkYTkyU2JRbWpNejVXa3llajFibThQUFFYMkJieWR5M0V2RnloYlBuYi1pZVBKQWNQT0RhamVHdkh0X2J2YjllcmM3TUFLTE1qNURIcjU3ZzQ?oc=5",
+      "summary": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled The Independent",
+      "summary_original": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled The Independent",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T08:50:00+03:30",
+      "published_fa": "1405/07/18 - 08:50",
       "translated": true,
       "verified_source": true
     },
@@ -4656,21 +4705,6 @@
       "verified_source": true
     },
     {
-      "title": "از اسارت تندگویان تا استعفای پاک‌نژاد؛ ۴۷ سال تکیه بر صندلی داغ وزارت نفت در ایران",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/c81dwpre9qddo?at_medium=RSS&at_campaign=rss",
-      "summary": "از اسارت تندگویان تا استعفای پاک‌نژاد، تاریخ وزارت نفت ایران و کارنامه وزیرانش با جنگ، تحریم، کشمکش سیاسی، قراردادهای جنجالی، فساد و بحران فروش نفت گره خورده است.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-07T09:34:59+03:30",
-      "published_fa": "1405/07/15 - 09:34",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'",
       "title_original": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'",
       "link": "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
@@ -5067,21 +5101,6 @@
       "verified_source": true
     },
     {
-      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
-      "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
-      "summary": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
-      "summary_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-29T10:30:00+03:30",
-      "published_fa": "1405/07/07 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
       "title_original": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjFUZVJMbWJUaGE0ajR1SDhOS0JpejcweGdVcWRueWczNDh3ZVdtdWRuRVNPTkgwSnZDbjZzeDFVZlB2M3pLM1Z5Qm04WGN1VFJ4c0pBRVVxQnVsWktzdFlNSS1FQVFkNjZiWks5cUdJQnRhVzhDMHJLZEE1SjZvTzBOS2U?oc=5",
@@ -5129,13 +5148,13 @@
       "verified_source": true
     },
     {
-      "title": "Iraq: Between Iran and a Hard Place - Middle East Institute",
-      "title_original": "Iraq: Between Iran and a Hard Place - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVWdlbGhuVE8xZEtrV3NhcVV0eWs0SUVra0FkZmRyWl9WNVp5cm82N2hfMmxPejdaNzlHaDBZbXFMSnJ5SjN6ZkhuanZ5YnZ3dUNDN2g3bG1QQXBHTm1nc1hJZWhuNWsxWDRiYnl2bjM?oc=5",
-      "summary": "Iraq: Between Iran and a Hard Place Middle East Institute",
-      "summary_original": "Iraq: Between Iran and a Hard Place Middle East Institute",
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
+      "summary": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
+      "summary_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
       "source": "Google News",
-      "category": "other",
+      "category": "economy",
       "tags": [],
       "urgent": false,
       "published": "2026-09-28T10:30:00+03:30",
@@ -5337,17 +5356,14 @@
       "verified_source": true
     },
     {
-      "title": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally - Iran International",
-      "title_original": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oSENZUzRDdkdRT1ZVTVVWVHpNb3hiM1NvbmZpc0tTOWZpbE16c2ZvSXduU3I4T2pPeHI3QldYWG1va01WYk5mSnNNREFHUnNPVkE?oc=5",
-      "summary": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally Iran International",
-      "summary_original": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally Iran International",
+      "title": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - The Washington Post",
+      "title_original": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYk51QUpzSHBoWFR4UjJDZjhsbUNqck1YU2RndG93S2tzZjBMS2RqTWFKRURWenlzYzFpTGJYV2k4STFQZjNCbjhHaE5kUnZfeUlMNmhtblBBYzRzV1B0SHREbGk3R2JqbDVKSTJRMWduU2dTZzZ6Qkh0XzV3OUEyWWVldnJrTW00bDk0ZU5VbzBzVS1GSTJIVnpXLU00eVhuLUJ4V2llajVJdlJoN2EwXzhtTkwycklCS3dnNkRMd056Qm5Bd0N2MndkU0FBaTlRZEE?oc=5",
+      "summary": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly The Washington Post",
+      "summary_original": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly The Washington Post",
       "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
+      "category": "other",
+      "tags": [],
       "urgent": false,
       "published": "2026-09-18T10:30:00+03:30",
       "published_fa": "1405/06/27 - 10:30",
@@ -6508,21 +6524,6 @@
         "ترامپ",
         "نتانیاهو"
       ],
-      "urgent": false,
-      "published": "2026-07-29T10:30:00+03:30",
-      "published_fa": "1405/05/07 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
-      "title_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2NPZmdVZ0xwNXFneGxDWWpGa21KRTE4UHRnWFJ3OXRqRGIxc2JaN3dxQnBnc19IakEtV0pPR25QNHNYb3E1TUxHYW5CRTlKS3FxNDRBWmxvSjZ6SHU3aGk0X3VPTXRVdTg1VXNnM0ZVNHJpaHRjUHYtajJQclBCamliTm5IWjZCWFVBelRuVER6X2c4UHh3LUx3Rk5sdlJ1bHliS3VVbFhheE56aWdiMk9ZcjNkRDZPc2N0dlMwNy1UVjRTUmc?oc=5",
-      "summary": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
-      "summary_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
       "urgent": false,
       "published": "2026-07-29T10:30:00+03:30",
       "published_fa": "1405/05/07 - 10:30",
