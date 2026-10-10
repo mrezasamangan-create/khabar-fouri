@@ -2,8 +2,8 @@ name: رصد — جمع‌آوری اخبار
 
 on:
   schedule:
-    - cron: '30 20 * * *'
-    - cron: '30 8 * * *'
+    # هر ۱۵ دقیقه
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
