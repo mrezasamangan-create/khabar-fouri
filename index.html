@@ -1,312 +1,62 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#0f172a">
-<title>رصد | رصد اخبار ایران و خاورمیانه</title>
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>تست — رصد</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&display=swap');
-body{font-family:'Vazirmatn',system-ui,sans-serif}
-.news-card{transition:transform .18s,box-shadow .18s}
-.news-card:hover{transform:translateY(-3px);box-shadow:0 14px 30px -10px #0f172a30}
-.scrollbar-hide::-webkit-scrollbar{display:none}
-.modal{display:none}.modal.active{display:flex}
-.badge-live{animation:pulse 1.5s infinite}
-@keyframes pulse{50%{opacity:.45}}
-.line-clamp-3{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.hashtag{cursor:pointer;transition:all .15s}
-.hashtag:hover{transform:scale(1.05)}
-.hashtag.active{background:#b91c1c !important;color:#fff !important;border-color:#b91c1c !important}
-.ticker{display:inline-block;padding-right:100%;animation:ticker 40s linear infinite}
-@keyframes ticker{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}
-.fox-red{background:#c8102e}
-.panel-btn.active{background:#c8102e;color:#fff;border-color:#c8102e}
+body{font-family:Tahoma,sans-serif;background:#f1f5f9;padding:20px;direction:rtl}
+#box{background:#fff;border:1px solid #ccc;border-radius:10px;padding:15px;max-width:800px;margin:auto}
+.ok{color:#16a34a;font-weight:bold}
+.err{color:#dc2626;font-weight:bold}
+pre{background:#f8fafc;padding:10px;border-radius:6px;font-size:12px;overflow:auto;max-height:200px}
 </style>
 </head>
-<body class="bg-slate-100 text-slate-800">
-
-<!-- هدر Fox style -->
-<header class="sticky top-0 z-40 bg-white shadow-md border-b-4 border-red-700">
-  <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-3">
-    <div class="flex items-center gap-3">
-      <div class="w-12 h-12 rounded-lg fox-red text-white flex items-center justify-center text-2xl font-black">ر</div>
-      <div>
-        <h1 class="text-2xl font-black tracking-tight">رصد</h1>
-        <p class="text-xs text-slate-500 -mt-1">رصد لحظه‌ای ایران و خاورمیانه</p>
-      </div>
-    </div>
-    <nav class="hidden md:flex items-center gap-1 text-sm font-semibold">
-      <button class="panel-btn active px-3 py-2 rounded border" data-panel="news">اخبار</button>
-      <button class="panel-btn px-3 py-2 rounded border hover:bg-slate-100" data-panel="flight"><i class="fa-solid fa-plane mr-1"></i>فلایت رادار</button>
-      <button class="panel-btn px-3 py-2 rounded border hover:bg-slate-100" data-panel="satellite"><i class="fa-solid fa-satellite mr-1"></i>تصاویر ماهواره‌ای</button>
-      <button class="panel-btn px-3 py-2 rounded border hover:bg-slate-100" data-panel="netblocks"><i class="fa-solid fa-wifi mr-1"></i>نت‌بلاکس</button>
-    </nav>
-    <div class="flex items-center gap-3 text-sm">
-      <div class="text-left">
-        <div id="todayLabel" class="font-semibold text-xs">…</div>
-        <div id="lastUpdate" class="text-[10px] text-slate-500">…</div>
-      </div>
-      <button id="refreshBtn" class="rounded-lg bg-slate-900 hover:bg-slate-700 text-white px-3 py-2 text-xs font-semibold">
-        <i id="refreshIcon" class="fa-solid fa-rotate ml-1"></i>تازه‌سازی
-      </button>
-    </div>
-  </div>
-  <!-- نوار موبایل -->
-  <div class="md:hidden border-t bg-slate-50 overflow-x-auto scrollbar-hide">
-    <div class="flex gap-1 px-4 py-2 min-w-max">
-      <button class="panel-btn active px-3 py-1.5 rounded text-xs font-semibold border bg-white" data-panel="news">اخبار</button>
-      <button class="panel-btn px-3 py-1.5 rounded text-xs font-semibold border bg-white" data-panel="flight">فلایت رادار</button>
-      <button class="panel-btn px-3 py-1.5 rounded text-xs font-semibold border bg-white" data-panel="satellite">ماهواره</button>
-      <button class="panel-btn px-3 py-1.5 rounded text-xs font-semibold border bg-white" data-panel="netblocks">نت‌بلاکس</button>
-    </div>
-  </div>
-</header>
-
-<!-- تیکر قرمز -->
-<div class="fox-red text-white overflow-hidden">
-  <div class="max-w-7xl mx-auto px-4 py-2 flex items-center gap-3">
-    <span class="bg-white text-red-700 text-xs font-black px-2 py-1 rounded shrink-0 badge-live">● زنده</span>
-    <div class="overflow-hidden flex-1 whitespace-nowrap">
-      <span id="breakingText" class="ticker text-sm font-semibold">در حال بارگذاری…</span>
-    </div>
-  </div>
+<body>
+<div id="box">
+  <h2>تست بارگذاری news.json</h2>
+  <p id="status">در حال بارگذاری…</p>
+  <pre id="log"></pre>
+  <div id="list"></div>
 </div>
-
-<main class="max-w-7xl mx-auto px-4 py-6">
-
-<!-- هشتگ‌ها -->
-<section class="mb-6">
-  <h2 class="text-sm font-bold text-slate-600 mb-2 flex items-center gap-2"><i class="fa-solid fa-hashtag"></i>موضوعات داغ</h2>
-  <div class="flex flex-wrap gap-2" id="hashtagBar">
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="ترامپ">#ترامپ</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="فلایت رادار">#فلایت_رادار</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="تحلیلگران">#تحلیلگران</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="گزارش مردمی">#گزارش_مردمی</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="نتانیاهو">#نتانیاهو</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="مذاکره">#مذاکره</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="تصاویر ماهواره‌ای">#تصاویر_ماهواره‌ای</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="NetBlocks">#NetBlocks</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="F-35">#F_35</button>
-    <button class="hashtag px-4 py-2 rounded-full bg-white border-2 border-slate-200 text-sm font-bold" data-tag="ناو آمریکا">#ناو_آمریکا</button>
-  </div>
-</section>
-
-<!-- پنل اخبار -->
-<section id="panel-news">
-  <div class="rounded-xl border border-amber-200 bg-amber-50 p-3 mb-5 text-sm text-amber-900">
-    <strong>هشدار اعتبار:</strong> «رصد» خبرها را از منابع مختلف گردآوری می‌کند؛ انتشار به معنی تأیید مستقل نیست. برای خبرهای حساس، منبع اصلی را بررسی کنید.
-  </div>
-
-  <div class="flex flex-wrap gap-2 mb-4" id="filters">
-    <button data-filter="all" class="filter-btn px-4 py-2 rounded-full text-sm bg-slate-900 text-white">همه</button>
-    <button data-filter="politics" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">سیاسی</button>
-    <button data-filter="military" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">نظامی</button>
-    <button data-filter="economy" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">اقتصادی</button>
-    <button data-filter="social" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">مردمی</button>
-    <button data-filter="analysis" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">تحلیل</button>
-  </div>
-
-  <div class="flex flex-col sm:flex-row gap-3 mb-5">
-    <input id="searchInput" type="search" placeholder="جست‌وجو در تیتر، منبع یا خلاصه…" class="w-full sm:flex-1 rounded-xl border bg-white px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-red-300">
-    <select id="sourceFilter" class="rounded-xl border bg-white px-4 py-3 text-sm">
-      <option value="all">همه منابع</option>
-      <option value="Reuters">Reuters</option>
-      <option value="Fox News">Fox News</option>
-      <option value="BBC">BBC</option>
-      <option value="Al Jazeera">Al Jazeera</option>
-      <option value="Google News">Google News</option>
-      <option value="X / Twitter">X / Twitter</option>
-      <option value="Telegram">Telegram</option>
-      <option value="Instagram">Instagram</option>
-      <option value="NetBlocks">NetBlocks</option>
-    </select>
-  </div>
-
-  <div class="flex items-center justify-between mb-3">
-    <h2 id="sectionTitle" class="font-black text-xl">آخرین گزارش‌ها</h2>
-    <span id="resultCount" class="text-xs text-slate-500"></span>
-  </div>
-
-  <div id="status" class="hidden rounded-xl bg-white border p-5 mb-4 text-sm"></div>
-  <div id="newsGrid" class="grid gap-4 md:grid-cols-2"></div>
-</section>
-
-<!-- پنل فلایت رادار -->
-<section id="panel-flight" class="hidden">
-  <div class="bg-white rounded-2xl border p-5 mb-4">
-    <h2 class="font-black text-xl mb-2 flex items-center gap-2"><i class="fa-solid fa-plane text-red-700"></i>فلایت رادار خاورمیانه</h2>
-    <p class="text-sm text-slate-600 mb-3">پروازهای نظامی و غیرنظامی روی خاورمیانه به‌صورت زنده از ADS-B Exchange. برای دیدن جنگنده‌های خاص مثل F-35 / F-22 / B-1 / B-2 از فیلتر داخل نقشه استفاده کن.</p>
-    <div class="flex flex-wrap gap-2 mb-3 text-xs">
-      <span class="px-3 py-1 rounded-full bg-red-50 text-red-700 font-semibold">F-35</span>
-      <span class="px-3 py-1 rounded-full bg-red-50 text-red-700 font-semibold">F-22</span>
-      <span class="px-3 py-1 rounded-full bg-red-50 text-red-700 font-semibold">B-1</span>
-      <span class="px-3 py-1 rounded-full bg-red-50 text-red-700 font-semibold">B-2</span>
-      <span class="px-3 py-1 rounded-full bg-red-50 text-red-700 font-semibold">KC-135</span>
-    </div>
-    <div class="rounded-xl overflow-hidden border" style="height:70vh;min-height:500px">
-      <iframe src="https://globe.adsbexchange.com/?lat=29.5&lon=51.0&zoom=5" class="w-full h-full" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <p class="text-xs text-slate-500 mt-3">توجه: جنگنده‌های عملیاتی اغلب ترانسپوندر خود را خاموش می‌کنند؛ همه پروازها روی ADS-B دیده نمی‌شوند.</p>
-  </div>
-</section>
-
-<!-- پنل ماهواره -->
-<section id="panel-satellite" class="hidden">
-  <div class="bg-white rounded-2xl border p-5 mb-4">
-    <h2 class="font-black text-xl mb-2 flex items-center gap-2"><i class="fa-solid fa-satellite text-red-700"></i>تصاویر ماهواره‌ای</h2>
-    <p class="text-sm text-slate-600 mb-3">تصاویر Sentinel-2 از پالایشگاه‌ها، نیروگاه‌ها و مناطق حساس خاورمیانه. برای بزرگ‌نمایی داخل نقشه استفاده کن. داده‌ها با تأخیر چندروزه آپدیت می‌شوند.</p>
-    <div class="rounded-xl overflow-hidden border" style="height:70vh;min-height:500px">
-      <iframe src="https://apps.sentinel-hub.com/eo-browser/?zoom=6&lat=32.0&lng=53.0" class="w-full h-full" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="mt-3 grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
-      <a href="https://apps.sentinel-hub.com/eo-browser/?zoom=12&lat=32.0&lng=35.0" target="_blank" class="block text-center p-2 rounded-lg bg-slate-100 hover:bg-slate-200">اسرائیل / تل‌آویو</a>
-      <a href="https://apps.sentinel-hub.com/eo-browser/?zoom=12&lat=30.5&lng=49.0" target="_blank" class="block text-center p-2 rounded-lg bg-slate-100 hover:bg-slate-200">پالایشگاه آبادان</a>
-      <a href="https://apps.sentinel-hub.com/eo-browser/?zoom=12&lat=26.5&lng=56.2" target="_blank" class="block text-center p-2 rounded-lg bg-slate-100 hover:bg-slate-200">تنگه هرمز</a>
-      <a href="https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=35.0&lng=51.0" target="_blank" class="block text-center p-2 rounded-lg bg-slate-100 hover:bg-slate-200">تهران</a>
-    </div>
-  </div>
-</section>
-
-<!-- پنل نت‌بلاکس -->
-<section id="panel-netblocks" class="hidden">
-  <div class="bg-white rounded-2xl border p-5 mb-4">
-    <h2 class="font-black text-xl mb-2 flex items-center gap-2"><i class="fa-solid fa-wifi text-red-700"></i>NetBlocks — وضعیت اینترنت ایران</h2>
-    <p class="text-sm text-slate-600 mb-3">NetBlocks وضعیت اینترنت ایران را به‌صورت لحظه‌ای رصد می‌کند. برای مشاهده آخرین گزارش‌های توییتری روی دکمه زیر بزن.</p>
-    <div class="flex flex-wrap gap-2 mb-4">
-      <a href="https://twitter.com/netblocks" target="_blank" class="px-4 py-2 rounded-lg bg-slate-900 text-white text-sm font-semibold"><i class="fa-brands fa-x-twitter mr-1"></i>@netblocks در X</a>
-      <a href="https://netblocks.org/" target="_blank" class="px-4 py-2 rounded-lg bg-red-700 text-white text-sm font-semibold"><i class="fa-solid fa-globe mr-1"></i>سایت رسمی</a>
-      <a href="https://radar.cloudflare.com/traffic/ir" target="_blank" class="px-4 py-2 rounded-lg bg-orange-500 text-white text-sm font-semibold"><i class="fa-solid fa-chart-line mr-1"></i>Cloudflare Radar</a>
-    </div>
-    <div class="rounded-xl overflow-hidden border" style="height:70vh;min-height:500px">
-      <iframe src="https://radar.cloudflare.com/traffic/ir" class="w-full h-full" frameborder="0"></iframe>
-    </div>
-  </div>
-</section>
-
-<!-- درباره -->
-<div class="mt-8 rounded-2xl bg-slate-900 text-white p-5">
-  <h2 class="font-bold mb-2 flex items-center gap-2"><i class="fa-solid fa-circle-info"></i>درباره منابع</h2>
-  <p class="text-sm text-slate-300 leading-7">
-    «رصد» از خوراک‌های RSS رسمی و خوراک‌های خبری قابل‌دسترس استفاده می‌کند. اتصال خودکار به X، اینستاگرام و کانال‌های تلگرام نیازمند API رسمی پولی و توکن است و از سمت این پلتفرم‌ها محدودیت جدی دارد. برای خبرها، منبع اصلی را همیشه چک کنید.
-  </p>
-</div>
-
-</main>
-
-<!-- مودال -->
-<div id="modal" class="modal fixed inset-0 z-50 bg-black/60 backdrop-blur-sm items-center justify-center p-4">
-  <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl">
-    <div class="sticky top-0 bg-white border-b px-5 py-3 flex items-center justify-between gap-3">
-      <h2 id="modalTitle" class="font-bold leading-7"></h2>
-      <button id="closeModal" class="shrink-0 w-9 h-9 rounded-full bg-slate-100"><i class="fa-solid fa-xmark"></i></button>
-    </div>
-    <div class="p-5">
-      <div id="modalMeta" class="flex flex-wrap gap-2 text-xs mb-3"></div>
-      <div id="modalBody" class="text-sm leading-7 text-slate-700"></div>
-      <a id="modalLink" href="#" target="_blank" rel="noopener noreferrer" class="inline-flex mt-5 rounded-lg bg-red-700 text-white px-4 py-2 text-sm">رفتن به منبع اصلی <i class="fa-solid fa-arrow-up-left-from-square mr-2"></i></a>
-    </div>
-  </div>
-</div>
-
-<footer class="mt-8 bg-slate-950 text-slate-400 py-5 text-center text-xs">
-  رصد • تاریخ بر اساس Asia/Tehran • به‌روزرسانی خودکار هر شب ساعت ۰۰:۰۰ • گردآوری از منابع قابل‌دسترس
-</footer>
 
 <script>
-const NEWS_URL = 'https://mrezasamangan-create.github.io/khabar-fouri/news.json';
-let allNews = [], activeCategory = 'all', activeHashtag = null;
-const $ = id => document.getElementById(id);
+const log = (msg, cls) => {
+  const el = document.getElementById('log');
+  el.textContent += msg + '\n';
+};
+const status = (msg, cls) => {
+  const el = document.getElementById('status');
+  el.textContent = msg;
+  el.className = cls || '';
+};
 
-function escapeHtml(v=''){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-function tehranDate(d=new Date()){return new Intl.DateTimeFormat('fa-IR',{timeZone:'Asia/Tehran',weekday:'long',year:'numeric',month:'long',day:'numeric'}).format(d)}
-function updateClock(){ $('todayLabel').textContent=tehranDate(); }
-function categoryLabel(c){return ({politics:'سیاسی',military:'نظامی و امنیتی',economy:'اقتصادی',social:'مردمی / اجتماعی',analysis:'تحلیل',other:'عمومی'})[c]||'عمومی'}
-
-function filteredNews(){
-  const q=$('searchInput').value.trim().toLocaleLowerCase();
-  const src=$('sourceFilter').value;
-  return allNews.filter(n=>{
-    if(activeCategory!=='all' && n.category!==activeCategory) return false;
-    if(src!=='all' && !String(n.source||'').includes(src)) return false;
-    if(activeHashtag){
-      const hay=`${n.title} ${n.summary} ${n.source} ${(n.tags||[]).join(' ')}`.toLocaleLowerCase();
-      if(!hay.includes(activeHashtag.toLocaleLowerCase())) return false;
+fetch('news.json?v=' + Date.now())
+  .then(r => {
+    log('وضعیت HTTP: ' + r.status);
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  })
+  .then(data => {
+    log('count: ' + data.count);
+    log('items.length: ' + (data.items ? data.items.length : 'ندارد'));
+    if (!data.items || !data.items.length) {
+      status('❌ فایل خوانده شد ولی خالیه (count=0)', 'err');
+      return;
     }
-    if(q && !`${n.title} ${n.summary} ${n.source}`.toLocaleLowerCase().includes(q)) return false;
-    return true;
+    status('✅ ' + data.items.length + ' خبر با موفقیت خوانده شد!', 'ok');
+    const list = document.getElementById('list');
+    list.innerHTML = '<h3>۵ خبر اول:</h3>' + data.items.slice(0,5).map(n =>
+      `<div style="border-bottom:1px solid #eee;padding:8px 0">
+        <strong>${n.title || '(بی‌تیتر)'}</strong><br>
+        <small style="color:#666">${n.source || ''} — ${n.published_fa || ''}</small>
+      </div>`
+    ).join('');
+  })
+  .catch(e => {
+    log('خطا: ' + e.message);
+    status('❌ خطا در بارگذاری: ' + e.message, 'err');
   });
-}
-
-function render(){
-  const list=filteredNews();
-  $('resultCount').textContent=`${list.length.toLocaleString('fa-IR')} خبر`;
-  $('sectionTitle').textContent = activeHashtag ? `نتایج #${activeHashtag}` : 'آخرین گزارش‌ها';
-  if(!list.length){
-    $('newsGrid').innerHTML='<div class="bg-white border rounded-2xl p-8 text-center text-slate-500 md:col-span-2">خبری با این فیلتر پیدا نشد.</div>';
-    return;
-  }
-  $('newsGrid').innerHTML=list.map((n,i)=>{
-    const urgent = n.urgent || (n.tags||[]).some(t=>/f-?35|f-?22|b-?2|b-?1|ناو/i.test(t));
-    return `<article class="news-card bg-white rounded-2xl border ${urgent?'border-red-400 ring-1 ring-red-200':''} p-4 sm:p-5 cursor-pointer" data-index="${i}">
-      <div class="flex flex-wrap items-center gap-2 text-xs mb-2">
-        <span class="bg-slate-100 rounded-full px-2 py-1 font-semibold">${escapeHtml(n.source||'منبع نامشخص')}</span>
-        <span class="bg-red-50 text-red-700 rounded-full px-2 py-1 font-semibold">${escapeHtml(categoryLabel(n.category))}</span>
-        ${urgent?'<span class="bg-red-700 text-white rounded-full px-2 py-1 font-bold badge-live">● فوری</span>':''}
-        <time class="text-slate-500">${escapeHtml(n.published_fa||n.published||'زمان نامشخص')}</time>
-      </div>
-      <h3 class="font-bold text-base leading-7 mb-2">${escapeHtml(n.title)}</h3>
-      <p class="text-sm text-slate-600 leading-6 line-clamp-3">${escapeHtml(n.summary||'برای خواندن جزئیات، منبع اصلی را باز کنید.')}</p>
-      <div class="mt-3 flex justify-between items-center gap-3">
-        <span class="text-xs text-slate-400">${n.verified_source?'منبع مستقیم':'گردآوری از خوراک'}</span>
-        <span class="text-sm text-red-700 font-semibold">جزئیات <i class="fa-solid fa-arrow-left mr-1"></i></span>
-      </div>
-    </article>`;
-  }).join('');
-  $('newsGrid').querySelectorAll('article').forEach((el,i)=>el.addEventListener('click',()=>openArticle(list[i])));
-}
-
-function openArticle(n){
-  $('modalTitle').textContent=n.title||'';
-  $('modalMeta').innerHTML=`<span class="bg-slate-100 rounded-full px-2 py-1">${escapeHtml(n.source||'نامشخص')}</span><span class="bg-red-50 text-red-700 rounded-full px-2 py-1">${escapeHtml(n.published_fa||n.published||'')}</span>`;
-  $('modalBody').textContent=n.summary||'خلاصه‌ای در دسترس نیست.';
-  const a=$('modalLink'); a.href=n.link||'#'; a.style.display=n.link?'inline-flex':'none';
-  $('modal').classList.add('active'); document.body.style.overflow='hidden';
-}
-function closeModal(){$('modal').classList.remove('active');document.body.style.overflow='';}
-
-async function loadNews(showStatus=true){
-  const icon=$('refreshIcon'); icon.classList.add('fa-spin'); $('status').classList.add('hidden');
-  try{
-    const r=await fetch(`${NEWS_URL}?v=${Date.now()}`,{cache:'no-store'});
-    if(!r.ok) throw new Error('news.json not found');
-    const data=await r.json();
-    allNews=Array.isArray(data.items)?data.items:[];
-    allNews.sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));
-    const stamp=data.generated_at?new Date(data.generated_at):null;
-    $('lastUpdate').textContent=stamp?`آخرین دریافت: ${new Intl.DateTimeFormat('fa-IR',{timeZone:'Asia/Tehran',hour:'2-digit',minute:'2-digit',year:'2-digit',month:'2-digit',day:'2-digit'}).format(stamp)}`:'زمان نامشخص';
-    $('breakingText').textContent = allNews.length ? allNews.slice(0,5).map(n=>n.title).join('  •  ') : 'فعلاً خبری در فایل داده نیست.';
-    render();
-    if(!allNews.length){$('status').textContent='هنوز خبری جمع‌آوری نشده است. اجرای GitHub Actions را بررسی کنید.';$('status').classList.remove('hidden');}
-  }catch(e){
-    if(showStatus){$('status').textContent='فایل news.json در دسترس نیست. ابتدا Workflow جمع‌آوری اخبار را اجرا کن.';$('status').classList.remove('hidden');}
-    $('lastUpdate').textContent='داده‌ها بارگذاری نشدند';
-  }finally{ icon.classList.remove('fa-spin'); }
-}
-
-// رفرش خودکار ساعت ۰۰:۰۰ تهران
-function scheduleMidnightRefresh(){
-  const now = new Date();
-  const tehranNow = new Date(now.toLocaleString('en-US',{timeZone:'Asia/Tehran'}));
-  const next = new Date(tehranNow);
-  next.setDate(next.getDate()+1);
-  next.setHours(0,0,30,0); // 00:00:30
-  const ms = next - tehranNow;
-  setTimeout(()=>{ loadNews(false); scheduleMidnightRefresh(); }, ms);
-}
-scheduleMidnightRefresh();
-
-// پنل‌ها
-document.querySelectorAll('.panel-btn').forEach(b=>b.addEventListener('click',()=>{
-  document.querySelectorAll('.panel-btn').forEach(x=>{x.classList.remove('active');x.classList.add('bg-white'
+</script>
+</body>
+</html>
