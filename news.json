@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T15:36:41.230225+00:00",
-  "generated_at_fa": "1405/07/18 - 19:06",
-  "count": 437,
+  "generated_at": "2026-10-10T15:58:05.248686+00:00",
+  "generated_at_fa": "1405/07/18 - 19:28",
+  "count": 436,
   "items": [
     {
       "title": "آنچه گذشت؛ کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض",
@@ -15,8 +15,8 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-10T19:03:19.897951+03:30",
-      "published_fa": "1405/07/18 - 19:03",
+      "published": "2026-10-10T19:25:16.322431+03:30",
+      "published_fa": "1405/07/18 - 19:25",
       "translated": false,
       "verified_source": true
     },
@@ -32,9 +32,56 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-10T19:03:19.896410+03:30",
-      "published_fa": "1405/07/18 - 19:03",
+      "published": "2026-10-10T19:25:16.321591+03:30",
+      "published_fa": "1405/07/18 - 19:25",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "طوفان ایزایاس دو کشته و 800000 بدون برق در جنوب شرق آمریکا بر جای گذاشت.",
+      "title_original": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+      "summary": "با هشدار مقامات نسبت به ادامه سیل و گردبادهای احتمالی، خسارات طوفان در سراسر فلوریدا و آلاباما گسترده شده است.",
+      "summary_original": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T19:15:36+03:30",
+      "published_fa": "1405/07/18 - 19:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "به‌روزرسانی‌های زنده جنگ ایران و آمریکا: فرودگاه ریاض در حال تخلیه است، آمبولانس‌ها پس از حمله جدید به محل حمله می‌کنند - تایمز هند",
+      "title_original": "US-Iran War Live Updates: Riyadh airport being evacuated, ambulances rushing to site after fresh attack - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeXdSZnY3WWVmemVIVWJuZHV6T2JKTDJGUE4wQ3R0Nlk5T3ZaaHl2VGFXY0FPTW1HLWNqNEIxWk5maEUxVUg3SGhkb3RMQW10dnlBRWtNam9oUzFYSkVBSmFtVTh6TnRjNmo4WWphdWNlUjl0bGxXQ1diZ1NBNjJrd1VhY1p4blVwUzZ1NWZVcUlOWS1vWERRMnA4NEJDSVlYTEZ2bGM2bnI4VkZJS2duV05ZNk5zcnB3dEdRMExhMmYtR2FzWkJ1TXFaZ2JWdzhpeDl2WmhFRmFlTy1jUmdrWDRGSTY3a2tUNC1KT19Edm85SWNYbFgxMERR0gH_AUFVX3lxTE9tSnUtWGFrckNkR0hnaUE2YnNUZ3FDZDJiV1lUclFVZlJ6NVlfa2hTMER4X3V2MXM4WlpGejJ3bF9WV3NkdVlJX0lfalhlNzREM0VvTUtWYUtWRE5teGR5QWxPcXBGanBkc2RhWkFFUF9oZzF4Smx1VVRVN2JYZmdRY2pPVkJidDV3akpnSTZ5eHc3RzZzTF9Zbm01NHdSdHYxU0h0NkdRNjQ3LV9ZRUh6UmdXOEhnMzNPcDRnRmZBb1RXZGRsaUxIM1BZYTlUWXZqZjZGZ3czdFA4RUpHTm5PVUpWUEJ0NGgtSEdxR21CUThRb2UxdmFaXy12NUk0VQ?oc=5",
+      "summary": "به‌روزرسانی‌های زنده جنگ ایران و آمریکا: فرودگاه ریاض در حال تخلیه است، آمبولانس‌ها پس از حمله جدید به محل هجوم می‌آورند تایمز هند",
+      "summary_original": "US-Iran War Live Updates: Riyadh airport being evacuated, ambulances rushing to site after fresh attack The Times of India",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-10T18:54:33+03:30",
+      "published_fa": "1405/07/18 - 18:54",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حساب های ترامپ: پول رایگان، اما چه کسی می تواند نظر بدهد؟ - الجزیره",
+      "title_original": "Trump Accounts: Free money, but who gets a say? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzctRmp4M2dKNld2VXZqWVprNmczRy05UDhsa1JXTjVrMW45Z3J0bzV1OVZ4bTg0enpmRDFFSkdZTUJIUDUta3FiNkh0N3I1dkJfblJOQkc1akVBTFU4dGdSVnFLWmlXR1ZrbDRGY29wdGNrYlA5RkFpOWtwTkdwSG1menI5d0ZrMV9EQno5bnJhb2ZDZ1R0MG1pbDTSAaIBQVVfeXFMTmdSTU9jU3ByYnN6WUJJaTA1ai1oVDBMdDBzdW16VHhUUW5tY0pFaTMwS1NVckMwSzcyVWZiNkdWYy1QN1pVOGpBVTNHS0swdHVGRl8zZ24taU43Q3JtTnJFdEF4MG5BTUsyemlBMGhfUzFiQjFLV3NiZUZhb253UTk3ZExBZVBzQTJ0ZUZkMUt3WjRieDRxeElhLTgxS2tfYzVB?oc=5",
+      "summary": "حساب های ترامپ: پول رایگان، اما چه کسی می تواند نظر بدهد؟ الجزیره",
+      "summary_original": "Trump Accounts: Free money, but who gets a say? Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T18:54:24+03:30",
+      "published_fa": "1405/07/18 - 18:54",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -49,6 +96,100 @@
       "urgent": false,
       "published": "2026-10-10T18:52:35+03:30",
       "published_fa": "1405/07/18 - 18:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حساب های ترامپ: پول رایگان، اما چه کسی می تواند نظر بدهد؟",
+      "title_original": "Trump Accounts: Free money, but who gets a say?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
+      "summary": "حساب های ترامپ به کودکان نوید یک شروع مالی را می دهد. اما ویترو از الجزیره با یکی از والدین صحبت کرد.",
+      "summary_original": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T18:51:39+03:30",
+      "published_fa": "1405/07/18 - 18:51",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "با یا بدون حماس",
+      "title_original": "With or without Hamas",
+      "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+      "summary": "سرنوشت حماس عمیقاً آینده غزه را شکل نخواهد داد.",
+      "summary_original": "Hamas’s fate will not profoundly shape Gaza’s future.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T18:49:41+03:30",
+      "published_fa": "1405/07/18 - 18:49",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "جنگ ایران زنده: پوتین شرایط ایران برای پایان دادن به جنگ را به ترامپ منتقل می کند - الجزیره",
+      "title_original": "Iran war live: Putin relays Iran’s terms for ending war to Trump - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2hKQnU0RnNlWmR5M0dpZy1GdkEybmxWRm1scHZNMlREbG52WmpkLWlRUnI4M3hRQkZKUXAtX3doSGxHbnZ5Tl9ybGp2SHVSLTlvUC0wUG9rOFVZeG81UmxvZ0hzNTZsa25fMTF5Y0V1Q1QwbjdjQnVScGdfZlUzQzg0TXo3aVFnSGVuWlRyazZ6M2N2NzItYnNhMHJrNDg5dGxhUlNoNVU3OGZva3djcmQ2eGQyOU43N21Z0gHAAUFVX3lxTFB0ZXVSYWwwdm1HYnp0cWY5eWNRXzRYb1BaOVRjcXBZVUpDOEpPUmFxeVJZT2x4U01Ma2ljMmN6Z2N0S19kZTVXekp6dTZFamp0NGRZMHp2UzhrcmJVOENPd3N3d3RXR2E2aU55TEN6QWpSVHZsbjhHUUxPU25YREd1MmFtMXUtVmNvLXdHTEY3NWpBZm5MZ0RBandXcS0xZkpVbVZtQkZEeFN6OHlMOTZlcWo2Q2FVVHFuN0hkcVU0SQ?oc=5",
+      "summary": "جنگ ایران زنده: پوتین شرایط ایران برای پایان دادن به جنگ را به الجزیره ترامپ منتقل می کند",
+      "summary_original": "Iran war live: Putin relays Iran’s terms for ending war to Trump Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T18:49:27+03:30",
+      "published_fa": "1405/07/18 - 18:49",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حوثی‌های تحت حمایت ایران در حمله جدید مخرب به فرودگاه پایتخت عربستان حمله کردند - WSJ",
+      "title_original": "Iran-Backed Houthis Hit Saudi Capital’s Airport in Damaging New Attack - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
+      "summary": "حوثی‌های تحت حمایت ایران با حمله جدید WSJ به فرودگاه پایتخت عربستان حمله کردند.",
+      "summary_original": "Iran-Backed Houthis Hit Saudi Capital’s Airport in Damaging New Attack WSJ",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-10T18:47:00+03:30",
+      "published_fa": "1405/07/18 - 18:47",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "سه نفر در سومین حمله به مدرسه در لهستان در کمتر از یک هفته زخمی شدند",
+      "title_original": "Three injured in third school attack in Poland in less than a week",
+      "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+      "summary": "این حمله پس از آن صورت گرفت که پلیس از بازداشت 76 نفر در سراسر لهستان در ارتباط با حوادث قبلی خبر داد.",
+      "summary_original": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-10T18:43:55+03:30",
+      "published_fa": "1405/07/18 - 18:43",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "لیورپول مقابل من سیتی: لیگ برتر - تیم ها، پیش بینی، هالند، هزینه ها",
+      "title_original": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
+      "summary": "منچسترسیتی برای اولین بازی خود از زمانی که متهم به نقض مالی جدی EPL شد، به لیورپول می رود.",
+      "summary_original": "Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T18:41:22+03:30",
+      "published_fa": "1405/07/18 - 18:41",
       "translated": true,
       "verified_source": true
     },
@@ -113,23 +254,6 @@
       "urgent": false,
       "published": "2026-10-10T18:24:21+03:30",
       "published_fa": "1405/07/18 - 18:24",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "جنگ ایران زنده: پوتین شرایط ایران برای پایان دادن به جنگ را به ترامپ منتقل می کند - الجزیره",
-      "title_original": "Iran war live: Putin relays Iran’s terms for ending war to Trump - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2hKQnU0RnNlWmR5M0dpZy1GdkEybmxWRm1scHZNMlREbG52WmpkLWlRUnI4M3hRQkZKUXAtX3doSGxHbnZ5Tl9ybGp2SHVSLTlvUC0wUG9rOFVZeG81UmxvZ0hzNTZsa25fMTF5Y0V1Q1QwbjdjQnVScGdfZlUzQzg0TXo3aVFnSGVuWlRyazZ6M2N2NzItYnNhMHJrNDg5dGxhUlNoNVU3OGZva3djcmQ2eGQyOU43N21Z0gHAAUFVX3lxTFB0ZXVSYWwwdm1HYnp0cWY5eWNRXzRYb1BaOVRjcXBZVUpDOEpPUmFxeVJZT2x4U01Ma2ljMmN6Z2N0S19kZTVXekp6dTZFamp0NGRZMHp2UzhrcmJVOENPd3N3d3RXR2E2aU55TEN6QWpSVHZsbjhHUUxPU25YREd1MmFtMXUtVmNvLXdHTEY3NWpBZm5MZ0RBandXcS0xZkpVbVZtQkZEeFN6OHlMOTZlcWo2Q2FVVHFuN0hkcVU0SQ?oc=5",
-      "summary": "جنگ ایران زنده: پوتین شرایط ایران برای پایان دادن به جنگ را به الجزیره ترامپ منتقل می کند",
-      "summary_original": "Iran war live: Putin relays Iran’s terms for ending war to Trump Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T18:21:58+03:30",
-      "published_fa": "1405/07/18 - 18:21",
       "translated": true,
       "verified_source": true
     },
@@ -487,8 +611,8 @@
       "verified_source": true
     },
     {
-      "title": "یک کودک در میان هفت نفر کشته شده توسط اسرائیل در غزه در سالگرد \"آتش بس\".",
-      "title_original": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+      "title": "یک کودک در میان هشت کشته توسط اسرائیل در سالگرد «آتش بس» غزه",
+      "title_original": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
       "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
       "summary": "وزارت بهداشت غزه می گوید از زمان «آتش بس» سال گذشته، حداقل 1481 فلسطینی در حملات اسرائیل کشته شده اند.",
       "summary_original": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
@@ -728,21 +852,6 @@
       "verified_source": true
     },
     {
-      "title": "روی پینتو، افشاگر منچسترسیتی، تحت حفاظت پلیس باقی خواهد ماند",
-      "title_original": "Manchester City whistleblower Rui Pinto to remain under police protection",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss",
-      "summary": "وکلای پینتو اخیراً بی نظمی در روند رسیدگی را محکوم کردند و تهدیدهای واقعی موکل خود را برجسته کردند.",
-      "summary_original": "Pinto&#039;s lawyers recently denounced irregularities in the proceedings, highlighting the real threats facing their client.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T14:44:13+03:30",
-      "published_fa": "1405/07/18 - 14:44",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "تاریخ جدید برای بازگشایی استادیوم آزادی؛ «امیدواریم بهمن یا اسفند آماده شود»",
       "title_original": "",
       "link": "https://www.iranintl.com/202610109622",
@@ -914,21 +1023,6 @@
       "verified_source": true
     },
     {
-      "title": "شیلی پس از رانش گل، منطقه فاجعه لاس کوندس را اعلام کرد",
-      "title_original": "Chile declares Las Condes disaster zone after mudslide",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss",
-      "summary": "شیلی پس از رانش گل، منطقه فاجعه لاس کوندس را اعلام کرد",
-      "summary_original": "Chile declares Las Condes disaster zone after mudslide",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T13:52:56+03:30",
-      "published_fa": "1405/07/18 - 13:52",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "سرباز سابق ایالت MN در حالی که خشونت باند سومالیایی مینه سوتا را وحشت زده می کند، به دموکرات ها می ریزد: \"ایلهان عمر کجاست؟\"",
       "title_original": "Former MN state trooper tears into Dems as Somali gang violence terrorizes Minnesota: ‘Where is Ilhan Omar?’",
       "link": "https://www.foxnews.com/politics/former-mn-state-trooper-tears-dems-somali-gang-violence-terrorizes-minnesota-where-ilhan-omar",
@@ -1008,23 +1102,6 @@
       "verified_source": true
     },
     {
-      "title": "مظنون پس از گروگان گیری 13 مهدکودک در برزیل کشته شد",
-      "title_original": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
-      "link": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
-      "summary": "مردی مایع قابل اشتعال را در اتاقی با 13 کودک پخش می کند در حالی که یک فندک در دست دارد در حالی که پلیس تلاش می کند مذاکره کند.",
-      "summary_original": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
-      "source": "Al Jazeera",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T13:15:14+03:30",
-      "published_fa": "1405/07/18 - 13:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Shafaq News..Iran to hold online vote on defense minister - شفق نيوز",
       "title_original": "Shafaq News..Iran to hold online vote on defense minister - شفق نيوز",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXc0X0N6SUpxZ1hTYlVQS1E2dU1aUWhtVml3T0E5SzRkajAxOUtQVTJJOGMtU19PM3pCUzI3RUNwcnc0Q1NpUjZ3VFBUeTMycm85SXJhNmdnU1MzQy05akdIN3YyOU5IM0tQdTJUV1lLN09kMkhiUHd5OEFfWmZNb2xKX1Q?oc=5",
@@ -1068,36 +1145,6 @@
       "urgent": true,
       "published": "2026-10-10T13:00:14+03:30",
       "published_fa": "1405/07/18 - 13:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "یک سال پس از \"آتش بس\"، مراقبت های بهداشتی غزه همچنان در حال فروپاشی است",
-      "title_original": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
-      "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
-      "summary": "تداوم حملات، محدودیت های کمک های پزشکی و تاخیر در تخلیه همچنان باعث مرگ فلسطینی ها می شود.",
-      "summary_original": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T13:00:14+03:30",
-      "published_fa": "1405/07/18 - 13:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "روزنامه نگار هامورابی هوئسکا مانزانو در اوآخاکای مکزیک کشته شد",
-      "title_original": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
-      "link": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss",
-      "summary": "گزارش های ضد و نقیضی در مورد شرایط قتل منتشر می شود که باعث درخواست عدالت از سوی گروه های مدافع شده است.",
-      "summary_original": "Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T12:57:08+03:30",
-      "published_fa": "1405/07/18 - 12:57",
       "translated": true,
       "verified_source": true
     },
@@ -2440,21 +2487,6 @@
       "verified_source": true
     },
     {
-      "title": "خاورمیانه می تواند برای مدتی راحت باشد - انتخابات میان دوره ای ایالات متحده در راه است - تلگراف",
-      "title_original": "The Middle East can rest easy for a while – the US midterms are coming - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFZ5aC1ibkg0dHFSQWpITjgtYjBQS1FYUEhUZ200TUxHajZuREJiRi1KQlcyUmszQmlRYjdsQkNPSWdSQ3dERUI3RXBPZlpSdk5TVXIxV1l4MXg0aG1Xem9GX243ejBncFVlZHUxRkFRa2NTMlpENzNSNE9OMHRwYnZZNlhpLUhBVHZlRWRmTHNiYnhMNnBqczZvQWJqbHpwNVE?oc=5",
-      "summary": "خاورمیانه می تواند برای مدتی راحت باشد - انتخابات میان دوره ای ایالات متحده در راه است تلگراف",
-      "summary_original": "The Middle East can rest easy for a while – the US midterms are coming The Telegraph",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T20:12:00+03:30",
-      "published_fa": "1405/07/17 - 20:12",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گسترش آموزش نظامی از خیابان تا مدرسه با هدف پرورش نسل جدید نیروهای وفادار به حکومت",
       "title_original": "",
       "link": "https://www.iranintl.com/202610090741",
@@ -3122,23 +3154,6 @@
       "verified_source": true
     },
     {
-      "title": "واشنگتن پست، ایران حملات هرمز را افزایش می‌دهد و فشار بر ترامپ را با نزدیک شدن به میان دوره‌ای افزایش می‌دهد",
-      "title_original": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlR3UHNEMFo0Zkt2RUV0S2VYUXh6RDY1MTBVQ3hjeTRXLTh2TlpZaUFoejFjMDM1WjVOYTRpYTZvNjBNUEprY3psWmxaOVgwNHJpZjZsVDZ4eXlSX3kzOFZ0czFIUlJKazJSSW5mNmxPcXJTQjlKX19teGVpOXBGSVhGTF94cXpfOVRrU2dWdXZRYmpVRmxzSDAyaXFlLU55UWtReVR2ZWs3bXE2RDAxdGVJQWhHUQ?oc=5",
-      "summary": "ایران حملات هرمز را افزایش می دهد و فشارها را بر ترامپ در میان دوره ای نزدیک به واشنگتن پست افزایش می دهد",
-      "summary_original": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near The Washington Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T07:33:29+03:30",
-      "published_fa": "1405/07/17 - 07:33",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "چرا ترامپ می گوید که قبل از روز انتخابات به ایران حمله نمی کند - CNN",
       "title_original": "Why Trump says he’s not attacking Iran before Election Day - CNN",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRXJwRE85Zkd6RFQ1NmVxTU93VDZrWG51VzZnUHBXdnJQQVVOWkU5aHBZZkd5NktHZEhQcHZNYjEtZzlNYnpsMC12ZklPVWpFNlFFYnBKazZEejE2SmU3aGd0a0tvOWxOWEd4cWJ2SG4?oc=5",
@@ -3670,21 +3685,6 @@
       "urgent": true,
       "published": "2026-10-08T19:53:00+03:30",
       "published_fa": "1405/07/16 - 19:53",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "میدل ایست آی می گوید: ایران غنی سازی اورانیوم را کنار نخواهد گذاشت",
-      "title_original": "Iran will not abandon uranium enrichment, nuclear chief says - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHlxdzRfbkcyalJ4d0tnNkxSNUtobWNhQ1FodUhmbTN2bG13VGs3NHdMNlFoVm9mNzd6czMtQ1Baa2ttMkc3NFl0aWV2QldMeTJ5TVUyZDZFTW9FVkg1X0pja3JjQURYOWVSeVVBbDNZTWRQU1BSZVM5bWVtZVRrX3RzaWxJTUtnbmlBODVKeUNXY196RVQ4QzRieFZlMlduZkNGeWJ5MDJWSGdzVFItMDF6d2xTNGs?oc=5",
-      "summary": "میدل ایست آی گفت: ایران غنی سازی اورانیوم را کنار نخواهد گذاشت",
-      "summary_original": "Iran will not abandon uranium enrichment, nuclear chief says Middle East Eye",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T19:34:00+03:30",
-      "published_fa": "1405/07/16 - 19:34",
       "translated": true,
       "verified_source": true
     },
@@ -4265,24 +4265,6 @@
       "urgent": false,
       "published": "2026-10-08T03:35:14+03:30",
       "published_fa": "1405/07/16 - 03:35",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "السید: نتانیاهو به هل دادن ترامپ به جنگ ایران کمک کرد - یاهو",
-      "title_original": "El-Sayed: Netanyahu Helped Push Trump Into Iran War - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVkyQkdlN2dQdG1JSWxuUWRBME9KS3hqVkhjQ3NyVVR3V0tBV3Rlb1dKTjhUczBqQVdhaENiTzM2Mm53ajhsSFZXYW5ySDA0RVZTQWNuVE02RmxZRG1vU1E0cklxT1drbGZPSXNVc2N6M2llNFVvRGxNZ3c5ck5xd0xkSXdKd1hnclpYVUVQQ1hGU1pE?oc=5",
-      "summary": "السید: نتانیاهو به هل دادن ترامپ به جنگ ایران کمک کرد یاهو",
-      "summary_original": "El-Sayed: Netanyahu Helped Push Trump Into Iran War Yahoo",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T02:59:01+03:30",
-      "published_fa": "1405/07/16 - 02:59",
       "translated": true,
       "verified_source": true
     },
@@ -5520,21 +5502,6 @@
       "verified_source": true
     },
     {
-      "title": "اخبار جنگ ایران: سپاه می گوید «کنترل قاطع» بر تنگه هرمز - الجزیره",
-      "title_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTNoQ3VwTHlvc0t4V2pneTdmcUg5QXY0YXF1Vk5LMUcyZDNJTzJTUU5UUmxUN3Z2V1NremJnMWw5STJDMlp5QTZiSHc2Y2drd080Y1ctVmdIN1ZPd2lMdjlrTklDTUJIOFRWakw1QkxjM0U1ekYyTWpzTVdGS0NtNlJ5akFLdU5IR2RWdnA1dnRoM3M5RVJ4ODA3b3BwbHdrRVU3ajdQQjFIVmx6bHNHYmVITW0xZ9IBuwFBVV95cUxNT0ZhVXc5N0MzS0E5Q1BTM0JkV0xndFFBdG4wZ19ZbDhvTDA5SG0tcThhd1hDeFFPUU81QW9ra1FlY0xyMkZIWlZGS1FmLUhPeDlkd2hzQmVBSElwQmllbmJRM3kxZlE5d2p1SkpybUp0T1JTbUpGdXNRX29VWHlHZTE2c1RpbmtiLU55bFlNODJRLUREWHc3VHRkR1Flc21PQ3pidEhuRnA0UnBIWVNBc2pQa1NFN3MyMlZr?oc=5",
-      "summary": "اخبار جنگ ایران: سپاه پاسداران انقلاب اسلامی می گوید «کنترل قاطع» بر تنگه هرمز الجزیره",
-      "summary_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz Al Jazeera",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-28T10:30:00+03:30",
-      "published_fa": "1405/06/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "چگونه جنگ ایران شکل گرفت: هر حمله و تغییر قیمت نفت - تجسم | جنگ آمریکا و اسرائیل علیه ایران - گاردین",
       "title_original": "How the Iran war unfolded: every attack and oil price change – visualised | US-Israel war on Iran - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZThFSGo4bURVTldLLUdma1FYQy0zVmo2ak9NWEUzTWtsbWlFU3VpT1FyT25nQ3htM3dZQ0d4YzhuV1JlaDZ5cWE2WkRXckhKenpCZ0hJcWRXTVI3OWpJRldtM0Z5WVBOaFhTT25uaDROdjhuNWN1YzF6amR5dUFXZ0tScGt2MlM1U1pMNUxqd21NNzdqVEYzSVgwVVZTVHh1MkV5OXhONFlJS0VicGNfYUxFOW5NbWtZRVR0WnB1OWNWLTVuNXRSeEtWVQ?oc=5",
@@ -5544,6 +5511,21 @@
       "category": "military",
       "tags": [],
       "urgent": true,
+      "published": "2026-08-28T10:30:00+03:30",
+      "published_fa": "1405/06/06 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "اخبار جنگ ایران: سپاه می گوید «کنترل قاطع» بر تنگه هرمز - الجزیره",
+      "title_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTNoQ3VwTHlvc0t4V2pneTdmcUg5QXY0YXF1Vk5LMUcyZDNJTzJTUU5UUmxUN3Z2V1NremJnMWw5STJDMlp5QTZiSHc2Y2drd080Y1ctVmdIN1ZPd2lMdjlrTklDTUJIOFRWakw1QkxjM0U1ekYyTWpzTVdGS0NtNlJ5akFLdU5IR2RWdnA1dnRoM3M5RVJ4ODA3b3BwbHdrRVU3ajdQQjFIVmx6bHNHYmVITW0xZ9IBuwFBVV95cUxNT0ZhVXc5N0MzS0E5Q1BTM0JkV0xndFFBdG4wZ19ZbDhvTDA5SG0tcThhd1hDeFFPUU81QW9ra1FlY0xyMkZIWlZGS1FmLUhPeDlkd2hzQmVBSElwQmllbmJRM3kxZlE5d2p1SkpybUp0T1JTbUpGdXNRX29VWHlHZTE2c1RpbmtiLU55bFlNODJRLUREWHc3VHRkR1Flc21PQ3pidEhuRnA0UnBIWVNBc2pQa1NFN3MyMlZr?oc=5",
+      "summary": "اخبار جنگ ایران: سپاه پاسداران انقلاب اسلامی می گوید «کنترل قاطع» بر تنگه هرمز الجزیره",
+      "summary_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
       "published": "2026-08-28T10:30:00+03:30",
       "published_fa": "1405/06/06 - 10:30",
       "translated": true,
@@ -5742,6 +5724,23 @@
       "verified_source": true
     },
     {
+      "title": "رویترز: نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
+      "title_original": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
+      "summary": "رویترز، نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
+      "summary_original": "Israel's Netanyahu says Iran tried to kill one of his sons Reuters",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-24T10:30:00+03:30",
+      "published_fa": "1405/06/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "نخست وزیر می گوید ایران سعی کرد یکی از پسران نتانیاهو را ترور کند - فاکس نیوز",
       "title_original": "Iran tried to assassinate one of Netanyahu's sons, prime minister says - Fox News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHBiVnhUN1JvQ21vdlRObWwtRTBLMjY0MmpTSXo2OG9SaC1CZmpVeVZGQXk0c2pOMzdDSHhjel9tQ3BtTDlvcGUyUDRqNGpDV1lLOVk1SkgwYW0xUDV1alJqTVpENmJQWHVmamRQVWpmamczdmduMWtFNUlIbUk4bW1sdmh0d0FBQ3ZxMGVSZ9IBlAFBVV95cUxQcG9fX0ZpVl9yTlhsNlozNGxQZnc2eFZmUm1kQUJMSlVHODktaDA3TE1rd0ZVU1RPLXR5WkFabFFyME5RWXNjVjVKRENDVG5QUFk2T0pwZXg2VUhaV1YxTk4tR1BFeWdHS01XT2NnQ3JwS0dJTlljNFRnME9IbEZrVXR5enJyWWZxdG9pM0plY3YzcmZR?oc=5",
@@ -5782,23 +5781,6 @@
       "source": "Google News",
       "category": "politics",
       "tags": [],
-      "urgent": false,
-      "published": "2026-08-24T10:30:00+03:30",
-      "published_fa": "1405/06/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "رویترز: نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
-      "title_original": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
-      "summary": "رویترز، نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
-      "summary_original": "Israel's Netanyahu says Iran tried to kill one of his sons Reuters",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
       "urgent": false,
       "published": "2026-08-24T10:30:00+03:30",
       "published_fa": "1405/06/02 - 10:30",
