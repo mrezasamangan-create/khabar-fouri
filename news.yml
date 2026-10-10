@@ -1,0 +1,42 @@
+name: رصد — جمع‌آوری اخبار
+
+on:
+  schedule:
+    # ساعت ۰۰:۰۰ تهران = ۲۰:۳۰ UTC روز قبل
+    - cron: '30 20 * * *'
+    # ساعت ۱۲:۰۰ تهران = ۰۸:۳۰ UTC (برای تازه‌سازی وسط روز)
+    - cron: '30 8 * * *'
+  workflow_dispatch:   # اجازه اجرای دستی از تب Actions
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install jdatetime
+
+      - name: Run fetch_news.py
+        run: python .github/scripts/fetch_news.py
+
+      - name: Commit news.json
+        run: |
+          git config user.name "Rasad Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "بدون تغییر"
+          else
+            git commit -m "🛰 به‌روزرسانی خودکار اخبار — $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
