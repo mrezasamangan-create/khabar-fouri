@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T22:15:22.369253+00:00",
-  "generated_at_fa": "1405/07/19 - 01:45",
+  "generated_at": "2026-10-10T22:32:57.278030+00:00",
+  "generated_at_fa": "1405/07/19 - 02:02",
   "count": 436,
   "items": [
     {
@@ -15,8 +15,8 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T01:41:20.850079+03:30",
-      "published_fa": "1405/07/19 - 01:41",
+      "published": "2026-10-11T01:58:31.024005+03:30",
+      "published_fa": "1405/07/19 - 01:58",
       "translated": false,
       "verified_source": true
     },
@@ -32,8 +32,8 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T01:41:20.848762+03:30",
-      "published_fa": "1405/07/19 - 01:41",
+      "published": "2026-10-11T01:58:31.023113+03:30",
+      "published_fa": "1405/07/19 - 01:58",
       "translated": false,
       "verified_source": true
     },
@@ -49,6 +49,51 @@
       "urgent": false,
       "published": "2026-10-11T01:37:42+03:30",
       "published_fa": "1405/07/19 - 01:37",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حملات به عربستان سعودی محکومیت منطقه‌ای برانگیخت؛ بحرین خواستار اقدام شورای امنیت شد",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610104850",
+      "summary": "سازمان هواپیمایی عربستان سعودی اعلام کرد حمله شنبه به فرودگاه ملک خالد ریاض دست‌کم ۱۲ کشته و ۳۰۹ زخمی بر جا گذاشته است. آمریکا و چند کشور منطقه این حمله را محکوم کردند و بحرین خواستار اقدام شورای امنیت شد.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T01:35:24+03:30",
+      "published_fa": "1405/07/19 - 01:35",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+      "title_original": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+      "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.",
+      "summary_original": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T01:10:20+03:30",
+      "published_fa": "1405/07/19 - 01:10",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes - The New York Times",
+      "title_original": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR?oc=5",
+      "summary": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes The New York Times",
+      "summary_original": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes The New York Times",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T01:06:29+03:30",
+      "published_fa": "1405/07/19 - 01:06",
       "translated": true,
       "verified_source": true
     },
@@ -173,21 +218,6 @@
       "published": "2026-10-11T00:30:58+03:30",
       "published_fa": "1405/07/19 - 00:30",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
-      "title_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkRHloUDRaWG5STDBIUER0T21sb0ZoQ05YVWRJV0FFYjhNT0hfNGZkVV9hVk55c1J3eUZrdG9PMUUzbHYtSk03Uk5mRDJfOThUbnBpX0lYekpaX2ZPRzJvaXBaTTY1bUFyM0EtZ2VXUzRIZE80ZnpaNzRaSC05eW5tS2plZTkwMzJtSzJBTVRzQmNKS3dobXllNjcwXzFQemlxVUQ2QkVmbzFRTndvclo0bnl2aUd2b29ic1pVM0Q2bjg2WXhSNEthVGVmZms?oc=5",
-      "summary": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
-      "summary_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:29:34+03:30",
-      "published_fa": "1405/07/19 - 00:29",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -454,17 +484,19 @@
       "verified_source": true
     },
     {
-      "title": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
-      "title_original": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5",
-      "summary": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
-      "summary_original": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
+      "title": "Trump calls for new president in Ukraine - Al Jazeera",
+      "title_original": "Trump calls for new president in Ukraine - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFRmYndWdGJ2cUxXVzVHS2cwMlhBa3dDRmM2UHFHNmluZ1YtX0kyc2x0d3FycHJ4TXFOTlVCT3NTSEx1eE9YTmhHUzZQQnlLTU5TMlhQZHM3cFo4b3lFZWhEZVprOTROWU1ORGZxcWo4N2Y3ZVZuaUFjWEIxcWxZUDlnd1JlTXBNSTB4WGdYYXczMDFPd3Nz0gGcAUFVX3lxTFBUMkl2U0tBcXZHdllMVWpiU2FDbFVoSXZDXzl1SF83aFRTUEZhTDJfSWtMUlFUb0pkUUdEWG5QS2k0VHpGbWdEMGYwR05JZHdmLVBaMnVMdVQ3NjluWVpDLUFHOXdzUDNITEMyV2h1T3pLMkk3QmdLSVVFRFd1SmF6QVQ5NjQ0TG5qRHBPWnd0bFdOUFBYY0RKa0RUZg?oc=5",
+      "summary": "Trump calls for new president in Ukraine Al Jazeera",
+      "summary_original": "Trump calls for new president in Ukraine Al Jazeera",
       "source": "Google News",
-      "category": "other",
-      "tags": [],
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
       "urgent": false,
-      "published": "2026-10-10T23:04:54+03:30",
-      "published_fa": "1405/07/18 - 23:04",
+      "published": "2026-10-10T23:06:57+03:30",
+      "published_fa": "1405/07/18 - 23:06",
       "translated": true,
       "verified_source": true
     },
@@ -954,21 +986,6 @@
       "verified_source": true
     },
     {
-      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
-      "title_original": "Eritrea urges UN to intervene in standoff with Ethiopia",
-      "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
-      "summary": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
-      "summary_original": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T20:11:25+03:30",
-      "published_fa": "1405/07/18 - 20:11",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Who is Sally Yates? Cornell rape-review pick was fired by Trump after refusing to defend travel ban",
       "title_original": "Who is Sally Yates? Cornell rape-review pick was fired by Trump after refusing to defend travel ban",
       "link": "https://www.foxnews.com/politics/who-sally-yates-cornell-rape-review-pick-fired-trump-refusing-defend-travel-ban",
@@ -1035,16 +1052,14 @@
       "verified_source": true
     },
     {
-      "title": "Trump says US may strike Houthis, Iran after latest Riyadh airport attack - Al Jazeera",
-      "title_original": "Trump says US may strike Houthis, Iran after latest Riyadh airport attack - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2hKQnU0RnNlWmR5M0dpZy1GdkEybmxWRm1scHZNMlREbG52WmpkLWlRUnI4M3hRQkZKUXAtX3doSGxHbnZ5Tl9ybGp2SHVSLTlvUC0wUG9rOFVZeG81UmxvZ0hzNTZsa25fMTF5Y0V1Q1QwbjdjQnVScGdfZlUzQzg0TXo3aVFnSGVuWlRyazZ6M2N2NzItYnNhMHJrNDg5dGxhUlNoNVU3OGZva3djcmQ2eGQyOU43N21Z?oc=5",
-      "summary": "Trump says US may strike Houthis, Iran after latest Riyadh airport attack Al Jazeera",
-      "summary_original": "Trump says US may strike Houthis, Iran after latest Riyadh airport attack Al Jazeera",
+      "title": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities - Al Jazeera",
+      "title_original": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2hKQnU0RnNlWmR5M0dpZy1GdkEybmxWRm1scHZNMlREbG52WmpkLWlRUnI4M3hRQkZKUXAtX3doSGxHbnZ5Tl9ybGp2SHVSLTlvUC0wUG9rOFVZeG81UmxvZ0hzNTZsa25fMTF5Y0V1Q1QwbjdjQnVScGdfZlUzQzg0TXo3aVFnSGVuWlRyazZ6M2N2NzItYnNhMHJrNDg5dGxhUlNoNVU3OGZva3djcmQ2eGQyOU43N21Z0gHAAUFVX3lxTFB0ZXVSYWwwdm1HYnp0cWY5eWNRXzRYb1BaOVRjcXBZVUpDOEpPUmFxeVJZT2x4U01Ma2ljMmN6Z2N0S19kZTVXekp6dTZFamp0NGRZMHp2UzhrcmJVOENPd3N3d3RXR2E2aU55TEN6QWpSVHZsbjhHUUxPU25YREd1MmFtMXUtVmNvLXdHTEY3NWpBZm5MZ0RBandXcS0xZkpVbVZtQkZEeFN6OHlMOTZlcWo2Q2FVVHFuN0hkcVU0SQ?oc=5",
+      "summary": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities Al Jazeera",
+      "summary_original": "Iran war live: 12 killed in attack on Riyadh airport – Saudi authorities Al Jazeera",
       "source": "Google News",
       "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
+      "tags": [],
       "urgent": false,
       "published": "2026-10-10T18:49:27+03:30",
       "published_fa": "1405/07/18 - 18:49",
@@ -1266,6 +1281,21 @@
       "urgent": false,
       "published": "2026-10-10T16:36:20+03:30",
       "published_fa": "1405/07/18 - 16:36",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
+      "title_original": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5",
+      "summary": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
+      "summary_original": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T16:30:46+03:30",
+      "published_fa": "1405/07/18 - 16:30",
       "translated": true,
       "verified_source": true
     },
@@ -1672,6 +1702,21 @@
       "urgent": false,
       "published": "2026-10-10T13:15:04+03:30",
       "published_fa": "1405/07/18 - 13:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
+      "title_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkRHloUDRaWG5STDBIUER0T21sb0ZoQ05YVWRJV0FFYjhNT0hfNGZkVV9hVk55c1J3eUZrdG9PMUUzbHYtSk03Uk5mRDJfOThUbnBpX0lYekpaX2ZPRzJvaXBaTTY1bUFyM0EtZ2VXUzRIZE80ZnpaNzRaSC05eW5tS2plZTkwMzJtSzJBTVRzQmNKS3dobXllNjcwXzFQemlxVUQ2QkVmbzFRTndvclo0bnl2aUd2b29ic1pVM0Q2bjg2WXhSNEthVGVmZms?oc=5",
+      "summary": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
+      "summary_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T13:14:51+03:30",
+      "published_fa": "1405/07/18 - 13:14",
       "translated": true,
       "verified_source": true
     },
@@ -2620,23 +2665,6 @@
       "verified_source": true
     },
     {
-      "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "title_original": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
-      "summary": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "summary_original": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T23:03:00+03:30",
-      "published_fa": "1405/07/17 - 23:03",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "مهدی تاج، رییس فدراسیون فوتبال: قرارداد قلعه‌نویی در تیم ملی ۵۰ میلیارد تومان است",
       "title_original": "",
       "link": "https://www.iranintl.com/202610090487",
@@ -2649,23 +2677,6 @@
       "published": "2026-10-09T23:00:47+03:30",
       "published_fa": "1405/07/17 - 23:00",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
-      "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
-      "summary": "Trump says US will not attack Iran before midterm elections in November Reuters",
-      "summary_original": "Trump says US will not attack Iran before midterm elections in November Reuters",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T22:49:06+03:30",
-      "published_fa": "1405/07/17 - 22:49",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2831,21 +2842,6 @@
       "published": "2026-10-09T21:29:50+03:30",
       "published_fa": "1405/07/17 - 21:29",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "امام جمعه کرج: می‌خواهند با بی‌حجابی و توسعه برهنگی، انتقام خون رهبرمان را به حاشیه ببرند",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610096952",
-      "summary": "محمدمهدی حسینی همدانی، امام جمعه کرج گفت: «دامن‌زدن به بی‌حجابی و توسعه برهنگی با هدف ایجاد اختلاف در داخل کشور دنبال می‌شود تا موضوعاتی همچون انتقام خون شهدا، به‌ویژه امام شهید، خروج نیروهای بیگانه از منطقه و پرداخت غرامت به حاشیه برود.»",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T21:29:00+03:30",
-      "published_fa": "1405/07/17 - 21:29",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -3827,6 +3823,23 @@
       "verified_source": true
     },
     {
+      "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+      "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
+      "summary": "Trump says US will not attack Iran before midterm elections in November Reuters",
+      "summary_original": "Trump says US will not attack Iran before midterm elections in November Reuters",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-08T19:53:00+03:30",
+      "published_fa": "1405/07/16 - 19:53",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post",
       "title_original": "A year into Trump’s peace plan, Netanyahu stands in the way of rebuilding - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFR0RmNLbFpONHRmX3BXaHdyaDRfaUtRVWJVa05JTkJURjdPbUt1SS1fdkE0amRsaWNCdm1FZlVVNUZNSXFyOTNmamgwZnV3QmtvNnJKMzBJRFl4QTVZOHo0ZE9xN0pBbHdxc2JHS2JQZlp4MTVYVHg1ci1PVThYa2lMMEozSzRMNXdkLTY2OHVmTWFnR01vNFhIdnc1LXltQjlNM2xZcE9tU0NjbnJ3?oc=5",
@@ -3841,23 +3854,6 @@
       "urgent": false,
       "published": "2026-10-08T19:30:00+03:30",
       "published_fa": "1405/07/16 - 19:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims - The Jerusalem Post",
-      "title_original": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBueVZRSExhZFpMOTV2QndQRXl2WUg4a0ZGSFIwWXF6VTlvT052TjI2U0cwZldwSjNIclVlQlJsMGtEa1hwRElSQU1LV0VUb1Rjc3p6VDJ3YTdhOUpJMERhRnl2Tm9IT2RyV0QxOG1Ob2RMd1Z3YnFOTkFhdw?oc=5",
-      "summary": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims The Jerusalem Post",
-      "summary_original": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims The Jerusalem Post",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T19:04:10+03:30",
-      "published_fa": "1405/07/16 - 19:04",
       "translated": true,
       "verified_source": true
     },
@@ -4597,21 +4593,6 @@
       "verified_source": true
     },
     {
-      "title": "US military aid to Israel continues three years into Gaza genocide - Al Jazeera",
-      "title_original": "US military aid to Israel continues three years into Gaza genocide - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0puYWU4VzlRcmFrMkVhSE1hd2w1M3dSMDdRRWdFNkJWWEQ5cWFnU1VxT2xLNzVJNFE5SGhqWUg5X0c5V3F1bGNUS01jSmVCVjB4Ty1sRGU0ZUtKdUY2OGNXT0JkX1pCQnoxYlFLR1pSZEhRdXVmREtIWk5aT0ptSlViSnNJOE0tdTRneHJDaTNjUEh6ZjZfSlo2dktLbVdPWmlRdm5NYWFtQlVHV0xvSdIBtgFBVV95cUxNcDhhWWtZdHhPV2FZSmtaWmp0LTg3NDdJTE9ocW1iYzVRa2dlVkU0aFlsaFA5aHpJNjFZOTB5ZzBJMU8tU0RfOTY1cDBEZUxiNkpIdWpwYlBoZXBUVGhpek8zQ1NJdlBwb1dGZk5lMXEtY1lwaVNqQlNiRWFObHlKX3RvbEQyNlU2dlJvemU2eXA0ZUVQOTdqM05KYTlSeWNQdnpEVnR1N0tLcmpWejRXbUVycThMUQ?oc=5",
-      "summary": "US military aid to Israel continues three years into Gaza genocide Al Jazeera",
-      "summary_original": "US military aid to Israel continues three years into Gaza genocide Al Jazeera",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-07T14:55:18+03:30",
-      "published_fa": "1405/07/15 - 14:55",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump promises not to resume strikes before midterm elections - CBS News",
       "title_original": "Trump promises not to resume strikes before midterm elections - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3NqbnFSYTNQUWFNSU9NdzBQSDlrTHpvdERPVGo0QVJXY1ItMlhYbXN0Y21VWjZSbTlLcmlRWnQ0TGhuNjRhUkZ4cE0tUXp4ZHNiS3llXy0ycWlhZVdrYkowY0JqTHBNa2g0SjNIZHZlcTQ3Q3pKSUI4MzNHeHpmcVNJakp1ZmcyZmJFZTZFMXo1T1ltWVhGM2xIZlc?oc=5",
@@ -5020,11 +5001,11 @@
       "verified_source": true
     },
     {
-      "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
-      "title_original": "Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpyYk5MLTRqU3RnUFZQNFpEaEpLRGV1bmJrRU9RRXVqRW9rRndrSm1fNzd4eEs1OGlYNWFCRU1vOEJlOWdzU3RtMUdWUzRUaUNkOFhKeEZiaUJFUEIwMTZscXJFMXcyR09Ec3laWGstZ3NfR2lSdkJBU2pIWWNCT2tOR1ZKQWR5aVZTLTVRVGpXT3lKZURPbU5NU05aZnp6UDR1T1ZDR1ZlMmxrOUpyS9IBtgFBVV95cUxOeXNPemhyVGgzRlVLeC01MnloMkNTX3dFcENKTHcyR01aRkdvbkJqTmJkOTZyc1Q2U0JvQXpJbGV6TDBkbGItYnoyQm1sdVFBODdYdWUtX19EcldQMTdiV1RkN183bDJZTUd6NEdtclZoTkNVWGpuRnFyUWN1WXVaaFd5OEFXVmhIMTFmZ2JXUVMyaTFBQldjWVJvUnVkN3FkaGkxT2dRbDhPTDNVaXcyTC0yTTVGQQ?oc=5",
-      "summary": "Despite praise and White House visits, Trump avoids endorsing Netanyahu Al Jazeera",
-      "summary_original": "Despite praise and White House visits, Trump avoids endorsing Netanyahu Al Jazeera",
+      "title": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections - AP News",
+      "title_original": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXFkUF9KR2VVTjEyUHlySVVUTS1PQXFzdDhKN3Y3aVpCT1NBVlhSNGZXbk9ldm40VG1MVU5ham9SUVpnSkFjSVczNksxZzZGSms3LUE4am15RkV6V2sybVNPaXhiMkpKU2lVLTJmc1BvV194WHlnbk9uNXZDODhVZFRzbWZtMGFQeEtjTDVybVN3U2dOMmlPYmI0UGlFV2ZPeGZz?oc=5",
+      "summary": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections AP News",
+      "summary_original": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections AP News",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -5038,11 +5019,11 @@
       "verified_source": true
     },
     {
-      "title": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections - AP News",
-      "title_original": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXFkUF9KR2VVTjEyUHlySVVUTS1PQXFzdDhKN3Y3aVpCT1NBVlhSNGZXbk9ldm40VG1MVU5ham9SUVpnSkFjSVczNksxZzZGSms3LUE4am15RkV6V2sybVNPaXhiMkpKU2lVLTJmc1BvV194WHlnbk9uNXZDODhVZFRzbWZtMGFQeEtjTDVybVN3U2dOMmlPYmI0UGlFV2ZPeGZz?oc=5",
-      "summary": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections AP News",
-      "summary_original": "Trump sidesteps questions on endorsing Netanyahu before Oct. 27 Israeli elections AP News",
+      "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
+      "title_original": "Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpyYk5MLTRqU3RnUFZQNFpEaEpLRGV1bmJrRU9RRXVqRW9rRndrSm1fNzd4eEs1OGlYNWFCRU1vOEJlOWdzU3RtMUdWUzRUaUNkOFhKeEZiaUJFUEIwMTZscXJFMXcyR09Ec3laWGstZ3NfR2lSdkJBU2pIWWNCT2tOR1ZKQWR5aVZTLTVRVGpXT3lKZURPbU5NU05aZnp6UDR1T1ZDR1ZlMmxrOUpyS9IBtgFBVV95cUxOeXNPemhyVGgzRlVLeC01MnloMkNTX3dFcENKTHcyR01aRkdvbkJqTmJkOTZyc1Q2U0JvQXpJbGV6TDBkbGItYnoyQm1sdVFBODdYdWUtX19EcldQMTdiV1RkN183bDJZTUd6NEdtclZoTkNVWGpuRnFyUWN1WXVaaFd5OEFXVmhIMTFmZ2JXUVMyaTFBQldjWVJvUnVkN3FkaGkxT2dRbDhPTDNVaXcyTC0yTTVGQQ?oc=5",
+      "summary": "Despite praise and White House visits, Trump avoids endorsing Netanyahu Al Jazeera",
+      "summary_original": "Despite praise and White House visits, Trump avoids endorsing Netanyahu Al Jazeera",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -5182,11 +5163,11 @@
       "verified_source": true
     },
     {
-      "title": "The Middle East Beyond the Iran War - Middle East Institute",
-      "title_original": "The Middle East Beyond the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WREhlMmRIWjVDWG1OQnJia3pfTUhqT2p1ejJGQnRKaFZGb3ZXVUFGMnBWV3pHeXJvazd0LTRtY29OVHE2NDRoQVRMaGw0S1V0VGNWUkJIZmhlSlJIY3NmNzJEc2lWMWR0RnJr?oc=5",
-      "summary": "The Middle East Beyond the Iran War Middle East Institute",
-      "summary_original": "The Middle East Beyond the Iran War Middle East Institute",
+      "title": "Iraq: Between Iran and a Hard Place - Middle East Institute",
+      "title_original": "Iraq: Between Iran and a Hard Place - Middle East Institute",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVWdlbGhuVE8xZEtrV3NhcVV0eWs0SUVra0FkZmRyWl9WNVp5cm82N2hfMmxPejdaNzlHaDBZbXFMSnJ5SjN6ZkhuanZ5YnZ3dUNDN2g3bG1QQXBHTm1nc1hJZWhuNWsxWDRiYnl2bjM?oc=5",
+      "summary": "Iraq: Between Iran and a Hard Place Middle East Institute",
+      "summary_original": "Iraq: Between Iran and a Hard Place Middle East Institute",
       "source": "Google News",
       "category": "other",
       "tags": [],
@@ -5587,6 +5568,24 @@
       "source": "Google News",
       "category": "other",
       "tags": [],
+      "urgent": false,
+      "published": "2026-08-26T10:30:00+03:30",
+      "published_fa": "1405/06/04 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions - The Times of Israel",
+      "title_original": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUt2X2FaWTJLeDhhejBndi1WNndxVVNNQ2xxaGZOWXBNZjFKYkxzLVRBTkg5RDU0WU5lN3FTT2RqOEluLWtRLWY5RXNXRm9CeDJCRFdSTVlJRHRTaU9BUU5CSXRfSkNTOWJtTTVQU2ZXcXI4bjVrVWhTc1lJVmxjNnRGQUMyazVndk0zYmhHTDVJYV9NVi1nRElDbmQ5bVkxUXJ0X1o3RlBfU2VGM2dfNkZiQdIBuAFBVV95cUxOWnlzZDk3RXhBenRCM0xsZTFUNWdHQVROdG9hdHY0ZTZnYlM5U0VydXlDLXZFRkw2Q085RE44eEpldFBubjVKaUpIU2pnOTFnLUdtajFyTzhuQzJCZ2htV2NudUxNcnlWaFFadTdGTjRNdUdVcHI3ekx0WlNNc0xnNDlXWnM1TXB6MjFNVWxlYnhlNW1zZUZkd1M5VVBiT0dzLWNwUm5sR0tYY0V6NFFBQi0zNnZqT3ll?oc=5",
+      "summary": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions The Times of Israel",
+      "summary_original": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions The Times of Israel",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
       "urgent": false,
       "published": "2026-08-26T10:30:00+03:30",
       "published_fa": "1405/06/04 - 10:30",
@@ -6105,24 +6104,6 @@
       "verified_source": true
     },
     {
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan - BBC",
-      "title_original": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6blA1SkQxWFV2b2ZxTDlMRkNyWWFTUnpRZnpIbE1WUUJwUV84bjYwUWkyWHJMOXFub3BCQ3ZmalE0dHlUd21xMXRSRUpwZUdqZkh3ZDVQa3lSZw?oc=5",
-      "summary": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan BBC",
-      "summary_original": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan BBC",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-17T10:30:00+03:30",
-      "published_fa": "1405/05/26 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "title_original": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlDeVJBWWxGd2stY3dMdkJtR3NsNUtPUFV2SVRncTZGQnNOcWV6Ylp5aW9rV3hsRDQ2WkJjZ0hmQV9OdHplQThKQ19MVTlvMVpsRmptQWhrRjRxSTFsclFUTkNfOGhNVkJiNjVkMDlGOWVFME9FREFmdlFYaVF6TkVrV0J6R3F6SVRtZUNSR181MERKOUNlcEZmVFNXdDl1RExNNdIBqgFBVV95cUxPd1pGaEZPdVlqb1pYNndOMGNuQWYtUTAwVFczV2ZndzdJY09wd21jR1B2NkdmMmNUbmFkbFlrWDhIUFBOSG51Ums0UFlmcHRIdnFmVHhiZEd2b0lKQXhwYTZCMm9YMTlGQ2hpdUd3bmk5YklKandtRWNrbHZaeGIxSXVkZTYxUFhwSE5TdXlpbVAxNWtCMF9VUnpmNEVSREVuT29fek40VzNfQQ?oc=5",
@@ -6561,6 +6542,21 @@
         "ترامپ",
         "نتانیاهو"
       ],
+      "urgent": false,
+      "published": "2026-07-29T10:30:00+03:30",
+      "published_fa": "1405/05/07 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
+      "title_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2NPZmdVZ0xwNXFneGxDWWpGa21KRTE4UHRnWFJ3OXRqRGIxc2JaN3dxQnBnc19IakEtV0pPR25QNHNYb3E1TUxHYW5CRTlKS3FxNDRBWmxvSjZ6SHU3aGk0X3VPTXRVdTg1VXNnM0ZVNHJpaHRjUHYtajJQclBCamliTm5IWjZCWFVBelRuVER6X2c4UHh3LUx3Rk5sdlJ1bHliS3VVbFhheE56aWdiMk9ZcjNkRDZPc2N0dlMwNy1UVjRTUmc?oc=5",
+      "summary": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
+      "summary_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
       "urgent": false,
       "published": "2026-07-29T10:30:00+03:30",
       "published_fa": "1405/05/07 - 10:30",
