@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T22:32:57.278030+00:00",
-  "generated_at_fa": "1405/07/19 - 02:02",
-  "count": 436,
+  "generated_at": "2026-10-10T22:48:40.064330+00:00",
+  "generated_at_fa": "1405/07/19 - 02:18",
+  "count": 435,
   "items": [
     {
       "title": "آنچه گذشت؛ کشته شدن سه نفر در حمله حوثی‌ها به فرودگاه ریاض",
@@ -15,8 +15,8 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T01:58:31.024005+03:30",
-      "published_fa": "1405/07/19 - 01:58",
+      "published": "2026-10-11T02:14:42.518443+03:30",
+      "published_fa": "1405/07/19 - 02:14",
       "translated": false,
       "verified_source": true
     },
@@ -32,9 +32,54 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T01:58:31.023113+03:30",
-      "published_fa": "1405/07/19 - 01:58",
+      "published": "2026-10-11T02:14:42.517116+03:30",
+      "published_fa": "1405/07/19 - 02:14",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "WHO says no plague case registered after Russian lab worker’s death",
+      "title_original": "WHO says no plague case registered after Russian lab worker’s death",
+      "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+      "summary": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
+      "summary_original": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
+      "source": "Al Jazeera",
+      "category": "social",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T02:04:29+03:30",
+      "published_fa": "1405/07/19 - 02:04",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify - The Washington Post",
+      "title_original": "12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
+      "summary": "12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify The Washington Post",
+      "summary_original": "12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify The Washington Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T02:02:39+03:30",
+      "published_fa": "1405/07/19 - 02:02",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Yemeni government’s military says its forces advancing against Houthis",
+      "title_original": "Yemeni government’s military says its forces advancing against Houthis",
+      "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+      "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
+      "summary_original": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T01:42:25+03:30",
+      "published_fa": "1405/07/19 - 01:42",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -83,21 +128,6 @@
       "verified_source": true
     },
     {
-      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes - The New York Times",
-      "title_original": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR?oc=5",
-      "summary": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes The New York Times",
-      "summary_original": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes The New York Times",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T01:06:29+03:30",
-      "published_fa": "1405/07/19 - 01:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
       "title_original": "Attack on Saudi airport leaves 12 dead, dozens wounded, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
@@ -127,21 +157,6 @@
       "urgent": false,
       "published": "2026-10-11T00:56:00+03:30",
       "published_fa": "1405/07/19 - 00:56",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war - The Washington Post",
-      "title_original": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
-      "summary": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war The Washington Post",
-      "summary_original": "Saudi Arabia faces new level of peril in Houthi attacks, amid wider Iran war The Washington Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:54:13+03:30",
-      "published_fa": "1405/07/19 - 00:54",
       "translated": true,
       "verified_source": true
     },
@@ -262,21 +277,6 @@
       "urgent": false,
       "published": "2026-10-11T00:13:19+03:30",
       "published_fa": "1405/07/19 - 00:13",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured - thenationalnews.com",
-      "title_original": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHR5aGJTczhjYWtMWHNxYWY5N2NRR2NGZW11ZV9abzBIczlPXzNfcVVqQjNySVZVSWc0dkhKZ3ZwdkNyR1VUM1h5cUt1Q0h2ejhrMTFkZnFJbHZKY3ZGZmlFdjVWWVVSRk9raTNvY2I2bHNub0V3UXBEZ1RKSjR3UmF2a1lGZVBURkhlVHJERVdBYTM3cDlvYQ?oc=5",
-      "summary": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured thenationalnews.com",
-      "summary_original": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured thenationalnews.com",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:09:47+03:30",
-      "published_fa": "1405/07/19 - 00:09",
       "translated": true,
       "verified_source": true
     },
@@ -894,6 +894,21 @@
       "verified_source": true
     },
     {
+      "title": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - Inquirer.com",
+      "title_original": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkQzNDZoQ0dMZmY2TnRSSXFjcTdPQzJMMG5KYmRnSU1kaDlka2Y1SGdlQmFsaHAxNU1UU1BUVzlvTFUzS0dBYUVUeVB3a0hocjBsaDUyQVNSeUw5Tjc3Z0ZvMVcxbTd0N0ZNLWt0NnRDeEQ4MlpBOEkzTXU4ZmpmZFoxMWRiamhweTUzU0kyMmQ0SlR3bUh0RnFMbjV3azYySzFlQy0xWFhMSXdPWGpiQm9Jc2Y0ZGd4VW1vNUxLQnJLZnVsVHFTcFdLQXFBTXBEYXpNWXJtcGE3Z18zdjRjaVNVc1ktdw?oc=5",
+      "summary": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled Inquirer.com",
+      "summary_original": "A U.S.-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled Inquirer.com",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T21:00:10+03:30",
+      "published_fa": "1405/07/18 - 21:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
       "title_original": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
@@ -905,21 +920,6 @@
       "urgent": false,
       "published": "2026-10-10T20:46:35+03:30",
       "published_fa": "1405/07/18 - 20:46",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
-      "title_original": "Christa Pike discharged from hospital and returned to Tennessee prison",
-      "link": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
-      "summary": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
-      "summary_original": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T20:38:37+03:30",
-      "published_fa": "1405/07/18 - 20:38",
       "translated": true,
       "verified_source": true
     },
@@ -951,21 +951,6 @@
       "published": "2026-10-10T20:30:37+03:30",
       "published_fa": "1405/07/18 - 20:30",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-      "title_original": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
-      "summary": "People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.",
-      "summary_original": "People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.",
-      "source": "Al Jazeera",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T20:24:56+03:30",
-      "published_fa": "1405/07/18 - 20:24",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1207,21 +1192,6 @@
       "published": "2026-10-10T17:09:04+03:30",
       "published_fa": "1405/07/18 - 17:09",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes - Ynetnews",
-      "title_original": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnMG5SWkxaWWZISzVBUzI4Q0w4N1RDUy00eGxQY3hUTzd4czJ5NGFuS0doN2tnNDR1VEc1TkJBa1NaR1pEQ3Bmck9uX0R1Rno2WDdDYkhn?oc=5",
-      "summary": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes Ynetnews",
-      "summary_original": "Report: Iran rebuilds missile and drone factories, replenishes arsenal despite US-Israeli strikes Ynetnews",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T17:01:10+03:30",
-      "published_fa": "1405/07/18 - 17:01",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2023,21 +1993,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport - The Independent",
-      "title_original": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjNwSUxndUZFN0xrSFhmQzFVMkR4c08zc0JsZHU0ZTJ5TzB0aW8wSjRuY2l3YWNJelBydXZleXV3d2o4VWV5ZXFib09YV2Z3bjBrdGNXX1ptSTNVbVlOV2cxTTJtZjhvWXFUdGZVenplem1aeTY1bkFkLVc0Q2lPTjhBQmNhY0VsazkwbmZPRmh0dnBteWFBVk9xSWNhWS1OLVpjZU1jV3N1WDRTRHFrVkFiVVctNlBhbkpHTW5oMA?oc=5",
-      "summary": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport The Independent",
-      "summary_original": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport The Independent",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T09:02:41+03:30",
-      "published_fa": "1405/07/18 - 09:02",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Opinion | Foiled hijacking showed a shifting Middle East - The Washington Post",
       "title_original": "Opinion | Foiled hijacking showed a shifting Middle East - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFg4dGJrc2ttSUgyRUNhVUZEUzFDMWpFUmhtS19IQ3dtNlZON0pHbW43dHdIZzhURXNBOTd6MkJHSWY0WXVhVGx4SFhfeFo4empHZHZpRVQ4UExpaFExbG40MkE0T3BaVDFvcGUwaVE2Q01QMlNUVzczR2JSbzNRODdoZUU1bGpfd1MzZHRRRS1uTjFIbkRUbEY1dlRTdkFfb3Z6RWZ2ZlRqX0FVZURfMlBuOUEzalU?oc=5",
@@ -2049,21 +2004,6 @@
       "urgent": false,
       "published": "2026-10-10T09:00:37+03:30",
       "published_fa": "1405/07/18 - 09:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - The Independent",
-      "title_original": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2dXd0IzeXVJNEozTDR2OHp6WFNadi02VEhQbjdxUnpDZ2lsZUdyQXdKendoMzBSUFJEVGtTbFBBaVVGWVVLcmVOcFpsUjZkYTkyU2JRbWpNejVXa3llajFibThQUFFYMkJieWR5M0V2RnloYlBuYi1pZVBKQWNQT0RhamVHdkh0X2J2YjllcmM3TUFLTE1qNURIcjU3ZzQ?oc=5",
-      "summary": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled The Independent",
-      "summary_original": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled The Independent",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T08:50:00+03:30",
-      "published_fa": "1405/07/18 - 08:50",
       "translated": true,
       "verified_source": true
     },
@@ -2960,6 +2900,38 @@
       "verified_source": true
     },
     {
+      "title": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport - The Independent",
+      "title_original": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjNwSUxndUZFN0xrSFhmQzFVMkR4c08zc0JsZHU0ZTJ5TzB0aW8wSjRuY2l3YWNJelBydXZleXV3d2o4VWV5ZXFib09YV2Z3bjBrdGNXX1ptSTNVbVlOV2cxTTJtZjhvWXFUdGZVenplem1aeTY1bkFkLVc0Q2lPTjhBQmNhY0VsazkwbmZPRmh0dnBteWFBVk9xSWNhWS1OLVpjZU1jV3N1WDRTRHFrVkFiVVctNlBhbkpHTW5oMA?oc=5",
+      "summary": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport The Independent",
+      "summary_original": "Iran-US war latest: Airline captain among three dead in Houthi attack on international airport The Independent",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-09T20:02:41+03:30",
+      "published_fa": "1405/07/17 - 20:02",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms - Marine Link",
+      "title_original": "Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms - Marine Link",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0NNQjBnWXd4LS1pbDdKejZVVmNNaWpsdjhuUDdiTXd6Zy1QY1owYzNGeWNkZjUwUl9pM1J6dE9SYl9DcGtVTC1uTEZpM0ZEQWxzUTRQdGVjeUxSMl8zMVg3dFgtamRfT3R5N2ZVa0tpRVlFZHVpdGFoTFlMbkFEUTl3?oc=5",
+      "summary": "Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms Marine Link",
+      "summary_original": "Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms Marine Link",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T20:00:37+03:30",
+      "published_fa": "1405/07/17 - 20:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Denver, Boulder ignored ICE detainers for migrants with child abuse, assault arrests, House GOP report reveals",
       "title_original": "Denver, Boulder ignored ICE detainers for migrants with child abuse, assault arrests, House GOP report reveals",
       "link": "https://www.foxnews.com/politics/denver-boulder-ignored-ice-detainers-migrants-child-abuse-assault-arrests-house-gop-report-reveals",
@@ -3205,26 +3177,26 @@
       "verified_source": true
     },
     {
-      "title": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks - WSJ",
-      "title_original": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0QxZmt6OUdKUzlCX0xERlR1VlVGQ01ObEY4SXIwMWY1X0lRYmNzT3FXWEF1QXVOMzJRT0pfWVN3ak8xeDRWNTV5T2pWclB5aTZPM2R2VnVBc1lLMi02a1dIYlVHSkFCV0kyYXlzS0daajJyMVo1WnhNZDBiRmpHQWNhelVfUmJMb1VTZ1VTQjNQU25SOUhxMjhQT2FibFpFMHJmZU5sNzUtZkRLWVFTVUhndzZ1TXc1QjJHa2ZKUG9UUQ?oc=5",
-      "summary": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks WSJ",
-      "summary_original": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks WSJ",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T13:26:58+03:30",
-      "published_fa": "1405/07/17 - 13:26",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "US said preparing options to renew Iran war, including plan for 3 days of intense strikes - The Times of Israel",
       "title_original": "US said preparing options to renew Iran war, including plan for 3 days of intense strikes - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVWNzSUJZTWhicmlGYUpqd1NZcEI0T2JsSFNSbFprWXVackZEMDNGNElVOVcxOVVscWR2VGdITnkxQ0NaNEx0eE9HZVFyN0xlNG1KU3JEVU9RQS01NWlWcWtVZHVpV3ZDV29oS2pPM1JpQjB0RGdVaVFuTHNMTUtaNWsxd3lsWHNhcXNyNzdXLThkdkpQMzluRUZ2UGRmM1BzQVBoOWYyazFMUTVqdmg1TlBQdTNzc04yRC1Z0gHAAUFVX3lxTE5tOTR4aXFwc2dwWUJsOEo5bm5YLUw2b2pqSmt4OHp3NnFGMUxaeF9MeWhIY0ZnZDVJNGl3by0tWW1XOFRFVGx0TUlvN2tVNm5vWFdtVVlvdGdFb2dfejFXc3RnNmdnMEplelM1VnROc3NBYUZUclFqb1V4YVpJdURxMDhKRXV1TF9sRDcyZTU0MXVfVXlRRXdLVUg1dl9VaWRHV3pqUmlnNVhYVzRqWGxELUdvSFktRFdqeTZRX014cg?oc=5",
       "summary": "US said preparing options to renew Iran war, including plan for 3 days of intense strikes The Times of Israel",
       "summary_original": "US said preparing options to renew Iran war, including plan for 3 days of intense strikes The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-09T12:55:00+03:30",
+      "published_fa": "1405/07/17 - 12:55",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks - WSJ",
+      "title_original": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0QxZmt6OUdKUzlCX0xERlR1VlVGQ01ObEY4SXIwMWY1X0lRYmNzT3FXWEF1QXVOMzJRT0pfWVN3ak8xeDRWNTV5T2pWclB5aTZPM2R2VnVBc1lLMi02a1dIYlVHSkFCV0kyYXlzS0daajJyMVo1WnhNZDBiRmpHQWNhelVfUmJMb1VTZ1VTQjNQU25SOUhxMjhQT2FibFpFMHJmZU5sNzUtZkRLWVFTVUhndzZ1TXc1QjJHa2ZKUG9UUQ?oc=5",
+      "summary": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks WSJ",
+      "summary_original": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks WSJ",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -3639,11 +3611,11 @@
       "verified_source": true
     },
     {
-      "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
-      "title_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
+      "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans - The New York Times",
+      "title_original": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5",
-      "summary": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates The New York Times",
-      "summary_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates The New York Times",
+      "summary": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans The New York Times",
+      "summary_original": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans The New York Times",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -3858,6 +3830,23 @@
       "verified_source": true
     },
     {
+      "title": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims - The Jerusalem Post",
+      "title_original": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBueVZRSExhZFpMOTV2QndQRXl2WUg4a0ZGSFIwWXF6VTlvT052TjI2U0cwZldwSjNIclVlQlJsMGtEa1hwRElSQU1LV0VUb1Rjc3p6VDJ3YTdhOUpJMERhRnl2Tm9IT2RyV0QxOG1Ob2RMd1Z3YnFOTkFhdw?oc=5",
+      "summary": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims The Jerusalem Post",
+      "summary_original": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims The Jerusalem Post",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-08T19:04:10+03:30",
+      "published_fa": "1405/07/16 - 19:04",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Israel assassinated Iran's navy chief over fears he could lead a more dangerous IRGC - exclusive - The Jerusalem Post",
       "title_original": "Israel assassinated Iran's navy chief over fears he could lead a more dangerous IRGC - exclusive - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcThYRXlQYkVmSjhWdFg0SEtPQ09sQkVlY204cEg2MElLTUVjM1hoZlJjZ3MyQnZtTEtCb3cxZzkxakMxR1RnMXl3MEp3bExWTXA0XzJBSlItclVsYWZpUWhpeDRYN3FQcUE?oc=5",
@@ -3998,6 +3987,23 @@
       "urgent": false,
       "published": "2026-10-08T16:31:51+03:30",
       "published_fa": "1405/07/16 - 16:31",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran says first flight operated by foreign airline lands since war began - Al Arabiya English",
+      "title_original": "Iran says first flight operated by foreign airline lands since war began - Al Arabiya English",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVE9OaTJJVVJQY3B3X2JvQWVqQ1R1TS0zVlVfMkdDUUVVM0JJbzdLMWN4OFJsOHdqVlB6SXFIS2JvaTNSb19VbVZpUmp4Zkc2NlJSbjNuUV85aFNSQVJzVG1uRFZWVG44c25hOGp6MWh5SURRM2JYY1B6M1czUFJPcTBObmI4dzJoQlhhOWtQemJaYTNkVTRyWEVoUkFRb2s5RTM4OW83Uno1TW1wMWNYcnhSUFlacXNEU1RRcHhvbUpsclFpZ2V6TGdB0gHPAUFVX3lxTFBqTG5iUVlKZldvd0RsWGJ1cHh2RUJHQ1p6UzV0Uk53ODczNXBTdTcxbklnV255ZmJHWHNRTFNjVGNlRzJRYnMwbEluUXFXUHZYUERlNl9jOW1PVTB4UlM3SmRGM3hkVUczd0IzVDJDQlJUNEUydU80Q3MyNGRFYVY4MjNDQWpSeHprY0lUS3loY2xPbnNnVEtpeTJ5NnF1cDUzekFHaXptVlZNMU9iRU9SZFVJNzEwUWhxdXFjZURVVW9ETlQ2Y1hmMTZSM0t6NA?oc=5",
+      "summary": "Iran says first flight operated by foreign airline lands since war began Al Arabiya English",
+      "summary_original": "Iran says first flight operated by foreign airline lands since war began Al Arabiya English",
+      "source": "Google News",
+      "category": "other",
+      "tags": [
+        "فلایت رادار"
+      ],
+      "urgent": false,
+      "published": "2026-10-08T16:03:00+03:30",
+      "published_fa": "1405/07/16 - 16:03",
       "translated": true,
       "verified_source": true
     },
@@ -4385,23 +4391,6 @@
       ],
       "urgent": false,
       "published": "2026-10-08T01:38:43+03:30",
-      "published_fa": "1405/07/16 - 01:38",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Donald Trump, world leaders mourn third anniversary of Oct. 7 massacre - The Jerusalem Post",
-      "title_original": "Donald Trump, world leaders mourn third anniversary of Oct. 7 massacre - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwblJHa0U5dTNRYlUzWkViSHluUml2SHdDcEZmWkJMLXZOdXpETk93SkVCREZFVkxrZnVIMHo1Nl9OUWtjQ0RxaGw4N1kwTXFRZ3VNOVFLd3EzRzRWVDlF?oc=5",
-      "summary": "Donald Trump, world leaders mourn third anniversary of Oct. 7 massacre The Jerusalem Post",
-      "summary_original": "Donald Trump, world leaders mourn third anniversary of Oct. 7 massacre The Jerusalem Post",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T01:38:18+03:30",
       "published_fa": "1405/07/16 - 01:38",
       "translated": true,
       "verified_source": true
@@ -5278,6 +5267,23 @@
       "verified_source": true
     },
     {
+      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
+      "title_original": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+      "summary": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech Al Jazeera",
+      "summary_original": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-09-24T10:30:00+03:30",
+      "published_fa": "1405/07/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Middle East governments brace for possible escalation as Iran warns against U.S. action - Vatican News",
       "title_original": "Middle East governments brace for possible escalation as Iran warns against U.S. action - Vatican News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXJCeEFwMDdTZ0hMRWtyaVlWRUt6aVZrRUg5T0lockZxQ01POVIxRFplVjEySFFfOEliTm5HajhHTzNzc3Yyb1Yta1pXVUZMRWdvclJXLXRfa1NpVDZUeklsWDdwRy1yNDRHc3pmZllkc2k4SkdRUV90UUt2eTBWdDFKeExSOEhqQXQ4b01SQUhmSmgtbVpBOXhuNjBfcWMweEZjc1BaVHZfQnZZb0Zsc1pn?oc=5",
@@ -5367,24 +5373,6 @@
       "urgent": false,
       "published": "2026-09-19T10:30:00+03:30",
       "published_fa": "1405/06/28 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally - Iran International",
-      "title_original": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oSENZUzRDdkdRT1ZVTVVWVHpNb3hiM1NvbmZpc0tTOWZpbE16c2ZvSXduU3I4T2pPeHI3QldYWG1va01WYk5mSnNNREFHUnNPVkE?oc=5",
-      "summary": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally Iran International",
-      "summary_original": "Coffins bearing Trump, Netanyahu images displayed at Tehran rally Iran International",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-09-18T10:30:00+03:30",
-      "published_fa": "1405/06/27 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6211,24 +6199,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
-      "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
-      "summary": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
-      "summary_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-10T10:30:00+03:30",
-      "published_fa": "1405/05/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Netanyahu Walks ‘Political Tightrope’ on Trump’s Gaza Disarmament Deal - The New York Times",
       "title_original": "Netanyahu Walks ‘Political Tightrope’ on Trump’s Gaza Disarmament Deal - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHFOamp4WHZPdEsxTGVLNC00YzBMTmRZOGVyTFhBTFg4bmw1cVN6TFpyZGFHSzk4b0ZrR2w2eVU2V19uYklhUUFVY1hBZ0loeXdZNk9WX2hwVGFZYldndV9hV1pLRVZHbGFxbnFpMzc4RTg3VWNVTnh2MjIwbDFaYjIzY3h6YjFva09OVkdDaXlHalZCM296bXZHbWk?oc=5",
@@ -6240,6 +6210,24 @@
         "ترامپ",
         "نتانیاهو",
         "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
+      "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
+      "summary": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
+      "summary_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
       ],
       "urgent": false,
       "published": "2026-08-10T10:30:00+03:30",
@@ -6549,21 +6537,6 @@
       "verified_source": true
     },
     {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
-      "title_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic - NPR",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2NPZmdVZ0xwNXFneGxDWWpGa21KRTE4UHRnWFJ3OXRqRGIxc2JaN3dxQnBnc19IakEtV0pPR25QNHNYb3E1TUxHYW5CRTlKS3FxNDRBWmxvSjZ6SHU3aGk0X3VPTXRVdTg1VXNnM0ZVNHJpaHRjUHYtajJQclBCamliTm5IWjZCWFVBelRuVER6X2c4UHh3LUx3Rk5sdlJ1bHliS3VVbFhheE56aWdiMk9ZcjNkRDZPc2N0dlMwNy1UVjRTUmc?oc=5",
-      "summary": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
-      "summary_original": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic NPR",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-07-29T10:30:00+03:30",
-      "published_fa": "1405/05/07 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Netanyahu at White House for first Trump talks during Iran war - Courthouse News",
       "title_original": "Netanyahu at White House for first Trump talks during Iran war - Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEdqSGQ2cktwVEF6RjNMc3VRbm9McmJJSkVWc3VCMFZSYldlWXZ2UGZqeVlncTVRc3Atd1Bxd0ZyNTlHV21TSVVlTGV6YWNfZWRKVkNpbmJxT3hPRDhDQnBzWEpXd3U5WnYzQ3NOWldSNTJSdGhlOE9xUjBIbkxaVzVTZTJBN2szNHpxVnczX0NRQWhrZjRzWmln?oc=5",
@@ -6579,6 +6552,25 @@
       "urgent": false,
       "published": "2026-07-28T19:27:41+03:30",
       "published_fa": "1405/05/06 - 19:27",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks - Al Jazeera",
+      "title_original": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDIyc1dzckZFZ0RzcVF1N0NaUHVDNzBLR3d0VUEwTjhIRHYxQktIZ2hobHlHQkh3cHdkZmJrbDh4Q21NSGcxRUVRM29rQlFkZ3ZfSG9MRWJNbzBJRzJQVXA5Mmp6cXBUZkVEa3BKMmt0WDJ2eEtGOUtSeWxOc2dfdWNMX056M29Zc05JQ1MxV2VrSjJCZFpPVkNaZ3lrTFFSNnlLOE5CZkpTd0M0elNuQmJFUi3SAboBQVVfeXFMTjgxWU81QTR1XzRFbzZ0RHJEenVKUjlwZWNRSnhpRjBXX1JxX1FCMUdldzBUVjc4RUItdnAtTWtLOVBIV1NMLU9fOUVlUXRVSnlLdW9rUmw5ajBZX1BwcnlidmIzNUVsZmVBYVFobG1iRy1yb2tRQmNIMlVqNTQ1dm40UkFSalF4U1JER3E5RGpBR0x2Ukt1cW9NaUFMTEtYdXBVYWVIT3VBRFk1MWc1ajYyenpvWDE0UFJ3?oc=5",
+      "summary": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks Al Jazeera",
+      "summary_original": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-07-28T10:30:00+03:30",
+      "published_fa": "1405/05/06 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6727,6 +6719,24 @@
       "verified_source": true
     },
     {
+      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
+      "title_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHpBTVNmeGw1SzJFa2lOWldIVmVKNGhiWWF3UEZFSkJ0UjdhdHVXOVpGYVh3a014RmxnWmxOLU0wdzI0QXhfNkpzXzg5VEsyRkxpTTdRRkZMS0ttZUZTTGJGM29aVFFuekdkaXE0cmFjaFAxYldnX0M3UDdqeVhmaTlJZUJxXzMwb1gwOEMybVdQbG9HQXBVcUVMNmlJWWFrVTkzeTVuSHhFOHpISXlqOTlrVdIBuAFBVV95cUxQN2FIM0ZaT0FkNHppSEpqOWdSSU1UdmI2YlNVSXJfVVVFUTVZUFZ4TmdYR2Q4UDhyR29OWUFBSjZ4enR0QlpFQkZQRFJObnhVc0k0NEh5bE5WZ1ZkRFJaNXpqYms3VWNLU25JSUxteWxlTjVNTVJhbW5EY0pvZnZaRDV4V3czT3Jva0FweVFRTVZNeXhRcmlFWkd0RTE5Zk9yTFVnWFA3NEdBV3EycDlWcXR2Tkx6d1NV?oc=5",
+      "summary": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
+      "summary_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-07-28T10:30:00+03:30",
+      "published_fa": "1405/05/06 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
       "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
@@ -6750,24 +6760,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWlqZVJnYW00NkVSQTgtbjl6WENRS25iclkxanF4bG12YzRsc2V6OGU5akNONnlCQmlQX09hVFRhU0cxUnd4Rm1yTHdXMGkwQ1lzUi1HT1lQckl0bVI5WERISEl2Z0xqX1l5V3Z1TGdxTnpZemRscUVTT2ZZcXRQR25KcWVKVWxJcWF4ZzY2RVdraG5UTkxJ?oc=5",
       "summary": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
       "summary_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T10:30:00+03:30",
-      "published_fa": "1405/05/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
-      "title_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHpBTVNmeGw1SzJFa2lOWldIVmVKNGhiWWF3UEZFSkJ0UjdhdHVXOVpGYVh3a014RmxnWmxOLU0wdzI0QXhfNkpzXzg5VEsyRkxpTTdRRkZMS0ttZUZTTGJGM29aVFFuekdkaXE0cmFjaFAxYldnX0M3UDdqeVhmaTlJZUJxXzMwb1gwOEMybVdQbG9HQXBVcUVMNmlJWWFrVTkzeTVuSHhFOHpISXlqOTlrVdIBuAFBVV95cUxQN2FIM0ZaT0FkNHppSEpqOWdSSU1UdmI2YlNVSXJfVVVFUTVZUFZ4TmdYR2Q4UDhyR29OWUFBSjZ4enR0QlpFQkZQRFJObnhVc0k0NEh5bE5WZ1ZkRFJaNXpqYms3VWNLU25JSUxteWxlTjVNTVJhbW5EY0pvZnZaRDV4V3czT3Jva0FweVFRTVZNeXhRcmlFWkd0RTE5Zk9yTFVnWFA3NEdBV3EycDlWcXR2Tkx6d1NV?oc=5",
-      "summary": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
-      "summary_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
       "source": "Google News",
       "category": "politics",
       "tags": [
