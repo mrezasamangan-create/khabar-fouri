@@ -1,328 +1,57 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>خبر فوری خاورمیانه | آپدیت خودکار روزانه</title>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f172a">
+  <title>رصدگیر | رصد اخبار ایران و خاورمیانه</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&display=swap');
-    body { font-family: 'Vazirmatn', system-ui, sans-serif; }
-    .news-card { transition: all 0.2s ease; }
-    .news-card:hover { transform: translateY(-3px); box-shadow: 0 12px 28px -6px rgba(0,0,0,0.18); }
-    .modal { display: none; }
-    .modal.active { display: flex; }
-    .badge-hot { animation: pulse 1.5s infinite; }
-    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.5} }
-    .scrollbar-hide::-webkit-scrollbar { display: none; }
-    .img-cover { object-fit: cover; }
+    body{font-family:'Vazirmatn',system-ui,sans-serif}.news-card{transition:transform .18s,box-shadow .18s}.news-card:hover{transform:translateY(-2px);box-shadow:0 12px 28px -8px #0f172a24}.scrollbar-hide::-webkit-scrollbar{display:none}.modal{display:none}.modal.active{display:flex}.badge-live{animation:pulse 1.5s infinite}@keyframes pulse{50%{opacity:.45}}.line-clamp-3{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
   </style>
 </head>
 <body class="bg-slate-100 text-slate-800">
-
-  <header class="bg-white border-b sticky top-0 z-40 shadow-sm">
-    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center text-white font-bold text-lg">خ</div>
-        <div>
-          <h1 class="text-xl font-bold">خبر فوری خاورمیانه</h1>
-          <p class="text-xs text-slate-500" id="todayLabel">آپدیت خودکار • فقط اخبار امروز</p>
-        </div>
-      </div>
-      <div class="flex items-center gap-3 text-sm">
-        <button onclick="forceRefresh()" class="flex items-center gap-1.5 bg-slate-100 hover:bg-slate-200 px-3 py-1.5 rounded-lg text-xs font-medium">
-          <i class="fa-solid fa-arrows-rotate" id="refreshIcon"></i>
-          <span id="lastUpdate">بارگذاری...</span>
-        </button>
-        <span class="hidden sm:inline-flex items-center gap-1.5 text-red-600 font-medium">
-          <span class="w-2 h-2 bg-red-500 rounded-full badge-hot"></span> زنده
-        </span>
-      </div>
-    </div>
-  </header>
-
-  <div class="bg-red-600 text-white">
-    <div class="max-w-6xl mx-auto px-4 py-2.5 flex items-center gap-3 overflow-x-auto scrollbar-hide">
-      <span class="bg-white text-red-600 text-xs font-bold px-2 py-1 rounded shrink-0">فوری</span>
-      <p id="breakingText" class="text-sm font-medium whitespace-nowrap">در حال دریافت آخرین اخبار امروز...</p>
-    </div>
+<header class="sticky top-0 z-40 bg-white/95 backdrop-blur border-b shadow-sm">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-3">
+    <div class="flex items-center gap-3"><div class="w-11 h-11 rounded-xl bg-red-600 text-white flex items-center justify-center text-xl"><i class="fa-solid fa-satellite-dish"></i></div><div><h1 class="text-xl font-extrabold">رصدگیر</h1><p class="text-xs text-slate-500">رصد چندمنبعی اخبار ایران و خاورمیانه</p></div></div>
+    <div class="flex items-center gap-3 text-sm"><div class="text-left"><div id="todayLabel" class="font-semibold">در حال خواندن تاریخ…</div><div id="lastUpdate" class="text-xs text-slate-500">در حال بررسی آخرین به‌روزرسانی…</div></div><button id="refreshBtn" class="rounded-lg bg-slate-900 hover:bg-slate-700 text-white px-3 py-2 text-xs font-semibold"><i id="refreshIcon" class="fa-solid fa-rotate ml-1"></i>تازه‌سازی</button></div>
   </div>
-
-  <main class="max-w-6xl mx-auto px-4 py-6">
-    <div class="bg-amber-50 border border-amber-200 rounded-xl p-3 mb-5 text-sm text-amber-800">
-      <strong>نکته مهم:</strong> این نسخه سعی می‌کند فقط اخبار امروز را نشان دهد و هر ۴ دقیقه خودش را به‌روز کند. 
-      برای آپدیت کامل و باکیفیت روزانه بدون نیاز به گفتن به من، باید یا هر روز این چت را باز کنی، یا بگویی تا راه‌اندازی GitHub Actions را کمکت کنم (راه دائمی).
-    </div>
-
-    <div class="flex flex-wrap gap-2 mb-5">
-      <button onclick="setFilter('all')" class="filter-btn active px-4 py-1.5 rounded-full text-sm font-medium bg-slate-900 text-white">همه امروز</button>
-      <button onclick="setFilter('citizen')" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white border">گزارش مردمی</button>
-      <button onclick="setFilter('military')" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white border">نظامی / سنتکام</button>
-      <button onclick="setFilter('trump')" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white border">کاخ سفید / ترامپ</button>
-      <button onclick="setFilter('satellite')" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white border">ماهواره</button>
-      <button onclick="setFilter('analyst')" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium bg-white border">تحلیل</button>
-    </div>
-
-    <div id="loading" class="text-center py-10 hidden">
-      <div class="inline-flex gap-1.5 mb-2">
-        <div class="w-2.5 h-2.5 bg-red-500 rounded-full animate-bounce"></div>
-        <div class="w-2.5 h-2.5 bg-red-500 rounded-full animate-bounce" style="animation-delay:0.15s"></div>
-        <div class="w-2.5 h-2.5 bg-red-500 rounded-full animate-bounce" style="animation-delay:0.3s"></div>
-      </div>
-      <p class="text-slate-500 text-sm">در حال دریافت اخبار تازه امروز...</p>
-    </div>
-
-    <div id="news-grid" class="grid gap-5"></div>
-
-    <section class="mt-10 bg-slate-900 text-white rounded-2xl p-5">
-      <h2 class="font-bold mb-3 flex items-center gap-2"><i class="fa-solid fa-plane"></i> ردیابی زنده هواپیماهای مهم</h2>
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-3 text-sm">
-        <a href="https://www.flightradar24.com/data/aircraft/f-35" target="_blank" class="bg-white/10 hover:bg-white/20 rounded-xl p-3 text-center">✈️ F-35</a>
-        <a href="https://www.flightradar24.com/data/aircraft/f-22" target="_blank" class="bg-white/10 hover:bg-white/20 rounded-xl p-3 text-center">🦅 F-22</a>
-        <a href="https://www.flightradar24.com/data/aircraft/b-1b" target="_blank" class="bg-white/10 hover:bg-white/20 rounded-xl p-3 text-center">💣 B-1B</a>
-        <a href="https://www.flightradar24.com/data/aircraft/b-2" target="_blank" class="bg-white/10 hover:bg-white/20 rounded-xl p-3 text-center">👻 B-2</a>
-      </div>
-    </section>
-
-    <section class="mt-6 grid md:grid-cols-2 gap-3">
-      <a href="https://t.me/VahidOnline" target="_blank" class="bg-white border rounded-xl p-4 flex items-center gap-3">
-        <div class="w-10 h-10 bg-blue-500 rounded-lg flex items-center justify-center text-white">📢</div>
-        <div><div class="font-bold text-sm">وحیدآنلاین</div><div class="text-xs text-slate-500">گزارش مردمی</div></div>
-      </a>
-      <a href="https://t.me/withyashar" target="_blank" class="bg-white border rounded-xl p-4 flex items-center gap-3">
-        <div class="w-10 h-10 bg-red-500 rounded-lg flex items-center justify-center text-white">⚔️</div>
-        <div><div class="font-bold text-sm">اتاق جنگ با یاشار</div><div class="text-xs text-slate-500">تحلیل و اخبار فوری</div></div>
-      </a>
-    </section>
-  </main>
-
-  <div id="modal" class="modal fixed inset-0 z-50 bg-black/60 backdrop-blur-sm items-center justify-center p-4">
-    <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl">
-      <div class="sticky top-0 bg-white border-b px-5 py-3 flex items-center justify-between">
-        <h2 id="modal-title" class="text-base font-bold leading-snug pl-3"></h2>
-        <button onclick="closeModal()" class="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center"><i class="fa-solid fa-xmark"></i></button>
-      </div>
-      <div class="p-5">
-        <div id="modal-image-container" class="mb-4 rounded-xl overflow-hidden bg-slate-50"></div>
-        <div id="modal-meta" class="flex flex-wrap gap-2 text-xs mb-3"></div>
-        <div id="modal-body" class="text-slate-700 leading-7 text-sm"></div>
-        <div id="modal-links" class="mt-5 pt-4 border-t flex flex-wrap gap-2"></div>
-      </div>
-    </div>
+</header>
+<div class="bg-red-600 text-white"><div class="max-w-6xl mx-auto px-4 py-2 flex items-center gap-3 overflow-x-auto scrollbar-hide"><span class="bg-white text-red-700 text-xs font-bold px-2 py-1 rounded shrink-0">آخرین خبر</span><p id="breakingText" class="text-sm whitespace-nowrap">در حال بارگذاری فهرست اخبار…</p></div></div>
+<main class="max-w-6xl mx-auto px-4 py-6">
+  <div class="rounded-xl border border-amber-200 bg-amber-50 p-3 mb-5 text-sm text-amber-900"><strong>یادآوری درباره اعتبار خبر:</strong> رصدگیر خبرها را از منابع مختلف گردآوری می‌کند؛ انتشار یک خبر به معنی تأیید مستقل آن نیست. برای خبرهای حساس، زمان انتشار و لینک منبع اصلی را بررسی کنید. پست‌های شبکه‌های اجتماعی ممکن است تأییدنشده باشند.</div>
+  <div class="flex flex-wrap gap-2 mb-4" id="filters">
+    <button data-filter="all" class="filter-btn px-4 py-2 rounded-full text-sm bg-slate-900 text-white">همه خبرها</button>
+    <button data-filter="politics" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">سیاسی</button>
+    <button data-filter="military" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">نظامی و امنیتی</button>
+    <button data-filter="economy" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">اقتصادی</button>
+    <button data-filter="social" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">گزارش‌های مردمی و اجتماعی</button>
+    <button data-filter="analysis" class="filter-btn px-4 py-2 rounded-full text-sm bg-white border">تحلیل</button>
   </div>
-
-  <footer class="bg-slate-900 text-slate-400 py-6 mt-10 text-center text-xs">
-    منابع: CENTCOM • White House • Al Arabiya • شبکه ۱۲ • @FaytuksNetwork • @MoloWarMonitor • وحیدآنلاین • یاشار<br>
-    آپدیت خودکار هر ۴ دقیقه • آخرین به‌روزرسانی خودکار: 2026-10-10 02:44 UTC • فیلتر سخت‌گیرانه روی اخبار امروز
-  </footer>
-
-  <script>
-    const today = new Date();
-    const todayStr = today.toLocaleDateString('fa-IR', { day: 'numeric', month: 'long', year: 'numeric' });
-    document.getElementById('todayLabel').textContent = `آپدیت خودکار • فقط اخبار ${todayStr}`;
-
-    const curated = [
-      {
-        id: 'c1', category: ['military','trump'], hot: true,
-        title: "سنتکام: تا امروز ۱۳۳ کشتی تجاری را برای محاصره ایران منحرف کردیم",
-        summary: "فرماندهی مرکزی آمریکا اعلام کرد نیروهایش ۱۳۳ کشتی را منحرف کرده‌اند. ادعای ایران مبنی بر بسته بودن هرمز را رد کرد.",
-        image: "https://pbs.twimg.com/media/HUNYUxmWMAAu3Fb.jpg",
-        source: "CENTCOM / العربیه",
-        time: "۹ اکتبر • امروز",
-        full: "سنتکام اعلام کرد تا ۹ اکتبر ۱۳۳ کشتی تجاری را در چارچوب محاصره دریایی ایران منحرف کرده است. این فرماندهی ادعای بسته بودن تنگه هرمز را رد کرد و گفت ترافیک انرژی در حال عبور است.",
-        links: [{text:"CENTCOM", url:"https://x.com/CENTCOM"}, {text:"العربیه", url:"https://x.com/AlArabiya_Eng"}]
-      },
-      {
-        id: 'c2', category: ['trump'], hot: true,
-        title: "کاخ سفید: جنگ خیلی زود تمام می‌شود • کنترل هرمز + دیزل روسیه",
-        summary: "ترامپ در سخنرانی امروز کاخ سفید گفت جنگ به زودی تمام می‌شود و با کنترل هرمز و عرضه دیزل روسیه قیمت سوخت کاهش می‌یابد.",
-        image: "https://pbs.twimg.com/media/HUNgRMBWwAAsjSC.jpg",
-        source: "کاخ سفید",
-        time: "۹ اکتبر • امروز",
-        full: "ترامپ در کاخ سفید گفت آمریکا کنترل کامل تنگه هرمز را دارد و با توافق دیزل روسیه، قیمت سوخت به شدت پایین می‌آید. همزمان تأکید کرد تا انتخابات میاندوره‌ای ۳ نوامبر حمله جدیدی به ایران انجام نمی‌شود.",
-        links: [{text:"کاخ سفید", url:"https://x.com/WhiteHouse"}]
-      },
-      {
-        id: 'c3', category: ['military','analyst'], hot: true,
-        title: "شبکه ۱۲ اسرائیل: زامیر از آمادگی آمریکا برای ازسرگیری جنگ مطلع شد",
-        summary: "رئیس ستاد ارتش اسرائیل هشدار داد ازسرگیری حملات می‌تواند انتخابات اسرائیل را به تأخیر بیندازد.",
-        image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
-        source: "شبکه ۱۲ (N12)",
-        time: "۹ اکتبر • امروز",
-        full: "به گزارش شبکه ۱۲، ایال زامیر از مقامات آمریکایی درباره احتمال ازسرگیری عملیات گسترده علیه ایران توجیه شده و هشدار داده این موضوع می‌تواند انتخابات اسرائیل را به تعویق بیندازد.",
-        links: [{text:"گزارش", url:"https://www.jfeed.com"}]
-      },
-      {
-        id: 'c4', category: ['citizen','military'], hot: true,
-        title: "سپاه: کشتی‌های متخلف را در کل خلیج فارس تعقیب می‌کنیم",
-        summary: "سپاه استراتژی جدید اعلام کرد و سه نفتکش خارج از هرمز در ۴۸ ساعت گذشته هدف قرار گرفتند.",
-        image: "https://pbs.twimg.com/media/HUMZnjwWwAA8PsS.jpg",
-        source: "@MoloWarMonitor",
-        time: "چند ساعت پیش",
-        full: "سپاه اعلام کرد برخورد با کشتی‌های متخلف دیگر محدود به تنگه هرمز نیست. طبق گزارش @MoloWarMonitor سه نفتکش خارج از هرمز هدف قرار گرفته‌اند.",
-        links: [{text:"منبع", url:"https://x.com/MoloWarMonitor"}]
-      },
-      {
-        id: 'c5', category: ['citizen'], hot: true,
-        title: "حمله به فرودگاه ریاض: ۳ کشته رسمی",
-        summary: "سازمان هواپیمایی عربستان تأیید کرد دو حمله به فرودگاه ملک خالد سه شهروند را کشت.",
-        image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80",
-        source: "وحیدآنلاین",
-        time: "۹ اکتبر",
-        full: "سازمان هواپیمایی عربستان اعلام کرد در دو حمله به فرودگاه ملک خالد سه شهروند کشته شدند.",
-        links: [{text:"وحیدآنلاین", url:"https://t.me/VahidOnline"}]
-      },
-      {
-        id: 'c6', category: ['satellite'], hot: true,
-        title: "تصاویر ماهواره‌ای: آتش در تأسیسات آرامکو بقیق و جده",
-        summary: "تصاویر مادون قرمز و سنتینل آسیب و آتش‌سوزی را تأیید می‌کند.",
-        image: "https://pbs.twimg.com/amplify_video_thumb/2108172071922544640/img/FLMl1YprFolMBdP0.jpg",
-        source: "OSINT / FIRMS",
-        time: "۹ اکتبر",
-        full: "تصاویر ماهواره‌ای دو کانون آتش در بقیق و آسیب به پالایشگاه جده را نشان می‌دهد.",
-        links: [{text:"منبع", url:"https://en.ypagency.net/407776"}]
-      }
-    ];
-
-    let allNews = [...curated];
-    let currentFilter = 'all';
-
-    function isRecent(pubDate) {
-      if (!pubDate) return true;
-      const d = new Date(pubDate);
-      const now = new Date();
-      const diffHours = (now - d) / (1000 * 60 * 60);
-      return diffHours < 36;
-    }
-
-    async function fetchLive() {
-      const queries = [
-        'CENTCOM Iran OR Hormuz when:1d',
-        'Trump (Iran OR Hormuz) (White House OR "Truth Social") when:1d',
-        '("Channel 12" OR N12 OR Al Arabiya) (Iran OR Zamir OR Hormuz) when:1d',
-        'Iran (tanker OR strike OR attack OR Aramco) when:1d'
-      ];
-      const results = [];
-      for (const q of queries) {
-        try {
-          const rss = `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`;
-          const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rss)}`;
-          const res = await fetch(url);
-          if (!res.ok) continue;
-          const data = await res.json();
-          (data.items || []).slice(0, 5).forEach((item, i) => {
-            if (!isRecent(item.pubDate)) return;
-            const title = item.title || '';
-            const lower = title.toLowerCase();
-            if (!/(iran|hormuz|saudi|trump|centcom|zamir|riyadh|tanker|aramco|israel)/i.test(lower)) return;
-            results.push({
-              id: 'live-' + Date.now() + '-' + i + Math.random().toString(36).slice(2,5),
-              category: lower.includes('trump') || lower.includes('white house') ? ['trump'] :
-                        lower.includes('centcom') || lower.includes('tanker') || lower.includes('military') ? ['military'] :
-                        lower.includes('zamir') || lower.includes('analyst') ? ['analyst'] : ['citizen'],
-              hot: i < 2,
-              title: title,
-              summary: (item.description || '').replace(/<[^>]+>/g, '').slice(0, 150) + '...',
-              image: item.thumbnail || item.enclosure?.link || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80',
-              source: item.author || 'Google News',
-              time: 'تازه • امروز',
-              full: (item.description || title).replace(/<[^>]+>/g, ''),
-              links: [{text: 'منبع اصلی', url: item.link}]
-            });
-          });
-        } catch(e) { console.warn(e); }
-      }
-      return results;
-    }
-
-    function renderNews() {
-      const grid = document.getElementById('news-grid');
-      let list = currentFilter === 'all' ? allNews : allNews.filter(n => n.category.includes(currentFilter));
-      list = list.sort((a,b) => (b.hot?1:0) - (a.hot?1:0));
-      if (!list.length) {
-        grid.innerHTML = '<div class="text-center py-12 text-slate-400">خبری در این دسته برای امروز نیست</div>';
-        return;
-      }
-      grid.innerHTML = list.map(item => `
-        <article class="news-card bg-white rounded-2xl border overflow-hidden cursor-pointer flex flex-col sm:flex-row" onclick="openModal('${item.id}')">
-          <div class="sm:w-[40%] h-48 sm:h-auto relative shrink-0">
-            <img src="${item.image}" class="w-full h-full img-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80'">
-            ${item.hot ? '<span class="absolute top-2 right-2 bg-red-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full">مهم</span>' : ''}
-          </div>
-          <div class="p-4 flex flex-col justify-between flex-1">
-            <div>
-              <div class="flex items-center gap-2 text-[11px] text-slate-500 mb-1">
-                <span class="font-medium text-slate-700">${item.source}</span>
-                <span class="text-red-600">${item.time}</span>
-              </div>
-              <h3 class="text-base font-bold leading-snug mb-1">${item.title}</h3>
-              <p class="text-slate-600 text-sm leading-6">${item.summary}</p>
-            </div>
-            <div class="mt-3 text-red-600 text-sm font-medium">ادامه <i class="fa-solid fa-arrow-left text-xs mr-1"></i></div>
-          </div>
-        </article>
-      `).join('');
-    }
-
-    function openModal(id) {
-      const item = allNews.find(n => n.id === id);
-      if (!item) return;
-      document.getElementById('modal-title').textContent = item.title;
-      document.getElementById('modal-image-container').innerHTML = `<img src="${item.image}" class="w-full max-h-72 object-contain" onerror="this.style.display='none'">`;
-      document.getElementById('modal-meta').innerHTML = `
-        <span class="bg-slate-100 px-2 py-0.5 rounded-full">${item.source}</span>
-        <span class="bg-red-50 text-red-700 px-2 py-0.5 rounded-full">${item.time}</span>
-      `;
-      document.getElementById('modal-body').innerHTML = `<p>${item.full}</p>`;
-      document.getElementById('modal-links').innerHTML = (item.links||[]).map(l => 
-        `<a href="${l.url}" target="_blank" class="bg-slate-900 text-white px-3 py-1.5 rounded-lg text-xs">${l.text}</a>`
-      ).join('');
-      document.getElementById('modal').classList.add('active');
-      document.body.style.overflow = 'hidden';
-    }
-
-    function closeModal() {
-      document.getElementById('modal').classList.remove('active');
-      document.body.style.overflow = '';
-    }
-
-    function setFilter(cat) {
-      currentFilter = cat;
-      document.querySelectorAll('.filter-btn').forEach(b => {
-        b.classList.remove('active','bg-slate-900','text-white');
-        b.classList.add('bg-white','border');
-      });
-      event.target.classList.add('active','bg-slate-900','text-white');
-      event.target.classList.remove('bg-white','border');
-      renderNews();
-    }
-
-    async function forceRefresh() {
-      const icon = document.getElementById('refreshIcon');
-      icon.classList.add('fa-spin');
-      document.getElementById('loading').classList.remove('hidden');
-      try {
-        const live = await fetchLive();
-        const titles = new Set(allNews.map(n => n.title.slice(0,40)));
-        const newItems = live.filter(n => !titles.has(n.title.slice(0,40)));
-        allNews = [...curated, ...newItems];
-        renderNews();
-        if (newItems.length) document.getElementById('breakingText').textContent = newItems[0].title;
-        document.getElementById('lastUpdate').textContent = new Date().toLocaleTimeString('fa-IR', {hour:'2-digit', minute:'2-digit'});
-      } catch(e) {
-        document.getElementById('lastUpdate').textContent = 'خطا در دریافت';
-      } finally {
-        icon.classList.remove('fa-spin');
-        document.getElementById('loading').classList.add('hidden');
-      }
-    }
-
-    forceRefresh();
-    setInterval(forceRefresh, 4 * 60 * 1000);
-
-    document.getElementById('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
-    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
-  </script>
-</body>
-</html>
+  <div class="flex flex-col sm:flex-row gap-3 mb-5"><input id="searchInput" type="search" placeholder="جست‌وجو در تیتر، منبع یا خلاصه خبر…" class="w-full sm:flex-1 rounded-xl border bg-white px-4 py-3 text-sm outline-none focus:ring-2 focus:ring-slate-300"><select id="sourceFilter" class="rounded-xl border bg-white px-4 py-3 text-sm"><option value="all">همه منابع</option><option value="Reuters">Reuters</option><option value="Fox News">Fox News</option><option value="Google News">Google News</option><option value="X / Twitter">X / Twitter</option><option value="Telegram">Telegram</option><option value="Instagram">Instagram</option></select></div>
+  <div class="flex items-center justify-between mb-3"><h2 class="font-bold text-lg">آخرین گزارش‌ها</h2><span id="resultCount" class="text-xs text-slate-500"></span></div>
+  <div id="status" class="hidden rounded-xl bg-white border p-5 mb-4 text-sm"></div>
+  <div id="newsGrid" class="grid gap-4"></div>
+  <div class="mt-8 rounded-2xl bg-slate-900 text-white p-5"><h2 class="font-bold mb-2 flex items-center gap-2"><i class="fa-solid fa-circle-info"></i> درباره منابع</h2><p class="text-sm text-slate-300 leading-7">نسخه فعلی از خوراک‌های RSS و نتایج خبری قابل‌دسترسی استفاده می‌کند. اتصال مستقیم به X، کانال‌های تلگرام و حساب‌های اینستاگرام نیازمند API رسمی، مجوز دسترسی و تنظیم کلیدهای محرمانه در GitHub است؛ این پلتفرم‌ها اجازه دریافت آزادانه تمام پست‌های همه حساب‌ها را نمی‌دهند.</p></div>
+</main>
+<div id="modal" class="modal fixed inset-0 z-50 bg-black/60 backdrop-blur-sm items-center justify-center p-4"><div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl"><div class="sticky top-0 bg-white border-b px-5 py-3 flex items-center justify-between gap-3"><h2 id="modalTitle" class="font-bold leading-7"></h2><button id="closeModal" class="shrink-0 w-9 h-9 rounded-full bg-slate-100"><i class="fa-solid fa-xmark"></i></button></div><div class="p-5"><div id="modalMeta" class="flex flex-wrap gap-2 text-xs mb-3"></div><div id="modalBody" class="text-sm leading-7 text-slate-700"></div><a id="modalLink" href="#" target="_blank" rel="noopener noreferrer" class="inline-flex mt-5 rounded-lg bg-slate-900 text-white px-4 py-2 text-sm">رفتن به منبع اصلی <i class="fa-solid fa-arrow-up-left-from-square mr-2"></i></a></div></div></div>
+<footer class="mt-8 bg-slate-950 text-slate-400 py-5 text-center text-xs">رصدگیر • تاریخ بر اساس منطقه زمانی ایران (Asia/Tehran) • گردآوری خودکار از منابع قابل‌دسترسی</footer>
+<script>
+const NEWS_URL = './news.json';
+let allNews = [], activeCategory = 'all';
+const $ = id => document.getElementById(id);
+function escapeHtml(value=''){return String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function tehranDate(date=new Date()){return new Intl.DateTimeFormat('fa-IR',{timeZone:'Asia/Tehran',weekday:'long',year:'numeric',month:'long',day:'numeric'}).format(date)}
+function updateClock(){ $('todayLabel').textContent=tehranDate(); }
+function categoryLabel(cat){return ({politics:'سیاسی',military:'نظامی و امنیتی',economy:'اقتصادی',social:'اجتماعی / گزارش مردمی',analysis:'تحلیل',other:'عمومی'})[cat]||'عمومی'}
+function filteredNews(){const q=$('searchInput').value.trim().toLocaleLowerCase();const source=$('sourceFilter').value;return allNews.filter(n=>(activeCategory==='all'||n.category===activeCategory)&& (source==='all'||String(n.source||'').includes(source)) && (!q||`${n.title} ${n.summary} ${n.source}`.toLocaleLowerCase().includes(q)));}
+function render(){const list=filteredNews();$('resultCount').textContent=`${list.length.toLocaleString('fa-IR')} خبر`;if(!list.length){$('newsGrid').innerHTML='<div class="bg-white border rounded-2xl p-8 text-center text-slate-500">خبری با این فیلتر پیدا نشد.</div>';return;}
+$('newsGrid').innerHTML=list.map((n,i)=>`<article class="news-card bg-white rounded-2xl border p-4 sm:p-5 cursor-pointer" data-index="${i}"><div class="flex flex-wrap items-center gap-2 text-xs mb-2"><span class="bg-slate-100 rounded-full px-2 py-1 font-semibold">${escapeHtml(n.source||'منبع نامشخص')}</span><span class="bg-blue-50 text-blue-700 rounded-full px-2 py-1">${escapeHtml(categoryLabel(n.category))}</span><time class="text-slate-500">${escapeHtml(n.published_fa||n.published||'زمان نامشخص')}</time></div><h3 class="font-bold text-base leading-7 mb-2">${escapeHtml(n.title)}</h3><p class="text-sm text-slate-600 leading-6 line-clamp-3">${escapeHtml(n.summary||'برای خواندن جزئیات، منبع اصلی را باز کنید.')}</p><div class="mt-3 flex justify-between items-center gap-3"><span class="text-xs text-slate-400">${n.verified_source?'منبع مستقیم':'گردآوری‌شده از خوراک خبری'}</span><span class="text-sm text-red-600 font-semibold">جزئیات <i class="fa-solid fa-arrow-left mr-1"></i></span></div></article>`).join('');
+$('newsGrid').querySelectorAll('article').forEach((el,i)=>el.addEventListener('click',()=>openArticle(list[i])));}
+function openArticle(n){$('modalTitle').textContent=n.title||'';$('modalMeta').innerHTML=`<span class="bg-slate-100 rounded-full px-2 py-1">${escapeHtml(n.source||'منبع نامشخص')}</span><span class="bg-blue-50 text-blue-700 rounded-full px-2 py-1">${escapeHtml(n.published_fa||n.published||'زمان نامشخص')}</span>`;$('modalBody').textContent=n.summary||'خلاصه‌ای در دسترس نیست. برای اطلاعات بیشتر منبع اصلی را ببینید.';const a=$('modalLink');a.href=n.link||'#';a.style.display=n.link?'inline-flex':'none';$('modal').classList.add('active');document.body.style.overflow='hidden';}
+function closeModal(){$('modal').classList.remove('active');document.body.style.overflow='';}
+async function loadNews(showStatus=true){const icon=$('refreshIcon');icon.classList.add('fa-spin');$('status').classList.add('hidden');try{const r=await fetch(`${NEWS_URL}?v=${Date.now()}`,{cache:'no-store'});if(!r.ok)throw new Error('news.json not found');const data=await r.json();allNews=Array.isArray(data.items)?data.items:[];allNews.sort((a,b)=>new Date(b.published||0)-new Date(a.published||0));const stamp=data.generated_at?new Date(data.generated_at):null;$('lastUpdate').textContent=stamp?`آخرین دریافت: ${new Intl.DateTimeFormat('fa-IR',{timeZone:'Asia/Tehran',hour:'2-digit',minute:'2-digit',year:'numeric',month:'2-digit',day:'2-digit'}).format(stamp)}`:'زمان دریافت نامشخص';$('breakingText').textContent=allNews[0]?.title||'فعلاً خبری در فایل داده‌ها وجود ندارد.';render();if(!allNews.length){$('status').textContent='هنوز خبری جمع‌آوری نشده است. اجرای GitHub Actions را بررسی کنید.';$('status').classList.remove('hidden');}}catch(e){if(showStatus){$('status').textContent='فایل news.json در دسترس نیست. ابتدا مخزن را با فایل‌های پروژه منتشر کنید و Workflow جمع‌آوری اخبار را اجرا کنید.';$('status').classList.remove('hidden');}$('lastUpdate').textContent='داده‌ها بارگذاری نشدند';}finally{icon.classList.remove('fa-spin');}}
+$('refreshBtn').addEventListener('click',()=>loadNews());$('searchInput').addEventListener('input',render);$('sourceFilter').addEventListener('change',render);$('filters').querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{activeCategory=b.dataset.filter;$('filters').querySelectorAll('button').forEach(x=>{x.className='filter-btn px-4 py-2 rounded-full text-sm bg-white border';});b.className='filter-btn px-4 py-2 rounded-full text-sm bg-slate-900 text-white';render();}));$('closeModal').addEventListener('click',closeModal);$('modal').addEventListener('click',e=>{if(e.target===$('modal'))closeModal()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});updateClock();setInterval(updateClock,30000);loadNews();setInterval(()=>loadNews(false),4*60*1000);
+</script>
+</body></html>
