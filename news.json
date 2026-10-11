@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T06:45:20.474518+00:00",
-  "generated_at_fa": "1405/07/19 - 10:15",
-  "count": 439,
+  "generated_at": "2026-10-11T07:05:02.844248+00:00",
+  "generated_at_fa": "1405/07/19 - 10:35",
+  "count": 437,
   "items": [
     {
       "title": "آنچه گذشت؛ حمله موشکی به فرودگاه ریاض و واکنش ترامپ: خیلی سریع عمل می‌کنیم",
@@ -15,8 +15,8 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T10:11:05.778583+03:30",
-      "published_fa": "1405/07/19 - 10:11",
+      "published": "2026-10-11T10:31:04.270230+03:30",
+      "published_fa": "1405/07/19 - 10:31",
       "translated": false,
       "verified_source": true
     },
@@ -33,17 +33,47 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T10:11:05.777505+03:30",
-      "published_fa": "1405/07/19 - 10:11",
+      "published": "2026-10-11T10:31:04.268801+03:30",
+      "published_fa": "1405/07/19 - 10:31",
       "translated": false,
       "verified_source": true
     },
     {
-      "title": "Saudi Arabia must respond to Iran-backed Houthi attacks on their airports - The Jerusalem Post",
-      "title_original": "Saudi Arabia must respond to Iran-backed Houthi attacks on their airports - The Jerusalem Post",
+      "title": "«سیاره‌ای که در آن متولد شدیم دیگر وجود ندارد»؛ هشدار یک اقلیم‌شناس درباره موج فزاینده پدیده‌های شدید آب‌وهوایی",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cdj0kj93e27o?at_medium=RSS&at_campaign=rss",
+      "summary": "رائول کوردرو، اقلیم‌شناس اکوادوری، می‌گوید اقلیم و شرایط جوی‌ای که در آن به دنیا آمده‌ایم دیگر وجود ندارند و در آینده‌ای که بتوان تصورش کرد نیز باز نخواهند گشت. او هشدار می‌دهد که جهان با افزایش موج‌های گرما، آتش‌سوزی‌ها، سیل‌ها و دیگر پدیده‌های شدید آب‌وهوایی روبه‌رو است، اما در عین حال معتقد است هنوز می‌توان از وخیم‌تر شدن بحران اقلیمی جلوگیری کرد.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T10:17:01+03:30",
+      "published_fa": "1405/07/19 - 10:17",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Flash flood sweeps away buildings in Nepal",
+      "title_original": "Flash flood sweeps away buildings in Nepal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+      "summary": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
+      "summary_original": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T10:04:31+03:30",
+      "published_fa": "1405/07/19 - 10:04",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "How will Saudi Arabia respond to Houthi attacks on strategic civilian infrastructure? - analysis - The Jerusalem Post",
+      "title_original": "How will Saudi Arabia respond to Houthi attacks on strategic civilian infrastructure? - analysis - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFQVk5Zmt5ZDVPRTN5RHdPaWVmTWEtekRsV0xBajd0SFlCWUNLN3R4WjlTY0ZpNmNpbVRHZVpDOXJ2RFpJb2tkTFF2ZHJfMnpNVkRvcGo0cGxLQlRO?oc=5",
-      "summary": "Saudi Arabia must respond to Iran-backed Houthi attacks on their airports The Jerusalem Post",
-      "summary_original": "Saudi Arabia must respond to Iran-backed Houthi attacks on their airports The Jerusalem Post",
+      "summary": "How will Saudi Arabia respond to Houthi attacks on strategic civilian infrastructure? - analysis The Jerusalem Post",
+      "summary_original": "How will Saudi Arabia respond to Houthi attacks on strategic civilian infrastructure? - analysis The Jerusalem Post",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -220,6 +250,21 @@
       "urgent": false,
       "published": "2026-10-11T07:40:08+03:30",
       "published_fa": "1405/07/19 - 07:40",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US strikes cargo vessel trying to run Iran blockade - The Nightly",
+      "title_original": "US strikes cargo vessel trying to run Iran blockade - The Nightly",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGdCLVpWOFkyaDBhZW5sSUpvYWJXbmJjc0ZiTFdyazQwcjEwVnhqUDA1cDMzakR2TjZLblF2YXVuakd6N0xuNmh1MmFGejRtMlFqN09yNEEwYVdiNlI5YjhmNFpoRG1CZXV5VGRQZXVTNWpQYVltRDZ6S2k1WElyMWFWcUFveWMyd25uRVNsc2NqZ0VMMUFzRHhQSWdsZ3hsa1FtWDM5bW1jYngtdkE0dTlVdXYtMWdRci1DRkNTN3Z4OVdKTnlvQ3QzVTk0dw?oc=5",
+      "summary": "US strikes cargo vessel trying to run Iran blockade The Nightly",
+      "summary_original": "US strikes cargo vessel trying to run Iran blockade The Nightly",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T07:32:41+03:30",
+      "published_fa": "1405/07/19 - 07:32",
       "translated": true,
       "verified_source": true
     },
@@ -922,21 +967,6 @@
       "verified_source": true
     },
     {
-      "title": "Rubio pledges US cooperation in Marine-linked murder case",
-      "title_original": "Rubio pledges US cooperation in Marine-linked murder case",
-      "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
-      "summary": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.",
-      "summary_original": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:00:36+03:30",
-      "published_fa": "1405/07/19 - 00:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "US military loses 81 aircraft as cost of Iran war balloons to $44 billion - The Jerusalem Post",
       "title_original": "US military loses 81 aircraft as cost of Iran war balloons to $44 billion - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GcURnTFU1UkUxeWZ4bkoxQjFrMWlKbVpndE03OFZuY2tiUlllOThpZ0lPVUtTY0pBalZkRnBBVEZhUXVsU0hhRGxYNTYyRWF6WXpFUVUwbFpadXUyNmM4?oc=5",
@@ -1160,21 +1190,6 @@
       "urgent": false,
       "published": "2026-10-10T22:17:46+03:30",
       "published_fa": "1405/07/18 - 22:17",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "New footage shows Iran’s ‘destruction of Israel’ clock still ticking down - The Times of Israel",
-      "title_original": "New footage shows Iran’s ‘destruction of Israel’ clock still ticking down - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNb0FwWjJfTHFyVFdFQlk4eHNGQlpMa0FucHlkbm9YaEZNN2YtdGM4ZmtBRUdnXzA2VlNoRWtZTVhhV3V5U0FqdWhMRW1mQTMxZzY3aFNLRWRHQnF6QWdIUnZpbEFRWTl2Q3h4QjZKRk1wR0JMM1ZJN1d3YkdQa2tFa1dSWUhkT19BOFNubzNuR2ZlYldIeHV0ZlJQNWg4Z3h6eXVPTm5lYjZ5Zzd4NHBMMGRfanA1SzREem0xQ1htdnJCRjFrT3JQQ3VNRl9TN1l1bi1qZXFaeHdJYUpzTU1nUW9DMEY1RnBHZVYxaUt0VEFnNmxKSEZHcmZiM0d3SmM2?oc=5",
-      "summary": "New footage shows Iran’s ‘destruction of Israel’ clock still ticking down The Times of Israel",
-      "summary_original": "New footage shows Iran’s ‘destruction of Israel’ clock still ticking down The Times of Israel",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T22:11:00+03:30",
-      "published_fa": "1405/07/18 - 22:11",
       "translated": true,
       "verified_source": true
     },
@@ -1522,23 +1537,6 @@
       "urgent": false,
       "published": "2026-10-10T18:32:13+03:30",
       "published_fa": "1405/07/18 - 18:32",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "کرملین: پوتین پیام ایران را به ترامپ منتقل کرده است",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/cqlydnx001pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "کرملین می‌گوید ولادیمیر پوتین دونالد ترامپ را از دیدگاه ایران مطلع کرده است. دیمیتری پسکوف، سخنگوی کرملین، امروز به خبرنگاران گفت که بخش عمده‌ تماس تلفنی جمعه ولادیمیر پوتین و دونالد ترامپ به اوکراین اختصاص داشت با این حال دیدگاه‌های ایران را به رئیس‌جمهور روسیه منتقل کرده است.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T18:25:06+03:30",
-      "published_fa": "1405/07/18 - 18:25",
       "translated": false,
       "verified_source": true
     },
@@ -3439,6 +3437,23 @@
       "verified_source": true
     },
     {
+      "title": "Watch Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue - Bloomberg.com",
+      "title_original": "Watch Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU1VcGlHcTQxWm03YmI3ODlEWW5mb0c0WUM3MXpGUFZsc1dIUGJCOVlYbzhrWkNzcWZSUE94dnc5VWc3WFhRNnpnaHc0eTF4TW9Gd0RYeWJsdnAxblpYYkpRWHBPR3BpelBxZ3FpV3pKMkEycndEM0J1SnUwUHpPNlpxRzlqTmppemhHWkxhZ1F4ZnJRdEJN?oc=5",
+      "summary": "Watch Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue Bloomberg.com",
+      "summary_original": "Watch Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue Bloomberg.com",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T11:33:08+03:30",
+      "published_fa": "1405/07/17 - 11:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Iran’s Theory of Victory - Foreign Affairs",
       "title_original": "Iran’s Theory of Victory - Foreign Affairs",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83X0k4ckI2V1lsYUoxQWpqcVFxektxMmJkN1Q1TU52b19LXzY1OUdFc2dkQkY0aklvTThQOWdfZ1VQNzJ1MkpIR3hneGNKTTBFWnJwWGxhRjBEMkFCQV9tQk50eXlzTWM?oc=5",
@@ -3875,21 +3890,6 @@
       "verified_source": true
     },
     {
-      "title": "Pakistan denies reports it carried out strikes targeting Yemen's Houthis - Middle East Eye",
-      "title_original": "Pakistan denies reports it carried out strikes targeting Yemen's Houthis - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEhHNm94cnB6bE40enhTd1NhNTNSQ2dSaFFBYzFxRU9RRjNrTmpZTlpOREN6Y0F6M0RZWlkzU25oR3Fjck4xckFmX3BqbTFWcUUxTkpfdUhKUWVfZHZNdlFmalY4ZEtEZWhMUG9sR2FMZWpnUEtKWXIzRnZvSmY5TDVtZFF2WDAyOU1Zd2RwVWk4NDl0MG9ocFAtenVnYkhIYmljaUJUbw?oc=5",
-      "summary": "Pakistan denies reports it carried out strikes targeting Yemen's Houthis Middle East Eye",
-      "summary_original": "Pakistan denies reports it carried out strikes targeting Yemen's Houthis Middle East Eye",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T22:45:07+03:30",
-      "published_fa": "1405/07/16 - 22:45",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Putin tells Iran president will ‘do everything’ to help end Middle East war - Al Arabiya English",
       "title_original": "Putin tells Iran president will ‘do everything’ to help end Middle East war - Al Arabiya English",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaC16Tlc3azQ2UVhlMlpaUGFpam8yT3lVQ1A3bkctd3d5SGl3UGFLNEdyZFNfNmI5RU50U3o0MG43OGJSeUhSQTNzeEd6eTdYSFJnUG92TVdKRy11cFFsdmR4ajl5Rlg2dEdkQURKeXJScDdENEo3RFBTTTFQck9NaVhzVGpFM2tOWDUtYmQwRENyRDlKaGxYekNZaS1vREdNcTVhM0JRVTBnZmFWZHZGdjRnbFk3aWJMdTJTRllvWnhVNGVEUFMteHJQNNIB0AFBVV95cUxQQTFtZExjemh5MGpqUHB2ZUZ5QldFMXQ5Y3Bhc2R5THhZTTdkUTdET2huUmdFUUI0ZWI2MUxGUGtXLUxKZUFJc3VOeGdpWTE2TUYtcGI1a09VejZaUGJKRDNUc3pnTWtyY0xBcnUzYjJCa04wNnB5YTdrXzhtMFJ5RzhZMkdHZGdkcFY5cW9mRl9EY3J3WUgtbnFtZ09UenUwNVhSYktpbXFGQ0VZVVY2NUp1SWUtZGtya1dBcGVHYUlnT3ZLS0J4b3VHc1BxdUp1?oc=5",
@@ -4129,13 +4129,13 @@
       "verified_source": true
     },
     {
-      "title": "America’s blockade is breaking Iran’s economy - The Economist",
-      "title_original": "America’s blockade is breaking Iran’s economy - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEtxcVZGaVdIeS03WllvZmNEM2FMYTJEQVRRM0wwTTRvdVhId2hkZlNoRF9CNkNLdkhYM0Yxa0tPYmVQWlRsdTJVcjM2VzlaSkFKaWlFTnJDRVRTZHpsRTVNZ20wTTJwb2pzWUhxVmZhcTJGY0lKeE9XbzhnMi1ucVYzbG9KZlNFdldUUkZrbXJVSVJCMW1CZGgzbzVnTHVqcXlGLTVn?oc=5",
-      "summary": "America’s blockade is breaking Iran’s economy The Economist",
-      "summary_original": "America’s blockade is breaking Iran’s economy The Economist",
+      "title": "Fancy a tour through the Middle East? - The Economist",
+      "title_original": "Fancy a tour through the Middle East? - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOU84SFNycldwNzFUN2tVdGxnVEtkdFhPV05PU015dGZvZEsxbUhTRG9yOFBCdzNEcDFQQ2hXZ3B5bmNsUTRORS1BS3JtcXNNZDBITHNjU29JWmpPS1dISnZISGYwNmcyV2xiYm8zTmlyR2xMVXk0ODRKWkdnZzBGd3Njc3N1ZHNn?oc=5",
+      "summary": "Fancy a tour through the Middle East? The Economist",
+      "summary_original": "Fancy a tour through the Middle East? The Economist",
       "source": "Google News",
-      "category": "economy",
+      "category": "other",
       "tags": [],
       "urgent": false,
       "published": "2026-10-08T16:31:51+03:30",
@@ -4144,13 +4144,13 @@
       "verified_source": true
     },
     {
-      "title": "Fancy a tour through the Middle East? - The Economist",
-      "title_original": "Fancy a tour through the Middle East? - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOU84SFNycldwNzFUN2tVdGxnVEtkdFhPV05PU015dGZvZEsxbUhTRG9yOFBCdzNEcDFQQ2hXZ3B5bmNsUTRORS1BS3JtcXNNZDBITHNjU29JWmpPS1dISnZISGYwNmcyV2xiYm8zTmlyR2xMVXk0ODRKWkdnZzBGd3Njc3N1ZHNn?oc=5",
-      "summary": "Fancy a tour through the Middle East? The Economist",
-      "summary_original": "Fancy a tour through the Middle East? The Economist",
+      "title": "America’s blockade is breaking Iran’s economy - The Economist",
+      "title_original": "America’s blockade is breaking Iran’s economy - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEtxcVZGaVdIeS03WllvZmNEM2FMYTJEQVRRM0wwTTRvdVhId2hkZlNoRF9CNkNLdkhYM0Yxa0tPYmVQWlRsdTJVcjM2VzlaSkFKaWlFTnJDRVRTZHpsRTVNZ20wTTJwb2pzWUhxVmZhcTJGY0lKeE9XbzhnMi1ucVYzbG9KZlNFdldUUkZrbXJVSVJCMW1CZGgzbzVnTHVqcXlGLTVn?oc=5",
+      "summary": "America’s blockade is breaking Iran’s economy The Economist",
+      "summary_original": "America’s blockade is breaking Iran’s economy The Economist",
       "source": "Google News",
-      "category": "other",
+      "category": "economy",
       "tags": [],
       "urgent": false,
       "published": "2026-10-08T16:31:51+03:30",
@@ -4465,21 +4465,6 @@
       "verified_source": true
     },
     {
-      "title": "Hezbollah got $200 million from Iran to help displaced Lebanese, sources say - The Times of Israel",
-      "title_original": "Hezbollah got $200 million from Iran to help displaced Lebanese, sources say - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkF3bmdzRWFNa1h6LXFfTjA5TWJ6UXctb0psVndRUUZDamJKcjQ4SWdRdTVLaWlQenQxT1ZpZVFvWjR3MFNHcndCNzkxU25uUHBIWTRPOTVEVDA4OHRvLXdNbXFMZGk3RDRqY3JXNHBKVFNOSWxSZFNGdkhGQUpCcFZmQWRMdW1nMlMyTFFlVVFaQm9iYjJQckJKTGF6WExxc1lSZGJIRC3SAa4BQVVfeXFMTnZnc3RNR3ZPVE15VVM2dDFhb18wR2NLdDEwNjd2YWRrU2NQUGZpLWhvNWVMVHBLY0hQOHFMZ2c3RmtNWG1RWmlabG55cFdSYXB5UEhnY2pEcF9KaXZCVGVKcDhuRzZIV0JRMjFBYjlCTjMxTVhZZk01VkZoTWlQdlVvbG9XX2E0YTB3YkNveFpnMnE4bkFFc3JqVXJ3cnl1dE1wSWhjdWhSazFuTmNR?oc=5",
-      "summary": "Hezbollah got $200 million from Iran to help displaced Lebanese, sources say The Times of Israel",
-      "summary_original": "Hezbollah got $200 million from Iran to help displaced Lebanese, sources say The Times of Israel",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T01:23:00+03:30",
-      "published_fa": "1405/07/16 - 01:23",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "El-Sayed says Netanyahu pushed US into Iran war - The Hill",
       "title_original": "El-Sayed says Netanyahu pushed US into Iran war - The Hill",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE5mdGwza2FkUXEzQTVVTFVac0JqYU9IaEhQX3gwTG5BVVhrc0J0RVZZbkdZdUREWTl3V0ZGOHFudm13YWZRejdCZlF2aDFISV94LV8xMGN4eFJmUWJVTUFIMXU2RXhodi1jUVBnakdoMG5wMC02cmJLUDQxWWE3cTlCQkdvaGPSAYwBQVVfeXFMTmJObzJTQkx0d2YwRXMxb0d4Rlh0RDJkb2JOQmZmZy12eGQzNnQ5a19BbFlrQmY3eTBrY2pRNzhXeklJTm05a3h6VXZYZnp4LV95XzhZVFdiaWR6b2EtUV8waExqSm9yOWVMekRGQlhSTHpINTVhMGhrT244Mi1hbGFqVU55NVZ4bGFhYTQ?oc=5",
@@ -4571,21 +4556,6 @@
       "urgent": false,
       "published": "2026-10-07T21:12:15+03:30",
       "published_fa": "1405/07/15 - 21:12",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Jordan’s Economy Weathers Iran War’s Shocks and Finds New Opportunities - Middle East Institute",
-      "title_original": "Jordan’s Economy Weathers Iran War’s Shocks and Finds New Opportunities - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnNaUDZLUDM5NEo2ck1JZGg2cmh6SlI1aUNWTmwzQVRIa2dvYmRlMkVtLV91UThJVGdOSGM2Z3l3Y1oxNTBleDFOYnVCSWI5bEFJWnNWbFNvVVN1dVJJVk9lNVRhRTV6RE4xZUV6MHZMUzVaMlltMThqemtZRUljbHRCZjlxUEppaG1lcEgzMll0WDZLSGFPZlFnVkI2OWM?oc=5",
-      "summary": "Jordan’s Economy Weathers Iran War’s Shocks and Finds New Opportunities Middle East Institute",
-      "summary_original": "Jordan’s Economy Weathers Iran War’s Shocks and Finds New Opportunities Middle East Institute",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-07T20:30:53+03:30",
-      "published_fa": "1405/07/15 - 20:30",
       "translated": true,
       "verified_source": true
     },
