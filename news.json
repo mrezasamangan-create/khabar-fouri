@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T23:14:29.272001+00:00",
-  "generated_at_fa": "1405/07/20 - 02:44",
-  "count": 433,
+  "generated_at": "2026-10-11T23:33:08.091499+00:00",
+  "generated_at_fa": "1405/07/20 - 03:03",
+  "count": 435,
   "items": [
     {
       "title": "آنچه گذشت؛ ادامه حملات حوثی‌ها به عربستان؛ فرودگاه ریاض برای سومین بار در چهار روز هدف قرار گرفت",
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T02:39:59.612926+03:30",
-      "published_fa": "1405/07/20 - 02:39",
+      "published": "2026-10-12T02:58:42.820741+03:30",
+      "published_fa": "1405/07/20 - 02:58",
       "translated": false,
       "verified_source": true
     },
@@ -28,9 +28,24 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T02:39:59.611900+03:30",
-      "published_fa": "1405/07/20 - 02:39",
+      "published": "2026-10-12T02:58:42.819433+03:30",
+      "published_fa": "1405/07/20 - 02:58",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
+      "title_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
+      "summary": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News",
+      "summary_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T02:52:27+03:30",
+      "published_fa": "1405/07/20 - 02:52",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -208,21 +223,6 @@
       "verified_source": true
     },
     {
-      "title": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 13 - Sky News",
-      "title_original": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 13 - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
-      "summary": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 13 Sky News",
-      "summary_original": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 13 Sky News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T01:22:27+03:30",
-      "published_fa": "1405/07/20 - 01:22",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
       "title_original": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
@@ -389,6 +389,23 @@
       "urgent": false,
       "published": "2026-10-12T00:11:09+03:30",
       "published_fa": "1405/07/20 - 00:11",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Riyadh airport attack kills 12 as Trump weighs Yemen strikes and Pentagon revises Iran war death toll; five killed in Gaza, nine injured in West Bank - Muslim News UK - The Muslim News",
+      "title_original": "Riyadh airport attack kills 12 as Trump weighs Yemen strikes and Pentagon revises Iran war death toll; five killed in Gaza, nine injured in West Bank - Muslim News UK - The Muslim News",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVWUwcU9VdlM2Y1BNZ0ZsOHBqcTRxWlI5eG1pSVUtX25RZHRwQTZOSjRId3B5QnZJR2hvR2h1NTBSZVdGUDhiR1FBWXBYNWF4eUZKQ0pJZ1ZSeE9YRS1oa2pmRG1JWmg4cE9zX055X192SFpaNUIwSFpXeDZ1alYxaTZXTnNCS1N4SXdRZ3diYmVReEVMeXQweXBmVEo5VTgwM3FLQ092MUp5LVdVWHpabGNMWV9JVWRvdjU4eEFfSWhodjFocnpiZFpsT1cyTE9fMjlrdlZYclBFM1VubHRheTdTRWJGcGY0NXpOVVdsOE9zaFpzZ3lpS2tZSFVxc29ZYlBpWHJVRXVTcTc0cGhuZ091OHpJTmc?oc=5",
+      "summary": "Riyadh airport attack kills 12 as Trump weighs Yemen strikes and Pentagon revises Iran war death toll; five killed in Gaza, nine injured in West Bank - Muslim News UK The Muslim News",
+      "summary_original": "Riyadh airport attack kills 12 as Trump weighs Yemen strikes and Pentagon revises Iran war death toll; five killed in Gaza, nine injured in West Bank - Muslim News UK The Muslim News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-12T00:10:06+03:30",
+      "published_fa": "1405/07/20 - 00:10",
       "translated": true,
       "verified_source": true
     },
@@ -684,24 +701,6 @@
       "published": "2026-10-11T21:50:20+03:30",
       "published_fa": "1405/07/19 - 21:50",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Netanyahu Holds Multiple Conversations With Trump Amid Iran Tensions; Source Says President Decides Independently - VINnews",
-      "title_original": "Netanyahu Holds Multiple Conversations With Trump Amid Iran Tensions; Source Says President Decides Independently - VINnews",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTEhCYjBZS2IxNkQ0N2xvcUNoVlVUSXd5YXZJU0dMbmlSSWpNN1h5QUNuQnpTREVpYnVGV0hpTEJ2QUhjVXhkd0ExdEl1QWE0RV95eVQ0TWRLVTF1cC1WU0xMdmZiQjJ2b19HSko3aHp6T0ozeVZjVFJkRmdBWGZpM0xTa2szLUh1cVd2WjJBWThiMmZtNS0yTncwUFU2SEwxWGtoQS1pd0FkTVVmZEJ2YWJ1VFhxMUwzS1NTYjlMOEZXc2cycWZfT3NOc2VudEVqeEpManpFZV8wcmh5?oc=5",
-      "summary": "Netanyahu Holds Multiple Conversations With Trump Amid Iran Tensions; Source Says President Decides Independently VINnews",
-      "summary_original": "Netanyahu Holds Multiple Conversations With Trump Amid Iran Tensions; Source Says President Decides Independently VINnews",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T21:48:07+03:30",
-      "published_fa": "1405/07/19 - 21:48",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2062,23 +2061,6 @@
       "verified_source": true
     },
     {
-      "title": "Maariv: Netanyahu Does Not Rule Out Strike on Iran... - Jordan News",
-      "title_original": "Maariv: Netanyahu Does Not Rule Out Strike on Iran... - Jordan News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1hmOG5nTDBFbWR5WEl0WDU3NGpvMnZXWDhwZExDLVFaVFBhcGpDOERTTlBFbUtRR1c1eFRidVVBV2ttd2dGM1dJTjNySHhtaHdNZExoMVVnTlhuQ1BSemJfZEtsS0lIU1F4VU01OFppN1hXQmswdmpMSGMwQ19jZ2NPUmZvOVZfVFM0S2MtMzBlUExpQjZyVHdWNlBiMzBaR2pQd25oaw?oc=5",
-      "summary": "Maariv: Netanyahu Does Not Rule Out Strike on Iran... Jordan News",
-      "summary_original": "Maariv: Netanyahu Does Not Rule Out Strike on Iran... Jordan News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T13:00:13+03:30",
-      "published_fa": "1405/07/19 - 13:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "لهستان اطلاعاتی درباره احتمال حمله به نخست‌وزیر و وزیر دفاع این کشور دریافت کرد",
       "title_original": "",
       "link": "https://www.iranintl.com/2026101144460",
@@ -2444,24 +2426,6 @@
       "published": "2026-10-11T09:30:00+03:30",
       "published_fa": "1405/07/19 - 09:30",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Trump Forces Netanyahu To Strike Iran Alone? IDF Warns Of Heavy Iranian Missile Response - The Times of India",
-      "title_original": "Trump Forces Netanyahu To Strike Iran Alone? IDF Warns Of Heavy Iranian Missile Response - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV18zb2Q5VUkzQTVXemV2aW5XdUZtSnVCQThfLTVqTFMwQVUwVW9hbndWOVlxcjdHLVVrRGluQm9XMGVwQVlwVGg3U1d0TENobGpjT2NRWHh1UGFmVDJucEs2a3BLVnZGZ3E5SkduX01VU2l4T3hoNmJ3cVpHT1JNWG5ER3RMMjFtVjF2SVAwcTVFVmNPVWtoaEFxczdVQmI1bjBxVjFsal9pOC1va1lJdy1HNFB3SWQyV0UtcjhCZ3VJM2QwaFV0Z1dYbDVvTHEzazJndUF5ZFM0TzZqVDVnNEpsNFZkWlBBWHlRRWVZdnZLVWJzbXd1am0zLUjSAYICQVVfeXFMT0swSTVxYUhRbHF6S1RWMXpRaG9ibHluY2RsVWtyWEF5cnVhb1N0dlNBN2NIZ2RvR0RnQVJxOXJDTHRtOVVvMTZKUDVyZUhGZG5VXzI2RmpDQjZ1b1gwVklhOEZnLW1TeS03dkFJQl9SY19oSFVTUVJ0S29PQkxpbkNtamRISmpnRXk2YXRpVWI0UGxkTXQ3Skh6cDZNWGhwQ2dJa2ZjSUNRSGYtRDI3S2c5VTlZaTdZWXltTTZrVFN4SUR5SVV0QS1HMy1wUWlDY1pHTDRJWTRJVWRYMV95M28tR0VDVVpVTGVwdjRhd3ItNzh6MjNBT0Q5cktSTzRkakRB?oc=5",
-      "summary": "Trump Forces Netanyahu To Strike Iran Alone? IDF Warns Of Heavy Iranian Missile Response The Times of India",
-      "summary_original": "Trump Forces Netanyahu To Strike Iran Alone? IDF Warns Of Heavy Iranian Missile Response The Times of India",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T09:24:06+03:30",
-      "published_fa": "1405/07/19 - 09:24",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -3018,6 +2982,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T00:11:56+03:30",
+      "published_fa": "1405/07/19 - 00:11",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "مدیرعامل تراکتور: تیم پس از ۱۶ ساعت به مسقط رسید، حتی غذای خوب هم نبود",
       "title_original": "",
       "link": "https://www.iranintl.com/202610104307",
@@ -3206,21 +3185,6 @@
       "urgent": false,
       "published": "2026-10-10T22:52:00+03:30",
       "published_fa": "1405/07/18 - 22:52",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
-      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T22:41:56+03:30",
-      "published_fa": "1405/07/18 - 22:41",
       "translated": true,
       "verified_source": true
     },
@@ -3474,6 +3438,21 @@
       "published": "2026-10-10T20:30:37+03:30",
       "published_fa": "1405/07/18 - 20:30",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Iran nuclear chief accuses IAEA of yielding to US and Israeli Pressure - Tehran Times",
+      "title_original": "Iran nuclear chief accuses IAEA of yielding to US and Israeli Pressure - Tehran Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaV9lcTFDNk1IejlrV19BaXJsQjhTVEttdGFRS2dNSnhaMjdQMkpteG96ZUNPSzB0VEdKcEh0anNHUERZSTFFZDBrSGlSYzRSaktlTTdVazFqRVRUb1gwRGVPbk9tdmtYSlBtRHBVYUdsWXZaVm96UlVKZVU3Y0hIWDlTN1FvMXExWG9tMll4WEJQcHVLQ01sUjBhZ2tkYkVxbVNr?oc=5",
+      "summary": "Iran nuclear chief accuses IAEA of yielding to US and Israeli Pressure Tehran Times",
+      "summary_original": "Iran nuclear chief accuses IAEA of yielding to US and Israeli Pressure Tehran Times",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T20:09:36+03:30",
+      "published_fa": "1405/07/18 - 20:09",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -3834,6 +3813,23 @@
       "verified_source": true
     },
     {
+      "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens - Middle East Eye",
+      "title_original": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHp3ZElCZ3daS2w1ekliZFhJMHZtMDE0NGEyYlZFMjZuSGJPWTNPTTUzUVhlRVNNeHBJWlZDbjg1Q1M0VnZ5LURBRnB3WmZlYVRxdWR0NFJab2dzZFRQdldOV1hEb3FyOTY5ZFRsbmV3OGt4YnhvbG93Y0VkSmVrRzJFMVhuVGYtVzBRbkk4Yw?oc=5",
+      "summary": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens Middle East Eye",
+      "summary_original": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens Middle East Eye",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T14:48:16+03:30",
+      "published_fa": "1405/07/18 - 14:48",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Golan says Khamenei’s assassination was an error: ‘We’re left with more extreme leaders’ - The Times of Israel",
       "title_original": "Golan says Khamenei’s assassination was an error: ‘We’re left with more extreme leaders’ - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenZPNEQ4Rl8zbkZhZ1VGaUtnTFBpRVRDSlJULUo0U0lhZ2hVZ0RJR21zc1prV1V6bnVndl9NLVI4YUVfUFhNdW12NzRYVWpzaHpXYnRhdGFkSmR3WWUwaTc1Y3FGX1hXTGEtajM0REdSUTFuX1FDMHRrd3ZxcHFnODNlemdEaVpkMnRGN2FtUGswRGFzQW1Zd1hNX0d6SEhJYUtHakRMU0ViQnVxbVpMZkwxcHXSAboBQVVfeXFMT0xoRHNMRWpyNWt1eW5yU3JfOGtZeV9wWVd2ZFc0Zy1CRGpBQUliSS1lZ0l3QW5vLW52N2hzWFVNVmZMNDFIZVZoUHhwaGEyVlZGQ2l3dkotbGdqaENjWWVuNDdIcFRYSUhNOTNiNmtxM0ZyOWpzQmp0VG4tcWZSY0JSOGx2enFTcUFUbllsREhSb3NaRTU1QnJueEJ5YkkyWWM0eFVmdFRMWXkxTGdBY0pGOUk1SHVhQ3J3?oc=5",
@@ -3894,6 +3890,23 @@
       "urgent": false,
       "published": "2026-10-10T14:01:00+03:30",
       "published_fa": "1405/07/18 - 14:01",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Putin conveyed to Trump Tehran’s position on ending US-Iran war, Kremlin says - The Times of Israel",
+      "title_original": "Putin conveyed to Trump Tehran’s position on ending US-Iran war, Kremlin says - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYm5lLWh0QW5KVmYtamMza3J4Y3hITzRITEplZGtRY0JDR2ctNEtNajYzTGo0V0tsaXlUVkllemRzUGlFWkhucVhHaWljZ2lNR2t4QmNaVU12RG9TRE43NEdmb0NDdmpaa2xRX1NyRlRDb3QtZTB6cHhWREFfanQzQlkwQUZfYVVFV3NDeTRwN1ZTbVhiQU5acTUxcUU4Z3ZacGhIcXc5czlvYTVnNmdfSFpraVJ5Q0ozMWZHc05R?oc=5",
+      "summary": "Putin conveyed to Trump Tehran’s position on ending US-Iran war, Kremlin says The Times of Israel",
+      "summary_original": "Putin conveyed to Trump Tehran’s position on ending US-Iran war, Kremlin says The Times of Israel",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T13:59:36+03:30",
+      "published_fa": "1405/07/18 - 13:59",
       "translated": true,
       "verified_source": true
     },
@@ -4508,23 +4521,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
-      "title_original": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmlCQndwa2xZeGVGOGQ1SFdYZ2otb3dYbzg2ZWVVUHNyT19aWkZsbWVpSWhmNkU0bjE1SURCZkQ0NGdCOXFSWnp5MXV3WVJqSjNPQjUycDJxbWpLLUdnTjlLQkRtLXNGSHJSSERncUJGY3U3TGh5SWVQamJNR1ZiNzlFQm1SWlNoRXRYWER5VEtNQQ?oc=5",
-      "summary": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer Politico",
-      "summary_original": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer Politico",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T20:47:00+03:30",
-      "published_fa": "1405/07/17 - 20:47",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Michigan Senate debate: El-Sayed and Rogers spar over Iran and Israel - The New Arab",
       "title_original": "Michigan Senate debate: El-Sayed and Rogers spar over Iran and Israel - The New Arab",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjlBR053N1ZJX0NVcmNZN0RoWW1pcjdYTzFmRHQtM04tNGRZVjRSUTJ4MHZSQnhZQ08zbkRSd1E1eXZsa2FTT3NqSU1ZYVI4cXZiQWpPaTJKWUN6ZWZCU3lqaG1hbkhBUWlCV0JheUI1NkJ5ZFpuNXNfaFNWa3YwTk8tR2pBVkkxZ2JWSmFzWXpYZ3c?oc=5",
@@ -4615,21 +4611,6 @@
       "urgent": false,
       "published": "2026-10-09T18:29:35+03:30",
       "published_fa": "1405/07/17 - 18:29",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "'War With Iran May Delay Elections,' IDF Chief Zamir Warns US | LIVE BLOG - i24NEWS",
-      "title_original": "'War With Iran May Delay Elections,' IDF Chief Zamir Warns US | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmNaYnVDLU1McWJkcS0yeXM5X0hxNmxZR1h3NkplVkxETXhqX0J5b2t0Z01vNTFuclNvQWhDYy1teFFobHFvRU1IazlrMF9nQ3B2VEJiTEYxQ3hkVUZtai1KUUpNR2NwLXhCZ1JGOUFzRVRhenVldURtbnRYcVFORkVYcUFvclYzSE9VRDRQeURDd2JkYWY0cG1pWGo1NXBiSWRlcXo4WFFYNGxob211blNzM3F6Z3phZ28w?oc=5",
-      "summary": "'War With Iran May Delay Elections,' IDF Chief Zamir Warns US | LIVE BLOG i24NEWS",
-      "summary_original": "'War With Iran May Delay Elections,' IDF Chief Zamir Warns US | LIVE BLOG i24NEWS",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T18:23:23+03:30",
-      "published_fa": "1405/07/17 - 18:23",
       "translated": true,
       "verified_source": true
     },
@@ -4725,21 +4706,6 @@
       "urgent": false,
       "published": "2026-10-09T14:13:40+03:30",
       "published_fa": "1405/07/17 - 14:13",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "‘Everything in Our Power’: Putin Offers to Help Iran Resolve Conflict With US and Israel - Open Magazine",
-      "title_original": "‘Everything in Our Power’: Putin Offers to Help Iran Resolve Conflict With US and Israel - Open Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckYtZVc4eVN3WFpPYWF1Q2YtT0VORTJ6LTRrX284eVVkVWxqNUJjUU1rMTYwOU12U3hJMllaWHBMOXNnb0M0a2dPY0lveFBjT0tBcWR3TmM4UjFzQ3N2VGN5MHdIYk5ucTFKR0IxVHVNSV9GeHZydjJScC1QbHZCbk5yNnEyN2F0elNWQXpxNmkwbDVjMEgwYXU0SjZ2OW43ZDU2eEtYQXpKSnl4aTNZZkVpX0lyX1hpUk5V?oc=5",
-      "summary": "‘Everything in Our Power’: Putin Offers to Help Iran Resolve Conflict With US and Israel Open Magazine",
-      "summary_original": "‘Everything in Our Power’: Putin Offers to Help Iran Resolve Conflict With US and Israel Open Magazine",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T13:14:11+03:30",
-      "published_fa": "1405/07/17 - 13:14",
       "translated": true,
       "verified_source": true
     },
@@ -4954,21 +4920,6 @@
       "urgent": false,
       "published": "2026-10-09T06:03:00+03:30",
       "published_fa": "1405/07/17 - 06:03",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Putin offers help to Iran to end Middle East war ahead of summit - CNA",
-      "title_original": "Putin offers help to Iran to end Middle East war ahead of summit - CNA",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckJJTlFqMzJtTHJZX0d4VmZCQUVXOWxMNU5pTjdCV1ZvdEJXeGZEd0ZkWENWSTk4RjdWNjZ5cDNhNWxCUjZ0elluTDVXaU9nQUxkak5vemxfdVgwVXBRM3RZcU9RblRXX1FvblJ3bDItUGNOcUFwTmpyVXBYYUNoRG1ueHAyWmtvbU93?oc=5",
-      "summary": "Putin offers help to Iran to end Middle East war ahead of summit CNA",
-      "summary_original": "Putin offers help to Iran to end Middle East war ahead of summit CNA",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T05:42:00+03:30",
-      "published_fa": "1405/07/17 - 05:42",
       "translated": true,
       "verified_source": true
     },
@@ -5257,21 +5208,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report - The Jerusalem Post",
-      "title_original": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByc04wWi02djhiYk1iWm5ieXBtTGdBRFFFcFNqSlNkNVRNT3FCQkVDRXFhSDUxVnF5SHU5MzdHbzh5MEdXb1BqOFlfM0FXUHFybEJ3cGJ4R2U4TmI4MmhZVG5FTmxVSzhTTHc?oc=5",
-      "summary": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report The Jerusalem Post",
-      "summary_original": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report The Jerusalem Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T15:28:38+03:30",
-      "published_fa": "1405/07/16 - 15:28",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "تنگه هرمز و سایه بازگشت جنگ؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cmj6jzy998z3o?at_medium=RSS&at_campaign=rss",
@@ -5286,24 +5222,6 @@
       "published": "2026-10-08T11:09:31+03:30",
       "published_fa": "1405/07/16 - 11:09",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Iran's Chilling War Warning; Army Chief Threatens Preemptive Strikes After Trump-Netanyahu Call - The Times of India",
-      "title_original": "Iran's Chilling War Warning; Army Chief Threatens Preemptive Strikes After Trump-Netanyahu Call - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWxSdDZMZXpVMGNkdXFaN2tPdkIyaS1LbEstaHBfdEJMeFdmYl9MRm1JMTl4czNXM2tfRF94UGZVenRveWZ2Y2w1d2czcDhPRHdGY29qcWNxZjdCYy1TbDBVeVJNZVVMTngyTHl0NnZZMmo2TmE1a2NOczU3SGpYR2ctazZ0TFZJU0htRHhvU29UMl9hUHJKbDFlUTI3Tkk0a1lXbmk0MU5FZHMzMGZRYmlQdG5QRkszZjZ6cmlQbF9JdzRJNmVjNFI1T2VQaXRYYVNodGE0VG13VzljWmxGOFlHeVdack9zU1Y1UXJIUVVlbzF5Vnp0WC10cmlKOU10NXRBSdIBigJBVV95cUxQN2RYU2tZR0oyYkUzV2c2UE9NQnZuQzl0TlRRbWJHOWUxaFo5NlNxZHpFUmFWb2xfUVFHTEhFXzJhVmNwaFBzcGZ5dG9uZTZuWmlQLVF3c21NNVNMMjVNRmtIclVSZHF1dmdmdkhIQnd0ZzRPWmdUZzNtWVdZMHFtQW5NQjJWTzNBMXh2LW9VNFg1TU1tVEVLY1N3VUxIYVVlaWtXcTBvWC02d3dNOGlodGZDaWNvQThyNGNLcXp2RllLLVh0VVhXSFdSdjdzX1RPcThHRTZ2NWVLLWZOeHpTcFRyejZyZjNaN0Z5N2h2TFVLUzVoWm5KM0xtdjVTQjFpYkR4ei02RkR2dw?oc=5",
-      "summary": "Iran's Chilling War Warning; Army Chief Threatens Preemptive Strikes After Trump-Netanyahu Call The Times of India",
-      "summary_original": "Iran's Chilling War Warning; Army Chief Threatens Preemptive Strikes After Trump-Netanyahu Call The Times of India",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T10:45:30+03:30",
-      "published_fa": "1405/07/16 - 10:45",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -5351,21 +5269,6 @@
       "published": "2026-10-08T08:32:53+03:30",
       "published_fa": "1405/07/16 - 08:32",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC",
-      "title_original": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nV016TlVYUUlsNUNkSDVBaExxQnljQjE5N09hZDBZMlZ3SWpUUjlPWVRaYVk1VHNxeW1JdmxMVkFYMUNjXzNuSGFxcDB6Wm5rYWpoX3cwLUlFMkIzSE9Oamp4VTRHd3c2UWNoY0tMSGNpLWRWSEh4LXJR0gF_QVVfeXFMT1RHelpkMjVlSDdmLXk1OFV3Y1BvV2YwY0l6M01GLXYwNTRsQ3o2Z25qQU1ISE1NcnlnemxDN0hNaWM2aWVBd2FBZ016dWtGOWI0eGVucS1MbWh0VzVBQ0xlRktRZjRMQkdJSS1mR1lWOEZ0OGVSdkFPSmxCWl9rSQ?oc=5",
-      "summary": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production CNBC",
-      "summary_original": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production CNBC",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T05:16:00+03:30",
-      "published_fa": "1405/07/16 - 05:16",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -5474,6 +5377,21 @@
       "verified_source": true
     },
     {
+      "title": "US deploys thousands more troops, Marines to Middle East as oil prices surge - Fox News",
+      "title_original": "US deploys thousands more troops, Marines to Middle East as oil prices surge - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUVuMFJDRzVtaWNEVmVpOUxyYmR3dFptNGs4MFFTQkR5WmZUamlaTi14bXplaTRfYW5sbnc5MlZvVUFhcmNjWVoxNHBZdEtsNzJkUXN2dFdkU0FObEl0a1NabkQtbmlLYWoyamF6b09EZ1dXZkJXMlJiT1NPbGdGYV92bXdObjQ?oc=5",
+      "summary": "US deploys thousands more troops, Marines to Middle East as oil prices surge Fox News",
+      "summary_original": "US deploys thousands more troops, Marines to Middle East as oil prices surge Fox News",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-02T10:30:00+03:30",
+      "published_fa": "1405/07/10 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
       "title_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw?oc=5",
@@ -5527,20 +5445,32 @@
       "verified_source": true
     },
     {
-      "title": "Donald Trump: spoke with Benjamin Netanyahu after flydubai incident, co-pilot possible terrorist - The Jerusalem Post",
-      "title_original": "Donald Trump: spoke with Benjamin Netanyahu after flydubai incident, co-pilot possible terrorist - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJbGRGcGVKSjJCMUJ4cTRtcm5oaTBFWkxwVGtUSlAwbnhoU0xEMk5jVEdnOTBRUHdtNGRYMGozdzBGXzhfZ1hHRjFlajdqNC1vdzl5X2dGNTladUhOZVNZ?oc=5",
-      "summary": "Donald Trump: spoke with Benjamin Netanyahu after flydubai incident, co-pilot possible terrorist The Jerusalem Post",
-      "summary_original": "Donald Trump: spoke with Benjamin Netanyahu after flydubai incident, co-pilot possible terrorist The Jerusalem Post",
+      "title": "After Iran war damage, US may close some Middle East bases for good - The Christian Science Monitor",
+      "title_original": "After Iran war damage, US may close some Middle East bases for good - The Christian Science Monitor",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXl1NEpoVEUzOE94eThLc1IzNlZCQjRqYTJjbWVxdTB1VEttcUx0ZFVPaDRmdk80U1NyZzBTRUJ0LWtkTW1YeWVxcmk0STd4U2hlQm9pZ1ctN2I4NjB0blg2aTgzSG1DZVZNTWkxczFDQm5xY0tYMl9LMTRYbFVhVnhOZWtOLXpTb0djWQ?oc=5",
+      "summary": "After Iran war damage, US may close some Middle East bases for good The Christian Science Monitor",
+      "summary_original": "After Iran war damage, US may close some Middle East bases for good The Christian Science Monitor",
       "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
+      "category": "other",
+      "tags": [],
       "urgent": false,
-      "published": "2026-10-01T10:30:00+03:30",
-      "published_fa": "1405/07/09 - 10:30",
+      "published": "2026-09-29T10:30:00+03:30",
+      "published_fa": "1405/07/07 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
+      "title_original": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjFUZVJMbWJUaGE0ajR1SDhOS0JpejcweGdVcWRueWczNDh3ZVdtdWRuRVNPTkgwSnZDbjZzeDFVZlB2M3pLM1Z5Qm04WGN1VFJ4c0pBRVVxQnVsWktzdFlNSS1FQVFkNjZiWks5cUdJQnRhVzhDMHJLZEE1SjZvTzBOS2U?oc=5",
+      "summary": "Middle Eastern oil exports rise to highest level since Iran war began Financial Times",
+      "summary_original": "Middle Eastern oil exports rise to highest level since Iran war began Financial Times",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-29T10:30:00+03:30",
+      "published_fa": "1405/07/07 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -5680,6 +5610,24 @@
       "verified_source": true
     },
     {
+      "title": "Netanyahu lashed Mamdani in fiery U.N. speech, but real aim was his own political survival, analyst says - CBS News",
+      "title_original": "Netanyahu lashed Mamdani in fiery U.N. speech, but real aim was his own political survival, analyst says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0JHVW5WSTBQUUZobGdzZVBKaHJGcGM4NzBiS0FKVG1OREdVV0kyaGdUa01xMzEtYXREMWdoX3c5ZjJ5Mmg3VTBoblh1SlpBS0FJS0ZLeDNBdXRGaEtEdFlITXdFdXA4c1dWcXA5Z2YwX2lzYXM4c0E3cldpRWtzeTQ1ZlhKS0N1dGhJ?oc=5",
+      "summary": "Netanyahu lashed Mamdani in fiery U.N. speech, but real aim was his own political survival, analyst says CBS News",
+      "summary_original": "Netanyahu lashed Mamdani in fiery U.N. speech, but real aim was his own political survival, analyst says CBS News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو",
+        "تحلیلگران"
+      ],
+      "urgent": false,
+      "published": "2026-09-25T10:30:00+03:30",
+      "published_fa": "1405/07/03 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Why an international arrest warrant didn't stop Netanyahu's US trip - BBC",
       "title_original": "Why an international arrest warrant didn't stop Netanyahu's US trip - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBveUJHd2hKd05mSXQtQTVWQ1REN0Frdm9aQzRqa3I4cmdzZmxwZlZvcGh6TURrc3FQRno2NXY3ZWZkeGQ2SkZPWnM2NmtGUk9oQ0lqanhPSWI?oc=5",
@@ -5794,6 +5742,23 @@
       "verified_source": true
     },
     {
+      "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
+      "title_original": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5",
+      "summary": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech Al Jazeera",
+      "summary_original": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-09-24T10:30:00+03:30",
+      "published_fa": "1405/07/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Netanyahu: Attacking Iran was ‘one of easiest decisions I’ve ever had to make’ - MS NOW",
       "title_original": "Netanyahu: Attacking Iran was ‘one of easiest decisions I’ve ever had to make’ - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43d0lvYnBSZGFaY2VlVVA3YjNnTEhMc0JYbUQtVjZSeGVYa21KVkNwU2FJcGtROVczYV9ELTJvSnFjc2RfNk51aTROMDhJc2hHaTFMTy11dzJVRm5VR3JmRzVTV200YndCTTl6ODk4Tl9uTnZMSDJLWjlR?oc=5",
@@ -5874,11 +5839,28 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu won’t meet Trump during ‘brief’ UN visit: Israeli media - Anadolu Ajansı",
-      "title_original": "Netanyahu won’t meet Trump during ‘brief’ UN visit: Israeli media - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGdMN3lPV1c1VTdCZ0NMR2p4TXdXTDFQT2w1R0hIa1NiWEN4eDJaNWFxbFhqZkVCanVNbFZuRUlFVHEwUzlmclRaM0EwOHVvZnc0WlFJTFBKV1FlVEpNMl9iZVBMeFdydkpVQ3R5MEhINW84T3FTaUxmX0tUa1A5Q3RUQkRwaDBmMU1tT0c0NFZQQzVtOXFSc2ZJSTlQalBmVmhSUFNac2F5Y2Y0?oc=5",
-      "summary": "Netanyahu won’t meet Trump during ‘brief’ UN visit: Israeli media Anadolu Ajansı",
-      "summary_original": "Netanyahu won’t meet Trump during ‘brief’ UN visit: Israeli media Anadolu Ajansı",
+      "title": "President Donald Trump addresses UN General Assembly - ABC7 New York",
+      "title_original": "President Donald Trump addresses UN General Assembly - ABC7 New York",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWxNVDI0MjlrN3J1Tk5oakV2bE83YTYtaGJaaXEtZDVySVcxMFNubmpIQ2ZqaVNmRjAyZ01FRFdoNEkxeVlqclViZEl3MGpqYVY0bTFKZnI0aE9JZTMtdzltanM1bTd6cUlOZ2xqa1E5aS1TckNPUk1vWGl4RzIwdWlQdl95akpzNjlETFI1d1hYWFViWVHSAZsBQVVfeXFMUDFjOTBObnhlWVh0STFheW5FTnZ5eXhSUGJCMHNUTTJrWmNrNlQzM2xCZUNCUDdlclZmLThxT0tLejNKLTFhb0p6MXB2dmJUY3lrMFJHZnZtMDU0dmZPdUtVdWNSSkQwQm1qVFFKZGF4eTJFckl1aFlmWThXU0hPMmJjODZpTEsyS0FnN05WeEVKTjNSeTdhOVk3akE?oc=5",
+      "summary": "President Donald Trump addresses UN General Assembly ABC7 New York",
+      "summary_original": "President Donald Trump addresses UN General Assembly ABC7 New York",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-09-22T10:30:00+03:30",
+      "published_fa": "1405/06/31 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "After cordial meeting with Trump, Mamdani decries ‘architect of genocide’ Netanyahu - The Times of Israel",
+      "title_original": "After cordial meeting with Trump, Mamdani decries ‘architect of genocide’ Netanyahu - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHVJQmtkamRVNTFUVWFxbXZRR0xsYUQxaUNUcjRza2FlSHNQYkVFVTNzVmVJbzBsZnVfRTFEbVlFdzFkVlBKZGU5VW5JQUxvd0tkSWhPU0xSdkgtR2x3QWx0SmU5RGhHRFJ0alNKVk1fX1lGTVA5Rm84TmRoamE1TjBvZEFfREJjZW03NWpoX19wMzMwMk5KTU9WUlVGVkptN0JqMVR2ZG1KUTR3NE9zetIBtgFBVV95cUxPd2hwMUM2VjhfUjJGdndKdmpMV0ZzYW1HelJUT3RMT01lR3hYek53ekoxWEVKX3JmbHM4cmhKcE9SRDNsMGNIcEpFNmRlTjBqb2NpN0VmUFptTUpORVFObTNGWkNXVC1iVUlvWUtMQlVLV2N5RWg1eE81bURwVW9YVWkteUxRdzU2RkdObWFZemFhQV92MGFuUGhLTkcyWEhHS0RrbzRFaUV4QmdDNkxSZ0ZlVElTZw?oc=5",
+      "summary": "After cordial meeting with Trump, Mamdani decries ‘architect of genocide’ Netanyahu The Times of Israel",
+      "summary_original": "After cordial meeting with Trump, Mamdani decries ‘architect of genocide’ Netanyahu The Times of Israel",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -5907,17 +5889,17 @@
       "verified_source": true
     },
     {
-      "title": "Iran Update, September 21, 2026 | ISW - Institute for the Study of War",
-      "title_original": "Iran Update, September 21, 2026 | ISW - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclpjSUpKX0hzeDl6dUNtc2l1WXdWc2FHTF94VHQzQVpQNHE1OUlWRkFlbEhWSldGMUdtNmM1RWpwdjJjd2JjZ0lseXF0UXNfcFF0VzctZGRnaHpfdXdxM1poTnllMFhZS1dXMEZOdFZ5OG9aeXd0SUk5ZW52by14c251OGZMRjQ?oc=5",
-      "summary": "Iran Update, September 21, 2026 | ISW Institute for the Study of War",
-      "summary_original": "Iran Update, September 21, 2026 | ISW Institute for the Study of War",
+      "title": "Iran’s military command says it’s been informed US plans to resume strikes - The Times of Israel",
+      "title_original": "Iran’s military command says it’s been informed US plans to resume strikes - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHk4MGQybWQzOXNVaUViSmJxVjJpSGozUjBzdEo0d0pLSVV6czdsRm9HRWZEVlo4ZDRPN083RzhndTU5cU5yWkpSVnI2R05qdGdjaW5XWmRlWXZDWUJRTUZWSmt5YUtwXzAxMDhnUk5qRTBRWW1kbWxXX28yal9zS1lPMFYwblQ0b0swOGJWQWQtN2g4SmM1SHNMSnMzUVZ4OUx1eDZ30gGrAUFVX3lxTFBpcjVGRXJPaGpFU1o1MUx6UkRmMC1kTEhNbWlTMVNLVjZ6SlhlajdIODIxUkRoN0lkaVpsczhCcy1mZmhqSmNBS29iYXFiVE1Jd3BGb080OUZBZ0NIUmtkY3Rsd3ZNUUx5aVB3RmdJcDVJYXRaZ2RPWVg0UmFnOGV3RzdpZDBZYVRsaHVCbDB2Q3cwRmp3WjBRWWZGMThMRjN4OXBLM0dFbnpGaw?oc=5",
+      "summary": "Iran’s military command says it’s been informed US plans to resume strikes The Times of Israel",
+      "summary_original": "Iran’s military command says it’s been informed US plans to resume strikes The Times of Israel",
       "source": "Google News",
-      "category": "other",
+      "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-09-21T10:30:00+03:30",
-      "published_fa": "1405/06/30 - 10:30",
+      "published": "2026-09-20T10:30:00+03:30",
+      "published_fa": "1405/06/29 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6118,24 +6100,6 @@
       "verified_source": true
     },
     {
-      "title": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' - Haaretz",
-      "title_original": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPaFhEUUQzeEJJbm42Ny12UUFPM29SSlBja3FiTmJfMDVHN2pyc2tSOUljUEh0UEFhWVJKZnZGSTZCc01LeWFwQ0FuN2hHZndoci1pcTJJNnJjMHllcEFYYjFYcVpsWVRSX1NpQVFvWGhua1VxNFUxVldnVm9sU1hyVi0yZnR1MjdEMThOVDhnUXVIMUxHNk5mbC1pYXhDazdTd0pMdFU4YUx2MFRVTVd5Qkx2MVJXTUVkSjZ3aDRFQ05jbEZsU3lQZ3BpSkdsS2puN3Y2ZFM1OGZJcFVKQ2dtQUpnOW1IaDV3VnJHZHo0U2VBZk1PZG1maHZRZkFsN0FWRXM2ZXVHOXV4cTBhcWxmTmJ5V2Z4WkpYaUZZSlpha2o?oc=5",
-      "summary": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' Haaretz",
-      "summary_original": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' Haaretz",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-17T10:30:00+03:30",
-      "published_fa": "1405/05/26 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "title_original": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlDeVJBWWxGd2stY3dMdkJtR3NsNUtPUFV2SVRncTZGQnNOcWV6Ylp5aW9rV3hsRDQ2WkJjZ0hmQV9OdHplQThKQ19MVTlvMVpsRmptQWhrRjRxSTFsclFUTkNfOGhNVkJiNjVkMDlGOWVFME9FREFmdlFYaVF6TkVrV0J6R3F6SVRtZUNSR181MERKOUNlcEZmVFNXdDl1RExNNdIBqgFBVV95cUxPd1pGaEZPdVlqb1pYNndOMGNuQWYtUTAwVFczV2ZndzdJY09wd21jR1B2NkdmMmNUbmFkbFlrWDhIUFBOSG51Ums0UFlmcHRIdnFmVHhiZEd2b0lKQXhwYTZCMm9YMTlGQ2hpdUd3bmk5YklKandtRWNrbHZaeGIxSXVkZTYxUFhwSE5TdXlpbVAxNWtCMF9VUnpmNEVSREVuT29fek40VzNfQQ?oc=5",
@@ -6225,24 +6189,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump insists Netanyahu relationship 'very good' despite Gaza rift - France 24",
-      "title_original": "Trump insists Netanyahu relationship 'very good' despite Gaza rift - France 24",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYl9hVU9zdEVjVTFqY2U0SzhBME95ZVZhX0pScXBiUzFMa2pQR1gxNG1zYWM5VVlzeEZFSlZ1dGUwaFBLRjJ6aE1rclczZXN4TkpPUE9aTklzeV9nVVRzWU10VllCWEd3cmZ2b182a3JsLUE4QlVWd0xrS2p5MURqMUZ1bjRPcnpPc1FqeGhiR2NINGtrZ2dnYVo4aFNtSUJhaHdQZ045c0ZGZXJ1ZlloNw?oc=5",
-      "summary": "Trump insists Netanyahu relationship 'very good' despite Gaza rift France 24",
-      "summary_original": "Trump insists Netanyahu relationship 'very good' despite Gaza rift France 24",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-10T10:30:00+03:30",
-      "published_fa": "1405/05/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
       "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
@@ -6280,6 +6226,24 @@
       "verified_source": true
     },
     {
+      "title": "Trump insists Netanyahu relationship 'very good' despite Gaza rift - France 24",
+      "title_original": "Trump insists Netanyahu relationship 'very good' despite Gaza rift - France 24",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYl9hVU9zdEVjVTFqY2U0SzhBME95ZVZhX0pScXBiUzFMa2pQR1gxNG1zYWM5VVlzeEZFSlZ1dGUwaFBLRjJ6aE1rclczZXN4TkpPUE9aTklzeV9nVVRzWU10VllCWEd3cmZ2b182a3JsLUE4QlVWd0xrS2p5MURqMUZ1bjRPcnpPc1FqeGhiR2NINGtrZ2dnYVo4aFNtSUJhaHdQZ045c0ZGZXJ1ZlloNw?oc=5",
+      "summary": "Trump insists Netanyahu relationship 'very good' despite Gaza rift France 24",
+      "summary_original": "Trump insists Netanyahu relationship 'very good' despite Gaza rift France 24",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Netanyahu’s veto and the limits of American power - Al Jazeera",
       "title_original": "Netanyahu’s veto and the limits of American power - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWF1Zmo3MU1hYWdpU0pSME11dm1zT3gxbE9JZ2pLOV9LWEs0RUxHeTUyQkx0NUJ3X1ZTS05vMW5Nc2NjX3o0cldvYWtaSV9kODd2LUFlQWdlOFVrOWtzdHhQcUhueVVnblpVUk03dGlPS1F0dVB1NFd1QnZKTlRNcFBOQzR4ZzVhMWxVbW9NSUFPeEVEN3VkTdIBngFBVV95cUxPS1ZUdkVYSjJlZ2NnZHB6dElJRzVrMGhOd0hmWFlLeHcyRERSRE44ZXUwNklaclFWYVduSGpLSS1LbVlCN05QdlJ2UnBoQXlFNHJwS08tWnZ5elc4SGxRWjVjNzY0UDV0a3h2dE4xQjZzbW1obWdRV0JpR0lyS0cwNTlNNXA0cElmWXROTlE5LWdLa0xGZ0lMTWxTeDFWdw?oc=5",
@@ -6288,6 +6252,24 @@
       "source": "Google News",
       "category": "politics",
       "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan - DW.com",
+      "title_original": "Netanyahu, at odds with Trump, rejects Gaza peace plan - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUF3akFFaE12NVJfRnM3TU82cXNLQ1U1bk02aGl4TlRyc1BpVnRzWWQ5ejRNMkF1OFNjZUhHQUJKN01VUUcycjNOQWxBc3RvZU9ta2ktT3RJYVEzbFd0ZXMzMmI2RGF6NVRqYXVyTzVtdDljb2xLc2lqcjF5X05TRHBVbkQwVmFDTmNSaEM5dUNDc2VfWEVsNNIBmAFBVV95cUxPWVFTeUR1VEJCSUY4YXlrN2NXQ2VhTldCdmtNMHRxcG04Q3dTNjRJZE80VXcyVGtQQnduZ25aNkRNTXJIZDI2VkRJcTNxU2JDaXFKUml3SFhiN200R1BKQWNnb3Z0N3djbk13SFF0WUVCNXI3QWMybDBfMVBfOWpPMmQzNlRadTBlYUZlVlZHUFJONDNhdVppVg?oc=5",
+      "summary": "Netanyahu, at odds with Trump, rejects Gaza peace plan DW.com",
+      "summary_original": "Netanyahu, at odds with Trump, rejects Gaza peace plan DW.com",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
         "نتانیاهو"
       ],
       "urgent": false,
@@ -6315,11 +6297,11 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
-      "title_original": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVHSzJUalA5TXZmOV9IVmZQVlpjWW1rTjZseGE1b3YzSmlIUEF3bU9OcC1WRDJFMUc5cGYyZDV5Zi1MNWFMVjlDZ05SUk1ucm1iaVFJS1IzQmQ0ZVNKVDIzWEVkQ1UtU1AxYVI4dFl3dHZ6VmVVd0lzMktEdmstN3Frakx6QjdybHN2U3RUeGdham9zS1NIaGlsUkk?oc=5",
-      "summary": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
-      "summary_original": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
+      "title": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
+      "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
+      "summary": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
+      "summary_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6351,11 +6333,11 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
-      "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
-      "summary": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
-      "summary_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
+      "title": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
+      "title_original": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVHSzJUalA5TXZmOV9IVmZQVlpjWW1rTjZseGE1b3YzSmlIUEF3bU9OcC1WRDJFMUc5cGYyZDV5Zi1MNWFMVjlDZ05SUk1ucm1iaVFJS1IzQmQ0ZVNKVDIzWEVkQ1UtU1AxYVI4dFl3dHZ6VmVVd0lzMktEdmstN3Frakx6QjdybHN2U3RUeGdham9zS1NIaGlsUkk?oc=5",
+      "summary": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
+      "summary_original": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6546,11 +6528,11 @@
       "verified_source": true
     },
     {
-      "title": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
-      "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
-      "summary": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
-      "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
+      "title": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
+      "title_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQ3h1QjRzRVdfTXRuMkFQMDNXS2VSMlRnWVNZMThzWjVhVFRPbXhORDRscjZGdU0yWUhDbmpyVUZQNnoyWG1tY2JGZ25yNHFkZkZ2bWJLWUVQVzNxWW41QnhGSmVVTUR4Y0RqX3Y5R2Z6c2dkeUdYYw?oc=5",
+      "summary": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions Axios",
+      "summary_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions Axios",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6564,11 +6546,11 @@
       "verified_source": true
     },
     {
-      "title": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
-      "title_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQ3h1QjRzRVdfTXRuMkFQMDNXS2VSMlRnWVNZMThzWjVhVFRPbXhORDRscjZGdU0yWUhDbmpyVUZQNnoyWG1tY2JGZ25yNHFkZkZ2bWJLWUVQVzNxWW41QnhGSmVVTUR4Y0RqX3Y5R2Z6c2dkeUdYYw?oc=5",
-      "summary": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions Axios",
-      "summary_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions Axios",
+      "title": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
+      "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
+      "summary": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
+      "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6618,11 +6600,11 @@
       "verified_source": true
     },
     {
-      "title": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
-      "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
-      "summary": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
-      "summary_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
+      "title": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 - The White House (.gov)",
+      "title_original": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 - The White House (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjNWNjJFbEd5Z0lubDRrZWNqcHVhV3Q2TU50aVdYVHRkT3B0NmdXaVNacW9ubDNyaGprVzQ0TU11dUh1TnFRbWM4ak1qelJjQXhoaDEwWkJrZktVd0c1N2U3RUgxTzlOaGgyLXd3Sld2WkVsTzRoY3U1TUpDTjlYdXRRdTQ3VU1VR3Q0VmtqNzFJOE4xZVYtcmpHWk1aWWVrMS0zLVRqeHVhWnl2QVNNQXk4S2dvSVJ6UUgwM05MbWNiWnJWT09USEktMGFaeXc?oc=5",
+      "summary": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 The White House (.gov)",
+      "summary_original": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 The White House (.gov)",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6636,11 +6618,11 @@
       "verified_source": true
     },
     {
-      "title": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 - The White House (.gov)",
-      "title_original": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 - The White House (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjNWNjJFbEd5Z0lubDRrZWNqcHVhV3Q2TU50aVdYVHRkT3B0NmdXaVNacW9ubDNyaGprVzQ0TU11dUh1TnFRbWM4ak1qelJjQXhoaDEwWkJrZktVd0c1N2U3RUgxTzlOaGgyLXd3Sld2WkVsTzRoY3U1TUpDTjlYdXRRdTQ3VU1VR3Q0VmtqNzFJOE4xZVYtcmpHWk1aWWVrMS0zLVRqeHVhWnl2QVNNQXk4S2dvSVJ6UUgwM05MbWNiWnJWT09USEktMGFaeXc?oc=5",
-      "summary": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 The White House (.gov)",
-      "summary_original": "President Donald J. Trump meets with Israeli Prime Minister Benjamin Netanyahu, Tuesday, July 28, 2026 The White House (.gov)",
+      "title": "Iran war: Netanyahu hails closed-door meeting with Trump - DW.com",
+      "title_original": "Iran war: Netanyahu hails closed-door meeting with Trump - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sN0dtOFdwWnpvU09kMm02Z2hkWkNuNkw3SWxLbERVNXQtS0xnNDlxRE5HaFhJN3JzX0hSMG9nNEVyVmhLWkpDVklNb2g2MW5rUG5MTHlIcUJxT3VzRUVRRktn?oc=5",
+      "summary": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
+      "summary_original": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6672,11 +6654,47 @@
       "verified_source": true
     },
     {
-      "title": "Iran war: Netanyahu hails closed-door meeting with Trump - DW.com",
-      "title_original": "Iran war: Netanyahu hails closed-door meeting with Trump - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sN0dtOFdwWnpvU09kMm02Z2hkWkNuNkw3SWxLbERVNXQtS0xnNDlxRE5HaFhJN3JzX0hSMG9nNEVyVmhLWkpDVklNb2g2MW5rUG5MTHlIcUJxT3VzRUVRRktn?oc=5",
-      "summary": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
-      "summary_original": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
+      "title": "Netanyahu joins Trump for high-stakes meeting at the White House - NBC News",
+      "title_original": "Netanyahu joins Trump for high-stakes meeting at the White House - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWm1OaEFjdC0teDFRXzJWMTYtNmRBeG45ZGh3R3R0bmxtVmlXTF9uNG43UkRfZEktNjg0OVpHbHh4d09Wek9BVTNxSV9lendlMWZOT2J5T3UzM3Z6LV80dFZ4NElhYWlfbXFocW01cVRSOU4tWE5iQlhHa3RGY0tSYUdqbUJUWldRamJJYVNOTFB3Y3A0NzJWYTNFZm5PdnY5UTlVZVJjZWpaeVYwOGc?oc=5",
+      "summary": "Netanyahu joins Trump for high-stakes meeting at the White House NBC News",
+      "summary_original": "Netanyahu joins Trump for high-stakes meeting at the White House NBC News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-07-28T10:30:00+03:30",
+      "published_fa": "1405/05/06 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
+      "title_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHpBTVNmeGw1SzJFa2lOWldIVmVKNGhiWWF3UEZFSkJ0UjdhdHVXOVpGYVh3a014RmxnWmxOLU0wdzI0QXhfNkpzXzg5VEsyRkxpTTdRRkZMS0ttZUZTTGJGM29aVFFuekdkaXE0cmFjaFAxYldnX0M3UDdqeVhmaTlJZUJxXzMwb1gwOEMybVdQbG9HQXBVcUVMNmlJWWFrVTkzeTVuSHhFOHpISXlqOTlrVdIBuAFBVV95cUxQN2FIM0ZaT0FkNHppSEpqOWdSSU1UdmI2YlNVSXJfVVVFUTVZUFZ4TmdYR2Q4UDhyR29OWUFBSjZ4enR0QlpFQkZQRFJObnhVc0k0NEh5bE5WZ1ZkRFJaNXpqYms3VWNLU25JSUxteWxlTjVNTVJhbW5EY0pvZnZaRDV4V3czT3Jva0FweVFRTVZNeXhRcmlFWkd0RTE5Zk9yTFVnWFA3NEdBV3EycDlWcXR2Tkx6d1NV?oc=5",
+      "summary": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
+      "summary_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-07-28T10:30:00+03:30",
+      "published_fa": "1405/05/06 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
+      "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
+      "summary": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
+      "summary_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6780,11 +6798,29 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options - Reuters",
-      "title_original": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0FBLVV2MC1GcnJCd1YzRkhhaUVpVlI5dHZoRlJwZktDQXBkcHVKSTJKWTFIdVJaMmxlWmgwWmlueFNHMUtBWC1kX3RoZWhWcl9RX29feHJOLU03THVKZjRVbGJTMDhuR0lZNjMzQXdaRHFxV2xWZ3hjdWthUmVMWG9hN1kyVkhoeDljTnJhMUE5aTRkN1dxTlgwOVpqOTlIR0VWNWtHSF9nVXo2OU00TGw5YnVuUEVnQlE?oc=5",
-      "summary": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options Reuters",
-      "summary_original": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options Reuters",
+      "title": "Trump to meet Netanyahu on Tuesday amid Iran escalation - Axios",
+      "title_original": "Trump to meet Netanyahu on Tuesday amid Iran escalation - Axios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WkdLR25VSTY1V0h4R2tTMFFrUkllaTZvTmcyQW52MmIwZm9Wb1VPc2RSQWFoTkFvaXBHdlFVR2VsTXVDSXI5dUJhSGE3WTUxMF80V0NlV3doR1BFZEx3bzc3WkpfV2ppalhPdHc2ZUluSDQ?oc=5",
+      "summary": "Trump to meet Netanyahu on Tuesday amid Iran escalation Axios",
+      "summary_original": "Trump to meet Netanyahu on Tuesday amid Iran escalation Axios",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-07-24T10:30:00+03:30",
+      "published_fa": "1405/05/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump-Netanyahu sitdown under discussion, but no meeting set - Axios",
+      "title_original": "Trump-Netanyahu sitdown under discussion, but no meeting set - Axios",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hLWZBSGRuc01WQ19NR2k4eENYVjRsaTNSY0xEeXhxeTV1SmdrWUNzcXNsR0pJbW03NDFPbHVqWHBiNmM2Q0xLOWY1Qi1DWjJxT0tlY05MdEptMDNJV2ZOMlo3QVhNXzlYblNHenBNNEt2bWswRmZB?oc=5",
+      "summary": "Trump-Netanyahu sitdown under discussion, but no meeting set Axios",
+      "summary_original": "Trump-Netanyahu sitdown under discussion, but no meeting set Axios",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6798,11 +6834,11 @@
       "verified_source": true
     },
     {
-      "title": "Trump-Netanyahu sitdown under discussion, but no meeting set - Axios",
-      "title_original": "Trump-Netanyahu sitdown under discussion, but no meeting set - Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hLWZBSGRuc01WQ19NR2k4eENYVjRsaTNSY0xEeXhxeTV1SmdrWUNzcXNsR0pJbW03NDFPbHVqWHBiNmM2Q0xLOWY1Qi1DWjJxT0tlY05MdEptMDNJV2ZOMlo3QVhNXzlYblNHenBNNEt2bWswRmZB?oc=5",
-      "summary": "Trump-Netanyahu sitdown under discussion, but no meeting set Axios",
-      "summary_original": "Trump-Netanyahu sitdown under discussion, but no meeting set Axios",
+      "title": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options - Reuters",
+      "title_original": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0FBLVV2MC1GcnJCd1YzRkhhaUVpVlI5dHZoRlJwZktDQXBkcHVKSTJKWTFIdVJaMmxlWmgwWmlueFNHMUtBWC1kX3RoZWhWcl9RX29feHJOLU03THVKZjRVbGJTMDhuR0lZNjMzQXdaRHFxV2xWZ3hjdWthUmVMWG9hN1kyVkhoeDljTnJhMUE5aTRkN1dxTlgwOVpqOTlIR0VWNWtHSF9nVXo2OU00TGw5YnVuUEVnQlE?oc=5",
+      "summary": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options Reuters",
+      "summary_original": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options Reuters",
       "source": "Google News",
       "category": "politics",
       "tags": [
