@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T01:16:32.287589+00:00",
-  "generated_at_fa": "1405/07/19 - 04:46",
-  "count": 435,
+  "generated_at": "2026-10-11T01:35:05.146622+00:00",
+  "generated_at_fa": "1405/07/19 - 05:05",
+  "count": 433,
   "items": [
     {
       "title": "آنچه گذشت؛ حمله موشکی به فرودگاه ریاض و واکنش ترامپ: خیلی سریع عمل می‌کنیم",
@@ -15,8 +15,8 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T04:42:31.274616+03:30",
-      "published_fa": "1405/07/19 - 04:42",
+      "published": "2026-10-11T05:01:02.193168+03:30",
+      "published_fa": "1405/07/19 - 05:01",
       "translated": false,
       "verified_source": true
     },
@@ -33,9 +33,71 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T04:42:31.273209+03:30",
-      "published_fa": "1405/07/19 - 04:42",
+      "published": "2026-10-11T05:01:02.192345+03:30",
+      "published_fa": "1405/07/19 - 05:01",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "title_original": "Man dies after entering tiger enclosure at England wildlife park",
+      "link": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+      "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+      "summary_original": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T04:46:18+03:30",
+      "published_fa": "1405/07/19 - 04:46",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+      "title_original": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "summary": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
+      "summary_original": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
+      "source": "Al Jazeera",
+      "category": "social",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T04:41:10+03:30",
+      "published_fa": "1405/07/19 - 04:41",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "هاآرتص: حملات حوثی‌ها می‌تواند زمان ورود آمریکا به جنگ با جمهوری اسلامی را تعیین کند",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610114419",
+      "summary": "روزنامه هاآرتص در تحلیلی نوشت حملات حوثی‌ها به عربستان سعودی، راهبرد واشینگتن برای سپردن امنیت منطقه به کشورهای آن را به آزمون گذاشته است؛ مداخله آمریکا در حمایت از ریاض نیز می‌تواند این کشور را در زمانی که حوثی‌ها تعیین می‌کنند، به جنگ با حکومت ایران بکشاند.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "analysis",
+      "tags": [
+        "تحلیلگران"
+      ],
+      "urgent": false,
+      "published": "2026-10-11T04:40:27+03:30",
+      "published_fa": "1405/07/19 - 04:40",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "title_original": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+      "summary_original": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T04:32:07+03:30",
+      "published_fa": "1405/07/19 - 04:32",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -482,21 +544,6 @@
       "verified_source": true
     },
     {
-      "title": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
-      "title_original": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDhOZS1IUXBRRmk3NzZJcklobFZvaHNxUTdlRGNfbkQzR0NBY19ubDdIak1ycE5EZmNmUGpXbUpza1JUQnI5Z2dyMXZ4UGxsc0VKLWJuWU9HWmMzZG5kV004M05FeC1haEVTX19xRm1KY3ljY3dLbG91V0JXZ1RYVk9vYXVOQWw1QjY3UnBYMHFLSVdwa0gzOXQ3RXcxdUE?oc=5",
-      "summary": "Pentagon raises official death toll from Iran war to 21 Stars and Stripes",
-      "summary_original": "Pentagon raises official death toll from Iran war to 21 Stars and Stripes",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:15:11+03:30",
-      "published_fa": "1405/07/19 - 00:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Damage seen inside Saudi airport after third attack this week",
       "title_original": "Damage seen inside Saudi airport after third attack this week",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
@@ -667,8 +714,8 @@
       "title": "Trump calls for Ukraine to replace Zelenskyy after clash over Russia diesel deal: 'Get a new president'",
       "title_original": "Trump calls for Ukraine to replace Zelenskyy after clash over Russia diesel deal: 'Get a new president'",
       "link": "https://www.foxnews.com/politics/trump-calls-ukraine-replace-zelenskyy-clash-russia-diesel-deal-get-new-president",
-      "summary": "President Donald Trump said Saturday that it was \"time for Ukraine to get a new president,\" warning Ukrainian President Volodymyr Zelenskyy to stop attacking Russian oil refineries as the two leaders clashed over a U.S. deal with Moscow. \"It's time for Ukraine to get a new president,\" Trump told reporters outside the White House before heading to a rally in Tennessee. Trump accused Zelenskyy of making global fuel problems worse by continuing to authorize strikes on Russian refineries. TRUMP SATS RUSSIA HAS AGREED TO DELIVER MILLIONS IN DIESEL FUEL AFTER 'HIGHLY SUCCESSFUL DISCUSSION' \"He'd better d--- well stop,\" Trump said. The president argued that Ukraine should avoid targeting Russian refineries because of the potential impact on global energy supplies. \"We said, 'you can do whatever y",
-      "summary_original": "President Donald Trump said Saturday that it was \"time for Ukraine to get a new president,\" warning Ukrainian President Volodymyr Zelenskyy to stop attacking Russian oil refineries as the two leaders clashed over a U.S. deal with Moscow. \"It's time for Ukraine to get a new president,\" Trump told reporters outside the White House before heading to a rally in Tennessee. Trump accused Zelenskyy of making global fuel problems worse by continuing to authorize strikes on Russian refineries. TRUMP SATS RUSSIA HAS AGREED TO DELIVER MILLIONS IN DIESEL FUEL AFTER 'HIGHLY SUCCESSFUL DISCUSSION' \"He'd better d--- well stop,\" Trump said. The president argued that Ukraine should avoid targeting Russian refineries because of the potential impact on global energy supplies. \"We said, 'you can do whatever you want to Russia , don't hit the refineries', because that's a world problem that's caused,\" Trump said. Trump also criticized Zelenskyy for failing to reach an agreement to end the war, which began when Russia launched its full-scale invasion of Ukraine in February 2022. ZELENSKYY TO SEEK OFFRAMP FOR YEARS-LONG RUSSIA WAR IN UN SPEECH AFTER TRUMP REVEALS PEACE DEAL IS CLOSE \"He could have made many deals and for some reason, he never does,\" Trump said. The remarks came after Zelenskyy criticized a new American agreement with Russia that would temporarily ease sanctions on Russian diesel exports . Trump confirmed Friday that Washington had reached an agreement with Moscow to suspend restric",
+      "summary": "President Donald Trump said Saturday it was \"time for Ukraine to get a new president,\" warning Ukrainian President Volodymyr Zelenskyy to stop attacking Russian oil refineries as the two leaders clashed over a U.S. deal with Moscow. \"It's time for Ukraine to get a new president,\" Trump told reporters outside the White House before heading to a rally in Tennessee. Trump accused Zelenskyy of making global fuel problems worse by continuing to authorize strikes on Russian refineries. TRUMP SAYS RUSSIA HAS AGREED TO DELIVER MILLIONS IN DIESEL FUEL AFTER 'HIGHLY SUCCESSFUL DISCUSSION' \"He'd better d--- well stop,\" Trump said. The president argued that Ukraine should avoid targeting Russian refineries because of the potential impact on global energy supplies. \"We said, 'You can do whatever you wa",
+      "summary_original": "President Donald Trump said Saturday it was \"time for Ukraine to get a new president,\" warning Ukrainian President Volodymyr Zelenskyy to stop attacking Russian oil refineries as the two leaders clashed over a U.S. deal with Moscow. \"It's time for Ukraine to get a new president,\" Trump told reporters outside the White House before heading to a rally in Tennessee. Trump accused Zelenskyy of making global fuel problems worse by continuing to authorize strikes on Russian refineries. TRUMP SAYS RUSSIA HAS AGREED TO DELIVER MILLIONS IN DIESEL FUEL AFTER 'HIGHLY SUCCESSFUL DISCUSSION' \"He'd better d--- well stop,\" Trump said. The president argued that Ukraine should avoid targeting Russian refineries because of the potential impact on global energy supplies. \"We said, 'You can do whatever you want to Russia. Don't hit the refineries' because that's a world problem that's caused,\" Trump said. Trump also criticized Zelenskyy for failing to reach an agreement to end the war, which began when Russia launched its full-scale invasion of Ukraine in February 2022. ZELENSKYY TO SEEK OFFRAMP FOR YEARS-LONG RUSSIA WAR IN UN SPEECH AFTER TRUMP REVEALS PEACE DEAL IS CLOSE \"He could have made many deals and, for some reason, he never does,\" Trump said. The remarks came after Zelenskyy criticized a new American agreement with Russia that would temporarily ease sanctions on Russian diesel exports . Trump confirmed Friday that Washington had reached an agreement with Moscow to suspend restrictions ",
       "source": "Fox News",
       "category": "military",
       "tags": [
@@ -758,21 +805,6 @@
       "urgent": false,
       "published": "2026-10-10T23:06:57+03:30",
       "published_fa": "1405/07/18 - 23:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
-      "title_original": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5",
-      "summary": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
-      "summary_original": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T23:04:54+03:30",
-      "published_fa": "1405/07/18 - 23:04",
       "translated": true,
       "verified_source": true
     },
@@ -872,6 +904,24 @@
       "verified_source": true
     },
     {
+      "title": "Trump, Netanyahu may have talked about Iran strikes - Breakingthenews.net",
+      "title_original": "Trump, Netanyahu may have talked about Iran strikes - Breakingthenews.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzVjZkNpZWNjSUNJUUVZRU13TTFfd0JmR3ZnQ0NhWmlHb2sxNXlNNzFxaXc5Q0lQaTBqVENWVDdQWVRUSHlqblNQTTVmNjE0cGRheUZnNkNoTW9fYmZfMGU5ZE01amFHUnNfQmRwUVg4UVNqNC1LSmY0V1NMN3h6RkVDU1Q3VTRrRU5tV01MSDFfcGRvSEwzRXlWbw?oc=5",
+      "summary": "Trump, Netanyahu may have talked about Iran strikes Breakingthenews.net",
+      "summary_original": "Trump, Netanyahu may have talked about Iran strikes Breakingthenews.net",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-10T22:37:00+03:30",
+      "published_fa": "1405/07/18 - 22:37",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump calls for new president in Ukraine",
       "title_original": "Trump calls for new president in Ukraine",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
@@ -919,21 +969,6 @@
       "verified_source": true
     },
     {
-      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-      "title_original": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-      "summary": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-      "summary_original": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T22:08:01+03:30",
-      "published_fa": "1405/07/18 - 22:08",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "بارسلونا ۳-۰ ختافه؛ بارسا به تاخت و تاز پیوسته در لالیگا عادت کرده است",
       "title_original": "",
       "link": "https://www.iranintl.com/202610104857",
@@ -964,6 +999,21 @@
       "verified_source": true
     },
     {
+      "title": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
+      "title_original": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDhOZS1IUXBRRmk3NzZJcklobFZvaHNxUTdlRGNfbkQzR0NBY19ubDdIak1ycE5EZmNmUGpXbUpza1JUQnI5Z2dyMXZ4UGxsc0VKLWJuWU9HWmMzZG5kV004M05FeC1haEVTX19xRm1KY3ljY3dLbG91V0JXZ1RYVk9vYXVOQWw1QjY3UnBYMHFLSVdwa0gzOXQ3RXcxdUE?oc=5",
+      "summary": "Pentagon raises official death toll from Iran war to 21 Stars and Stripes",
+      "summary_original": "Pentagon raises official death toll from Iran war to 21 Stars and Stripes",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T21:58:11+03:30",
+      "published_fa": "1405/07/18 - 21:58",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "President Trump blasts Nobel Peace Prize snub with blistering list of accomplishments: 'WOW!'",
       "title_original": "President Trump blasts Nobel Peace Prize snub with blistering list of accomplishments: 'WOW!'",
       "link": "https://www.foxnews.com/politics/president-trump-blasts-nobel-peace-prize-snub-blistering-list-accomplishments-wow",
@@ -977,21 +1027,6 @@
       "urgent": false,
       "published": "2026-10-10T21:58:07+03:30",
       "published_fa": "1405/07/18 - 21:58",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-      "title_original": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-      "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-      "summary": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
-      "summary_original": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T21:56:13+03:30",
-      "published_fa": "1405/07/18 - 21:56",
       "translated": true,
       "verified_source": true
     },
@@ -1025,21 +1060,6 @@
       "published": "2026-10-10T21:43:58+03:30",
       "published_fa": "1405/07/18 - 21:43",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
-      "title_original": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
-      "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "summary": "Aviation authority says death toll includes four Saudis and eight foreign nationals.",
-      "summary_original": "Aviation authority says death toll includes four Saudis and eight foreign nationals.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T21:38:46+03:30",
-      "published_fa": "1405/07/18 - 21:38",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1362,21 +1382,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran said still able to produce missiles and drones, is being armed by Russia - The Times of Israel",
-      "title_original": "Iran said still able to produce missiles and drones, is being armed by Russia - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXA4dkR5UUZqRkJCYlYxTi1xWDFEaDdzSU9DMWM2TG1RNXpFeW8wWHJXZU5XRnI3WVZWUE0yeXFGS3RQc0VaOURpMUxZZmpaNW9ZdW5NczVLNE5KWmlUdHYyX3hqRmMzeVZaWTEzcWd5QklBb3RRVzQxSmVVRnJwVjZLcnlqTE8xNzFlazFOSXV4QmN2NHpyb0VOc3VOenZNVXQwOS12OTVzRkHSAbABQVVfeXFMUHNSaFRaWXV0WWpwTGdGRVRsajdzVjl4dTUydm1mSFF2ZFBzcEx3c1hrOWREUnF4dDJUTEtNOUZtMUxFLVlwckdWWURzNnVKdEY5dkM0UG50MjZoSGdESFU5RkY5N2VST1VlS2w3MENvUEYwMTNsSWdGRFB3bFRSMUx4NFlqa1hjZl9LbENOeVY3bWJvaFd2R2xLcDRnVEw1N0lJWGhaS1VuendnT01FdkQ?oc=5",
-      "summary": "Iran said still able to produce missiles and drones, is being armed by Russia The Times of Israel",
-      "summary_original": "Iran said still able to produce missiles and drones, is being armed by Russia The Times of Israel",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T17:38:00+03:30",
-      "published_fa": "1405/07/18 - 17:38",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "سریعترین گل تاریخ بوندس‌لیگا؛ نویر رکورد خودش را شکست و ثانیه ۸ گل خورد!",
       "title_original": "",
       "link": "https://www.iranintl.com/202610109077",
@@ -1493,8 +1498,23 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-10T16:36:20+03:30",
-      "published_fa": "1405/07/18 - 16:36",
+      "published": "2026-10-10T16:35:51+03:30",
+      "published_fa": "1405/07/18 - 16:35",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
+      "title_original": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5",
+      "summary": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
+      "summary_original": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T16:30:46+03:30",
+      "published_fa": "1405/07/18 - 16:30",
       "translated": true,
       "verified_source": true
     },
@@ -2816,38 +2836,6 @@
       "verified_source": true
     },
     {
-      "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "title_original": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
-      "summary": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "summary_original": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T23:03:00+03:30",
-      "published_fa": "1405/07/17 - 23:03",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "مهدی تاج، رییس فدراسیون فوتبال: قرارداد قلعه‌نویی در تیم ملی ۵۰ میلیارد تومان است",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610090487",
-      "summary": "مهدی تاج، رییس فدراسیون فوتبال امشب در گفتگو با صدا و سیمای جمهوری اسلامی درباره قرارداد امیر قلعه‌نویی، سرمربی تیم ملی گفت: «قرارداد قلعه‌نویی تا جام جهانی سالانه ۳۰ میلیارد بود که الان سالانه ۵۰ میلیارد در نظر گرفته‌ایم‌. او هم رقمی در قراردادش ننوشته.»",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T23:00:47+03:30",
-      "published_fa": "1405/07/17 - 23:00",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
       "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
@@ -2977,6 +2965,21 @@
       "urgent": false,
       "published": "2026-10-09T21:35:30+03:30",
       "published_fa": "1405/07/17 - 21:35",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports - CNBC",
+      "title_original": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLXQ5SXNEMzB0UFVEM09pZjB6S29PbXBPZWdwQ1VUei1iSkJ4RWx6d0pvOUhRVXdiVTZKeHUzUkVVSUE5bmtENm5OOXFrN24zYjhYdlN5R1VfckRfaGt3eXJlLXVNSFR6OE5lTTdWT19mRGVRNDQ5QTltV09OdXdSd2h6c9IBiAFBVV95cUxOeXViRmlFc2pYOS1vS3htNzF6Q0hLcEt1Vm1VUEJkb0NrWENIcFRtSXNiUDUxMk5DbFVQbXpBaTdsU25vajNhd3lQTW93bk05RGVWdlNkWFRtRkZxa1M5c3ZBTkxRWGxHOEwyM1dYS1hTczRJNjNZUk5MUXVGS0ROcWlYX0lzdkVD?oc=5",
+      "summary": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports CNBC",
+      "summary_original": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports CNBC",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-09T21:31:09+03:30",
+      "published_fa": "1405/07/17 - 21:31",
       "translated": true,
       "verified_source": true
     },
@@ -3508,21 +3511,6 @@
       "verified_source": true
     },
     {
-      "title": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment - New York Post",
-      "title_original": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNlNIdHZ1S2pQMG9lSUU2dmpkZGlQRGVpZDE3UkJwVk5ZT0d6eFczNEl6LVAwUkprNHZxWk9SY2VRajlGMUxJZ0kwZWFDOGhDaVFCa1VGMVBkMnBNOFB6SlJYb2c4X3NEd1pUMWUzYmI4ZUhiWk51ZlZ6RC1kYm1aQmxfbmw4ZDJVMFJNUm9xSWc5TmZyd0dzTk03dnprWHp4RmVTNmJRS3NSaExSd3BMREFUUkRjVEhZc2xuQ0dWLURWZw?oc=5",
-      "summary": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment New York Post",
-      "summary_original": "El-Sayed refuses to say whether Iran is more of a threat than Israel in stunning Michigan Senate debate moment New York Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T05:56:00+03:30",
-      "published_fa": "1405/07/17 - 05:56",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
       "title_original": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
       "link": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
@@ -3709,23 +3697,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election - The Times of Israel",
-      "title_original": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHZ5bWhOUWpxdnVSM2NoVGY1ZnY5d0RpRWx2MTgxeHRWdE9aZk9lWFBpMEU4VjYyako3bzVvaXM3OFpsLVpzUVRlOW1VZndxYkdWRE51SjV3TzdENmpZUlA4Z0ZVQjY2OVQ3bXJsaGY2NVhObWlBMm9DSGowTWlOdnJCX1lWYVRfSDJWZjc0QjkxdzNYaTB6SHNMN2pGcEpjVFZ1eWpYOTZSN091cXExTEJGZHpXVFFWRVNwOUJBNTZBdzhBMlHSAcsBQVVfeXFMUE1PaW55d192dVhYc1Nqa2VfNkJNbkZQVnBLandrb3dUQU8xVVpHUUxNczhXeWwwekpPQTh4d2hPZWV6ejJYVjNYTHc5NE9Vc09jSU9CWV9xdWNTMW5BV2lQVVRONE9DVV9RUGctLWdhTWYyS0dvTTIxTnVEM0hiMHM2ck5qZlhwZWc0eHotbEFMb25hX25mNXhzQkQ4ZGZ0YVQ0Nll4Rnl2QW82elBHdVJwRTFRRHdnOHBETk5mSXhKZ1hBRGJDMmJhaWM?oc=5",
-      "summary": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel",
-      "summary_original": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T00:30:00+03:30",
-      "published_fa": "1405/07/17 - 00:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
       "title_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5",
@@ -3874,6 +3845,21 @@
       "urgent": false,
       "published": "2026-10-08T21:38:00+03:30",
       "published_fa": "1405/07/16 - 21:38",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report - The Times of Israel",
+      "title_original": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaldjNWhJLUFpU0F1cFdyc3AtY19FcTQ1elROLVY2THU5ajRDaDFkS0ZMQWt0LVE5OEY5dU93dThySkc5dnhLdFNaZ2hYemdpZ3ZEcFpGTTFsdkY4ckhIZ3NybXBISXhqdE8wcHJfcjZwVkxLV1JYdFJtSTQ1V1dyTGw0dTZXUDNvdTJuLUxPbTZycEpkTlRfd2xaTTZ0MWtTRHZvb3BpQWVTX20zVF9KcVY3V0NtRnMzMjVMU2h0aHNwV0FhbmxVNXpfdERJalNCUENuMWdR?oc=5",
+      "summary": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report The Times of Israel",
+      "summary_original": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report The Times of Israel",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-08T20:54:20+03:30",
+      "published_fa": "1405/07/16 - 20:54",
       "translated": true,
       "verified_source": true
     },
@@ -4188,8 +4174,8 @@
       "title": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
       "title_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5",
-      "summary": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
-      "summary_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
+      "summary": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
+      "summary_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -4601,8 +4587,8 @@
       "title": "Trump promises not to resume strikes before midterm elections - CBS News",
       "title_original": "Trump promises not to resume strikes before midterm elections - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3NqbnFSYTNQUWFNSU9NdzBQSDlrTHpvdERPVGo0QVJXY1ItMlhYbXN0Y21VWjZSbTlLcmlRWnQ0TGhuNjRhUkZ4cE0tUXp4ZHNiS3llXy0ycWlhZVdrYkowY0JqTHBNa2g0SjNIZHZlcTQ3Q3pKSUI4MzNHeHpmcVNJakp1ZmcyZmJFZTZFMXo1T1ltWVhGM2xIZlc?oc=5",
-      "summary": "Trump promises not to resume strikes before midterm elections CBS News Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
-      "summary_original": "Trump promises not to resume strikes before midterm elections CBS News Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
+      "summary": "Trump promises not to resume strikes before midterm elections CBS News",
+      "summary_original": "Trump promises not to resume strikes before midterm elections CBS News",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -6817,24 +6803,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWt6eWtZa3JjTG1yRDZOSVJfdENMUUJPeUJoMDV3VE1Ub1VzUU45ZzdibEpmTkRUcU9BWFd4OWhDeVlhZ2l2am82VmpQam1GNW9LcmJGdWlQS0ZBS0ZUUzdoYVNZQTdyU1I4Unl1dS1wbllWaDhGR3ZxeUZ3WW9GS3ROaEtHUENVemFzWVYtQWpOYThDUnBIc0RZYV9KRlhhYjlCcQ?oc=5",
       "summary": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says Reuters",
       "summary_original": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says Reuters",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-24T10:30:00+03:30",
-      "published_fa": "1405/05/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump to meet Netanyahu on Tuesday amid Iran escalation - Axios",
-      "title_original": "Trump to meet Netanyahu on Tuesday amid Iran escalation - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WkdLR25VSTY1V0h4R2tTMFFrUkllaTZvTmcyQW52MmIwZm9Wb1VPc2RSQWFoTkFvaXBHdlFVR2VsTXVDSXI5dUJhSGE3WTUxMF80V0NlV3doR1BFZEx3bzc3WkpfV2ppalhPdHc2ZUluSDQ?oc=5",
-      "summary": "Trump to meet Netanyahu on Tuesday amid Iran escalation Axios",
-      "summary_original": "Trump to meet Netanyahu on Tuesday amid Iran escalation Axios",
       "source": "Google News",
       "category": "politics",
       "tags": [
