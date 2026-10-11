@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T02:14:55.384917+00:00",
-  "generated_at_fa": "1405/07/19 - 05:44",
-  "count": 436,
+  "generated_at": "2026-10-11T02:34:12.850046+00:00",
+  "generated_at_fa": "1405/07/19 - 06:04",
+  "count": 434,
   "items": [
     {
       "title": "آنچه گذشت؛ حمله موشکی به فرودگاه ریاض و واکنش ترامپ: خیلی سریع عمل می‌کنیم",
@@ -15,8 +15,8 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-11T05:40:50.892693+03:30",
-      "published_fa": "1405/07/19 - 05:40",
+      "published": "2026-10-11T05:59:55.715164+03:30",
+      "published_fa": "1405/07/19 - 05:59",
       "translated": false,
       "verified_source": true
     },
@@ -33,9 +33,41 @@
         "فلایت رادار"
       ],
       "urgent": true,
-      "published": "2026-10-11T05:40:50.891281+03:30",
-      "published_fa": "1405/07/19 - 05:40",
+      "published": "2026-10-11T05:59:55.713693+03:30",
+      "published_fa": "1405/07/19 - 05:59",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "title_original": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+      "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "summary": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+      "summary_original": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-11T05:42:07+03:30",
+      "published_fa": "1405/07/19 - 05:42",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PRDJFbjcwWExVSTlieFFzZVNLNFNwRXR6X0pkZHhtZmxLbS1SM3UxN2NPa3VKU2pERjRhekh6NlFpTnF4TkFfTmhXSVkwNTZ0aS02S2xtcmozOXEtSFZfeGN6dDR3aGxLcHVuMHlRT2xnZw?oc=5",
+      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
+      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T05:30:04+03:30",
+      "published_fa": "1405/07/19 - 05:30",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -164,21 +196,6 @@
       "urgent": false,
       "published": "2026-10-11T04:32:07+03:30",
       "published_fa": "1405/07/19 - 04:32",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tODJKbmZrTTdFZjhwcFp5LU9BeFZyOVl3UjRCakNKM3NsY0IyWDdYb0p4UVpSQnhVS1hHdUQwZzBEWEdNWkdfbDlPZHo1ZE9iLVIxZEpWQWR4VGJ2NG5scS1wWjhCY3NDZG5pcXZOMk9pVWd5VWdXUmFxWE9sV1U?oc=5",
-      "summary": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
-      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T04:30:05+03:30",
-      "published_fa": "1405/07/19 - 04:30",
       "translated": true,
       "verified_source": true
     },
@@ -564,6 +581,21 @@
       "verified_source": true
     },
     {
+      "title": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
+      "title_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkRHloUDRaWG5STDBIUER0T21sb0ZoQ05YVWRJV0FFYjhNT0hfNGZkVV9hVk55c1J3eUZrdG9PMUUzbHYtSk03Uk5mRDJfOThUbnBpX0lYekpaX2ZPRzJvaXBaTTY1bUFyM0EtZ2VXUzRIZE80ZnpaNzRaSC05eW5tS2plZTkwMzJtSzJBTVRzQmNKS3dobXllNjcwXzFQemlxVUQ2QkVmbzFRTndvclo0bnl2aUd2b29ic1pVM0Q2bjg2WXhSNEthVGVmZms?oc=5",
+      "summary": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
+      "summary_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T00:29:34+03:30",
+      "published_fa": "1405/07/19 - 00:29",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "US Forces Exit Iraq: Is Iran The Winner? Afghanistan’s Shadow Returns – OpEd - Eurasia Review",
       "title_original": "US Forces Exit Iraq: Is Iran The Winner? Afghanistan’s Shadow Returns – OpEd - Eurasia Review",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0JZSUw5TVAzd202MEhSVkRsWE42Q3ZLNFdGOGF1RkE0MUxLWGZyN3lZRzJPaFA3VWNTcHZ6VGpKMzBzckljaExxeFJlS3k2a1laX0huSUMyWFp6R0dfRWx0V1lJamZMMDMzcWNtLXhFancwMVVMV3dkYWpMelZoQ29fQWl2aDZtRW45X3dKMllmVVF3R0hkX1hwRnhXT0tBU2VsR21ublNLRmFFYWdsbQ?oc=5",
@@ -764,21 +796,6 @@
       "verified_source": true
     },
     {
-      "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajansı",
-      "title_original": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORWVPUHBLV2F5SnJablI2Vk9adC1JR29uMTBDM2xVM0pDaEtnNDJhUzVrcnF3NHI1a0ZpN0s2QVBWQ3R1b3hZckpCcjkzbDkxRFgzZXRxWC01amZ2YS1TNl9jY2ZTRjNrV1prZDVaRzlZUVBpdERtUG8tcFZielhIbFh3VUtqOFpDSzh0SmphdVlQaTNxSlhFLVRCc1djcTdHblhsODBfNUIzRGd6MmxVd2EtZEZ2RFRRTXpuRXVIc0Z5WmtPS1dfMF9HS21KLUplQUE?oc=5",
-      "summary": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say Anadolu Ajansı",
-      "summary_original": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say Anadolu Ajansı",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T23:22:52+03:30",
-      "published_fa": "1405/07/18 - 23:22",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Benjamin Netanyahu, Donald Trump criticize Nobel Peace Prize awarded to Navi Pillay - The Jerusalem Post",
       "title_original": "Benjamin Netanyahu, Donald Trump criticize Nobel Peace Prize awarded to Navi Pillay - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2bVBsYVBZMWN4c2xVTTVVUEhXb2ltaUdOX1A1enZyeFJmUUxPcE8yQWNwMkt2Z0h2WHZzVE9zTFlrbUhXMXlSSm5FLVg0R0JWcXMyZGsxbTR2Nldt?oc=5",
@@ -905,21 +922,6 @@
       "urgent": false,
       "published": "2026-10-10T22:56:22+03:30",
       "published_fa": "1405/07/18 - 22:56",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-      "title_original": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-      "summary": "Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.",
-      "summary_original": "Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T22:53:26+03:30",
-      "published_fa": "1405/07/18 - 22:53",
       "translated": true,
       "verified_source": true
     },
@@ -1146,13 +1148,13 @@
       "verified_source": true
     },
     {
-      "title": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
-      "title_original": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report - The Jerusalem Post",
+      "title": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
+      "title_original": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
-      "summary": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report The Jerusalem Post",
-      "summary_original": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report The Jerusalem Post",
+      "summary": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade The Jerusalem Post",
+      "summary_original": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade The Jerusalem Post",
       "source": "Google News",
-      "category": "economy",
+      "category": "military",
       "tags": [],
       "urgent": false,
       "published": "2026-10-10T20:46:35+03:30",
@@ -1925,21 +1927,6 @@
       "published": "2026-10-10T13:19:59+03:30",
       "published_fa": "1405/07/18 - 13:19",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
-      "title_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkRHloUDRaWG5STDBIUER0T21sb0ZoQ05YVWRJV0FFYjhNT0hfNGZkVV9hVk55c1J3eUZrdG9PMUUzbHYtSk03Uk5mRDJfOThUbnBpX0lYekpaX2ZPRzJvaXBaTTY1bUFyM0EtZ2VXUzRIZE80ZnpaNzRaSC05eW5tS2plZTkwMzJtSzJBTVRzQmNKS3dobXllNjcwXzFQemlxVUQ2QkVmbzFRTndvclo0bnl2aUd2b29ic1pVM0Q2bjg2WXhSNEthVGVmZms?oc=5",
-      "summary": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
-      "summary_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T13:14:51+03:30",
-      "published_fa": "1405/07/18 - 13:14",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2839,23 +2826,6 @@
       "verified_source": true
     },
     {
-      "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "title_original": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
-      "summary": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "summary_original": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T23:03:00+03:30",
-      "published_fa": "1405/07/17 - 23:03",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
       "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
@@ -3083,6 +3053,23 @@
       "urgent": false,
       "published": "2026-10-09T21:04:26+03:30",
       "published_fa": "1405/07/17 - 21:04",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
+      "title_original": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmlCQndwa2xZeGVGOGQ1SFdYZ2otb3dYbzg2ZWVVUHNyT19aWkZsbWVpSWhmNkU0bjE1SURCZkQ0NGdCOXFSWnp5MXV3WVJqSjNPQjUycDJxbWpLLUdnTjlLQkRtLXNGSHJSSERncUJGY3U3TGh5SWVQamJNR1ZiNzlFQm1SWlNoRXRYWER5VEtNQQ?oc=5",
+      "summary": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer Politico",
+      "summary_original": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer Politico",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T20:47:00+03:30",
+      "published_fa": "1405/07/17 - 20:47",
       "translated": true,
       "verified_source": true
     },
@@ -3766,6 +3753,38 @@
       "verified_source": true
     },
     {
+      "title": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election - The Times of Israel",
+      "title_original": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHZ5bWhOUWpxdnVSM2NoVGY1ZnY5d0RpRWx2MTgxeHRWdE9aZk9lWFBpMEU4VjYyako3bzVvaXM3OFpsLVpzUVRlOW1VZndxYkdWRE51SjV3TzdENmpZUlA4Z0ZVQjY2OVQ3bXJsaGY2NVhObWlBMm9DSGowTWlOdnJCX1lWYVRfSDJWZjc0QjkxdzNYaTB6SHNMN2pGcEpjVFZ1eWpYOTZSN091cXExTEJGZHpXVFFWRVNwOUJBNTZBdzhBMlHSAcsBQVVfeXFMUE1PaW55d192dVhYc1Nqa2VfNkJNbkZQVnBLandrb3dUQU8xVVpHUUxNczhXeWwwekpPQTh4d2hPZWV6ejJYVjNYTHc5NE9Vc09jSU9CWV9xdWNTMW5BV2lQVVRONE9DVV9RUGctLWdhTWYyS0dvTTIxTnVEM0hiMHM2ck5qZlhwZWc0eHotbEFMb25hX25mNXhzQkQ4ZGZ0YVQ0Nll4Rnl2QW82elBHdVJwRTFRRHdnOHBETk5mSXhKZ1hBRGJDMmJhaWM?oc=5",
+      "summary": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel",
+      "summary_original": "Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T00:30:00+03:30",
+      "published_fa": "1405/07/17 - 00:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iranian operatives used AI to plant fake stories in multiple US media outlets - CNN",
+      "title_original": "Iranian operatives used AI to plant fake stories in multiple US media outlets - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTE9GdEoxcDloN0ZWQ3F0dXZ3alNhNUc3MjYxTXMzSWdaY3J1ck5iQXNiZ1piWm01VVU4RVJzU0hVb0ZpXzRzNXFfWXJkVlJOelFvTEhzQ1R2enYwVVI2eExFVlF6anRqNjdLcFRFODAwM0VpWGpiVm1FU290dXhmREVZd3lPRXRuMmFYQUZldU04NzBXUmNvSi0tby01ZkpDaXc?oc=5",
+      "summary": "Iranian operatives used AI to plant fake stories in multiple US media outlets CNN",
+      "summary_original": "Iranian operatives used AI to plant fake stories in multiple US media outlets CNN",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-09T00:16:08+03:30",
+      "published_fa": "1405/07/17 - 00:16",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
       "title_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5",
@@ -3918,17 +3937,17 @@
       "verified_source": true
     },
     {
-      "title": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report - The Times of Israel",
-      "title_original": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaldjNWhJLUFpU0F1cFdyc3AtY19FcTQ1elROLVY2THU5ajRDaDFkS0ZMQWt0LVE5OEY5dU93dThySkc5dnhLdFNaZ2hYemdpZ3ZEcFpGTTFsdkY4ckhIZ3NybXBISXhqdE8wcHJfcjZwVkxLV1JYdFJtSTQ1V1dyTGw0dTZXUDNvdTJuLUxPbTZycEpkTlRfd2xaTTZ0MWtTRHZvb3BpQWVTX20zVF9KcVY3V0NtRnMzMjVMU2h0aHNwV0FhbmxVNXpfdERJalNCUENuMWdR?oc=5",
-      "summary": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report The Times of Israel",
-      "summary_original": "Zamir told US generals that striking Iran in coming weeks could delay Israeli election -- report The Times of Israel",
+      "title": "US imposes fresh sanctions on Iran's 'shadow fleet' - Middle East Eye",
+      "title_original": "US imposes fresh sanctions on Iran's 'shadow fleet' - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTRWSFVqY1hQR3JYQl9RaXFEblBTcXJlUmdLd2Nib1RYOGs3a2tFNjBqUGhONVFQWHQtcTZqTGFuWGYyYlhvMTNsd1BFa0VRSUQ5V1lNMmdRcXo4ZHNNcWhUUDFpdlExSTZuZXhJT1NIV1Y5djU2RmpRNFFxbHFkSC1HUXBuUV9YZ29PczVub21IeHFzMDVQR0FKSGczY2FSRUJjSg?oc=5",
+      "summary": "US imposes fresh sanctions on Iran's 'shadow fleet' Middle East Eye",
+      "summary_original": "US imposes fresh sanctions on Iran's 'shadow fleet' Middle East Eye",
       "source": "Google News",
-      "category": "other",
+      "category": "politics",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-08T20:54:20+03:30",
-      "published_fa": "1405/07/16 - 20:54",
+      "published": "2026-10-08T20:53:00+03:30",
+      "published_fa": "1405/07/16 - 20:53",
       "translated": true,
       "verified_source": true
     },
@@ -3946,6 +3965,21 @@
       "urgent": false,
       "published": "2026-10-08T20:19:00+03:30",
       "published_fa": "1405/07/16 - 20:19",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran will not abandon uranium enrichment, nuclear chief says - Middle East Eye",
+      "title_original": "Iran will not abandon uranium enrichment, nuclear chief says - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOHlxdzRfbkcyalJ4d0tnNkxSNUtobWNhQ1FodUhmbTN2bG13VGs3NHdMNlFoVm9mNzd6czMtQ1Baa2ttMkc3NFl0aWV2QldMeTJ5TVUyZDZFTW9FVkg1X0pja3JjQURYOWVSeVVBbDNZTWRQU1BSZVM5bWVtZVRrX3RzaWxJTUtnbmlBODVKeUNXY196RVQ4QzRieFZlMlduZkNGeWJ5MDJWSGdzVFItMDF6d2xTNGs?oc=5",
+      "summary": "Iran will not abandon uranium enrichment, nuclear chief says Middle East Eye",
+      "summary_original": "Iran will not abandon uranium enrichment, nuclear chief says Middle East Eye",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-08T19:34:00+03:30",
+      "published_fa": "1405/07/16 - 19:34",
       "translated": true,
       "verified_source": true
     },
@@ -4112,23 +4146,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran says first flight operated by foreign airline lands since war began - Al Arabiya English",
-      "title_original": "Iran says first flight operated by foreign airline lands since war began - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVE9OaTJJVVJQY3B3X2JvQWVqQ1R1TS0zVlVfMkdDUUVVM0JJbzdLMWN4OFJsOHdqVlB6SXFIS2JvaTNSb19VbVZpUmp4Zkc2NlJSbjNuUV85aFNSQVJzVG1uRFZWVG44c25hOGp6MWh5SURRM2JYY1B6M1czUFJPcTBObmI4dzJoQlhhOWtQemJaYTNkVTRyWEVoUkFRb2s5RTM4OW83Uno1TW1wMWNYcnhSUFlacXNEU1RRcHhvbUpsclFpZ2V6TGdB0gHPAUFVX3lxTFBqTG5iUVlKZldvd0RsWGJ1cHh2RUJHQ1p6UzV0Uk53ODczNXBTdTcxbklnV255ZmJHWHNRTFNjVGNlRzJRYnMwbEluUXFXUHZYUERlNl9jOW1PVTB4UlM3SmRGM3hkVUczd0IzVDJDQlJUNEUydU80Q3MyNGRFYVY4MjNDQWpSeHprY0lUS3loY2xPbnNnVEtpeTJ5NnF1cDUzekFHaXptVlZNMU9iRU9SZFVJNzEwUWhxdXFjZURVVW9ETlQ2Y1hmMTZSM0t6NA?oc=5",
-      "summary": "Iran says first flight operated by foreign airline lands since war began Al Arabiya English",
-      "summary_original": "Iran says first flight operated by foreign airline lands since war began Al Arabiya English",
-      "source": "Google News",
-      "category": "other",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-10-08T16:03:00+03:30",
-      "published_fa": "1405/07/16 - 16:03",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report - The Jerusalem Post",
       "title_original": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByc04wWi02djhiYk1iWm5ieXBtTGdBRFFFcFNqSlNkNVRNT3FCQkVDRXFhSDUxVnF5SHU5MzdHbzh5MEdXb1BqOFlfM0FXUHFybEJ3cGJ4R2U4TmI4MmhZVG5FTmxVSzhTTHc?oc=5",
@@ -4260,8 +4277,8 @@
       "title": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
       "title_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5",
-      "summary": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
-      "summary_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Trump says US won’t hit Iran this month, as Zamir said to warn strike could delay Israel’s election The Times of Israel Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
+      "summary": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
+      "summary_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -4610,21 +4627,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran has ‘lost complete control’ of Strait of Hormuz, Rubio claims - The Times of Israel",
-      "title_original": "Iran has ‘lost complete control’ of Strait of Hormuz, Rubio claims - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY25HMUV5R2s0cWpRM29xQjF0aXFGX3hoaWJDcXFHcEZhRTFwcTlXZmlxQnpxUXpxWWZDc1BZeF9rdWZYQWhhMTBLMGNtQVJsMWhlTVZwcUlOOUdtbF9lUUFOYXUtU01FT0dsWVBLMnBFQnVZWG9GRVd5N0ExazZSdl9yQ3B6M0FLZGZfcWpJaDFPNktxZkc4TFF30gGfAUFVX3lxTE85bHNKb2JNU20tLU1kVVhqNThXODJSQ2YtMWlhLTB4elZwS2pUTWltUE9LcGpvWnBaTF8yclhlbnd5MWdHNXowNUZ2VF9QM0Fxblo0UzJncXludU5nOE9qbVJwNWpVd0oxMFFpLV9UeWRYRDZjZVNvc3l4WlpURjlqTXpKM1R1UU9ybkhEOENsdDRlVGk0V1BlZHZ2RzZfTQ?oc=5",
-      "summary": "Iran has ‘lost complete control’ of Strait of Hormuz, Rubio claims The Times of Israel",
-      "summary_original": "Iran has ‘lost complete control’ of Strait of Hormuz, Rubio claims The Times of Israel",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-07T19:22:00+03:30",
-      "published_fa": "1405/07/15 - 19:22",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’",
       "title_original": "French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’",
       "link": "https://www.foxnews.com/world/french-school-riots-deepen-experts-point-far-left-alliance-fueling-broader-confrontation",
@@ -4643,8 +4645,8 @@
       "title": "Trump promises not to resume strikes before midterm elections - CBS News",
       "title_original": "Trump promises not to resume strikes before midterm elections - CBS News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3NqbnFSYTNQUWFNSU9NdzBQSDlrTHpvdERPVGo0QVJXY1ItMlhYbXN0Y21VWjZSbTlLcmlRWnQ0TGhuNjRhUkZ4cE0tUXp4ZHNiS3llXy0ycWlhZVdrYkowY0JqTHBNa2g0SjNIZHZlcTQ3Q3pKSUI4MzNHeHpmcVNJakp1ZmcyZmJFZTZFMXo1T1ltWVhGM2xIZlc?oc=5",
-      "summary": "Trump promises not to resume strikes before midterm elections CBS News",
-      "summary_original": "Trump promises not to resume strikes before midterm elections CBS News",
+      "summary": "Trump promises not to resume strikes before midterm elections CBS News Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
+      "summary_original": "Trump promises not to resume strikes before midterm elections CBS News Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -4982,15 +4984,14 @@
       "verified_source": true
     },
     {
-      "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes - AP News",
-      "title_original": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
-      "summary": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes AP News",
-      "summary_original": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes AP News",
+      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
+      "title_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw?oc=5",
+      "summary": "US sends third aircraft carrier to Middle East amid stalemate in Iran war The Guardian",
+      "summary_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war The Guardian",
       "source": "Google News",
-      "category": "military",
+      "category": "other",
       "tags": [
-        "ترامپ",
         "ناو آمریکا"
       ],
       "urgent": true,
@@ -5000,14 +5001,15 @@
       "verified_source": true
     },
     {
-      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
-      "title_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw?oc=5",
-      "summary": "US sends third aircraft carrier to Middle East amid stalemate in Iran war The Guardian",
-      "summary_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war The Guardian",
+      "title": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes - AP News",
+      "title_original": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmdWd1lfdkFiLU91NUFSVjhlQm55UFU5Q0NGT2dwb0d5TWNXbDE1R2IxcXl0dDJtdFAwUWFFNTUtTUdYMnlldkJfVG5RY0xDMW5iVTJObDRQRy1CemQydkpjRHJuZmN0OWNMelcwYjhtX1licUZZTEt1ZU5ORzNBRU1SeExvRmNRVGhNWGtJeFRhME4tbVFsMUVmWm9JRjhWZEpqMlJn?oc=5",
+      "summary": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes AP News",
+      "summary_original": "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes AP News",
       "source": "Google News",
-      "category": "other",
+      "category": "military",
       "tags": [
+        "ترامپ",
         "ناو آمریکا"
       ],
       "urgent": true,
@@ -5117,13 +5119,13 @@
       "verified_source": true
     },
     {
-      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
-      "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
-      "summary": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
-      "summary_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
+      "title": "After Iran war damage, US may close some Middle East bases for good - The Christian Science Monitor",
+      "title_original": "After Iran war damage, US may close some Middle East bases for good - The Christian Science Monitor",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXl1NEpoVEUzOE94eThLc1IzNlZCQjRqYTJjbWVxdTB1VEttcUx0ZFVPaDRmdk80U1NyZzBTRUJ0LWtkTW1YeWVxcmk0STd4U2hlQm9pZ1ctN2I4NjB0blg2aTgzSG1DZVZNTWkxczFDQm5xY0tYMl9LMTRYbFVhVnhOZWtOLXpTb0djWQ?oc=5",
+      "summary": "After Iran war damage, US may close some Middle East bases for good The Christian Science Monitor",
+      "summary_original": "After Iran war damage, US may close some Middle East bases for good The Christian Science Monitor",
       "source": "Google News",
-      "category": "economy",
+      "category": "other",
       "tags": [],
       "urgent": false,
       "published": "2026-09-29T10:30:00+03:30",
@@ -5179,13 +5181,13 @@
       "verified_source": true
     },
     {
-      "title": "Iraq: Between Iran and a Hard Place - Middle East Institute",
-      "title_original": "Iraq: Between Iran and a Hard Place - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVWdlbGhuVE8xZEtrV3NhcVV0eWs0SUVra0FkZmRyWl9WNVp5cm82N2hfMmxPejdaNzlHaDBZbXFMSnJ5SjN6ZkhuanZ5YnZ3dUNDN2g3bG1QQXBHTm1nc1hJZWhuNWsxWDRiYnl2bjM?oc=5",
-      "summary": "Iraq: Between Iran and a Hard Place Middle East Institute",
-      "summary_original": "Iraq: Between Iran and a Hard Place Middle East Institute",
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
+      "summary": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
+      "summary_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
       "source": "Google News",
-      "category": "other",
+      "category": "economy",
       "tags": [],
       "urgent": false,
       "published": "2026-09-28T10:30:00+03:30",
@@ -5261,6 +5263,23 @@
       "verified_source": true
     },
     {
+      "title": "An isolated Netanyahu was defiant at UN as he seeks reelection at home - AP News",
+      "title_original": "An isolated Netanyahu was defiant at UN as he seeks reelection at home - AP News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUl0UTVEc2t2ODJuTTJDTHllZThOUzNyVDA4ZFlFWUpNdVZtNWM2Q3dOalNYQ0FZdFNxbnp3bG1FaWhQbDlzdmtjLW9LWk1vQ25IV19OenVnRjR5NXFIY0F6UVpBOFBUT2dKVktkd2dsSnVXRXhTQllacVg4MDAxY1hXWWdNUlBNekZ3RVZ0V25jR0NXUmV5N0JsZGpON1otWGNrbkJEVWozRnQ2YkRSMV9fNzNDMFQyZjIyRGdaYw?oc=5",
+      "summary": "An isolated Netanyahu was defiant at UN as he seeks reelection at home AP News",
+      "summary_original": "An isolated Netanyahu was defiant at UN as he seeks reelection at home AP News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-09-25T10:30:00+03:30",
+      "published_fa": "1405/07/03 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "What the Iran War Reveals about China’s Middle East Strategy - Arab Center Washington DC",
       "title_original": "What the Iran War Reveals about China’s Middle East Strategy - Arab Center Washington DC",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFVPNUpWQmU0MlFSVTRWV252aFhXNWZwOU9pY0FTb2dYSEV4S2gyX0hUMU9kTWRmNVlzdEdwYjhzR0JoTmY4dkNoMktuZmlHYnNBNkFxWnFjSjdjdmR6RHkwaHNQZUg1bXQ0dHBkUlVISDdrSlRrbTFkRVVXZUk1dGYyYXJVbnRXM01ZeU5BbDBvZ29yX2tXc1dR?oc=5",
@@ -5285,6 +5304,23 @@
       "category": "politics",
       "tags": [
         "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-09-24T10:30:00+03:30",
+      "published_fa": "1405/07/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Netanyahu's fleeting visit to New York mirrors strained US ties - Reuters",
+      "title_original": "Netanyahu's fleeting visit to New York mirrors strained US ties - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5",
+      "summary": "Netanyahu's fleeting visit to New York mirrors strained US ties Reuters",
+      "summary_original": "Netanyahu's fleeting visit to New York mirrors strained US ties Reuters",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
         "نتانیاهو"
       ],
       "urgent": false,
@@ -5967,23 +6003,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
-      "title_original": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
-      "summary": "Trump announces ‘most crushing economic operation ever’ against Iran Al Jazeera",
-      "summary_original": "Trump announces ‘most crushing economic operation ever’ against Iran Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-08-19T10:30:00+03:30",
-      "published_fa": "1405/05/28 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran war updates: Trump to reopen talks ‘at some point’; Israel pounds Gaza - Al Jazeera",
       "title_original": "Iran war updates: Trump to reopen talks ‘at some point’; Israel pounds Gaza - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT25YYlNfbnY5OE9lS1l4OElGQjlJcEdHQlVEN0lna0ZJLUVNR1dOWlpBcjNEdzNmc1pCTjZWNnBRY0hiNVhtVW1SbkowbkRUMnBUdGU5Z2lKUEgwR0taSVNvTEtJbzZtd08zT1FudUJucXRzd3dyNGIydEJjaXpyWEZTaFBHbl9zX2xLTkd2SkZiM0szWnpzUVM3QWVJeUpPRXlQZnU3V3JsWGtBWnU0bmxn0gG3AUFVX3lxTE55c2gyeUJVdkFkbjBhRnVWYTZoTEdhUnFnY0p5XzJmb01nTXJSYjVsSDlWZTV4aVFaOHZ3b1NDbUs3MTM4OVhXX3pmeGlXMmFldU5UN0FDbVZOQXNMYlB4SUdONzZ6aVhzQ2g0dDdyWlprZTZwUFJaX0c5RmQ2RWEtVEVZZFZlMWw1TmFzaTQ3eXpYRXcxZjlnNFhIelhteldEVVBXUFVFR1hpZWdxbl9ONWRPZ3daWQ?oc=5",
@@ -5994,6 +6013,23 @@
       "tags": [
         "ترامپ",
         "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-08-19T10:30:00+03:30",
+      "published_fa": "1405/05/28 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
+      "title_original": "Trump announces ‘most crushing economic operation ever’ against Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVhCS05GTl9MZEVxcUFnNTlYSERZMlRFVXotU2FQMXBrRHhyVU1ULUN4X2N2TXpJbDFjbEo5X2djeW9hNjlkYU0wVTMxWV9QbHp5TGFHY1EzUFRCZGxNVlNiYVBJNkU5UGpSdG0yOEFxSm5Zc2xrNzloZHRkdXNJMnVobUkwMDJKR1JkS3hPZjRNZFJfWjZKRkhqR2hZUDZRVTNjcS1HWFJGbFHSAbABQVVfeXFMTzNXU2ZhU2FUMmswRXJ0eUdVaWF5SUc4eXRKNlp0eVFWYUpWaE1vUFlmSnhDdFVWLVNDeFlzOTB6aWdYYUZLRzlENzhfSUNkV0dLUS1sNFJ4OUd1dERiUlNGX1ByeFUxREhKckxmOGhGSzhxSHVSdXBDWmZDVWFtQkN3U0pIaHZ0Q3p6QUtpazM2VUtXTkx2b2J3eXpCV0ZyaE1vTTZyVU5vSGo5b3J0RlE?oc=5",
+      "summary": "Trump announces ‘most crushing economic operation ever’ against Iran Al Jazeera",
+      "summary_original": "Trump announces ‘most crushing economic operation ever’ against Iran Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
       ],
       "urgent": false,
       "published": "2026-08-19T10:30:00+03:30",
@@ -6298,24 +6334,6 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan - DW.com",
-      "title_original": "Netanyahu, at odds with Trump, rejects Gaza peace plan - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUF3akFFaE12NVJfRnM3TU82cXNLQ1U1bk02aGl4TlRyc1BpVnRzWWQ5ejRNMkF1OFNjZUhHQUJKN01VUUcycjNOQWxBc3RvZU9ta2ktT3RJYVEzbFd0ZXMzMmI2RGF6NVRqYXVyTzVtdDljb2xLc2lqcjF5X05TRHBVbkQwVmFDTmNSaEM5dUNDc2VfWEVsNNIBmAFBVV95cUxPWVFTeUR1VEJCSUY4YXlrN2NXQ2VhTldCdmtNMHRxcG04Q3dTNjRJZE80VXcyVGtQQnduZ25aNkRNTXJIZDI2VkRJcTNxU2JDaXFKUml3SFhiN200R1BKQWNnb3Z0N3djbk13SFF0WUVCNXI3QWMybDBfMVBfOWpPMmQzNlRadTBlYUZlVlZHUFJONDNhdVppVg?oc=5",
-      "summary": "Netanyahu, at odds with Trump, rejects Gaza peace plan DW.com",
-      "summary_original": "Netanyahu, at odds with Trump, rejects Gaza peace plan DW.com",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-10T10:30:00+03:30",
-      "published_fa": "1405/05/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first - NPR",
       "title_original": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first - NPR",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dlU0NVWkg2RmpXSG5aYzJ0aklreGJ3UDViRWxQUFVaTVFxdzJYZDF6Qk5WWEZIRUl5YnA0RDdNOVhiOVN2U29GMTEyXy14YW9ab3hFWkg0c3J2eFhxeHdSUjNWSmxsZDNQLVZSN1N3UzBZNlhIRjkzSHB5S1ZhbjFSVTlQbzJCVC1lVVI0R0RHdHNLUlpDMmNuYWdyUQ?oc=5",
@@ -6370,11 +6388,11 @@
       "verified_source": true
     },
     {
-      "title": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says - NBC News",
-      "title_original": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2lnLVJPaGlDY01adEU5elJCOFpkREpaaGNpbTFjYXBmeFA5RDRSOGJINVpkN2dhZ0tjLTgxc1MtakkyNjhBLUNCcWxFbk90NWxyYmh6eklKWTJOTFZEQ3NueFd6bFNfRHZ5WmJSVXJqeHZHQTdPSVF3cThIcnpzUHZFODVnMmJTNU9HUkg0TWwzZXNoV0lDNFVzandWNzdIQ3FzcTViUUZPd3lOTFNWRjZ6cFZFdw?oc=5",
-      "summary": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says NBC News",
-      "summary_original": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says NBC News",
+      "title": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
+      "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
+      "summary": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
+      "summary_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6388,11 +6406,11 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
-      "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
-      "summary": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
-      "summary_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
+      "title": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says - NBC News",
+      "title_original": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2lnLVJPaGlDY01adEU5elJCOFpkREpaaGNpbTFjYXBmeFA5RDRSOGJINVpkN2dhZ0tjLTgxc1MtakkyNjhBLUNCcWxFbk90NWxyYmh6eklKWTJOTFZEQ3NueFd6bFNfRHZ5WmJSVXJqeHZHQTdPSVF3cThIcnpzUHZFODVnMmJTNU9HUkg0TWwzZXNoV0lDNFVzandWNzdIQ3FzcTViUUZPd3lOTFNWRjZ6cFZFdw?oc=5",
+      "summary": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says NBC News",
+      "summary_original": "Israel rejects Trump’s 15-point plan for Gaza, Netanyahu says NBC News",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6429,6 +6447,24 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaVgzbFFGTEpIOVhtRmFlTUFoRTF5T25wcHR6QkVvb056bzl3R19YWVRKTUw5SF94ZGQxTk9yeTFpOHpyaUlQTy1lNUFfSmNmMjI1aktyNWgxRnNkaDN1dWtFeHNVSjhTQ2hGRTlIaGNIZUszLWJ0UjFIX3pDa3RwcTlKT2tWaXVXX1hRM3JR?oc=5",
       "summary": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times",
       "summary_original": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-03T10:30:00+03:30",
+      "published_fa": "1405/05/12 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "‘Ongoing Tensions’ Between Trump, Netanyahu - Washington Jewish Week",
+      "title_original": "‘Ongoing Tensions’ Between Trump, Netanyahu - Washington Jewish Week",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHc4OVFGYkRkQmZFY0lLcVVueTRmWWgwb1NUeG91NWl0NFFqOEN3SHlLTFVRajNvMGNORzdVV0QzaU1QQW5FbTBnNmdyMDZadC12OXhiWWpEZnN0dzU3SWVIZUw4aXdFVjRiZTBPX1VwOTVhWVNkQllqOE1mRi0taUtWT3g?oc=5",
+      "summary": "‘Ongoing Tensions’ Between Trump, Netanyahu Washington Jewish Week",
+      "summary_original": "‘Ongoing Tensions’ Between Trump, Netanyahu Washington Jewish Week",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6619,11 +6655,11 @@
       "verified_source": true
     },
     {
-      "title": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
-      "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
-      "summary": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
-      "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
+      "title": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
+      "title_original": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo4d1dTQ0I3UmpKOElTdlhoV09Tc3lMMnZRUjdVR2ZNcktZLUROS0VFaTFIRm4xdTBOS2NCSFB1V0tFdVlkNUZSTE1obUk0eWg1MWZBVk9Ob1IxbGRkNThRaFYyekZFX2FaMFF1Q2ZOcVA2MDdFc1dxdlJBTFVrNmM4dEJoLUR6enJOY2hwYnZ4a2U2WFV4bGw3dzh1ZTN2R1VGSXhFbU5XNnFnWUFj0gG0AUFVX3lxTE1WS2NKWkh6dk9hSGFtY3Y4LUxLR1o4XzZXcnlBcjFoOWdwemJteTUwTVNNUzczYVhYT0ZQWE1GbnVkcFBQbUpVbGQteDVReG9fcnJnSmRrb1Z6UE5FaDYxU19nRVlYSzFYbjNrNnBjSENOMElTSlpuWDRMMU9PQXNtanExQWFGTHZkYUk1R2FXTmRYcGNSalhabEVHMUFPSHNNNms2Z2R0TkdvbjNmWTZQSTlwXw?oc=5",
+      "summary": "Trump expresses frustration with Netanyahu before White House meeting Al Jazeera",
+      "summary_original": "Trump expresses frustration with Netanyahu before White House meeting Al Jazeera",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6637,11 +6673,11 @@
       "verified_source": true
     },
     {
-      "title": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
-      "title_original": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo4d1dTQ0I3UmpKOElTdlhoV09Tc3lMMnZRUjdVR2ZNcktZLUROS0VFaTFIRm4xdTBOS2NCSFB1V0tFdVlkNUZSTE1obUk0eWg1MWZBVk9Ob1IxbGRkNThRaFYyekZFX2FaMFF1Q2ZOcVA2MDdFc1dxdlJBTFVrNmM4dEJoLUR6enJOY2hwYnZ4a2U2WFV4bGw3dzh1ZTN2R1VGSXhFbU5XNnFnWUFj0gG0AUFVX3lxTE1WS2NKWkh6dk9hSGFtY3Y4LUxLR1o4XzZXcnlBcjFoOWdwemJteTUwTVNNUzczYVhYT0ZQWE1GbnVkcFBQbUpVbGQteDVReG9fcnJnSmRrb1Z6UE5FaDYxU19nRVlYSzFYbjNrNnBjSENOMElTSlpuWDRMMU9PQXNtanExQWFGTHZkYUk1R2FXTmRYcGNSalhabEVHMUFPSHNNNms2Z2R0TkdvbjNmWTZQSTlwXw?oc=5",
-      "summary": "Trump expresses frustration with Netanyahu before White House meeting Al Jazeera",
-      "summary_original": "Trump expresses frustration with Netanyahu before White House meeting Al Jazeera",
+      "title": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
+      "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
+      "summary": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
+      "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6727,60 +6763,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
-      "title_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHpBTVNmeGw1SzJFa2lOWldIVmVKNGhiWWF3UEZFSkJ0UjdhdHVXOVpGYVh3a014RmxnWmxOLU0wdzI0QXhfNkpzXzg5VEsyRkxpTTdRRkZMS0ttZUZTTGJGM29aVFFuekdkaXE0cmFjaFAxYldnX0M3UDdqeVhmaTlJZUJxXzMwb1gwOEMybVdQbG9HQXBVcUVMNmlJWWFrVTkzeTVuSHhFOHpISXlqOTlrVdIBuAFBVV95cUxQN2FIM0ZaT0FkNHppSEpqOWdSSU1UdmI2YlNVSXJfVVVFUTVZUFZ4TmdYR2Q4UDhyR29OWUFBSjZ4enR0QlpFQkZQRFJObnhVc0k0NEh5bE5WZ1ZkRFJaNXpqYms3VWNLU25JSUxteWxlTjVNTVJhbW5EY0pvZnZaRDV4V3czT3Jva0FweVFRTVZNeXhRcmlFWkd0RTE5Zk9yTFVnWFA3NEdBV3EycDlWcXR2Tkx6d1NV?oc=5",
-      "summary": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
-      "summary_original": "Trump flouts political risk to host Netanyahu’s seventh White House visit Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T10:30:00+03:30",
-      "published_fa": "1405/05/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
-      "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
-      "summary": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
-      "summary_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T10:30:00+03:30",
-      "published_fa": "1405/05/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Netanyahu and Zelenskyy meet separately with Trump at the White House - ABC7 Los Angeles",
-      "title_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWlqZVJnYW00NkVSQTgtbjl6WENRS25iclkxanF4bG12YzRsc2V6OGU5akNONnlCQmlQX09hVFRhU0cxUnd4Rm1yTHdXMGkwQ1lzUi1HT1lQckl0bVI5WERISEl2Z0xqX1l5V3Z1TGdxTnpZemRscUVTT2ZZcXRQR25KcWVKVWxJcWF4ZzY2RVdraG5UTkxJ?oc=5",
-      "summary": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
-      "summary_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T10:30:00+03:30",
-      "published_fa": "1405/05/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Israeli Prime Minister Netanyahu set to meet with President Trump in the U.S. - NPR",
       "title_original": "Israeli Prime Minister Netanyahu set to meet with President Trump in the U.S. - NPR",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdzhhRGdOQ0lteHczZGdYQmlPYkZjOGhoekJYdjhNdTlCN2VmVThZemJXbUtzRFVvbTZvOFNGNVZMSUJEOVo4cDVyUE9GeUJ1cHZub0Y4dXV6eTdKX2VKdEZBMFhES3ptdDVmU0Q1b3N3QWJiQzFzblNPVEpYaS11anpR?oc=5",
@@ -6829,8 +6811,8 @@
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-07-25T10:30:00+03:30",
-      "published_fa": "1405/05/03 - 10:30",
+      "published": "2026-07-24T10:30:00+03:30",
+      "published_fa": "1405/05/02 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6840,24 +6822,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWt6eWtZa3JjTG1yRDZOSVJfdENMUUJPeUJoMDV3VE1Ub1VzUU45ZzdibEpmTkRUcU9BWFd4OWhDeVlhZ2l2am82VmpQam1GNW9LcmJGdWlQS0ZBS0ZUUzdoYVNZQTdyU1I4Unl1dS1wbllWaDhGR3ZxeUZ3WW9GS3ROaEtHUENVemFzWVYtQWpOYThDUnBIc0RZYV9KRlhhYjlCcQ?oc=5",
       "summary": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says Reuters",
       "summary_original": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says Reuters",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-24T10:30:00+03:30",
-      "published_fa": "1405/05/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump to meet Netanyahu on Tuesday amid Iran escalation - Axios",
-      "title_original": "Trump to meet Netanyahu on Tuesday amid Iran escalation - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WkdLR25VSTY1V0h4R2tTMFFrUkllaTZvTmcyQW52MmIwZm9Wb1VPc2RSQWFoTkFvaXBHdlFVR2VsTXVDSXI5dUJhSGE3WTUxMF80V0NlV3doR1BFZEx3bzc3WkpfV2ppalhPdHc2ZUluSDQ?oc=5",
-      "summary": "Trump to meet Netanyahu on Tuesday amid Iran escalation Axios",
-      "summary_original": "Trump to meet Netanyahu on Tuesday amid Iran escalation Axios",
       "source": "Google News",
       "category": "politics",
       "tags": [
