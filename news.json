@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T18:51:16.578377+00:00",
-  "generated_at_fa": "1405/07/19 - 22:21",
-  "count": 444,
+  "generated_at": "2026-10-11T19:14:13.276261+00:00",
+  "generated_at_fa": "1405/07/19 - 22:44",
+  "count": 440,
   "items": [
     {
       "title": "حوثی‌ها مسئولیت حمله به فرودگاه ریاض و تاسیسات آرامکو را برعهده گرفتند",
@@ -13,9 +13,57 @@
       "category": "military",
       "tags": [],
       "urgent": true,
-      "published": "2026-10-11T22:17:20.162458+03:30",
-      "published_fa": "1405/07/19 - 22:17",
+      "published": "2026-10-11T22:40:18.181733+03:30",
+      "published_fa": "1405/07/19 - 22:40",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "خداداد عزیزی، سرپرست تراکتور: سفر طولانی تکرار شود، از لیگ نخبگان انصراف می‌دهیم",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610116364",
+      "summary": "خداداد عزیزی، سرپرست تراکتور در ویدیویی که باشگاه تراکتور منتشر کرده، مدعی شده که نمایندگان ای‌اف‌سی و ناظر بازی در عمان به او گفته‌اند فدراسیون فوتبال باید برای تغییر این شرایط و میزبانی در ایران، با کنفدراسیون فوتبال آسیا مذاکره کند: «فدراسیون‌تان باید پیگیری کند، دست ما نیست.»",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "politics",
+      "tags": [
+        "مذاکره",
+        "گزارش مردمی"
+      ],
+      "urgent": false,
+      "published": "2026-10-11T22:27:06+03:30",
+      "published_fa": "1405/07/19 - 22:27",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 - Sky News",
+      "title_original": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
+      "summary": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 Sky News Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post Saudi Arabia airport attacked again during US-Iran war, leaving multiple injured Fox News",
+      "summary_original": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 Sky News Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post Saudi Arabia airport attacked again during US-Iran war, leaving multiple injured Fox News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T22:22:27+03:30",
+      "published_fa": "1405/07/19 - 22:22",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "title_original": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+      "summary": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+      "summary_original": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+      "source": "Al Jazeera",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T22:17:57+03:30",
+      "published_fa": "1405/07/19 - 22:17",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -45,6 +93,21 @@
       "urgent": false,
       "published": "2026-10-11T21:55:42+03:30",
       "published_fa": "1405/07/19 - 21:55",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions - The New York Times",
+      "title_original": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUVTX184M1ZxZGwtNFBoOHM5SzVaZ2RTYm42aWx6bTR1dGdDbl9fNjFLaDI4OG9JMG1RTmdrNWpyZGtucXJpVl8weFZjTEt5clItZ19hSFJOLWdhdjNHX285WmhoeGRfdVZaN1hra1ViOWp5VWQ2eHVUc0lxSDBEdVpwbEhFQjZhWm02ekxB?oc=5",
+      "summary": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions The New York Times",
+      "summary_original": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions The New York Times",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T21:54:42+03:30",
+      "published_fa": "1405/07/19 - 21:54",
       "translated": true,
       "verified_source": true
     },
@@ -139,6 +202,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran Calls Latest US Response to Proposal Insufficient, and Other Mideast Developments - U.S. News & World Report",
+      "title_original": "Iran Calls Latest US Response to Proposal Insufficient, and Other Mideast Developments - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR2RZQk1xU09oOGF3cWVRaHM2emxrY1Q2Ni1wNDdOWGpjT2lFWF82b1lYT0NNbTFtU1AzTHN6aTBXOUhGYVZrVjVfZUp6UVlVSkFFX2hRSHNRY3I5RDltcHdrWFgzcU1nVm5UcF83VVhLRlp2ODktbXVTengyNC1TT2g1SjVPMjYzcUJxNmNmQy1tUktNbm5CVGwtT291QkZzMkQtLUg2elJLVnB1a2ZVSlFRTHlsVjJfaEFsdVJqcjNIVTVNRFJ0cXpuWUNPaWgwSU53WnV3?oc=5",
+      "summary": "Iran Calls Latest US Response to Proposal Insufficient, and Other Mideast Developments U.S. News & World Report",
+      "summary_original": "Iran Calls Latest US Response to Proposal Insufficient, and Other Mideast Developments U.S. News & World Report",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T21:28:53+03:30",
+      "published_fa": "1405/07/19 - 21:28",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
       "title_original": "Liverpool fans give Manchester City a fiery welcome at Anfield",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
@@ -171,7 +249,7 @@
     {
       "title": "Trump’s Middle East war has spiralled beyond America’s control - The Independent",
       "title_original": "Trump’s Middle East war has spiralled beyond America’s control - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUIwWVN2MVZ3U3YzRmNDXzlDRFBoZ05iNFJ2aVJHbENVWlp0aVMyaFR5bkhWZ0tzS0pubXFXVFpiRzdDSFJudEVFOWlGaUt4TG00YU0tUkJYMW54cXMtUktuUGZQeC00RXV1QkNpVGJBNjR6SHRXVVlxOVlKQUJrRzdQZGVIVUpOLU8xV0RNZ0FOSExCZzhBOFEzYllYdzl6OFdYTlF5TWdybzlBbHhyVE9iX2R1UG8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDZsd3daNVM3MWZ5akk5MXpScjJEV2Z5Sm90NXN4S0R2OTFYT2VucUU1NmJpZzFFX3NZQ0xZa1ZDbnBKcXlGaTlwaEZyeGFjZXlfOHMtOUllWGtRdGZmZkloTXVtRGY5M21kMWxXeE9mN1lVQUsxOVF1cTlaMVZodmF5U0ZfVXo3WTZtLU9wczlwXzVaRHVRZ25EUGlwQ1kzbGZaUG1BQy1WU1FEUjhBemVUOVdXSzFkYXc?oc=5",
       "summary": "Trump’s Middle East war has spiralled beyond America’s control The Independent",
       "summary_original": "Trump’s Middle East war has spiralled beyond America’s control The Independent",
       "source": "Google News",
@@ -212,21 +290,6 @@
       "urgent": false,
       "published": "2026-10-11T21:07:45+03:30",
       "published_fa": "1405/07/19 - 21:07",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 - Sky News",
-      "title_original": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
-      "summary": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 Sky News",
-      "summary_original": "Middle East latest: More injuries in new attack on Saudi airport where missile strike killed at least 12 Sky News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T21:05:26+03:30",
-      "published_fa": "1405/07/19 - 21:05",
       "translated": true,
       "verified_source": true
     },
@@ -333,23 +396,6 @@
       "tags": [],
       "urgent": false,
       "published": "2026-10-11T20:39:19+03:30",
-      "published_fa": "1405/07/19 - 20:39",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump Declares a Russia-Ukraine Energy Ceasefire, but Moscow Hasn’t Confirmed - WSJ",
-      "title_original": "Trump Declares a Russia-Ukraine Energy Ceasefire, but Moscow Hasn’t Confirmed - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1g0QVBLX2lGU0RUSUxWNDNYM2ZHUWlwVGVqTHNBMnB5VXp3eTVndndiM0VBTHJ2Qkw0SlVmWEU0clBBVWFiaTBvTjVRUDFxZTVEUnhWWVVOd0FfU1ZsRmxYZXR0RTdMcmFYbF9LMjlGY3pQdmNpQ3NSejh6NW5INjVzY3VNTVotNC1aN002aTNCVkdJR1Y3T0pXbVlzeWV0SnBKZEF6clhNZFJUNlZv?oc=5",
-      "summary": "Trump Declares a Russia-Ukraine Energy Ceasefire, but Moscow Hasn’t Confirmed WSJ",
-      "summary_original": "Trump Declares a Russia-Ukraine Energy Ceasefire, but Moscow Hasn’t Confirmed WSJ",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T20:39:00+03:30",
       "published_fa": "1405/07/19 - 20:39",
       "translated": true,
       "verified_source": true
@@ -539,6 +585,21 @@
       "urgent": false,
       "published": "2026-10-11T19:30:48+03:30",
       "published_fa": "1405/07/19 - 19:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Israeli army ’warning against attacking Iran’ before election - The New Arab",
+      "title_original": "Israeli army ’warning against attacking Iran’ before election - The New Arab",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVkwSGpZWF9Ub05xUU9mTUROTFlKWk51UGtmZmNmNWowakVMSkdiZ29JTVhwWDFmSUN3eHFsM3dUdGF4VG9KTTE1ZFNFTmpOekpwaWtTZ2J5QXZhd1c0MHhPQ2NROXNYVVdrenNkVFlnVlVwWDl0VkpHdkdUaXhKMDR4aXg2dkda?oc=5",
+      "summary": "Israeli army ’warning against attacking Iran’ before election The New Arab",
+      "summary_original": "Israeli army ’warning against attacking Iran’ before election The New Arab",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T19:29:22+03:30",
+      "published_fa": "1405/07/19 - 19:29",
       "translated": true,
       "verified_source": true
     },
@@ -1119,21 +1180,6 @@
       "urgent": false,
       "published": "2026-10-11T16:30:14+03:30",
       "published_fa": "1405/07/19 - 16:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
-      "title_original": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
-      "summary": "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.",
-      "summary_original": "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.",
-      "source": "Al Jazeera",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T16:10:35+03:30",
-      "published_fa": "1405/07/19 - 16:10",
       "translated": true,
       "verified_source": true
     },
@@ -2112,21 +2158,6 @@
       "verified_source": true
     },
     {
-      "title": "Saudi Arabia airport attacked again during US-Iran war, leaving multiple injured - Fox News",
-      "title_original": "Saudi Arabia airport attacked again during US-Iran war, leaving multiple injured - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmkzZ3pfNW9NcDhrVjFlQzlkVktCY242b1FnNzNWUDZ3Wmd6OElqMkVwTkFPRXhIYnAzdEdLN1J4eWlORFNEak1RRG11TURhMHNidm04WndOaW1OOVhnWjdEYlNzb3dwTjlnSDFURWZxZHlQYkotbExYUFdUdGV6a0I5VVNnWWZ0MDROSDZpV0lYNnJMVHNtRUVKME5idw?oc=5",
-      "summary": "Saudi Arabia airport attacked again during US-Iran war, leaving multiple injured Fox News",
-      "summary_original": "Saudi Arabia airport attacked again during US-Iran war, leaving multiple injured Fox News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T04:59:32+03:30",
-      "published_fa": "1405/07/19 - 04:59",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "هاآرتص: حملات حوثی‌ها می‌تواند زمان ورود آمریکا به جنگ با جمهوری اسلامی را تعیین کند",
       "title_original": "",
       "link": "https://www.iranintl.com/202610114419",
@@ -2141,6 +2172,21 @@
       "published": "2026-10-11T04:40:27+03:30",
       "published_fa": "1405/07/19 - 04:40",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say - The Jerusalem Post",
+      "title_original": "Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DRTB2RzVMUXU3b0EyNm94a0pza0E2anJzOGFHeXZWTWcwZGRySnp0Z2lYd1JoUGN2ZzhaOTRpOGliUDh1dVlXU01MS0pnQmw3VHoxU2FLMWx5RF8z?oc=5",
+      "summary": "Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say The Jerusalem Post",
+      "summary_original": "Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say The Jerusalem Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T04:22:40+03:30",
+      "published_fa": "1405/07/19 - 04:22",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -3024,21 +3070,6 @@
       "verified_source": true
     },
     {
-      "title": "معاریو: آمریکا از اسرائیل خواسته بود قبل از انتخابات به‌تنهایی به جمهوری اسلامی حمله کند",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610105736",
-      "summary": "روزنامه اسرائیلی معاریو شنبه ۱۸ مهر گزارش داد که دولت آمریکا در جریان مذاکرات دو هفته گذشته با اسرائیل درباره ایران، از تل‌آویو خواسته بود به‌تنهایی حمله تازه‌ای علیه جمهوری اسلامی انجام دهد؛ اما مخالفت ایال زمیر، رییس ستاد کل ارتش اسرائیل، باعث شده این طرح فعلا کنار گذاشته شود.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-10T17:09:04+03:30",
-      "published_fa": "1405/07/18 - 17:09",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran - Al Jazeera",
       "title_original": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamhIUGVlZ2RSX0dtNlNPZm1PQ0VqRk9GU1JLU0NnTEZ1aVNqbXE1eTFhV0dYcGVsc1ZmdkU3SW9rSnB6ZzJZSmZ1dkJxRXB3LWlMOHk5bnNvUFhKaHNleVFmSVBUU1RqbGxNcUhWTmkydTJRU1U3ekhydEcxbDJhb2E5OTJCOE9KWUFuODVyNFZnbDlkRmhMMml2a2w2RlhWVlNYS19PdDlaODZ2elR4cHpYLVZjUVBGUnZQb9IBwgFBVV95cUxObnFKajZBMmR4X1loYnRHaklZcU1jSU9ZaTg3QjJCTng3U01seUtxMWJfdXl2OHJYRXlJaUxuLXlXajJObDRQNDdIXzFYeVYwV2lSR3dtVUVZNkliZ3pvQ0dtYWJYeVNtNHkyWWdEckFfemxyZHlqUzg4SGpjTlNvRldrWTc4cWJyTVN2YmYyUkdYSTh4bUpsT1dIT0RuekU1V3NFT0pDVTFkZVNRRUhiUWI2N1AyM1hvWmdJSzlENTJfUQ?oc=5",
@@ -3176,38 +3207,6 @@
       "urgent": false,
       "published": "2026-10-10T15:12:09+03:30",
       "published_fa": "1405/07/18 - 15:12",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
-      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T15:11:53+03:30",
-      "published_fa": "1405/07/18 - 15:11",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens - Middle East Eye",
-      "title_original": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHp3ZElCZ3daS2w1ekliZFhJMHZtMDE0NGEyYlZFMjZuSGJPWTNPTTUzUVhlRVNNeHBJWlZDbjg1Q1M0VnZ5LURBRnB3WmZlYVRxdWR0NFJab2dzZFRQdldOV1hEb3FyOTY5ZFRsbmV3OGt4YnhvbG93Y0VkSmVrRzJFMVhuVGYtVzBRbkk4Yw?oc=5",
-      "summary": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens Middle East Eye",
-      "summary_original": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens Middle East Eye",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T14:48:16+03:30",
-      "published_fa": "1405/07/18 - 14:48",
       "translated": true,
       "verified_source": true
     },
@@ -3938,21 +3937,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran determined to expand ties with Russia, Pezeshkian says - Middle East Eye",
-      "title_original": "Iran determined to expand ties with Russia, Pezeshkian says - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWgtaEJSaENNeU5ySjhBdkYxTGZDRExVMlhibERSUWc5SkRLamEtNmlYR1dWWEtRdWctZVA3UDZBSlM1cDhJaFBTNFJzc1Ytbjl0enphUHFFM0FJZlRHTUIxOUdJdjMxeXJXMnpsdzVVZHp0U09hQy10SHZKQ2FqTmZxdDFDdWJUbmNndV9qNFFJb2lLdnE4RXlmbG5ZcVp5ejlJS3dBcHNmdHhrS1E?oc=5",
-      "summary": "Iran determined to expand ties with Russia, Pezeshkian says Middle East Eye",
-      "summary_original": "Iran determined to expand ties with Russia, Pezeshkian says Middle East Eye",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-09T15:13:00+03:30",
-      "published_fa": "1405/07/17 - 15:13",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Is Trump signalling a return to war with Iran after the midterms? - Al Jazeera",
       "title_original": "Is Trump signalling a return to war with Iran after the midterms? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2lheENhTTNsdUk1TWdiTURrdmN5NDdSMHNVUFdCdllxZXFKU2lhR3c3dG03a3lJc2ZnQnJMeHJ1TDFrNGR4STJ4eWpuRHowYVVoYTZSRF90ZTl2ZVRuQThVMmMyaEdRSUt3WUZ4MVBYNC11SGVlWXdqa1dadEdNM0R0ckQ2aFpqUVQzd2pmcThjNnQ5SDhuMlRXR0tveGhtRmE2MnNHYlbSAa4BQVVfeXFMUElKblZ0WUdJMFZNMDNLMEhDRlBidFpKY1M3WjItQlJra2pPdGJ3b2dLVlN3WkZSMWFHNzN2MHR0WXoyTkIxRThLdks2M3g4YUx6cTJ5Xzc3X0hYTE9IVEFxTVFSQm5ybjNPeUxlSGx5YXZYRmxUS1pxUGRBXzRFS1BtZXpyVEZ3TlJ5MWZiVWtHWm1ZTVQyajVjcTJmN3o1Ui1CazdzdG0xcTVsSXdn?oc=5",
@@ -4425,21 +4409,6 @@
       "verified_source": true
     },
     {
-      "title": "Attack on Saudi airport kills 3 as Iran-backed Houthis warn of long conflict - CNN",
-      "title_original": "Attack on Saudi airport kills 3 as Iran-backed Houthis warn of long conflict - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYURHYlF0NEZaU1JJd1FpVlo4ZVVGSkw2QzJ2MVFERDFEWVo5a2hNV0RiazJVR0QxS25tbUlXQ19oYTVuNDZmZXlEQ3FKVEpkX2NfczhWeG1xYmVQVEVTQTlqaE16UFF5S19adGY3akZhcnNSbElBOFJmV0dKLWFQVWVGekZxQQ?oc=5",
-      "summary": "Attack on Saudi airport kills 3 as Iran-backed Houthis warn of long conflict CNN",
-      "summary_original": "Attack on Saudi airport kills 3 as Iran-backed Houthis warn of long conflict CNN",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T17:17:00+03:30",
-      "published_fa": "1405/07/16 - 17:17",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "America’s blockade is breaking Iran’s economy - The Economist",
       "title_original": "America’s blockade is breaking Iran’s economy - The Economist",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEtxcVZGaVdIeS03WllvZmNEM2FMYTJEQVRRM0wwTTRvdVhId2hkZlNoRF9CNkNLdkhYM0Yxa0tPYmVQWlRsdTJVcjM2VzlaSkFKaWlFTnJDRVRTZHpsRTVNZ20wTTJwb2pzWUhxVmZhcTJGY0lKeE9XbzhnMi1ucVYzbG9KZlNFdldUUkZrbXJVSVJCMW1CZGgzbzVnTHVqcXlGLTVn?oc=5",
@@ -4629,21 +4598,6 @@
       "published": "2026-10-08T08:32:53+03:30",
       "published_fa": "1405/07/16 - 08:32",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters",
-      "title_original": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
-      "summary": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption Reuters",
-      "summary_original": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption Reuters",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T05:00:25+03:30",
-      "published_fa": "1405/07/16 - 05:00",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -5045,6 +4999,21 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGR3S3NmdVpaZUR1OGdBX0hBTU5TbTFDcDRVbThaY05EU1Q3Qk9Sa3AwNFlkT3RrU0ZZb19DYmlaZlFQa09DT3d1eGxuZFJnZVJpT1NSTkpVVy1pUEt4MmZVR1JqeWR0YWRLNUdfcFp2WjVMV1lMNVllaF9ELVF3bmhrUUhscEFwcDJVSE9feWtzYldxNGF2NGNEZUZVZm05Z0ZoamNsd2dZNVcxNWE4V0luaVZpd9IBuwFBVV95cUxPSUdtckw3eUdwd1UweVd6Tm1YWG55cXBIaTZrdVJtTWRKdmN3LWk5aGxtOTFtbFNQcVdfN3g2ekVUR0NGVHNXRXFQYjJrbjNiNUNwVUREUWp1M1laYkZQMng0SzJIcmN1RnR1bVpXU3FBbnRaaWxsQllnNmV1ZU1nMG1QT0RFR1JnUDZoaFpoc2VsbTFfMGpjUVotZ2dnR3hFVEl2Z0kyNl90enlOX2J4YUYxVXNpQlBMbDFR?oc=5",
       "summary": "Iran war updates: US, Iran trade barbs as MBS and UAE VP meet Al Jazeera",
       "summary_original": "Iran war updates: US, Iran trade barbs as MBS and UAE VP meet Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-29T10:30:00+03:30",
+      "published_fa": "1405/07/07 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "After Iran war damage, US may close some Middle East bases for good - The Christian Science Monitor",
+      "title_original": "After Iran war damage, US may close some Middle East bases for good - The Christian Science Monitor",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXl1NEpoVEUzOE94eThLc1IzNlZCQjRqYTJjbWVxdTB1VEttcUx0ZFVPaDRmdk80U1NyZzBTRUJ0LWtkTW1YeWVxcmk0STd4U2hlQm9pZ1ctN2I4NjB0blg2aTgzSG1DZVZNTWkxczFDQm5xY0tYMl9LMTRYbFVhVnhOZWtOLXpTb0djWQ?oc=5",
+      "summary": "After Iran war damage, US may close some Middle East bases for good The Christian Science Monitor",
+      "summary_original": "After Iran war damage, US may close some Middle East bases for good The Christian Science Monitor",
       "source": "Google News",
       "category": "other",
       "tags": [],
@@ -5597,21 +5566,6 @@
       "verified_source": true
     },
     {
-      "title": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East - Military Times",
-      "title_original": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnZpbTRlMzlvOWNpU3lDQjBwaVBEd0RRNy1MVC1tdnVBRG1MY3ZNSEtUaV9YbHVpblRVZXJUbk8tYmNya3FMbVV2LWFyenpqUnF3MGQyZzhLbWN3aGI4N2FxRlZPYzVHdG5yUkotTGp0TDI4R0dYcXA3TTVNUEFMSjJmX2k1S2RBYWV5TFhwcFB3WFotYjJnM1FPYl9QdEhiYk80anhuUEtRSVhHOUlMQldaNlNVdmd5MDFxZG02aEtFcUo2UUFVR2Rkamp3SUk4bnc?oc=5",
-      "summary": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East Military Times",
-      "summary_original": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East Military Times",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-15T10:30:00+03:30",
-      "published_fa": "1405/06/24 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran and the Emerging Security Order in the Middle East - CSIS | Center for Strategic and International Studies",
       "title_original": "Iran and the Emerging Security Order in the Middle East - CSIS | Center for Strategic and International Studies",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEVWtfWXRCTkVQdUsxNjN0STZDY2hnYTFMR09GZ2VsanV6eHJZNUVYRXFwNGZSYWhzejU4bmF3dVlBN0lhamVHTVdzSkg2OVlNRGk5Y1lMQVZTRmk3VHR3Q2V6bF9WeHEzUE05Ym1pdmJENTlQQUppQ2pCZVhmM00?oc=5",
@@ -5656,21 +5610,6 @@
       "urgent": false,
       "published": "2026-09-03T10:30:00+03:30",
       "published_fa": "1405/06/12 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
-      "title_original": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
-      "summary": "US-Iran strikes raise fears of renewed war across the Middle East Reuters",
-      "summary_original": "US-Iran strikes raise fears of renewed war across the Middle East Reuters",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-02T10:30:00+03:30",
-      "published_fa": "1405/06/11 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6430,6 +6369,24 @@
       "verified_source": true
     },
     {
+      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
+      "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
+      "summary": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
+      "summary_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Netanyahu Walks ‘Political Tightrope’ on Trump’s Gaza Disarmament Deal - The New York Times",
       "title_original": "Netanyahu Walks ‘Political Tightrope’ on Trump’s Gaza Disarmament Deal - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHFOamp4WHZPdEsxTGVLNC00YzBMTmRZOGVyTFhBTFg4bmw1cVN6TFpyZGFHSzk4b0ZrR2w2eVU2V19uYklhUUFVY1hBZ0loeXdZNk9WX2hwVGFZYldndV9hV1pLRVZHbGFxbnFpMzc4RTg3VWNVTnh2MjIwbDFaYjIzY3h6YjFva09OVkdDaXlHalZCM296bXZHbWk?oc=5",
@@ -6441,24 +6398,6 @@
         "ترامپ",
         "نتانیاهو",
         "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-10T10:30:00+03:30",
-      "published_fa": "1405/05/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
-      "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
-      "summary": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
-      "summary_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
       ],
       "urgent": false,
       "published": "2026-08-10T10:30:00+03:30",
@@ -6503,11 +6442,11 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza - Time Magazine",
-      "title_original": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3k1dTV2UzVJV1RiWGs4ZENQOTBhVk5sZ2JQX2t6WURKRlJZQ2NxOE1NNUswWUZUZXoxbHBxbWRFeldQSWR1Zy1tUGlpM2dWWW5kU0dCbjRRV3U4N3oyU1JKaG16bktvOUphRXhiZDJiTWpqWkdFemVQakRNdGVCMzRRZk9LTXA4RlBhUzRFdUJCNGM?oc=5",
-      "summary": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza Time Magazine",
-      "summary_original": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza Time Magazine",
+      "title": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
+      "title_original": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVHSzJUalA5TXZmOV9IVmZQVlpjWW1rTjZseGE1b3YzSmlIUEF3bU9OcC1WRDJFMUc5cGYyZDV5Zi1MNWFMVjlDZ05SUk1ucm1iaVFJS1IzQmQ0ZVNKVDIzWEVkQ1UtU1AxYVI4dFl3dHZ6VmVVd0lzMktEdmstN3Frakx6QjdybHN2U3RUeGdham9zS1NIaGlsUkk?oc=5",
+      "summary": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
+      "summary_original": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6521,11 +6460,11 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
-      "title_original": "Netanyahu calculates upsetting Trump is his least-bad option - CNN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWVHSzJUalA5TXZmOV9IVmZQVlpjWW1rTjZseGE1b3YzSmlIUEF3bU9OcC1WRDJFMUc5cGYyZDV5Zi1MNWFMVjlDZ05SUk1ucm1iaVFJS1IzQmQ0ZVNKVDIzWEVkQ1UtU1AxYVI4dFl3dHZ6VmVVd0lzMktEdmstN3Frakx6QjdybHN2U3RUeGdham9zS1NIaGlsUkk?oc=5",
-      "summary": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
-      "summary_original": "Netanyahu calculates upsetting Trump is his least-bad option CNN",
+      "title": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza - Time Magazine",
+      "title_original": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3k1dTV2UzVJV1RiWGs4ZENQOTBhVk5sZ2JQX2t6WURKRlJZQ2NxOE1NNUswWUZUZXoxbHBxbWRFeldQSWR1Zy1tUGlpM2dWWW5kU0dCbjRRV3U4N3oyU1JKaG16bktvOUphRXhiZDJiTWpqWkdFemVQakRNdGVCMzRRZk9LTXA4RlBhUzRFdUJCNGM?oc=5",
+      "summary": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza Time Magazine",
+      "summary_original": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza Time Magazine",
       "source": "Google News",
       "category": "politics",
       "tags": [
