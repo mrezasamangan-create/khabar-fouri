@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T16:07:07.770807+00:00",
-  "generated_at_fa": "1405/07/20 - 19:37",
-  "count": 442,
+  "generated_at": "2026-10-12T16:24:50.708212+00:00",
+  "generated_at_fa": "1405/07/20 - 19:54",
+  "count": 440,
   "items": [
     {
       "title": "آنچه گذشت؛ ادامه حملات حوثی‌ها به عربستان؛ فرودگاه ریاض برای سومین بار در چهار روز هدف قرار گرفت",
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T19:30:04.321369+03:30",
-      "published_fa": "1405/07/20 - 19:30",
+      "published": "2026-10-12T19:51:20.476389+03:30",
+      "published_fa": "1405/07/20 - 19:51",
       "translated": false,
       "verified_source": true
     },
@@ -30,9 +30,131 @@
         "فلایت رادار"
       ],
       "urgent": false,
-      "published": "2026-10-12T19:30:04.319844+03:30",
-      "published_fa": "1405/07/20 - 19:30",
+      "published": "2026-10-12T19:51:20.475321+03:30",
+      "published_fa": "1405/07/20 - 19:51",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "نخست‌وزیر بریتانیا می‌گوید: «واشنگتن پست»، نخست‌وزیر انگلیس، می‌گوید که حادثه امنیتی در پایگاه هوایی آمریکا به‌طور قطع توسط ایران هدایت می‌شود",
+      "title_original": "Security incident at US-run air base almost certainly directed by Iran, UK prime minister says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSDRNTmRFNE1mQlFPX09lX0I5TFhQb0NhYWxHMUFGYjVEMmVROVEyMFZidDJyMTBTdzlXdmZBdU1ONGgycEQ0bm9sck1kblBIc09Jc2REcXUyNnFVT0x3bWhOX3R5NzlMVVJzRE15dDd3c1ZISmhCZzhLMGZMVm1NTHVHbEZiV1JEV2pLQWExLXZ6UWRxTUxGN2dNRDg3YXFQeW5hbENPSktYTVVmSnZibVAzVVZJUnVkbXptSWJ5OEdxU1lrTTd4ZDFIUlNZdmJTUnVzUVdB?oc=5",
+      "summary": "نخست وزیر بریتانیا واشنگتن پست می گوید که حادثه امنیتی در پایگاه هوایی تحت کنترل آمریکا به طور قطع توسط ایران هدایت شده است",
+      "summary_original": "Security incident at US-run air base almost certainly directed by Iran, UK prime minister says The Washington Post",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T19:42:14+03:30",
+      "published_fa": "1405/07/20 - 19:42",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "27 کشور اتحادیه اروپا برای ماموریت در لبنان مجوز می دهند. ایران تهدید به حمله به مراکز داده آمریکا در خلیج فارس - Il Sole 24 ORE",
+      "title_original": "The 27 EU countries give the go-ahead for a mission to Lebanon. Iran threatens to strike US data centres in the Gulf - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTAtOURjZHU1M2JEZ1lvMmthS1lIcTRKRC1EdW1DUmpzanNTdF9URHlrbkxJUGR1bzU3dW5DVTJjQzRzTUFxV0pfcmxGNVZ0RjRYYTdTTVliRFp3UU1WSTZmZ05PVUw0YWdsdzFRSExYWmZRS2xELVRZVEMyd005enFvVUpnYTRiZE8wY1Z4OHlVNU1qS1FOQnhwYVpnSVNmRUpRbkVNZ0lxaHlBTFlfYjNRM1gzYlU?oc=5",
+      "summary": "27 کشور اتحادیه اروپا برای ماموریت در لبنان مجوز می دهند. ایران تهدید به حمله به مراکز داده آمریکا در خلیج Il Sole 24 ORE کرده است",
+      "summary_original": "The 27 EU countries give the go-ahead for a mission to Lebanon. Iran threatens to strike US data centres in the Gulf Il Sole 24 ORE",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-12T19:41:49+03:30",
+      "published_fa": "1405/07/20 - 19:41",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "سه ماه پیش از جام قهرمانی آسیا؛ فلیکس سانچز، سرمربی پیشین قطر، سرمربی بحرین شد",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610129009",
+      "summary": "فلیکس سانچز، سرمربی سابق تیم‌های ملی قطر و اکوادور، کمتر از سه ماه پیش از جام قهرمانی آسیا ۲۰۲۷ سرمربی تیم ملی بحرین شد. سانچز که قطر را در سال ۲۰۱۹ قهرمان آسیا کرد، از ماه نوامبر، کار خود را برای آماده‌سازی بحرین در جام قهرمانی آسیا ۲۰۲۷ آغاز می‌کند.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T19:41:37+03:30",
+      "published_fa": "1405/07/20 - 19:41",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "اندی برنهام، نخست‌وزیر بریتانیا متعهد شد که در مورد توافق تجاری پس از برگزیت با اتحادیه اروپا دوباره مذاکره کند",
+      "title_original": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+      "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+      "summary": "نخست‌وزیر برنهام مذاکرات ماه آینده در بروکسل را تأیید می‌کند و تأکید می‌کند که مردم بریتانیا «رئیس» تنظیم مجدد خواهند بود.",
+      "summary_original": "PM Burnham confirms talks in Brussels next month, insisting the British public will be &#039;the boss&#039; of the reset.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-12T19:32:35+03:30",
+      "published_fa": "1405/07/20 - 19:32",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "تیراندازی در مدرسه فرانسه: پلیس دانش آموزی را پس از دو زخمی بازداشت کرد",
+      "title_original": "France school shooting: Police detain pupil after two injured",
+      "link": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
+      "summary": "مقامات می گویند که یکی از کارکنان، مظنون را که یک تفنگ شکاری شکاری را در جعبه گیتار مخفی کرده بود، قبل از رسیدن پلیس خلع سلاح کرد.",
+      "summary_original": "Officials say a staff member disarmed the suspect, who hid a hunting shotgun in a guitar case, before police arrived.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T19:17:43+03:30",
+      "published_fa": "1405/07/20 - 19:17",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حکم دادگاه روهینگیا ICJ وعده های OIC را آزمایش خواهد کرد",
+      "title_original": "The ICJ’s Rohingya ruling will test the OIC’s promises",
+      "link": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss",
+      "summary": "حمایت از پرونده نسل کشی علیه میانمار باید با اقدامی مشخص برای حفاظت از روهینگیا همراه باشد.",
+      "summary_original": "Backing the genocide case against Myanmar must be followed by concrete action to protect the Rohingya.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T19:16:05+03:30",
+      "published_fa": "1405/07/20 - 19:16",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "جروزالم پست پهپادهای ایرانی به کمپ مخالفان کردهای ایران در شمال عراق حمله کردند",
+      "title_original": "Iranian drones hit Iranian Kurdish opposition camp in northern Iraq - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yT3FsMGR1Tm9DYWZxb1RJdzRFQUhnaUN6S0lXdWtSM1ZNeFJ2QWRnMS1nLWdOM2J6bzRsU0NPcVNKeGZZM1lkVjJ1VENaTlFMdzBGSGRpWnFBLU11cExqREwycGFuYW1Hc2c?oc=5",
+      "summary": "پهپادهای ایرانی به اردوگاه مخالفان کردهای ایران در شمال عراق، روزنامه جروزالم پست حمله کردند",
+      "summary_original": "Iranian drones hit Iranian Kurdish opposition camp in northern Iraq The Jerusalem Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-12T19:15:38+03:30",
+      "published_fa": "1405/07/20 - 19:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "نیویورک تایمز: عربستان سعودی با حملات فرودگاهی با حملات بیشتری روبرو می شود",
+      "title_original": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEpXdU85R2o4TEJvcnF4SHpEOHZWRUtuR0hrbllBc3VIWVpIWTJJeU53czh4SUR0ZXRPTEVkSlVobDBmUmxqcWJUakN3Yjd2QnV6R3c0TVFMNmN0NXZpd0tHY2U3M1lOSy1md09ILWdHai1Oa0NpemNZeExwWklDZmJ6eTdSdTJybWc?oc=5",
+      "summary": "عربستان سعودی با حملات فرودگاهی با حملات بیشتری روبرو می شود نیویورک تایمز",
+      "summary_original": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes The New York Times",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T19:14:54+03:30",
+      "published_fa": "1405/07/20 - 19:14",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -128,17 +250,17 @@
       "verified_source": true
     },
     {
-      "title": "27 کشور اتحادیه اروپا برای ماموریت در لبنان مجوز می دهند. ایران تهدید به حمله به مراکز داده آمریکا در خلیج فارس - Il Sole 24 ORE",
-      "title_original": "The 27 EU countries give the go-ahead for a mission in Lebanon. Iran threatens to strike US data centres in the Gulf - Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTAtOURjZHU1M2JEZ1lvMmthS1lIcTRKRC1EdW1DUmpzanNTdF9URHlrbkxJUGR1bzU3dW5DVTJjQzRzTUFxV0pfcmxGNVZ0RjRYYTdTTVliRFp3UU1WSTZmZ05PVUw0YWdsdzFRSExYWmZRS2xELVRZVEMyd005enFvVUpnYTRiZE8wY1Z4OHlVNU1qS1FOQnhwYVpnSVNmRUpRbkVNZ0lxaHlBTFlfYjNRM1gzYlU?oc=5",
-      "summary": "27 کشور اتحادیه اروپا برای ماموریت در لبنان مجوز می دهند. ایران تهدید به حمله به مراکز داده آمریکا در خلیج Il Sole 24 ORE کرده است",
-      "summary_original": "The 27 EU countries give the go-ahead for a mission in Lebanon. Iran threatens to strike US data centres in the Gulf Il Sole 24 ORE",
+      "title": "ایران می‌گوید همزمان با محاصره دریایی آمریکا، یک ابر نفتکش را در تنگه هرمز هدف قرار داده است - کردستان24",
+      "title_original": "Iran Says It Struck Supertanker in Strait of Hormuz as US Enforces Naval Blockade - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT25ud0toZWw2eVZEX243MDZNWTkza3YtU0lsdVl0b0NLVWxBd2dRaWFYZGgxdDBKMDdZX2h0M0wtVVZIRU51amUtTS0tSlZTMTlBM01zY3VOYklqcVQ4VzNYcENmWGtycnFoRk9GV3ppZjg4NHd5SFlsY0ZOOWRkOFFEZC1JS0k2eGNnZjY0T1N0bHdGd2pQU0FYRlh2NGRoYVo5RHlqSlRpNm4xWUdUMmVXd3NzLVVWTFZtTFFVUDNfeTQ?oc=5",
+      "summary": "ایران می‌گوید همزمان با محاصره دریایی آمریکا در تنگه هرمز، به سوپرنفتکش در تنگه هرمز برخورد کرده است.",
+      "summary_original": "Iran Says It Struck Supertanker in Strait of Hormuz as US Enforces Naval Blockade Kurdistan24",
       "source": "Google News",
-      "category": "military",
+      "category": "economy",
       "tags": [],
-      "urgent": true,
-      "published": "2026-10-12T18:52:35+03:30",
-      "published_fa": "1405/07/20 - 18:52",
+      "urgent": false,
+      "published": "2026-10-12T18:54:00+03:30",
+      "published_fa": "1405/07/20 - 18:54",
       "translated": true,
       "verified_source": true
     },
@@ -203,8 +325,8 @@
       "verified_source": true
     },
     {
-      "title": "خانه ایلهان عمر، منتقد ترامپ و دموکرات، توسط ماموران فدرال بازرسی شد",
-      "title_original": "Trump critic and Democrat Ilhan Omar’s home searched by federal agents",
+      "title": "ماموران آمریکایی خانه ایلهان عمر، منتقد ترامپ و عضو کنگره را بازرسی کردند",
+      "title_original": "US agents search home of Ilhan Omar, Trump critic and Congress member",
       "link": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss",
       "summary": "مقامات ایالات متحده به عنوان بخشی از تحقیقات جنایی، خانه این نماینده دموکرات کنگره را بازرسی کردند.",
       "summary_original": "US authorities searched the Democratic congresswoman’s home as part of a criminal investigation.",
@@ -231,6 +353,23 @@
       "urgent": false,
       "published": "2026-10-12T18:24:19+03:30",
       "published_fa": "1405/07/20 - 18:24",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "شرکت های هواپیمایی پس از حملات فرودگاهی ریاض پروازهای خود را به عربستان سعودی لغو کردند - رویترز",
+      "title_original": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0c4YlJSYUNrT1pqLTA2TmFjdDZUdmh2Z3pXbG9vWF9mdS0tZFZ6M2tYTVUzRjZVTzhodnh4WU0waXV1bjZENURjUVhmRVZPN251V2laQmNMZ3JoNmIzZE5hWU82YkxIWTdvd2xNczBkNnEta0xGdzlmaGlFNkZ5M1lxcGZUNW5pRnMxV1pPT0NxMXZmOWpEUmpBNXRUcksyZWQ5Sm9pM1QweFFWdmZYVkdid0s1dUJSanNN?oc=5",
+      "summary": "پس از حمله به رویترز در فرودگاه ریاض، خطوط هوایی پروازهای خود به عربستان سعودی را لغو کردند",
+      "summary_original": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks Reuters",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "فلایت رادار"
+      ],
+      "urgent": false,
+      "published": "2026-10-12T18:18:05+03:30",
+      "published_fa": "1405/07/20 - 18:18",
       "translated": true,
       "verified_source": true
     },
@@ -556,6 +695,21 @@
       "verified_source": true
     },
     {
+      "title": "نظم انرژی جهان دوباره آزمایش شد با گسترش دامنه جنگ ایران - نیویورک تایمز",
+      "title_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
+      "summary": "نظم انرژی جهان بار دیگر با گسترش دامنه جنگ ایران آزمایش شد نیویورک تایمز",
+      "summary_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further The New York Times",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T16:45:38+03:30",
+      "published_fa": "1405/07/20 - 16:45",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "مقابله با \"بزرگترین تهدید امنیت انرژی\"",
       "title_original": "Confronting the ‘largest energy security threat’",
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss",
@@ -627,23 +781,6 @@
       "urgent": false,
       "published": "2026-10-12T16:17:59+03:30",
       "published_fa": "1405/07/20 - 16:17",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "شرکت های هواپیمایی پس از حملات فرودگاهی ریاض پروازهای خود را به عربستان سعودی لغو کردند - رویترز",
-      "title_original": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0c4YlJSYUNrT1pqLTA2TmFjdDZUdmh2Z3pXbG9vWF9mdS0tZFZ6M2tYTVUzRjZVTzhodnh4WU0waXV1bjZENURjUVhmRVZPN251V2laQmNMZ3JoNmIzZE5hWU82YkxIWTdvd2xNczBkNnEta0xGdzlmaGlFNkZ5M1lxcGZUNW5pRnMxV1pPT0NxMXZmOWpEUmpBNXRUcksyZWQ5Sm9pM1QweFFWdmZYVkdid0s1dUJSanNN?oc=5",
-      "summary": "پس از حمله به رویترز در فرودگاه ریاض، خطوط هوایی پروازهای خود به عربستان سعودی را لغو کردند",
-      "summary_original": "Airlines cancel flights to Saudi Arabia after Riyadh airport attacks Reuters",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-10-12T16:07:51+03:30",
-      "published_fa": "1405/07/20 - 16:07",
       "translated": true,
       "verified_source": true
     },
@@ -847,21 +984,6 @@
       "verified_source": true
     },
     {
-      "title": "جروزالم پست پهپادهای ایرانی به کمپ مخالفان کردهای ایران در شمال عراق حمله کردند",
-      "title_original": "Iranian drones hit Iranian Kurdish opposition camp in northern Iraq - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yT3FsMGR1Tm9DYWZxb1RJdzRFQUhnaUN6S0lXdWtSM1ZNeFJ2QWRnMS1nLWdOM2J6bzRsU0NPcVNKeGZZM1lkVjJ1VENaTlFMdzBGSGRpWnFBLU11cExqREwycGFuYW1Hc2c?oc=5",
-      "summary": "پهپادهای ایرانی به اردوگاه مخالفان کردهای ایران در شمال عراق، روزنامه جروزالم پست حمله کردند",
-      "summary_original": "Iranian drones hit Iranian Kurdish opposition camp in northern Iraq The Jerusalem Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-12T15:08:03+03:30",
-      "published_fa": "1405/07/20 - 15:08",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ماموران فدرال در بحبوحه تحقیقات کلاهبرداری مهاجرت به خانه ایلهان عمر در دی سی یورش بردند",
       "title_original": "Federal agents raid Ilhan Omar’s DC home amid immigration fraud investigation",
       "link": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid",
@@ -872,21 +994,6 @@
       "tags": [],
       "urgent": false,
       "published": "2026-10-12T15:07:57+03:30",
-      "published_fa": "1405/07/20 - 15:07",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ایران پیشنهاد میانجیگری بین متحدان حوثی خود و عربستان سعودی - نیویورک تایمز",
-      "title_original": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWJtcHhwd0pBWHVROHMwYl9XUTN3bG9uWFc2QXVURFYxUUNGRHJRaDVxNEdQQmR4TTB5cHVmQkVDcERpRnB0ZVZFTUJyRmRtUXJoS2QtYllhY1FJY3k0eEE2SXhzck1pdTZieUhQM3pPdGJSSlgyRXJHTUVFaGcteHBpemc3a0ZMTXJpamxPck8tdmk5?oc=5",
-      "summary": "ایران پیشنهاد میانجیگری بین متحدان حوثی خود و عربستان سعودی را می دهد نیویورک تایمز",
-      "summary_original": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia The New York Times",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T15:07:13+03:30",
       "published_fa": "1405/07/20 - 15:07",
       "translated": true,
       "verified_source": true
@@ -939,21 +1046,6 @@
       "verified_source": true
     },
     {
-      "title": "عربستان سعودی در برابر حملات حوثی ها به فرودگاه ریاض قول مقاومت داد",
-      "title_original": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-      "summary": "تصاویر جدید حمله حوثی ها به فرودگاه ریاض را در حالی نشان می دهد که عربستان سعودی بار دیگر بر مقاومت خود تاکید می کند.",
-      "summary_original": "New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T14:47:02+03:30",
-      "published_fa": "1405/07/20 - 14:47",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "در پی حملات حوثی‌های تحت حمایت جمهوری اسلامی؛ تمرین النصر لغو شد",
       "title_original": "",
       "link": "https://www.iranintl.com/202610123403",
@@ -966,21 +1058,6 @@
       "published": "2026-10-12T14:43:17+03:30",
       "published_fa": "1405/07/20 - 14:43",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "هفته نامه عرب، صنعت LNG خاورمیانه گروگان جنگ ایران است",
-      "title_original": "Middle East LNG industry remains hostage of Iran war - The Arab Weekly",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE9ZWmhCcVlCOFBTY0MxTDAwa1RVWldGQ290cnJxOXlBTlFEdEhNY2cwY2swcnF0ZkRWN0JyZFhiaElodkJ6NWJjY1g3bDVBT2FSVVphYW05UEwzNF8yWFlXNzhyTkR0cW5MU2ozYlZkUE9KNW1KVHNZdGllaWR2eg?oc=5",
-      "summary": "هفته نامه عرب، صنعت LNG خاورمیانه گروگان جنگ ایران است",
-      "summary_original": "Middle East LNG industry remains hostage of Iran war The Arab Weekly",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T14:40:11+03:30",
-      "published_fa": "1405/07/20 - 14:40",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1080,23 +1157,6 @@
       "verified_source": true
     },
     {
-      "title": "زلنسکی اوکراین روسیه را به نقض «آتش بس انرژی» ترامپ متهم کرد",
-      "title_original": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
-      "summary": "اتحادیه اروپا همچنین اعلام کرد که رسماً 1600 تحریم جدید علیه مجتمع صنعتی نظامی روسیه اضافه کرده است.",
-      "summary_original": "The EU also announced that it officially added almost 1,600 new sanctions on Russia&#039;s military industrial complex.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-12T14:05:51+03:30",
-      "published_fa": "1405/07/20 - 14:05",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "شوخی تلخ شهروندان با تورم: هر کسی کفش و لباس دارد از قبل داشته",
       "title_original": "",
       "link": "https://www.iranintl.com/202610124125",
@@ -1141,21 +1201,6 @@
       "published": "2026-10-12T13:50:49+03:30",
       "published_fa": "1405/07/20 - 13:50",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "آنچه ما از برد \"گناهکار\" من سیتی مقابل لیورپول در آنفیلد آموختیم",
-      "title_original": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
-      "summary": "سیتی علیرغم استقبال خصمانه از آنفیلد، قرمزها را شکست داد، اما فصل لیگ برتر همچنان در تعادل است.",
-      "summary_original": "City beat Reds despite a hostile Anfield reception, but Premier League season still hangs in the balance.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T13:48:58+03:30",
-      "published_fa": "1405/07/20 - 13:48",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1329,21 +1374,6 @@
       "published": "2026-10-12T12:36:51+03:30",
       "published_fa": "1405/07/20 - 12:36",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "نظم انرژی جهان دوباره آزمایش شد با گسترش دامنه جنگ ایران - نیویورک تایمز",
-      "title_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
-      "summary": "نظم انرژی جهان بار دیگر با گسترش دامنه جنگ ایران آزمایش شد نیویورک تایمز",
-      "summary_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further The New York Times",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T12:33:18+03:30",
-      "published_fa": "1405/07/20 - 12:33",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1840,23 +1870,6 @@
       "verified_source": true
     },
     {
-      "title": "حوثی ها 14 نفر را در فرودگاه عربستان به قتل رساندند در حالی که کارشناس درباره «اهداف سریع» در بحبوحه جنگ خاورمیانه هشدار داد - 930 WFMD Free Talk",
-      "title_original": "Houthis kill 14 at Saudi airport as expert warns of ‘rapid targets’ amid Middle East war - 930 WFMD Free Talk",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVlcwRENUc0txZU1oa1RoSDRrYTJvVUxOUThQUFY5Sk9nRGx4aUh0Y2xPYzl4Vm9hT3FrX0Z0RnF0a0VLSVBwbV91Rmh4dXBJOVVlVDYyZ1ZQSmxmT29ZUFAzWFd6a1ZEZUhFZjU4TTkzMjMyWXlyV2hCWDhwczJxaVVMdW02bU9oZmI4dVBTaFRsZDJtbHZ6OXFXR0NSR0VwOExEM0IxMnRvbU5VZjFTU25hQ3p6X2xqMWhj?oc=5",
-      "summary": "حوثی ها 14 نفر را در فرودگاه عربستان به قتل رساندند در حالی که کارشناس درباره \"اهداف سریع\" در بحبوحه جنگ خاورمیانه هشدار داد 930 WFMD Free Talk",
-      "summary_original": "Houthis kill 14 at Saudi airport as expert warns of ‘rapid targets’ amid Middle East war 930 WFMD Free Talk",
-      "source": "Google News",
-      "category": "analysis",
-      "tags": [
-        "تحلیلگران"
-      ],
-      "urgent": false,
-      "published": "2026-10-12T04:31:49+03:30",
-      "published_fa": "1405/07/20 - 04:31",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "حمله تازه حوثی ها به فرودگاه ریاض یک روز پس از حمله مرگبار - France 24",
       "title_original": "Fresh Houthi strike hits Riyadh airport a day after deadly attack - France 24",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWE9fVlV1VWUwX2lfQkpnQ0RCbFpzZ1c5V3ZYWjQ1RUwwU19xV2MxeG9mMEgtOURkMm1EY043MXJyT09UUlg3emlvR3JqbUJTaGFad2FSYWpwZVBUeTR3RlpudkVtWWNBbEJiOEloX1BSWlRCeXc1YTNqNVNTMnFQS1F6ejJEVjZZcWhF?oc=5",
@@ -2007,21 +2020,6 @@
       "urgent": false,
       "published": "2026-10-12T02:25:22+03:30",
       "published_fa": "1405/07/20 - 02:25",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "فرودگاه ریاض عربستان سعودی مورد حمله دوم حوثی ها طی دو روز گذشته - بی بی سی",
-      "title_original": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pTXNOa29VTU9DTUM2MFZOZko1TUs0cWRiOE1fUTIyYUUzcS1oTjNsLS1NMnhld2xFc1E3Y1Jac3VqOXEwUnRxTkpmNXF1dzM3WDlHTnlXVFh5M0k?oc=5",
-      "summary": "فرودگاه ریاض عربستان سعودی مورد حمله دوم حوثی‌ها در دو روز اخیر بی‌بی‌سی قرار گرفت",
-      "summary_original": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days BBC",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-12T02:15:58+03:30",
-      "published_fa": "1405/07/20 - 02:15",
       "translated": true,
       "verified_source": true
     },
@@ -2886,6 +2884,23 @@
       "verified_source": true
     },
     {
+      "title": "گاردین: حمله حوثی‌ها به نیروهای فرودگاه ریاض به سرعت در مورد استراتژی جدید ترامپ تجدید نظر کرد.",
+      "title_original": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzM2RmVFOC1KaFZuVEJMOTlQUVdHakVxeXBYSHdvZ3dpYVRWZVFjekE5NXY1ZmVHblhMczRiTkxMNWl0SlhIVFN6NWRMbFhBdkM0RVRmZWQ5WllTcFlZVE9LOTRaeWZ2ZEwwbTJsYW9sZnhWZEp2bVI5SEgtSWxnM3JjWnBoWmZuanA5YklySDhMQVl5eF9hLXFSS0Q?oc=5",
+      "summary": "گاردین، حمله حوثی ها به نیروهای فرودگاه ریاض، به سرعت در مورد استراتژی جدید ترامپ تجدید نظر کرد",
+      "summary_original": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy The Guardian",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": true,
+      "published": "2026-10-11T16:53:00+03:30",
+      "published_fa": "1405/07/19 - 16:53",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "آرسن ونگر گزینه مخالفان اینفانتینو برای انتخابات ریاست فیفا در سال ۲۰۲۷",
       "title_original": "",
       "link": "https://www.iranintl.com/202610118429",
@@ -2898,21 +2913,6 @@
       "published": "2026-10-11T16:39:59+03:30",
       "published_fa": "1405/07/19 - 16:39",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "روسیه حمله به فرودگاه ریاض را محکوم کرد و خواستار دیپلماسی شد - ایران اینترنشنال",
-      "title_original": "Russia condemns Riyadh airport attack, calls for diplomacy - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PVVY0SVhRcE9FTEVPam04WVFLZ3ZodERGQXd6RTdLLTZzaUp2WHZUZlJYdWhvT3FrQlVaWUcxQmZlZUhpdlNKUTJTeUJDQV9vRFE?oc=5",
-      "summary": "روسیه حمله به فرودگاه ریاض را محکوم کرد و خواستار دیپلماسی ایران اینترنشنال شد",
-      "summary_original": "Russia condemns Riyadh airport attack, calls for diplomacy Iran International",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-11T16:38:47+03:30",
-      "published_fa": "1405/07/19 - 16:38",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2990,23 +2990,6 @@
       "published": "2026-10-11T15:38:38+03:30",
       "published_fa": "1405/07/19 - 15:38",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "استقلال برای سفر به قطر از هواپیمای تشریفات دولتی استفاده کرد",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610112970",
-      "summary": "خبرگزاری فارس خبر داد تیم فوتبال استقلال برای سفر به دوحه از یک فروند هواپیمای RJ متعلق به تشریفات دولت استفاده کرده است؛ هواپیمایی که به نوشته این خبرگزاری، از محدودیت‌های پروازی معاف است.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "military",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T15:38:15+03:30",
-      "published_fa": "1405/07/19 - 15:38",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -3408,6 +3391,21 @@
       "verified_source": true
     },
     {
+      "title": "دبیرکل سازمان ملل متحد حمله حوثی ها به فرودگاه ریاض - ایران اینترنشنال را به شدت محکوم کرد",
+      "title_original": "UN chief strongly condemns Houthi attack on Riyadh airport - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMTHU4dmt3S1FoSFA3MFgzNk9aRkpMVGRQNXRXRFByZHI5SHNXRjhQUWNxMGNvR2Vkd1JQc0VnS3VRcUl5Nkh3YXNQRGloc21fZ2c?oc=5",
+      "summary": "دبیرکل سازمان ملل حمله حوثی ها به فرودگاه بین المللی ریاض را به شدت محکوم کرد",
+      "summary_original": "UN chief strongly condemns Houthi attack on Riyadh airport Iran International",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-11T09:13:31+03:30",
+      "published_fa": "1405/07/19 - 09:13",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "الجزیره - آمریکا تحقیقات ضد انحصاری را علیه شبکه های تلویزیونی به دلیل توقف پوشش خبری ترامپ آغاز کرد",
       "title_original": "US opens antitrust probe into TV networks for halting Trump coverage - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFAzak00UHFFUWpPTWtHZE0yRzNCcVJnTDdtNUFWWVg5NDBOTWswZHZvQm1NV2lnXzhXcnpBQ0daRjJpazJZcDRQTTRGS3J5WkFXeTY3bkJjVF9KWU9kazZqZHV6UGxiWHl5ek5OLXV2Unc0OTNuZ0JmU2Nya1lMNURTdDR6UFdPUm84c3FpZE9qRnVyeXlGVkpJQW95Y2NjTkU4Si1rMjJzZ9IBrwFBVV95cUxQeDB6MmxLd2VrMjRubmk3ZmJ2S2FvM3NITTYySk5vUFlQUjk5b2ZoUHRfTVBzNlV3VzlkUFl1OWx2WFhrVGZULWNzTHdYNENtVlk2dmRSaHRZQW1xQUE5ODVpcHBCY2tqcGducmVHcjYzZUtjbzhyN3dvajl1N21uMGlKWDVYamh6UVN5NkFFTEdkM1VaQWlhRmptTGdyYVRCakx3dHFIX3ZiV2Z5RGpZ?oc=5",
@@ -3600,21 +3598,6 @@
       "urgent": false,
       "published": "2026-10-11T03:07:35+03:30",
       "published_fa": "1405/07/19 - 03:07",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "آخرین اخبار خاورمیانه: عربستان سعودی \"تحت حمله\" - در حالی که حملات تهدیدی برای افزایش قیمت نفت است - اسکای نیوز",
-      "title_original": "Middle East latest: Saudi Arabia 'under attack' - as strikes threaten another oil price spike - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
-      "summary": "آخرین اخبار خاورمیانه: عربستان سعودی \"تحت حمله\" - در حالی که حملات تهدیدی برای افزایش قیمت نفت دیگر اسکای نیوز است",
-      "summary_original": "Middle East latest: Saudi Arabia 'under attack' - as strikes threaten another oil price spike Sky News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-11T02:52:26+03:30",
-      "published_fa": "1405/07/19 - 02:52",
       "translated": true,
       "verified_source": true
     },
@@ -4018,21 +4001,6 @@
       "urgent": false,
       "published": "2026-10-10T13:30:42+03:30",
       "published_fa": "1405/07/18 - 13:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "گزارش: ایران با وجود حملات آمریکا و اسرائیل ظرفیت تولید موشک را حفظ می کند | وبلاگ زنده - i24NEWS",
-      "title_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkRHloUDRaWG5STDBIUER0T21sb0ZoQ05YVWRJV0FFYjhNT0hfNGZkVV9hVk55c1J3eUZrdG9PMUUzbHYtSk03Uk5mRDJfOThUbnBpX0lYekpaX2ZPRzJvaXBaTTY1bUFyM0EtZ2VXUzRIZE80ZnpaNzRaSC05eW5tS2plZTkwMzJtSzJBTVRzQmNKS3dobXllNjcwXzFQemlxVUQ2QkVmbzFRTndvclo0bnl2aUd2b29ic1pVM0Q2bjg2WXhSNEthVGVmZms?oc=5",
-      "summary": "گزارش: ایران با وجود حملات آمریکا و اسرائیل ظرفیت تولید موشک را حفظ می کند | وبلاگ زنده i24NEWS",
-      "summary_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-10T13:14:51+03:30",
-      "published_fa": "1405/07/18 - 13:14",
       "translated": true,
       "verified_source": true
     },
@@ -6010,11 +5978,11 @@
       "verified_source": true
     },
     {
-      "title": "آمریکا «عملیات طرد شده اقتصادی» را برای قطع رگ حیاتی اقتصادی ایران راه اندازی کرد | جنگ آمریکا و اسرائیل علیه ایران نیوز - الجزیره",
-      "title_original": "US launches ‘Operation Economic Outcast’ to cut Iran’s economic lifeline | US-Israel war on Iran News - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF3?oc=5",
-      "summary": "آمریکا «عملیات طرد شده اقتصادی» را برای قطع رگ حیاتی اقتصادی ایران راه اندازی کرد | جنگ آمریکا و اسرائیل علیه ایران نیوز الجزیره",
-      "summary_original": "US launches ‘Operation Economic Outcast’ to cut Iran’s economic lifeline | US-Israel war on Iran News Al Jazeera",
+      "title": "الجزیره: آمریکا عملیات «اخراج اقتصادی» را برای قطع رگ حیاتی اقتصادی ایران راه اندازی کرد",
+      "title_original": "US launches ‘Operation Economic Outcast’ to cut Iran’s economic lifeline - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF30gGmAUFVX3lxTFB1TUxBVTlRRDhKVHp2TnhsOFQ1TG45YS1fNWxBTmtHZzhqRmlMSXBTQWNHRVpMOWhaWm9VdmdNWnY0Zm9VYzBaankzYWNQaHU3anplU3JTY00xQUJOY1JXVmdsRmh6T2xROF8tMjE4QjhCVlZMWU4zZEx2ODFTLW1oT1V3NURDX3NiX0V0Q00wLUgtaklkSlNkdERiOWpVemZLak9WZlE?oc=5",
+      "summary": "آمریکا «عملیات طرد شده اقتصادی» را برای قطع رگ حیات اقتصادی ایران الجزیره راه اندازی کرد",
+      "summary_original": "US launches ‘Operation Economic Outcast’ to cut Iran’s economic lifeline Al Jazeera",
       "source": "Google News",
       "category": "economy",
       "tags": [],
