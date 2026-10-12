@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T07:53:54.053095+00:00",
-  "generated_at_fa": "1405/07/20 - 11:23",
-  "count": 435,
+  "generated_at": "2026-10-12T08:19:43.873361+00:00",
+  "generated_at_fa": "1405/07/20 - 11:49",
+  "count": 436,
   "items": [
     {
       "title": "آنچه گذشت؛ ادامه حملات حوثی‌ها به عربستان؛ فرودگاه ریاض برای سومین بار در چهار روز هدف قرار گرفت",
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T11:19:45.607355+03:30",
-      "published_fa": "1405/07/20 - 11:19",
+      "published": "2026-10-12T11:45:43.696648+03:30",
+      "published_fa": "1405/07/20 - 11:45",
       "translated": false,
       "verified_source": true
     },
@@ -30,17 +30,125 @@
         "فلایت رادار"
       ],
       "urgent": false,
-      "published": "2026-10-12T11:19:45.606307+03:30",
+      "published": "2026-10-12T11:45:43.695131+03:30",
+      "published_fa": "1405/07/20 - 11:45",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Iran says 'deeply concerned' over escalation between Houthis, Saudi Arabia - Naharnet",
+      "title_original": "Iran says 'deeply concerned' over escalation between Houthis, Saudi Arabia - Naharnet",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWnZhRzFWTEZXSldTcTVNZGNFZWRYYnlWajd6dDBvZ2hpaF9KSE9HNjA0bDFzOHAxOUtRQUNDSVljV280bXl5d0FaQ1RWTTFsQ1FjYlFsMFlKdUxnb0htdHFmMk8zOHM5V2Q4bnFuQ29JZFJWTWVscXcwMXp5UTBLbXdrN1pqcG1xUmNHN0lPOHhaYmxneW5FUjY0UC1QRzVpLXBseWVUeXpfTER1VlBoaWpyczc?oc=5",
+      "summary": "Iran says 'deeply concerned' over escalation between Houthis, Saudi Arabia Naharnet",
+      "summary_original": "Iran says 'deeply concerned' over escalation between Houthis, Saudi Arabia Naharnet",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:41:00+03:30",
+      "published_fa": "1405/07/20 - 11:41",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "One killed in Riyadh attack; Iran says US reply to Hormuz plan ‘inadequate’ - Al Jazeera",
+      "title_original": "One killed in Riyadh attack; Iran says US reply to Hormuz plan ‘inadequate’ - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGtkLXd1c0tZZlVxNER3Tmc4V1RodWo0UE5Xc3pWSjU3bkJRdDJFRVpmLXprUnlDTUYtQnk4U281TFNqQk5USWdkalJscDhGZzdJZ0tWaTV5MHZNQ2hFcE16VlNpdGN1SUtpb21felQ4cTdfcnM3MnJEbFdRWm5ubG5UbzNYVDdUSjFzZ1FrWS15U1lDNXlEZF9iX3l5MHczX2VVRS1pQVhRcEE1OS00Z1dXaDRVMldrcGQ5MTd3?oc=5",
+      "summary": "One killed in Riyadh attack; Iran says US reply to Hormuz plan ‘inadequate’ Al Jazeera",
+      "summary_original": "One killed in Riyadh attack; Iran says US reply to Hormuz plan ‘inadequate’ Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:33:45+03:30",
+      "published_fa": "1405/07/20 - 11:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Phil Gordon: America Shouldn’t Let Go of the Middle East - Foreign Affairs",
+      "title_original": "Phil Gordon: America Shouldn’t Let Go of the Middle East - Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemFuYTdpV0c5VklkT3hBd3JHZVFZQzBTRjdIWnpjSEotMHBva0I0bG9BUGt4NTNCbHpfNGRlb2ZweU5nT1p5VUdQWTJzTVBnemllRGxfVWJOc1JlT2tNdVFVZ2x1ZXdjOUtiaS1Vdm1RRWMwWWdoU25FaEYwb1Boby1tRC0teklGbXJz?oc=5",
+      "summary": "Phil Gordon: America Shouldn’t Let Go of the Middle East Foreign Affairs",
+      "summary_original": "Phil Gordon: America Shouldn’t Let Go of the Middle East Foreign Affairs",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:30:00+03:30",
+      "published_fa": "1405/07/20 - 11:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Mike Pence says Iran is ‘defeated’ but warns Middle East conflict is far from over - Arabian Business",
+      "title_original": "Mike Pence says Iran is ‘defeated’ but warns Middle East conflict is far from over - Arabian Business",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HSVZLWWRjMHZsOXN5MGNYWmVIV1lyS2xXUkN5RjZFRjF3MTFGWGROSUhmVWxkbWdfYTRYNWZLM0JuQnNjdVVnYVVzb00waE95ZkNHZXhCc19xc3ljQ1V3WFZMMGpTTzEyQWN3cGhwdV8yZ0ZHNmc?oc=5",
+      "summary": "Mike Pence says Iran is ‘defeated’ but warns Middle East conflict is far from over Arabian Business",
+      "summary_original": "Mike Pence says Iran is ‘defeated’ but warns Middle East conflict is far from over Arabian Business",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:28:45+03:30",
+      "published_fa": "1405/07/20 - 11:28",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Israel not expected to attack Iran before elections, opposition leader says - Anadolu Ajansı",
+      "title_original": "Israel not expected to attack Iran before elections, opposition leader says - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUhPR0pBLXZWRGxBUkFGeEFLSWttejM0MHloZmdib0pid0JoLThQdHBubWo3X2pKV21obEE1SGFQSXFYVTdhdm9DWV9qX09SbGZ0eWIyeWZYcmJDUEZNdTN5bmFuOEJCV29YUXJVdmVONzV1UE9JSnA2MUFkUHhuZ3VxX3FxNGxpRjNxbjUwSkczLVd5c0dZYzVlWW1aUnZGNUFPeFhVVGRzNjdWay1HQkI5dS1vaVE1ZWZJ?oc=5",
+      "summary": "Israel not expected to attack Iran before elections, opposition leader says Anadolu Ajansı",
+      "summary_original": "Israel not expected to attack Iran before elections, opposition leader says Anadolu Ajansı",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:24:13+03:30",
+      "published_fa": "1405/07/20 - 11:24",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "جنگ ایران، حوثی‌ها و توافق با پوتین؛ سه بحرانی که در واشنگتن به هم گره خورده‌اند",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cmn4e8307lpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "در حالی که حملات مرگبار حوثی‌ها به فرودگاه ریاض خطر گسترش جنگ با ایران را افزایش داده، پیامدهای این درگیری به واشنگتن نیز رسیده است؛ جایی که تلاش دونالد ترامپ برای مهار قیمت سوخت از طریق توافق با روسیه با انتقادهایی، حتی در میان جمهوری‌خواهان، روبه‌رو شده است.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-12T11:19:34+03:30",
       "published_fa": "1405/07/20 - 11:19",
       "translated": false,
       "verified_source": true
     },
     {
-      "title": "Military superiority cannot guarantee peace in the Middle East - www.thenationalnews.com",
-      "title_original": "Military superiority cannot guarantee peace in the Middle East - www.thenationalnews.com",
+      "title": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+      "title_original": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
+      "summary": "Mexican boxer tells Turki Al-Sheikh he &#039;fears nothing&#039; and will face M&#039;billi in Riyadh on October 31 &#039;no matter what&#039;.",
+      "summary_original": "Mexican boxer tells Turki Al-Sheikh he &#039;fears nothing&#039; and will face M&#039;billi in Riyadh on October 31 &#039;no matter what&#039;.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:10:31+03:30",
+      "published_fa": "1405/07/20 - 11:10",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Military superiority cannot guarantee peace in the Middle East - The National",
+      "title_original": "Military superiority cannot guarantee peace in the Middle East - The National",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFNZdTVaUFZQX2piV0NiQ0VPNkJXQnNFOHNCZmJNdDRsN0JLSWRhX1ZzTWJKWlROeFJhWDV2cjlOMDhxc0dXdGFLQjFqcEhHZ2ZWamp6Z09FU3BaMHFpMWxTM3JzZGhQM1U1c3RBMFZFNmtQSG5WSVpzMlVvdUJZc0EycWJrRk13aGJsVm1HbHZibVdzcURHQzgzbkxRYzlSeGV3c3hubWxxQlRZM1NLR1VPS0pibU9q?oc=5",
-      "summary": "Military superiority cannot guarantee peace in the Middle East www.thenationalnews.com",
-      "summary_original": "Military superiority cannot guarantee peace in the Middle East www.thenationalnews.com",
+      "summary": "Military superiority cannot guarantee peace in the Middle East The National",
+      "summary_original": "Military superiority cannot guarantee peace in the Middle East The National",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -388,6 +496,21 @@
       "urgent": false,
       "published": "2026-10-12T07:30:56+03:30",
       "published_fa": "1405/07/20 - 07:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War - Middle East Institute",
+      "title_original": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War - Middle East Institute",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5SFFuOWhOc2k1Y001RUVadkRmUk1OQjBqdThpVUpsSE1TN3RhWTdCcnQ3RGQzbV9DeW1pNFJZVGJRYXZqU28wM3h6VFcwRWZwcjYzbXhMSnpQbzh6REdpT0pZbWtkSXRkUGNLVHduQUNmbjNHbV9lNDE4ME9JZkd3NjB1TXdhSVlZOUw1LVdISF9HcVFMaWFBTQ?oc=5",
+      "summary": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War Middle East Institute",
+      "summary_original": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War Middle East Institute",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T07:21:47+03:30",
+      "published_fa": "1405/07/20 - 07:21",
       "translated": true,
       "verified_source": true
     },
@@ -880,6 +1003,21 @@
       "verified_source": true
     },
     {
+      "title": "Yemen's Houthis target King Khalid airport in Saudi Arabia again - CBS News",
+      "title_original": "Yemen's Houthis target King Khalid airport in Saudi Arabia again - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0VtOXVJOWJSWUh5ZXpTSXE2c0VQdG5KR1Jod3pyUE1HV3h6b2laeUFJQ1BpenE1SkdYSG4wT3VEbTBoczF4YlNlb0RPZEpHWWVHdEhXZTB0QmIteGlPNFVqQ050aWNuVzNqNTRqdkxtdXFlQm4wbnNDZUEtNWRZZ2U0S2wteXUxeG9BbDd6RWtBeldEVXc?oc=5",
+      "summary": "Yemen's Houthis target King Khalid airport in Saudi Arabia again CBS News",
+      "summary_original": "Yemen's Houthis target King Khalid airport in Saudi Arabia again CBS News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T02:11:00+03:30",
+      "published_fa": "1405/07/20 - 02:11",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "حملات به فرودگاه ریاض هشدار هوانوردی آمریکا و لغو حضور بی‌پی در همایش انرژی را در پی داشت",
       "title_original": "",
       "link": "https://www.iranintl.com/202610115619",
@@ -1113,21 +1251,6 @@
       "urgent": false,
       "published": "2026-10-12T00:16:45+03:30",
       "published_fa": "1405/07/20 - 00:16",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-      "title_original": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-      "summary": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
-      "summary_original": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T00:14:17+03:30",
-      "published_fa": "1405/07/20 - 00:14",
       "translated": true,
       "verified_source": true
     },
@@ -1426,6 +1549,21 @@
       "urgent": false,
       "published": "2026-10-11T20:18:29+03:30",
       "published_fa": "1405/07/19 - 20:18",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? - The Jerusalem Post",
+      "title_original": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFQVk5Zmt5ZDVPRTN5RHdPaWVmTWEtekRsV0xBajd0SFlCWUNLN3R4WjlTY0ZpNmNpbVRHZVpDOXJ2RFpJb2tkTFF2ZHJfMnpNVkRvcGo0cGxLQlRO?oc=5",
+      "summary": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? The Jerusalem Post",
+      "summary_original": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? The Jerusalem Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T20:03:19+03:30",
+      "published_fa": "1405/07/19 - 20:03",
       "translated": true,
       "verified_source": true
     },
@@ -1840,21 +1978,6 @@
       "verified_source": true
     },
     {
-      "title": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War - Middle East Institute",
-      "title_original": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5SFFuOWhOc2k1Y001RUVadkRmUk1OQjBqdThpVUpsSE1TN3RhWTdCcnQ3RGQzbV9DeW1pNFJZVGJRYXZqU28wM3h6VFcwRWZwcjYzbXhMSnpQbzh6REdpT0pZbWtkSXRkUGNLVHduQUNmbjNHbV9lNDE4ME9JZkd3NjB1TXdhSVlZOUw1LVdISF9HcVFMaWFBTQ?oc=5",
-      "summary": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War Middle East Institute",
-      "summary_original": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T17:06:13+03:30",
-      "published_fa": "1405/07/19 - 17:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy - The Guardian",
       "title_original": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzM2RmVFOC1KaFZuVEJMOTlQUVdHakVxeXBYSHdvZ3dpYVRWZVFjekE5NXY1ZmVHblhMczRiTkxMNWl0SlhIVFN6NWRMbFhBdkM0RVRmZWQ5WllTcFlZVE9LOTRaeWZ2ZEwwbTJsYW9sZnhWZEp2bVI5SEgtSWxnM3JjWnBoWmZuanA5YklySDhMQVl5eF9hLXFSS0Q?oc=5",
@@ -2088,24 +2211,6 @@
       "urgent": false,
       "published": "2026-10-11T15:04:37+03:30",
       "published_fa": "1405/07/19 - 15:04",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "وزارت دادگستری آمریکا عملکرد پنج شبکه تلویزیونی را به‌دلیل نحوه پوشش مشترک اخبار ترامپ بررسی می‌کند",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/c6n9rvvv0q0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "وزارت دادگستری ایالات متحده اعلام کرد که در حال بررسی چندین شبکه تلویزیونی است تا ببیند آیا آنها قوانین رقابت فدرال را هنگام بایکوت و تعلیق پوشش خبری مشترک از دونالد ترامپ، رئیس‌جمهور آمریکا، نقض کرده‌اند یا خیر. ماه گذشته، پنج شبکه در واکنش به لغو مجوز خبرنگاران سه شبکه سی‌ان‌ان و ام‌اس ناو و پولیتیکو از سوی دولت دونالد ترامپ، پوشش خبری مربوط به فعالیت‌های رئیس‌جمهور را برای چند روز متوقف کردند.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "military",
-      "tags": [
-        "ترامپ",
-        "ناو آمریکا"
-      ],
-      "urgent": true,
-      "published": "2026-10-11T14:57:20+03:30",
-      "published_fa": "1405/07/19 - 14:57",
       "translated": false,
       "verified_source": true
     },
@@ -2588,21 +2693,6 @@
       "verified_source": true
     },
     {
-      "title": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? - The Jerusalem Post",
-      "title_original": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFQVk5Zmt5ZDVPRTN5RHdPaWVmTWEtekRsV0xBajd0SFlCWUNLN3R4WjlTY0ZpNmNpbVRHZVpDOXJ2RFpJb2tkTFF2ZHJfMnpNVkRvcGo0cGxLQlRO?oc=5",
-      "summary": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? The Jerusalem Post",
-      "summary_original": "How will Saudi Arabia respond to Iran-backed Houthis' airport attacks? The Jerusalem Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T09:59:13+03:30",
-      "published_fa": "1405/07/19 - 09:59",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "مدیرعامل آب و فاضلاب تهران: کاهش مصرف آب به معنای کاهش درآمد ما است",
       "title_original": "",
       "link": "https://www.iranintl.com/202610111138",
@@ -2615,21 +2705,6 @@
       "published": "2026-10-11T09:51:50+03:30",
       "published_fa": "1405/07/19 - 09:51",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "US using spectre of 'imaginary enemy' to frighten its people, Iran's Baqaei says - Middle East Eye",
-      "title_original": "US using spectre of 'imaginary enemy' to frighten its people, Iran's Baqaei says - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalNoOTg5ZE45R2F2dGFnR3B4dmZlZzVGallVcGNZNzJBdnY4Z2hPOUdaY1Vpa2pqMThWaldzMDBpNFFpSWlPZXBDWWlsQ0RNWlRxZHNmVHNKNGVGUndOR080VTBmamRFVzJyZFVEZ0ZZVnBmWnRoS0g0N3UtUkt2ZDNzdUs1ZTNRa0V3X3N3R1JPNGQ0WUl6cU5sQmZPUzZ2ZzBWOTRLU29ScUVqTmlSdDY4MWxHekc0R1U2VTZsSQ?oc=5",
-      "summary": "US using spectre of 'imaginary enemy' to frighten its people, Iran's Baqaei says Middle East Eye",
-      "summary_original": "US using spectre of 'imaginary enemy' to frighten its people, Iran's Baqaei says Middle East Eye",
-      "source": "Google News",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T09:50:00+03:30",
-      "published_fa": "1405/07/19 - 09:50",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2794,21 +2869,6 @@
       "published": "2026-10-11T06:48:58+03:30",
       "published_fa": "1405/07/19 - 06:48",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
-      "title_original": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
-      "summary": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade The Jerusalem Post",
-      "summary_original": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade The Jerusalem Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T05:13:32+03:30",
-      "published_fa": "1405/07/19 - 05:13",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -3004,6 +3064,23 @@
       "verified_source": true
     },
     {
+      "title": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
+      "title_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
+      "summary": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera Trump’s Middle East war has spiralled beyond America’s control The Independent",
+      "summary_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera Trump’s Middle East war has spiralled beyond America’s control The Independent",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-11T02:52:26+03:30",
+      "published_fa": "1405/07/19 - 02:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "گروهی که با یک نظام مالی چند صد ساله، صدها میلیون یورو برای مجرمان پول‌شویی می‌کرد",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/c6n8md511lvpo?at_medium=RSS&at_campaign=rss",
@@ -3079,21 +3156,6 @@
       "published": "2026-10-11T01:35:24+03:30",
       "published_fa": "1405/07/19 - 01:35",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
-      "title_original": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDhOZS1IUXBRRmk3NzZJcklobFZvaHNxUTdlRGNfbkQzR0NBY19ubDdIak1ycE5EZmNmUGpXbUpza1JUQnI5Z2dyMXZ4UGxsc0VKLWJuWU9HWmMzZG5kV004M05FeC1haEVTX19xRm1KY3ljY3dLbG91V0JXZ1RYVk9vYXVOQWw1QjY3UnBYMHFLSVdwa0gzOXQ3RXcxdUE?oc=5",
-      "summary": "Pentagon raises official death toll from Iran war to 21 Stars and Stripes",
-      "summary_original": "Pentagon raises official death toll from Iran war to 21 Stars and Stripes",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T00:51:47+03:30",
-      "published_fa": "1405/07/19 - 00:51",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -3723,21 +3785,6 @@
       "verified_source": true
     },
     {
-      "title": "Live - Iran says US response on reopening Hormuz 'insufficient' - Iran International",
-      "title_original": "Live - Iran says US response on reopening Hormuz 'insufficient' - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3dpQlJkSFZUVG9GSmE0OERYLVdfZGdUN25jVzdfV0NDNG5yTGg0ZGs5WmRXb0QxUnJMSGh5Wkx5cU9FWUpvYTIzLUNXZHAxU1VSelFrNG9kQmRYVFE?oc=5",
-      "summary": "Live - Iran says US response on reopening Hormuz 'insufficient' Iran International",
-      "summary_original": "Live - Iran says US response on reopening Hormuz 'insufficient' Iran International",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T10:15:24+03:30",
-      "published_fa": "1405/07/18 - 10:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "چرا ایران نگران گسترش روابط اسرائیل و امارات است؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/c58jzyj7nnnpo?at_medium=RSS&at_campaign=rss",
@@ -3752,21 +3799,6 @@
       "published": "2026-10-10T09:29:10+03:30",
       "published_fa": "1405/07/18 - 09:29",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Pezeshkian pitches 'CIS + Iran' bloc at Turkmenistan summit - Middle East Eye",
-      "title_original": "Pezeshkian pitches 'CIS + Iran' bloc at Turkmenistan summit - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1Q3cnZaZzdiOTdPTWU3WlY1ZWVDNzdpOGIxbzdSeGhqeU0tSUp1czFBbXRXNF9wUmxaTzBnaU54X3VNa2ltUHhjX19NUnFVSHNyV09HZmI1UTJPVTYtU3dxRUhqalJ1THRRcEVYQ0d0UjdrV2hvaDVndGdCZ3RKZVpHUlFPMUFtbTI1ZDRMRFRXMVNVMGRCbGF1aFRnMG9PWno4QmhXMnpxS1Mwa1E?oc=5",
-      "summary": "Pezeshkian pitches 'CIS + Iran' bloc at Turkmenistan summit Middle East Eye",
-      "summary_original": "Pezeshkian pitches 'CIS + Iran' bloc at Turkmenistan summit Middle East Eye",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T09:13:00+03:30",
-      "published_fa": "1405/07/18 - 09:13",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -4850,21 +4882,6 @@
       "verified_source": true
     },
     {
-      "title": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel - CBS News",
-      "title_original": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ld3o4d2RuWGlVUG5scXB4d3AxRkVkTTdWMVUwN3VHU1Y3VVhQcmtySUtsUnVDZ1BFM25GTXY3akxCQzRSZnFxZ0I2dmw5YmxpX0xQTFplMjVxOVBXU191Yk5UZ0hIOE9tamdqZElDSTRvcEZ4cnk4YjVtTmE?oc=5",
-      "summary": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel CBS News",
-      "summary_original": "Key Biden aide Brett McGurk on Hamas, Iran, Saudi Arabia and why U.S. nearly took \"draconian measures\" against Israel CBS News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-04T19:55:00+03:30",
-      "published_fa": "1405/07/12 - 19:55",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran says Hormuz to remain closed until US meets conditions - Al Jazeera",
       "title_original": "Iran says Hormuz to remain closed until US meets conditions - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEpOSExlamJ6VFM3V3hVMXl2M09LVHYxQnZpUHV6bXZuRkJmM3ljVHA0NFpQTmJ2WS1uZzhQVjAxVUJJYUZXeE5rMTVZMkdma3Z0a2NWUU9qRGJXZlhkSFYyVkVINHE1NjR6bklmTmxZUWdWNS1qaXc0cTNnU0xtZWV2QTRubWoyakdyMDNIUm9KcmpfSy1Jb3Nrb09mTEVMbjBlYVFybGNaa0JFOFhF0gG0AUFVX3lxTE12RHNGM054RWlsaVJaeEgtRWlIUDNKVWN0N0JLQmRfOHA1MU5SUVhXV1pjM1RKRlY2YjVkZlkyaG5vaDhWa0Fhd2hDeVZGMXRYcm5odHB1RWZ1eWJGeEZxRnZrWVNib2FvZHFySGVnNjdqTHlmUVJLdThHZHkwYk14ajdNWlptejNOYnhNR3dacmZMTWlLRDdGMFpkczBqcTBWZlN5UnlSUTV6a3NsWFBvY0djdQ?oc=5",
@@ -5696,6 +5713,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
+      "title_original": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXFIdDJyc25WazQtbUl4UVFxZEc0ajl3Y24tN3ozYVF4c2F6QTZtSmxmZEFQemk3OWJiV2x0eDdJVERNUy16NjBpWkdYYS16ZmdKYk9wNWU0VFlBb1hlUExzdlRSSWROSkdCN1JERnpaSzJ3SmV3YWxMeldaNlF0am1Vc1RJQzdWUFktdGoybnA0a2dyeUFGQmY2dHlBQ2lVampKY1dmSFR2QVF2SWVr0gG0AUFVX3lxTFB1YlBBWWlTaDJYeGxrMUpCTGQtZWNxeG1HU0hSSTB3ZnNDQnV6RTkwVXU5YVlwa2xUMkZKdHdNY2tpa19Zbng3eEl5TktKOGFRY1ZfU3BGZzVRV1lVSWFDaHpNWTZyOEQyX2ZmZTFPWGVIQ3pySTZ3NExQeW5acml3b0VyYXB5TGFVdEMwUHRBdnlvaEpLRVBvblNrTnpJOHFfTFotWHJOZGl1djhxSVFuLWQtVA?oc=5",
+      "summary": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
+      "summary_original": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-26T10:30:00+03:30",
+      "published_fa": "1405/06/04 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Azerbaijan is balancing Israeli arms, Iranian drones and Turkish oil - The Jerusalem Post",
       "title_original": "Azerbaijan is balancing Israeli arms, Iranian drones and Turkish oil - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZTI2UXBibU04bmxBQmdLNXJlRVdlZ0JRM0prMXRWdG1WZzVWT2M2Y1ZCVFJBR3FGNGoyRk9fYmlrSDk4UzlWYTAtcG5vNXlJVVpmTUY2YlF0U2h1Rzln?oc=5",
@@ -5824,21 +5856,6 @@
       "verified_source": true
     },
     {
-      "title": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next - Middle East Eye",
-      "title_original": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjFPb3VHR0l6M3J5Y3ZfVVlvZ1RWSGN1ZWNxSGVfRWc5V2c5WFg3SXp0dWhNVWMwOHItVVd6eXgtdHhpbTFjRFNzemtESTlkQWRCVTZyOEVqRHhVc3VSRDFCWlZNTkZuS09mUEg2VlhpZU1reVJyV3VHWnR3VnNCMlBrX040elNvUmNFdmRJdHRKLXE5T0pzdnNuZXpiZWowS0pWVWRhWTVIVWt5RkE?oc=5",
-      "summary": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next Middle East Eye",
-      "summary_original": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next Middle East Eye",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-24T10:30:00+03:30",
-      "published_fa": "1405/06/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says - Fox News",
       "title_original": "Iran tried to assassinate one of Netanyahu's sons, prime minister says - Fox News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHBiVnhUN1JvQ21vdlRObWwtRTBLMjY0MmpTSXo2OG9SaC1CZmpVeVZGQXk0c2pOMzdDSHhjel9tQ3BtTDlvcGUyUDRqNGpDV1lLOVk1SkgwYW0xUDV1alJqTVpENmJQWHVmamRQVWpmamczdmduMWtFNUlIbUk4bW1sdmh0d0FBQ3ZxMGVSZ9IBlAFBVV95cUxQcG9fX0ZpVl9yTlhsNlozNGxQZnc2eFZmUm1kQUJMSlVHODktaDA3TE1rd0ZVU1RPLXR5WkFabFFyME5RWXNjVjVKRENDVG5QUFk2T0pwZXg2VUhaV1YxTk4tR1BFeWdHS01XT2NnQ3JwS0dJTlljNFRnME9IbEZrVXR5enJyWWZxdG9pM0plY3YzcmZR?oc=5",
@@ -5910,6 +5927,21 @@
       "summary_original": "Iran war updates: US announces new sanctions against Iran Al Jazeera",
       "source": "Google News",
       "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-24T10:30:00+03:30",
+      "published_fa": "1405/06/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next - Middle East Eye",
+      "title_original": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjFPb3VHR0l6M3J5Y3ZfVVlvZ1RWSGN1ZWNxSGVfRWc5V2c5WFg3SXp0dWhNVWMwOHItVVd6eXgtdHhpbTFjRFNzemtESTlkQWRCVTZyOEVqRHhVc3VSRDFCWlZNTkZuS09mUEg2VlhpZU1reVJyV3VHWnR3VnNCMlBrX040elNvUmNFdmRJdHRKLXE5T0pzdnNuZXpiZWowS0pWVWRhWTVIVWt5RkE?oc=5",
+      "summary": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next Middle East Eye",
+      "summary_original": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next Middle East Eye",
+      "source": "Google News",
+      "category": "other",
       "tags": [],
       "urgent": false,
       "published": "2026-08-24T10:30:00+03:30",
@@ -6187,24 +6219,6 @@
       "verified_source": true
     },
     {
-      "title": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' - Haaretz",
-      "title_original": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPaFhEUUQzeEJJbm42Ny12UUFPM29SSlBja3FiTmJfMDVHN2pyc2tSOUljUEh0UEFhWVJKZnZGSTZCc01LeWFwQ0FuN2hHZndoci1pcTJJNnJjMHllcEFYYjFYcVpsWVRSX1NpQVFvWGhua1VxNFUxVldnVm9sU1hyVi0yZnR1MjdEMThOVDhnUXVIMUxHNk5mbC1pYXhDazdTd0pMdFU4YUx2MFRVTVd5Qkx2MVJXTUVkSjZ3aDRFQ05jbEZsU3lQZ3BpSkdsS2puN3Y2ZFM1OGZJcFVKQ2dtQUpnOW1IaDV3VnJHZHo0U2VBZk1PZG1maHZRZkFsN0FWRXM2ZXVHOXV4cTBhcWxmTmJ5V2Z4WkpYaUZZSlpha2o?oc=5",
-      "summary": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' Haaretz",
-      "summary_original": "Live updates • Trump Iran 'not going to make the kind of deal that I think is necessary' Haaretz",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-17T10:30:00+03:30",
-      "published_fa": "1405/05/26 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "title_original": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlDeVJBWWxGd2stY3dMdkJtR3NsNUtPUFV2SVRncTZGQnNOcWV6Ylp5aW9rV3hsRDQ2WkJjZ0hmQV9OdHplQThKQ19MVTlvMVpsRmptQWhrRjRxSTFsclFUTkNfOGhNVkJiNjVkMDlGOWVFME9FREFmdlFYaVF6TkVrV0J6R3F6SVRtZUNSR181MERKOUNlcEZmVFNXdDl1RExNNdIBqgFBVV95cUxPd1pGaEZPdVlqb1pYNndOMGNuQWYtUTAwVFczV2ZndzdJY09wd21jR1B2NkdmMmNUbmFkbFlrWDhIUFBOSG51Ums0UFlmcHRIdnFmVHhiZEd2b0lKQXhwYTZCMm9YMTlGQ2hpdUd3bmk5YklKandtRWNrbHZaeGIxSXVkZTYxUFhwSE5TdXlpbVAxNWtCMF9VUnpmNEVSREVuT29fek40VzNfQQ?oc=5",
@@ -6358,6 +6372,23 @@
       "category": "politics",
       "tags": [
         "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Netanyahu’s veto and the limits of American power - Al Jazeera",
+      "title_original": "Netanyahu’s veto and the limits of American power - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWF1Zmo3MU1hYWdpU0pSME11dm1zT3gxbE9JZ2pLOV9LWEs0RUxHeTUyQkx0NUJ3X1ZTS05vMW5Nc2NjX3o0cldvYWtaSV9kODd2LUFlQWdlOFVrOWtzdHhQcUhueVVnblpVUk03dGlPS1F0dVB1NFd1QnZKTlRNcFBOQzR4ZzVhMWxVbW9NSUFPeEVEN3VkTdIBngFBVV95cUxPS1ZUdkVYSjJlZ2NnZHB6dElJRzVrMGhOd0hmWFlLeHcyRERSRE44ZXUwNklaclFWYVduSGpLSS1LbVlCN05QdlJ2UnBoQXlFNHJwS08tWnZ5elc4SGxRWjVjNzY0UDV0a3h2dE4xQjZzbW1obWdRV0JpR0lyS0cwNTlNNXA0cElmWXROTlE5LWdLa0xGZ0lMTWxTeDFWdw?oc=5",
+      "summary": "Netanyahu’s veto and the limits of American power Al Jazeera",
+      "summary_original": "Netanyahu’s veto and the limits of American power Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
         "نتانیاهو"
       ],
       "urgent": false,
@@ -6912,21 +6943,6 @@
       "urgent": false,
       "published": "2026-05-10T10:30:00+03:30",
       "published_fa": "1405/02/20 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
-      "title_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDNVeUExc1Z0TFppSTlyY0V5S29aRFpfeEswV1RiTHdhLTRmckN2eUw5SE9ZRmNhWVdKbEp6a0NaNHhoR0NCeXcxYmR6Qm1MT3Rwc000Vko5ZGtMLTZ2ZG1ib2dBMDFqV20zdU1ZOTluaXExRS1hUmo4QTRkdmNpUHRoT2pTNW56M0F3ZkJtMVJrRjNaTEE?oc=5",
-      "summary": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News",
-      "summary_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-04-20T08:44:14+03:30",
-      "published_fa": "1405/01/31 - 08:44",
       "translated": true,
       "verified_source": true
     },
