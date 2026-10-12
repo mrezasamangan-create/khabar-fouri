@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:26:25.917361+00:00",
-  "generated_at_fa": "1405/07/20 - 08:56",
+  "generated_at": "2026-10-12T05:51:14.078202+00:00",
+  "generated_at_fa": "1405/07/20 - 09:21",
   "count": 430,
   "items": [
     {
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T08:52:33.038283+03:30",
-      "published_fa": "1405/07/20 - 08:52",
+      "published": "2026-10-12T09:17:06.297328+03:30",
+      "published_fa": "1405/07/20 - 09:17",
       "translated": false,
       "verified_source": true
     },
@@ -30,8 +30,23 @@
         "فلایت رادار"
       ],
       "urgent": false,
-      "published": "2026-10-12T08:52:33.036893+03:30",
-      "published_fa": "1405/07/20 - 08:52",
+      "published": "2026-10-12T09:17:06.296461+03:30",
+      "published_fa": "1405/07/20 - 09:17",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "زین‌العابدین قربانی لاهیجی، نماینده پیشین رهبر جمهوری اسلامی در استان گیلان، درگذشت",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610128173",
+      "summary": "زین‌العابدین قربانی لاهیجی، نماینده پیشین رهبر جمهوری اسلامی در استان گیلان و امام جمعه سابق رشت، در ۹۳ سالگی درگذشت. قربانی لاهیجی سابقه ریاست کمیته‌های انقلاب اسلامی شرق استان گیلان و همچنین ریاست دادگاه‌های انقلاب استان گیلان را در اوایل حکومت جمهوری اسلامی در کارنامه دارد.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T09:01:33+03:30",
+      "published_fa": "1405/07/20 - 09:01",
       "translated": false,
       "verified_source": true
     },
@@ -1131,21 +1146,6 @@
       "verified_source": true
     },
     {
-      "title": "Iranian Threat Actor Targets Critical Infrastructure in Iraq and Israel - Israel Defense",
-      "title_original": "Iranian Threat Actor Targets Critical Infrastructure in Iraq and Israel - Israel Defense",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aUGlOLTcybjljN1U4eFlvQzhFNVUtZy1wXzZUeG5MWGR4SEJtZnhBRXlPTDZMTURLa2tyUkhXMWJBc1NzRHNmU0EyamtPX0V2cDRyX3JSUzM?oc=5",
-      "summary": "Iranian Threat Actor Targets Critical Infrastructure in Iraq and Israel Israel Defense",
-      "summary_original": "Iranian Threat Actor Targets Critical Infrastructure in Iraq and Israel Israel Defense",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T22:41:38+03:30",
-      "published_fa": "1405/07/19 - 22:41",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "دو شورای سازماندهی اعتراضات کارگران نفت: پاسخ شلاق و اعدام را با اعتراضات گسترده می‌دهیم",
       "title_original": "",
       "link": "https://www.iranintl.com/202610114966",
@@ -2231,6 +2231,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport - Al Jazeera",
+      "title_original": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5",
+      "summary": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera",
+      "summary_original": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T14:30:05+03:30",
+      "published_fa": "1405/07/19 - 14:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Senior military commander says Iran will continue to strike vessels ‘if necessary’ - Middle East Eye",
       "title_original": "Senior military commander says Iran will continue to strike vessels ‘if necessary’ - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDk1ZDZRODVaQm9IQnVsWGM0c3gzYXVaM1ozS2lMLVpFWWR4V2ZjOVB0TzBjcnlzdndrNkZqY1c3a2YxdUNYUnIxWFlFNV94OWNoWnFySDVwam1VRzJuRUJvVTlTcU9WOUc0RVBLaFA3Tmp2Y19DQ09FaTNjc0VScjF5VnZFUFJFWkR1UC1sTVdNZzB4bFZYaVlHZU90enFZNEdYTVU5ZnNnVHBIcUwyZGZhTUxfS3JCcXNvU09qakNrdw?oc=5",
@@ -2905,6 +2920,21 @@
       "verified_source": true
     },
     {
+      "title": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
+      "title_original": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
+      "summary": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade The Jerusalem Post",
+      "summary_original": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade The Jerusalem Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T05:13:32+03:30",
+      "published_fa": "1405/07/19 - 05:13",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump and Netanyahu’s plan to expand the war in the Middle East produces catastrophic Blow Back at Saudi Arabia’s international airport in Riyadh - Daily Kos",
       "title_original": "Trump and Netanyahu’s plan to expand the war in the Middle East produces catastrophic Blow Back at Saudi Arabia’s international airport in Riyadh - Daily Kos",
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNW8xTERkRFVpNVlrVV84MUN2SnNzVDZoTzRvZ1I3QkdkdjFnZHVyQVBKZC0yb0U5cmwycHJPQWFCb1gyWDVwdlc1QmNiZHg0VlpJaFo2OGtmUEVlb3dBekN2YTVBV2FHY28yRUFiZFVKMXVhZUhlY2lsUV80Y2RROXBwb0gxakhsdkxkcHlNY2tBZ2ZnOU5kYms5OWh4WGRPaDVKaUpzTDRWQzVnUVNhRUV3OVFSa1htMVdpWkxhUHBBM0d6emdYamRlOVh3Z1dkbUc4OFNjSVgzSklSS0FibzJuc1dMTlY4OWFfcUxYMWZFS2JZRjd4T3ZQODhaUE1VZ0ZUX3lYSExFVHZicHAta3NoWEoydlZqcU1oQ0FzM0VmRGtmNW1FeU9vdGRVVFJnVVE?oc=5",
@@ -3555,21 +3585,6 @@
       "published": "2026-10-10T21:54:54+03:30",
       "published_fa": "1405/07/18 - 21:54",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "مهدی رجب‌زاده، سرمربی فجرسپاسی شیراز شد",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610104904",
-      "summary": "باشگاه فجرسپاسی شیراز اعلام کرد مهدی رجب‌زاده، سرمربی این تیم شده است. او جانشین رسول خطیبی می‌شود که صبح امروز و پس از نتایج ضعیف در ۷ بازی گذشته، اخراج شده بود.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T21:43:58+03:30",
-      "published_fa": "1405/07/18 - 21:43",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -4540,6 +4555,23 @@
       "verified_source": true
     },
     {
+      "title": "Trump: War with Iran will be over soon, one way or another - Israel National News",
+      "title_original": "Trump: War with Iran will be over soon, one way or another - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mMW5LQlJiYVVqUVhNSmRtTWRUNjlzbHpTcGVWT2xJdjgtRlMwZk1qVDhqSFJ1ZkNhdzRvMmNpX3Z4bWpGOGQ4Ujh1U2EtTGE0TVN5YW1CSDRUdw?oc=5",
+      "summary": "Trump: War with Iran will be over soon, one way or another Israel National News",
+      "summary_original": "Trump: War with Iran will be over soon, one way or another Israel National News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T22:58:06+03:30",
+      "published_fa": "1405/07/17 - 22:58",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump says US will not attack Iran before midterm elections in November - Reuters",
       "title_original": "Trump says US will not attack Iran before midterm elections in November - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmV2ZUhoRklKSzBPaFkzWHVFdkwxVDlVVU8tdDV2NXc4NEkxTjZSTVhoaklIeTlJX3BCUTFkRUREY1VDVGpTY1lhZEQ4OHgyRG81S0RLa0JJVEZHTWpiUFJVRy0xZmVSWEpVbDZsVFBSRzZ4bmw2RnhtMXlBelJ1Vi1GUnVuZ3htemdTdExuTktpQ2dKdzhFRmRMd0MwMlYtd3JPb1J0NVlKcVNtWUlNNHRoNVFWaFBWUHNTdg?oc=5",
@@ -4697,6 +4729,21 @@
       "urgent": false,
       "published": "2026-10-09T20:33:09+03:30",
       "published_fa": "1405/07/17 - 20:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake. - The Washington Post",
+      "title_original": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnJfdmQzcThvdk5kMkxlWXpMZlhIUXM1ZGR4SGlycFdUZV82Z1N3eHVCVGk4UnpKb0s3U2lvX3d0RVFDNnVVekhyUVhSQlJOYlQyLVpETDI5V3FSZDFYeDcyLU5nbXB2SGhmeTNBbFIzNUsyZFRFcWs0OHBZSU9IZlpkRVUwUl83ck55U2E5dkZpM1hoN0s3blJScUZaT3J6a0w4b1FOXzQ4U2JVQTREUEVyYkY5bVU?oc=5",
+      "summary": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake. The Washington Post",
+      "summary_original": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake. The Washington Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-09T19:30:00+03:30",
+      "published_fa": "1405/07/17 - 19:30",
       "translated": true,
       "verified_source": true
     },
@@ -5010,23 +5057,6 @@
       "verified_source": true
     },
     {
-      "title": "Why Trump says he’s not attacking Iran before Election Day - CNN",
-      "title_original": "Why Trump says he’s not attacking Iran before Election Day - CNN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRXJwRE85Zkd6RFQ1NmVxTU93VDZrWG51VzZnUHBXdnJQQVVOWkU5aHBZZkd5NktHZEhQcHZNYjEtZzlNYnpsMC12ZklPVWpFNlFFYnBKazZEejE2SmU3aGd0a0tvOWxOWEd4cWJ2SG4?oc=5",
-      "summary": "Why Trump says he’s not attacking Iran before Election Day CNN",
-      "summary_original": "Why Trump says he’s not attacking Iran before Election Day CNN",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T07:31:44+03:30",
-      "published_fa": "1405/07/17 - 07:31",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "El-Sayed and Rogers talk Iran and Israel in US Senate debate - WOODTV.com",
       "title_original": "El-Sayed and Rogers talk Iran and Israel in US Senate debate - WOODTV.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0RDN3F4M1BpOC1BT2ZrazBhWVBYWDYySjJ1d2lMTnpRcEloQXFVdGpsSWMzRHUwR21vZElCd1pEQURoblAxcEt2LUlxeWJVOTJQTldTMHpfQzBHWEFMQ2VFdjl3TDdCbDlTMFUyMWVPWTBhR2FvR3ZocEc5eURoYVJuR1J4NGhsUkRRTE4tdXFrWmJiWHZsSlRBR0FmeG5Q?oc=5",
@@ -5181,23 +5211,6 @@
       "verified_source": true
     },
     {
-      "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
-      "title_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRE9XT1JnZUZoWXpuNXBzS3Z3MnNOQUlJWV84dXhkczZuRDdSOUFvNWRqSjlpTlUzNXlaUHJxblNtb0stWHRST2czR190bWtkaXFNV09IbE9OYTUxYzlhNUNneHJiUjBzbFRCeTcxTE13X1RaSTd4YnZLcFUwUVU?oc=5",
-      "summary": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates The New York Times",
-      "summary_original": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates The New York Times",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T00:11:23+03:30",
-      "published_fa": "1405/07/17 - 00:11",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Mother of dead Russian anti-plague institute worker: 'I know the truth'",
       "title_original": "Mother of dead Russian anti-plague institute worker: 'I know the truth'",
       "link": "https://www.foxnews.com/world/mother-dead-russian-anti-plague-institute-worker-know-truth",
@@ -5310,6 +5323,23 @@
       "urgent": false,
       "published": "2026-10-08T10:45:30+03:30",
       "published_fa": "1405/07/16 - 10:45",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
+      "title_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5",
+      "summary": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
+      "summary_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-08T10:35:57+03:30",
+      "published_fa": "1405/07/16 - 10:35",
       "translated": true,
       "verified_source": true
     },
@@ -5996,21 +6026,6 @@
       "verified_source": true
     },
     {
-      "title": "Scoop: U.S., Israeli and Arab military chiefs held secret meeting on Iran - Axios",
-      "title_original": "Scoop: U.S., Israeli and Arab military chiefs held secret meeting on Iran - Axios",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzZVZGtBRi1nRFVZY1Y5WEhWQnFKLWdYYmc4akRHQ1RoRWlmaDRkc0NSLTdxY1BIVl9lSUl6VkNkeUQ5S3Z4ZWRSYTRjV1B0YUp1NEZuNWZYRDRJalQ2MmVMbGVoSmNhMFBBdkRWZmtlbzNIbnVkajRTMmFLblhkdkVHOUVJU0xMODlfRlRMZl9mWkVIb1hlS2ZmRFRoUTg?oc=5",
-      "summary": "Scoop: U.S., Israeli and Arab military chiefs held secret meeting on Iran Axios",
-      "summary_original": "Scoop: U.S., Israeli and Arab military chiefs held secret meeting on Iran Axios",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-15T10:30:00+03:30",
-      "published_fa": "1405/06/24 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran and the Emerging Security Order in the Middle East - CSIS | Center for Strategic and International Studies",
       "title_original": "Iran and the Emerging Security Order in the Middle East - CSIS | Center for Strategic and International Studies",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEVWtfWXRCTkVQdUsxNjN0STZDY2hnYTFMR09GZ2VsanV6eHJZNUVYRXFwNGZSYWhzejU4bmF3dVlBN0lhamVHTVdzSkg2OVlNRGk5Y1lMQVZTRmk3VHR3Q2V6bF9WeHEzUE05Ym1pdmJENTlQQUppQ2pCZVhmM00?oc=5",
@@ -6055,24 +6070,6 @@
       "urgent": false,
       "published": "2026-09-03T10:30:00+03:30",
       "published_fa": "1405/06/12 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions - The Times of Israel",
-      "title_original": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUt2X2FaWTJLeDhhejBndi1WNndxVVNNQ2xxaGZOWXBNZjFKYkxzLVRBTkg5RDU0WU5lN3FTT2RqOEluLWtRLWY5RXNXRm9CeDJCRFdSTVlJRHRTaU9BUU5CSXRfSkNTOWJtTTVQU2ZXcXI4bjVrVWhTc1lJVmxjNnRGQUMyazVndk0zYmhHTDVJYV9NVi1nRElDbmQ5bVkxUXJ0X1o3RlBfU2VGM2dfNkZiQdIBuAFBVV95cUxOWnlzZDk3RXhBenRCM0xsZTFUNWdHQVROdG9hdHY0ZTZnYlM5U0VydXlDLXZFRkw2Q085RE44eEpldFBubjVKaUpIU2pnOTFnLUdtajFyTzhuQzJCZ2htV2NudUxNcnlWaFFadTdGTjRNdUdVcHI3ekx0WlNNc0xnNDlXWnM1TXB6MjFNVWxlYnhlNW1zZUZkd1M5VVBiT0dzLWNwUm5sR0tYY0V6NFFBQi0zNnZqT3ll?oc=5",
-      "summary": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions The Times of Israel",
-      "summary_original": "Netanyahu says he told Trump to ‘tighten the siege’ on Iran ahead of fresh sanctions The Times of Israel",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-26T10:30:00+03:30",
-      "published_fa": "1405/06/04 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6215,6 +6212,24 @@
       "urgent": false,
       "published": "2026-08-11T10:30:00+03:30",
       "published_fa": "1405/05/20 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "U.S. diplomat discusses Israel's Netanyahu rejecting Trump's proposed Gaza peace plan - NPR",
+      "title_original": "U.S. diplomat discusses Israel's Netanyahu rejecting Trump's proposed Gaza peace plan - NPR",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEpQcjM0MUdhRUlpczNoOTZUUXl6LXZyeFNXRGpBcTUtbFUxeXVmLXlvdXZ5VVI0THFwSVRoNndjajFtUmNGVGE4SkVMVUtqOXl4Ynl3RVZQbFBvZDk1RzYwQXdtcDQ1Y1BfVk1aUWU5cVQ2d3BsOTI3X3BVU1h0YWoxU0lnUHZPTkhkTHhiR2NqckVqVzNLNnFaQk5vUFZuaWM1eUNpcTBCaGlQQWRnTTFZemRnOUhaZUE3NUVQMWFBZTNwOWc?oc=5",
+      "summary": "U.S. diplomat discusses Israel's Netanyahu rejecting Trump's proposed Gaza peace plan NPR",
+      "summary_original": "U.S. diplomat discusses Israel's Netanyahu rejecting Trump's proposed Gaza peace plan NPR",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6671,24 +6686,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sN0dtOFdwWnpvU09kMm02Z2hkWkNuNkw3SWxLbERVNXQtS0xnNDlxRE5HaFhJN3JzX0hSMG9nNEVyVmhLWkpDVklNb2g2MW5rUG5MTHlIcUJxT3VzRUVRRktn?oc=5",
       "summary": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
       "summary_original": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T10:30:00+03:30",
-      "published_fa": "1405/05/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Netanyahu and Zelenskyy meet separately with Trump at the White House - ABC7 Los Angeles",
-      "title_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWlqZVJnYW00NkVSQTgtbjl6WENRS25iclkxanF4bG12YzRsc2V6OGU5akNONnlCQmlQX09hVFRhU0cxUnd4Rm1yTHdXMGkwQ1lzUi1HT1lQckl0bVI5WERISEl2Z0xqX1l5V3Z1TGdxTnpZemRscUVTT2ZZcXRQR25KcWVKVWxJcWF4ZzY2RVdraG5UTkxJ?oc=5",
-      "summary": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
-      "summary_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
       "source": "Google News",
       "category": "politics",
       "tags": [
