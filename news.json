@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T07:01:36.647861+00:00",
-  "generated_at_fa": "1405/07/20 - 10:31",
+  "generated_at": "2026-10-12T07:26:00.446234+00:00",
+  "generated_at_fa": "1405/07/20 - 10:56",
   "count": 436,
   "items": [
     {
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T10:27:27.446895+03:30",
-      "published_fa": "1405/07/20 - 10:27",
+      "published": "2026-10-12T10:51:52.253769+03:30",
+      "published_fa": "1405/07/20 - 10:51",
       "translated": false,
       "verified_source": true
     },
@@ -30,8 +30,40 @@
         "فلایت رادار"
       ],
       "urgent": false,
-      "published": "2026-10-12T10:27:27.445969+03:30",
-      "published_fa": "1405/07/20 - 10:27",
+      "published": "2026-10-12T10:51:52.252909+03:30",
+      "published_fa": "1405/07/20 - 10:51",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "«راسوت»؛ رقیب روسی استارلینک چیست و چرا اهمیت دارد؟",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cw1l3v5n7jymo?at_medium=RSS&at_campaign=rss",
+      "summary": "هشدار دمیتری مدودف درباره احتمال «جنگی تمام‌عیار در فضا» بار دیگر توجه‌ها را به «راسوت»، منظومه ماهواره‌ای جدید روسیه، جلب کرده است. مسکو این سامانه را گامی مهم برای کاهش وابستگی به زیرساخت‌های ارتباطی خارجی و تقویت توانمندی‌های خود می‌داند، اما منتقدان می‌گویند راسوت می‌تواند نقشی مهم در جنگ اوکراین نیز ایفا کند.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "analysis",
+      "tags": [
+        "تصاویر ماهواره‌ای"
+      ],
+      "urgent": false,
+      "published": "2026-10-12T10:34:02+03:30",
+      "published_fa": "1405/07/20 - 10:34",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "تعطیلی و بازگشایی باشگاه انقلاب؛ اختلاف‌نظر و ناهماهنگی وزارت ورزش و شرکت توسعه",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610122949",
+      "summary": "انتشار خبرهای متناقض درباره تعطیلی و بازگشایی مجموعه ورزشی انقلاب و کشوری، نشان‌دهنده اختلاف‌نظر و ناهماهنگی شدید میان وزارت ورزش و جوانان و شرکت توسعه و نگهداری اماکن ورزشی است.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T10:16:57+03:30",
+      "published_fa": "1405/07/20 - 10:16",
       "translated": false,
       "verified_source": true
     },
@@ -798,6 +830,21 @@
       "verified_source": true
     },
     {
+      "title": "Yemen's Houthis target King Khalid airport in Saudi Arabia again - CBS News",
+      "title_original": "Yemen's Houthis target King Khalid airport in Saudi Arabia again - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0VtOXVJOWJSWUh5ZXpTSXE2c0VQdG5KR1Jod3pyUE1HV3h6b2laeUFJQ1BpenE1SkdYSG4wT3VEbTBoczF4YlNlb0RPZEpHWWVHdEhXZTB0QmIteGlPNFVqQ050aWNuVzNqNTRqdkxtdXFlQm4wbnNDZUEtNWRZZ2U0S2wteXUxeG9BbDd6RWtBeldEVXc?oc=5",
+      "summary": "Yemen's Houthis target King Khalid airport in Saudi Arabia again CBS News",
+      "summary_original": "Yemen's Houthis target King Khalid airport in Saudi Arabia again CBS News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T02:11:00+03:30",
+      "published_fa": "1405/07/20 - 02:11",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "حملات به فرودگاه ریاض هشدار هوانوردی آمریکا و لغو حضور بی‌پی در همایش انرژی را در پی داشت",
       "title_original": "",
       "link": "https://www.iranintl.com/202610115619",
@@ -945,6 +992,21 @@
       "verified_source": true
     },
     {
+      "title": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says - Reuters",
+      "title_original": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVW9SNC1teWppNnU5SXVIWGFNR1NyOEZQUzVXcVB5ZjlPU0pUcjBMUXl4dHVsMWd6c1BRbXBvQ3Z2bjllbVhuUWxLR2ZJUGwwUmpqcHB1S3otYklkalI3bHhqMmhLOTZVTFhQam51WHlmZFF5Y1YzSy1ZQUlPTmpiRjZ3TVZ4Y0lBWEpxejRNLUZ0dDBVNURTbENWVWNXZ3pPVzZ4MVFIZldMUUFZQW8zNHllMmR6UnlVZnQweEsybUVDTFUzYzVIYUUtVjJGczA?oc=5",
+      "summary": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says Reuters",
+      "summary_original": "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says Reuters",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T00:45:57+03:30",
+      "published_fa": "1405/07/20 - 00:45",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Quiet part out loud: Anti-Israel mobs want one state called 'Palestine,' erasing Israel",
       "title_original": "Quiet part out loud: Anti-Israel mobs want one state called 'Palestine,' erasing Israel",
       "link": "https://www.foxnews.com/politics/quiet-part-out-loud-anti-israel-mobs-want-one-state-called-palestine-erasing-israel",
@@ -986,21 +1048,6 @@
       "urgent": false,
       "published": "2026-10-12T00:27:48+03:30",
       "published_fa": "1405/07/20 - 00:27",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Saudi, Iranian foreign ministers disscuss regional tensions, Houthis - The Jerusalem Post",
-      "title_original": "Saudi, Iranian foreign ministers disscuss regional tensions, Houthis - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcXJZWXBHdVBkdkd4Z1pnTEh6Y0o4NGpMcTFtWkgyU2lUZE8tUlRDN1ZpV3ZGcjFnS1NvYWJkN2k5TjdSOE4xYV8yNHN2RG1pdnF1RHdpZTdCUG8zbEFTTGI0ZUtBUUhSM0E?oc=5",
-      "summary": "Saudi, Iranian foreign ministers disscuss regional tensions, Houthis The Jerusalem Post",
-      "summary_original": "Saudi, Iranian foreign ministers disscuss regional tensions, Houthis The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T00:22:03+03:30",
-      "published_fa": "1405/07/20 - 00:22",
       "translated": true,
       "verified_source": true
     },
@@ -1076,21 +1123,6 @@
       "urgent": false,
       "published": "2026-10-12T00:04:39+03:30",
       "published_fa": "1405/07/20 - 00:04",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "US hits commercial tanker in Gulf of Oman as tensions flare - Financial Times",
-      "title_original": "US hits commercial tanker in Gulf of Oman as tensions flare - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZF9DS1hBWldLa0lJMWU3YkJTdkNKZGpCRlhlSnFPMFlMWmRLWUhZYW1ydmJSUGVvOU9NUTA3YWI5SDFKRy1mZ3ZWemRURF9XZVRhUmhBdXRGMnJSVGFYcmdoNHJHYlpveXl2djJFTmhzWjJ1ZU84VzJZc2Q5enVSdm1QTmU?oc=5",
-      "summary": "US hits commercial tanker in Gulf of Oman as tensions flare Financial Times",
-      "summary_original": "US hits commercial tanker in Gulf of Oman as tensions flare Financial Times",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T23:23:56+03:30",
-      "published_fa": "1405/07/19 - 23:23",
       "translated": true,
       "verified_source": true
     },
@@ -2922,23 +2954,6 @@
       "verified_source": true
     },
     {
-      "title": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
-      "title_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes - Sky News",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcHNrVF9CQnMzNHlWUU5Db011eERJUHJoQTdzQzZfdllQUWZmZjBBSzdkaWViSG9UN1BmZklLTzB5SzYzcmhGd0dNVU9iM1F2dVJnMHBxaGlYMXh2cC1tZHpFV0dmSExIOGhkVUxXQ25hVlVtbzV0YUxLWU9NZTNobzJFaTR6UzkzNVdKazkxWUh4TW1aMUl4c3dhRk9TQkVnWXFNanFCUm1pdzFYWERZZ2ZvdjRvR2FyUzNvV0xXc2dZYy1KR3dBR0c3Q1ZWc0xCZnNkSVVtaVdkX2FXY3k2aUthREZSYmNlVFYtMWlwdW1vSDlBT1EzdWpibWJFcEFlNDk4VGd1VDVxYVFKdEwxRmZvN0l2RHc?oc=5",
-      "summary": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera Trump’s Middle East war has spiralled beyond America’s control The Independent",
-      "summary_original": "Middle East latest: One dead and 11 injured in new attack on Saudi airport - a day after 13 killed in missile strikes Sky News Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera Trump’s Middle East war has spiralled beyond America’s control The Independent",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T02:52:26+03:30",
-      "published_fa": "1405/07/19 - 02:52",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گروهی که با یک نظام مالی چند صد ساله، صدها میلیون یورو برای مجرمان پول‌شویی می‌کرد",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/c6n8md511lvpo?at_medium=RSS&at_campaign=rss",
@@ -2999,21 +3014,6 @@
       "published": "2026-10-11T01:59:42+03:30",
       "published_fa": "1405/07/19 - 01:59",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
-      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T01:41:56+03:30",
-      "published_fa": "1405/07/19 - 01:41",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -3189,23 +3189,6 @@
       "published": "2026-10-10T23:04:54+03:30",
       "published_fa": "1405/07/18 - 23:04",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "دونالد ترامپ: وقت آن رسیده اوکراین رییس‌جمهور جدیدی داشته باشد",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610100018",
-      "summary": "دونالد ترامپ، رییس‌جمهوری ایالات متحده، ضمن انتقاد از ولودیمیر زلنسکی، رییس‌جمهور اوکراین، گفت: «او بارها می‌توانست جنگ را پایان دهد، اما خودش نخواست. فکر می‌کنم وقت آن رسیده که اوکراین رییس‌جمهور جدیدی داشته باشد.»",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T22:58:48+03:30",
-      "published_fa": "1405/07/18 - 22:58",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -3705,24 +3688,6 @@
       "verified_source": true
     },
     {
-      "title": "از تنگه هرمز تا انتخابات آمریکا؛ جنگ ایران چگونه محاسبات ترامپ را پیچیده‌تر کرده است؟",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/ckvgdp76vmvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "از تداوم توان موشکی ایران تا افزایش حملات به نفتکش‌ها در تنگه هرمز، رسانه‌های آمریکایی ابعاد تازه‌ای از چالش‌های پیش روی دونالد ترامپ در جنگ با ایران را بررسی کرده‌اند. بلومبرگ گزارش داده که ایران، برخلاف ادعاهای دولت آمریکا درباره نابودی توان نظامی‌اش، همچنان بخش مهمی از ظرفیت تولید موشک خود را حفظ کرده است. وال‌استریت ژورنال و سی‌ان‌بی‌سی نیز از تشدید حملات در منطقه و تلاش تهران برای افزایش اهرم فشار خود خبر داده‌اند. در همین حال، واشنگتن‌پست نوشته که افزایش قیمت سوخت، ترامپ را به سوی توافقی با روسیه برای تأمین گازوئیل سوق داده است؛ تصمیمی که نشان‌دهنده گسترش پیامدهای اقتصادی جنگ به عرصه سیاست خارجی آمریکاست.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "military",
-      "tags": [
-        "ترامپ",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T11:11:49+03:30",
-      "published_fa": "1405/07/18 - 11:11",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "Israeli Democrats leader says killing of Iran’s Ali Khamenei was a 'mistake' - Anadolu Ajansı",
       "title_original": "Israeli Democrats leader says killing of Iran’s Ali Khamenei was a 'mistake' - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdk5LejhES2VKeUJLX3J3TnlvSGJoWkVwckY3SEpjeEVVb1VvZXRMMkFJZng2Y1ZuZnlHRkl2WVpXZWFOYVp2eGh4ZktLc0JWdGM1V05EUXdCdDk2MC1oc2xyV2NheE5jNEw1OVdrbU5BeHBpTml6VkN1dnNNdThNUEl0X1premprYWVlY2Z6OEpFUDZBUjY5NlYxUHUwbUZOTDZOTlV4aUhqRl9WV1p4djVQT01IdWpNUzgw?oc=5",
@@ -3876,6 +3841,21 @@
       "urgent": false,
       "published": "2026-10-10T06:21:35+03:30",
       "published_fa": "1405/07/18 - 06:21",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-10T04:56:53+03:30",
+      "published_fa": "1405/07/18 - 04:56",
       "translated": true,
       "verified_source": true
     },
@@ -5015,21 +4995,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
-      "title_original": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZk0wRUFDUXQyU1JFS3M0TnlXc3hQeTZvQ2Z0MWo3ZXdXVzdrclNwdkEtZFZWY21wSWx2MFRIYU9fSGVOUjRZWHpGQzkzR2VlRkxHNXotdEk1LXpNaFVKSFFrTE5xSjlNWHhsVzFMMEptUElsb0E5Y3lTSVJWa1ZOZFJGckdaQk0xSXhMcjBfenlUcHNsZTFxUktjbmpySGNXM1dTLVNIT2xxN2xw0gGyAUFVX3lxTE4wV0p1MkYxX0JjQml6WTg4STNFWFNRSUhGWlExM1RVM1FES09memgyem5NZnJoNi1YRXZJbjdvckxZLWNzUFFMV3J5cTZKVlBSNExVNUR6aWZwdUtVLTd2U2RzdFgyNFY1ZV9lQk1IMVhibXkzMm9QTGVicjJxZHNCOTZEZFBiS1JLREtaRksyeHh3Q1JEVXlMMGZNU05CMC1xZjVJU01rWXhYcFF5UjRlN1E?oc=5",
-      "summary": "Iran indicates it received official US response to latest offer on ending war The Times of Israel",
-      "summary_original": "Iran indicates it received official US response to latest offer on ending war The Times of Israel",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-30T10:30:00+03:30",
-      "published_fa": "1405/07/08 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says - BBC",
       "title_original": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QenpyWGY4WndvWkNpZ1RNbGU3TVhvYTVXMnROZFh2ODZ4MHV1M0g4MjF5VFV6NHhMQkp0d1FRdUhOWmtMWk9kaGhGYnVvbGFreXNNR2J4S0lBYl95eEE?oc=5",
@@ -5040,6 +5005,21 @@
       "tags": [
         "فلایت رادار"
       ],
+      "urgent": false,
+      "published": "2026-09-30T10:30:00+03:30",
+      "published_fa": "1405/07/08 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
+      "title_original": "Iran indicates it received official US response to latest offer on ending war - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZk0wRUFDUXQyU1JFS3M0TnlXc3hQeTZvQ2Z0MWo3ZXdXVzdrclNwdkEtZFZWY21wSWx2MFRIYU9fSGVOUjRZWHpGQzkzR2VlRkxHNXotdEk1LXpNaFVKSFFrTE5xSjlNWHhsVzFMMEptUElsb0E5Y3lTSVJWa1ZOZFJGckdaQk0xSXhMcjBfenlUcHNsZTFxUktjbmpySGNXM1dTLVNIT2xxN2xw0gGyAUFVX3lxTE4wV0p1MkYxX0JjQml6WTg4STNFWFNRSUhGWlExM1RVM1FES09memgyem5NZnJoNi1YRXZJbjdvckxZLWNzUFFMV3J5cTZKVlBSNExVNUR6aWZwdUtVLTd2U2RzdFgyNFY1ZV9lQk1IMVhibXkzMm9QTGVicjJxZHNCOTZEZFBiS1JLREtaRksyeHh3Q1JEVXlMMGZNU05CMC1xZjVJU01rWXhYcFF5UjRlN1E?oc=5",
+      "summary": "Iran indicates it received official US response to latest offer on ending war The Times of Israel",
+      "summary_original": "Iran indicates it received official US response to latest offer on ending war The Times of Israel",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
       "urgent": false,
       "published": "2026-09-30T10:30:00+03:30",
       "published_fa": "1405/07/08 - 10:30",
@@ -5263,24 +5243,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWJfc3dZSDVvcF9neFdPNGhEQlV6Y2NiNERBTXJKUlNtV2p3LTRTbHptRHMwOGdXSGJUelpBNE1laFVqSHZZVGtNUDlOV2psb280UjJQQ2JJMTFjOUNtdWpORFFreXVhYUZ2VHk0LTBYemNQZmV6aWs5cUc1dzdyc0J0cEg0OERPODN6MW9YOVRkcXZxbi1FMlhTQW1YczVCY0ttYWYwd0FvT2RLZXNOYzJ1Z04xTE9ZeFlDRU1IeXI2WUZX?oc=5",
       "summary": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else Politico",
       "summary_original": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else Politico",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-09-24T10:30:00+03:30",
-      "published_fa": "1405/07/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "By not meeting Netanyahu, Trump sends signal to Israel voters - The Arab Weekly",
-      "title_original": "By not meeting Netanyahu, Trump sends signal to Israel voters - The Arab Weekly",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2paQmdjZkVFRUp4ZXF3TVlzYmtvSnhPemtMcW1jQ1FVNkFQNjlMNDBacjRiZXJkV0l4SnAtbDYzZU40YWFtUEstdi1qSVQ5dVp4a3BzWE13dWRTZGphdnJBaUpZUWs5QWRSOWc1WVN0X3A2ZXZKRE1XX0dsakxuQmU0VGJUbG8?oc=5",
-      "summary": "By not meeting Netanyahu, Trump sends signal to Israel voters The Arab Weekly",
-      "summary_original": "By not meeting Netanyahu, Trump sends signal to Israel voters The Arab Weekly",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -5759,23 +5721,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open - Al Jazeera",
-      "title_original": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11U283WFBPdlU5OTRhNHRnLXFLRF9pSm5rcXBlenJ3WGhQVzRaTWVDQzFaQ091UnZoUHV0MDNpdTJBTnVDOE8wcVRQSmVhU3NBY2pZeTluaEltaUhUMFFrTHJHb0VpdkRlTWNmN25nLXpPcGhxRERJ0gF8QVVfeXFMTjRybTlMLURxREVpSUJJVjJENHFEbkNaam5QQnB0bkxuR0w0SzNud0JJMktPN3JFUHJJS0ZKRVd5RjRrWDlEUlFWYnZteHNncVlEVWdyWUJ5SE1OTUQwZS1CS09XbmpuRWZhNVh6RkFHVzEtSUtxTjNWOTRCQg?oc=5",
-      "summary": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open Al Jazeera",
-      "summary_original": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-25T10:30:00+03:30",
-      "published_fa": "1405/06/03 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "New US sanctions signal Trump desperation on Iran, experts say - Al Jazeera",
       "title_original": "New US sanctions signal Trump desperation on Iran, experts say - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmw2X00tTmczcE5TWV8wWWJ3XzhyTTN4bms0ajdMbHZhQ3ZaSm9USmJQcnlJejVwVzlzNFBKbmJSYmdaYnF0SWp5d1dSSjl4dHN5SlZWUFdsWThyZ0xVU2ZUemlwNkZnZ3NSLWxtbEs4bWw5Q1NKdWNPTHZCYWlIYnFFVGd0Qy1NUDN5RFNxTTNSeS13dUJMb3AzaFRFd0I5Y1NuSdIBqgFBVV95cUxQM3pLMnZfc3ZERTF3akZlbjd0UHo3X1NFOUMyZ0Q2cm5pQ05ZVDZ5ZVUwX3dHUEtSclg1VzEzNFRzcWdUeGJXVklRSUlYbk03QWl6QWVDYjFjRlNLRWYtQ2hqMVA1SlpJNEdXM1B1bjJzTkhQc3hFa1FhOHVhM0VvTHNjSktvcEFUUWtIdzJCcWxIM1V5WkZGWnNIazA5bEVreWdqNmxhend6Zw?oc=5",
@@ -5785,6 +5730,23 @@
       "category": "politics",
       "tags": [
         "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-08-25T10:30:00+03:30",
+      "published_fa": "1405/06/03 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open - Al Jazeera",
+      "title_original": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11U283WFBPdlU5OTRhNHRnLXFLRF9pSm5rcXBlenJ3WGhQVzRaTWVDQzFaQ091UnZoUHV0MDNpdTJBTnVDOE8wcVRQSmVhU3NBY2pZeTluaEltaUhUMFFrTHJHb0VpdkRlTWNmN25nLXpPcGhxRERJ0gF8QVVfeXFMTjRybTlMLURxREVpSUJJVjJENHFEbkNaam5QQnB0bkxuR0w0SzNud0JJMktPN3JFUHJJS0ZKRVd5RjRrWDlEUlFWYnZteHNncVlEVWdyWUJ5SE1OTUQwZS1CS09XbmpuRWZhNVh6RkFHVzEtSUtxTjNWOTRCQg?oc=5",
+      "summary": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open Al Jazeera",
+      "summary_original": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "مذاکره"
       ],
       "urgent": false,
       "published": "2026-08-25T10:30:00+03:30",
@@ -6058,21 +6020,6 @@
       "verified_source": true
     },
     {
-      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast - Al Jazeera",
-      "title_original": "Why Iran is threatening Europe’s ‘strategically important’ southeast - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85RG5HNmt5bzIxOUNqLVhaRkdkcGcxaGtTUXBQV21yRDFoMEJueFJTN3Jrel8tbmVEdklPWjRZclMxZE1EV05XWndZd05SWUVzeEh6UlQ1c1RwSXVGR3RnR3dDTVhhckQ1eWVUcjYtanlIQXE0TElIaUxXXzkwZ9IBgwFBVV95cUxOSUpNenAxOElBNmdkQjl5RUxTaWh2MzVPTVR0cUp3SS1HUHpDckxFVVNTdTcwZ3A0OWFQRTF5NVhBMzMzQlZFSDRHbXVGd1VUdkNyTWZ2NVZkRFQ3VVAyVUFaN2N4ZXV5NE1VQ08zY2RWZW1sRzVfNzk5UjZGM2FQSmlKTQ?oc=5",
-      "summary": "Why Iran is threatening Europe’s ‘strategically important’ southeast Al Jazeera",
-      "summary_original": "Why Iran is threatening Europe’s ‘strategically important’ southeast Al Jazeera",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-21T10:30:00+03:30",
-      "published_fa": "1405/05/30 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats - Al Jazeera",
       "title_original": "Iran updates: Iran, Oman discuss Hormuz; Tehran dismisses Trump’s threats - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWZtMDBMZHMxY3Y2bFg0R0hzYlJMaUMza2ZhXzAtaG5UNlk2X1hIQVJBcWxLMzBCZ2pPY2Q1R09IWlFMYnhSbUVmRUNqSHFVZmxhY0VrUkpaVW5iZFBOT0w5c2h2UHBYZ1hja0hnb2ctRnpfRnlENFRjVmIxbEJIVGxkb0E3b0t0Y3oyZWZnMVBqeGZMdE1wMURyS2tmbkliak16NlhlLV9ieTVQTDd1VGdwWnhkQdIBuwFBVV95cUxQLS1ucTVGS2NYdm0xanM1Z1RQbTFOY1h0azNGTzJLblk1YWozaUtzWExSNHQxS1dOS0VsVldTX0dJU0hPSW9xRmJWdFdGX1p3aXBsM0hEZ3Y3QTViWmFWdG1SYXJPbEtjTEFjbnh1X2pLS0xZR3Jsekk4alY3TGZ2WnJZNVFqcGQyazZDT3Y1VU1ibEtDMDFYTW45a3FpSTNyNFA3S1BNVXZlRktuaGpkVUVxd1o2V0hneEtj?oc=5",
@@ -6083,6 +6030,21 @@
       "tags": [
         "ترامپ"
       ],
+      "urgent": false,
+      "published": "2026-08-21T10:30:00+03:30",
+      "published_fa": "1405/05/30 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast - Al Jazeera",
+      "title_original": "Why Iran is threatening Europe’s ‘strategically important’ southeast - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85RG5HNmt5bzIxOUNqLVhaRkdkcGcxaGtTUXBQV21yRDFoMEJueFJTN3Jrel8tbmVEdklPWjRZclMxZE1EV05XWndZd05SWUVzeEh6UlQ1c1RwSXVGR3RnR3dDTVhhckQ1eWVUcjYtanlIQXE0TElIaUxXXzkwZ9IBgwFBVV95cUxOSUpNenAxOElBNmdkQjl5RUxTaWh2MzVPTVR0cUp3SS1HUHpDckxFVVNTdTcwZ3A0OWFQRTF5NVhBMzMzQlZFSDRHbXVGd1VUdkNyTWZ2NVZkRFQ3VVAyVUFaN2N4ZXV5NE1VQ08zY2RWZW1sRzVfNzk5UjZGM2FQSmlKTQ?oc=5",
+      "summary": "Why Iran is threatening Europe’s ‘strategically important’ southeast Al Jazeera",
+      "summary_original": "Why Iran is threatening Europe’s ‘strategically important’ southeast Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
       "urgent": false,
       "published": "2026-08-21T10:30:00+03:30",
       "published_fa": "1405/05/30 - 10:30",
@@ -6400,11 +6362,46 @@
       "verified_source": true
     },
     {
+      "title": "Netanyahu’s veto and the limits of American power - Al Jazeera",
+      "title_original": "Netanyahu’s veto and the limits of American power - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWF1Zmo3MU1hYWdpU0pSME11dm1zT3gxbE9JZ2pLOV9LWEs0RUxHeTUyQkx0NUJ3X1ZTS05vMW5Nc2NjX3o0cldvYWtaSV9kODd2LUFlQWdlOFVrOWtzdHhQcUhueVVnblpVUk03dGlPS1F0dVB1NFd1QnZKTlRNcFBOQzR4ZzVhMWxVbW9NSUFPeEVEN3VkTdIBngFBVV95cUxPS1ZUdkVYSjJlZ2NnZHB6dElJRzVrMGhOd0hmWFlLeHcyRERSRE44ZXUwNklaclFWYVduSGpLSS1LbVlCN05QdlJ2UnBoQXlFNHJwS08tWnZ5elc4SGxRWjVjNzY0UDV0a3h2dE4xQjZzbW1obWdRV0JpR0lyS0cwNTlNNXA0cElmWXROTlE5LWdLa0xGZ0lMTWxTeDFWdw?oc=5",
+      "summary": "Netanyahu’s veto and the limits of American power Al Jazeera",
+      "summary_original": "Netanyahu’s veto and the limits of American power Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first - NPR",
       "title_original": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first - NPR",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dlU0NVWkg2RmpXSG5aYzJ0aklreGJ3UDViRWxQUFVaTVFxdzJYZDF6Qk5WWEZIRUl5YnA0RDdNOVhiOVN2U29GMTEyXy14YW9ab3hFWkg0c3J2eFhxeHdSUjNWSmxsZDNQLVZSN1N3UzBZNlhIRjkzSHB5S1ZhbjFSVTlQbzJCVC1lVVI0R0RHdHNLUlpDMmNuYWdyUQ?oc=5",
       "summary": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first NPR",
       "summary_original": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first NPR",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-09T10:30:00+03:30",
+      "published_fa": "1405/05/18 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
+      "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
+      "summary": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
+      "summary_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6441,24 +6438,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3k1dTV2UzVJV1RiWGs4ZENQOTBhVk5sZ2JQX2t6WURKRlJZQ2NxOE1NNUswWUZUZXoxbHBxbWRFeldQSWR1Zy1tUGlpM2dWWW5kU0dCbjRRV3U4N3oyU1JKaG16bktvOUphRXhiZDJiTWpqWkdFemVQakRNdGVCMzRRZk9LTXA4RlBhUzRFdUJCNGM?oc=5",
       "summary": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza Time Magazine",
       "summary_original": "Netanyahu Rejects Trump’s 15-Point Peace Plan for Gaza Time Magazine",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-09T10:30:00+03:30",
-      "published_fa": "1405/05/18 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
-      "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
-      "summary": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
-      "summary_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6945,6 +6924,21 @@
       "urgent": false,
       "published": "2026-05-10T10:30:00+03:30",
       "published_fa": "1405/02/20 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Middle East latest: Houthis tell airlines and passengers to stay away from Saudi airports after attack kills 12 - Sky News",
+      "title_original": "Middle East latest: Houthis tell airlines and passengers to stay away from Saudi airports after attack kills 12 - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDNVeUExc1Z0TFppSTlyY0V5S29aRFpfeEswV1RiTHdhLTRmckN2eUw5SE9ZRmNhWVdKbEp6a0NaNHhoR0NCeXcxYmR6Qm1MT3Rwc000Vko5ZGtMLTZ2ZG1ib2dBMDFqV20zdU1ZOTluaXExRS1hUmo4QTRkdmNpUHRoT2pTNW56M0F3ZkJtMVJrRjNaTEE?oc=5",
+      "summary": "Middle East latest: Houthis tell airlines and passengers to stay away from Saudi airports after attack kills 12 Sky News",
+      "summary_original": "Middle East latest: Houthis tell airlines and passengers to stay away from Saudi airports after attack kills 12 Sky News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-04-20T08:44:14+03:30",
+      "published_fa": "1405/01/31 - 08:44",
       "translated": true,
       "verified_source": true
     },
