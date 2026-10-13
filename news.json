@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T13:01:25.608813+00:00",
-  "generated_at_fa": "1405/07/21 - 16:31",
-  "count": 423,
+  "generated_at": "2026-10-13T13:27:25.602869+00:00",
+  "generated_at_fa": "1405/07/21 - 16:57",
+  "count": 422,
   "items": [
     {
       "title": "وال‌استریت ژورنال: ایران به کشورهای منطقه درباره حملات زمینی هشدار داده است",
@@ -13,8 +13,182 @@
       "category": "politics",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-13T16:28:17.202386+03:30",
-      "published_fa": "1405/07/21 - 16:28",
+      "published": "2026-10-13T16:54:30.807671+03:30",
+      "published_fa": "1405/07/21 - 16:54",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "ترس از یخچال فرانسوی: چرا سوپرمارکت ها هدف هکرها شده اند؟",
+      "title_original": "French fridge fright: Why supermarkets have become target for hackers",
+      "link": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss",
+      "summary": "بیش از 500 مغازه در سراسر فرانسه در یک حمله سایبری بزرگ به فریزرها مورد حمله قرار گرفتند که باعث از بین رفتن تن مواد غذایی شد.",
+      "summary_original": "More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T16:38:46+03:30",
+      "published_fa": "1405/07/21 - 16:38",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "به گزارش WSJ - L'Orient Today، ایران سایت‌های هسته‌ای را تقویت می‌کند و تهدید به تهاجم زمینی می‌کند، زیرا برای حملات احتمالی مجدد ایالات متحده آماده می‌شود.",
+      "title_original": "Iran fortifies nuclear sites, threatens ground incursions as it prepares for possible renewed U.S. strikes, WSJ reports - L'Orient Today",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNenVKbkl4cWg5RWxrYnpvYjNleDZfbXlJWS1BdnlLVjRGblRBMkI4RkRhb3dhV2s5elZhNXdCWkgtWXhFNFV5b2xmaGFxWHlnUlEza2s2VHFzak1yZTh5QURrYVdwQ2lUM29kZ0pEZDkyLXZiS1pzMEo2RW9EcUNJLWRpME0yZnN3NHRDd211NDh5Z3J2YmNsWXFadmtwaE5tNXRIZ05wZVBtcXR5azcwTWkxYjRid3hDQlNMR09xR3ZiSWFpdUlxclBYc2lLZ09jMzNRalFhcWRwU1BVay1kaF9Ma0tSdkZIU1Y3ZF96TTlreVc5V2Y1TVVZMUo?oc=5",
+      "summary": "به گزارش لس‌آنجلس، ایران سایت‌های هسته‌ای را مستحکم می‌کند و تهدید به تهاجم زمینی می‌کند در حالی که برای حملات احتمالی مجدد ایالات متحده آماده می‌شود.",
+      "summary_original": "Iran fortifies nuclear sites, threatens ground incursions as it prepares for possible renewed U.S. strikes, WSJ reports L'Orient Today",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T16:37:00+03:30",
+      "published_fa": "1405/07/21 - 16:37",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "توافق ترامپ با گازوئیل شکاف جدیدی را با اروپا بر سر اوکراین باز می کند",
+      "title_original": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss",
+      "summary": "ترامپ خواستار جایگزینی زلنسکی است، در حالی که اروپا اجلاس سران را به تامین مالی اوکراین اختصاص می دهد.",
+      "summary_original": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T16:36:42+03:30",
+      "published_fa": "1405/07/21 - 16:36",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "زنان بومی ظلم اسلامگرایان را به چالش می کشند و خواستار همبستگی بین جوامع هستند - جروزالم پست",
+      "title_original": "Indigenous women challenge Islamist oppression, call for cross-community solidarity - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kX0lKVnMtaVJyOThJYU11N2pCRWc5V1dzQXpSc1dHaGtFSk5xSUlEdGx5VlEzbzU2YTFKd2VtWndYR3JnSTFtQ3o1cm5FaUtNMlNUa3F0NTN2czJvcUZhellKMUVXeTZ5ZFE?oc=5",
+      "summary": "زنان بومی ظلم اسلامگرایان را به چالش می کشند و خواستار همبستگی بین جوامع هستند جروزالم پست",
+      "summary_original": "Indigenous women challenge Islamist oppression, call for cross-community solidarity The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T16:35:36+03:30",
+      "published_fa": "1405/07/21 - 16:35",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "افزایش نگرانی‌ها درباره امنیت جام ملت‌های آسیا در عربستان سعودی پس از حملات موشکی حوثی‌ها",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610137681",
+      "summary": "روزنامه گاردین، سه‌شنبه ۲۱ مهر، در گزارشی به افزایش نگرانی‌ها درباره امنیت جام ملت‌های آسیا پس از حملات اخیر موشکی حوثی‌های تحت حمایت جمهوری اسلامی به ریاض پرداخته است.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-13T16:34:23+03:30",
+      "published_fa": "1405/07/21 - 16:34",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "پس از آنکه انگلیس سپاه پاسداران انقلاب اسلامی را مسئول حادثه پایگاه هوایی دانست، ایران شاهد عملیات «پرچم دروغین» است",
+      "title_original": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
+      "link": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
+      "summary": "ایران متهم به توطئه علیه یک پایگاه هوایی در بریتانیا است.",
+      "summary_original": "Iran has been accused of being behind a plot against an airbase in the UK.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [
+        "گزارش مردمی"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T16:33:56+03:30",
+      "published_fa": "1405/07/21 - 16:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ایران مراکز داده خلیج فارس را تهدید می کند: اینترنت منطقه چقدر در معرض خطر است؟",
+      "title_original": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
+      "link": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
+      "summary": "ایران هشدار داده است که کابل‌ها و مراکز داده در منطقه ممکن است مورد حمله قرار گیرند، زیرا متحدان حوثی اینترنت را متوقف می‌کنند.",
+      "summary_original": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [
+        "NetBlocks"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T16:33:33+03:30",
+      "published_fa": "1405/07/21 - 16:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "رتبه بندی قدرت فاکس نیوز: با سقوط مجلس نمایندگان، سنا در بازی باقی می ماند",
+      "title_original": "Fox News Power Rankings: As the House falls, the Senate stays in play",
+      "link": "https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play",
+      "summary": "دو تفاوت بزرگ بین دوره های میان دوره ای قبلی دوره ترامپ و رقابت های امسال وجود دارد. اولی محبوبیت رئیس جمهور است که اکنون کمتر از دوره اول ریاست جمهوری دونالد ترامپ در سال 2018 یا دوره ریاست جمهوری جو بایدن در سال 2022 است. دومین مورد، پیشتازی عمومی دموکرات ها است که نسبت به انتخابات \"موج آبی\" 2018 گسترده تر و ماندگارتر است و بسیار بزرگتر از نامزد دموکرات 20 بود. بهبودها و تلاش جمهوری خواهان برای تقسیم بندی مجدد که می تواند کمتر از انتظارات باشد، مجلس نمایندگان احتمالا امسال از دسترس جمهوری خواهان خارج است. جمهوری‌خواهان با بادهای وحشیانه میان‌ترم مواجه می‌شوند. شش نیرو می توانند به آنها کمک کنند تا از تاریخچه سرپیچی کنند. سپس یک شباهت وجود دارد: در هر سه انتخابات، سنا به درستی در حال بازی بوده است",
+      "summary_original": "There are two big differences between the previous Trump-era midterms and this year’s contest. The first is the president’s approval rating, which is lower now than it was during President Donald Trump’s first term in 2018 or President Joe Biden’s term in 2022. The second is Democrats’ generic ballot lead, which is wider and more enduring than it was in the 2018 \"blue wave\" election and much larger than the edge the GOP had in 2022. Combined with Democrats’ candidate quality improvements and a Republican-led redistricting effort that could fall short of expectations, the House is likely out of reach for the GOP this year. REPUBLICANS FACE BRUTAL MIDTERM HEADWINDS. SIX FORCES COULD HELP THEM DEFY HISTORY. Then there’s a similarity: in all three elections, the Senate has been in play right up until the finish line. In Trump’s first term, the Republicans ended up gaining two Senate seats despite a gloomy national environment. Four years ago, with inflation surging, the Democrats managed to add a Senate seat to their tally. 12 RACES SCRAMBLE SENATE BATTLEFIELD AS DEMOCRATS EYE COMEBACK The Democrats have plentiful paths to 51 seats on election night. Republicans keep plowing money into six toss-up states, plus Kansas, and those efforts haven’t much moved the needle. Yet the GOP’s paths to 50 are getting wider. That, plus a major update to the House forecast, in this week’s edition of the Power Rankings . The Democratic Party has enjoyed a lead in the House all year. Now, as anoth",
+      "source": "Fox News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T16:30:05+03:30",
+      "published_fa": "1405/07/21 - 16:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "رواندا میزبان گرندپری در دهه 2030 خواهد بود، زیرا فرمول یک به آفریقا بازمی گردد",
+      "title_original": "Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss",
+      "summary": "رواندا قراردادی 10 ساله برای میزبانی مسابقات فرمول 1 در پیست مسابقه ای که در حومه پایتخت، کیگالی ساخته شده، منعقد کرده است.",
+      "summary_original": "Rwanda has secured a 10-year deal to host F1 races at a purpose-built race track on the outskirts of the capital, Kigali.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T16:29:27+03:30",
+      "published_fa": "1405/07/21 - 16:29",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حملات مرگبار حوثی ها در تعز یمن همزمان با پیشروی نیروهای دولتی در مارب",
+      "title_original": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+      "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
+      "summary": "در حالی که حوثی ها مناطق مسکونی و بیمارستان ها را در تعز هدف قرار می دهند، نیروهای دولتی درگیر درگیری های شدید می شوند.",
+      "summary_original": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T16:27:33+03:30",
+      "published_fa": "1405/07/21 - 16:27",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "کشته شدن شماری از نیروهای فاطمیون در درگیری‌های تفتان",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610136000",
+      "summary": "دو رسانه حقوق بشری بلوچستان از کشته شدن شماری از نیروهای شبه‌نظامی فاطمیون در درگیری با افراد مسلح در منطقه چاه‌احمد شهرستان تفتان در استان سیستان و بلوچستان، در روز سه‌شنبه ۲۱ مهر، خبر دادند.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T16:23:51+03:30",
+      "published_fa": "1405/07/21 - 16:23",
       "translated": false,
       "verified_source": true
     },
@@ -34,16 +208,16 @@
       "verified_source": true
     },
     {
-      "title": "به‌روزرسانی‌های زنده جنگ ایران: ائتلاف به رهبری عربستان سعودی در بحبوحه تنش‌های مداوم با حوثی‌های مورد حمایت ایران، 3 پهپاد را در نزدیکی ریاض منهدم کرد - تایمز هند",
-      "title_original": "US Iran War Live Updates: Saudi-led coalition destroys 3 drones near Riyadh amid ongoing tensions with Iran-backed Houthis - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPemdsbG9lTmNuVy1IZE5qUDQ4WGhiNGZlUWJiWWF4bzNDLUJVNVhLZmlsVlZLUFFDTkdUOE9MZDdXWnZSTFlkdkZiYno4MmQ4R0N4eDdSMXkxalM3Zl9RazI0WlFOMXpvTzJBOEVtbk40eldaQm5uLWpjX0dkOVlTWS1kTm1wczROTWJMOXNTbE1TU0VJa21WUzZORG9QekZGZ3E2bC1ucU95bl8xQ2I5VG9yUUtrWlQwMlhOU0xTaHRDSFAydXBvSVdCVjlkLUs1cVR6WGQ0RUxaYThIMlZfcUdFa3o4Nl9kLUxHdEtyQjMzel84ZTcxeWdUWk1tRDFfSzl3QlVlUWl1c0x6R2tRZ1dMNjhRSjdBak8xTUlPRUVyc2hDNlZ3c2NpZEwzMl91R2fSAbcCQVVfeXFMTVVEQlI3LV9TSW5Zd1p1MWUzeTdBTXJIZDNNZ19kX2hwa19mWEdmUVFFYXpzOTBVOUtmMWlhOWFyXzYyLTB0emprQkZGdVFWTGtpdElwZXdyMGY3VUxjOEtjNTY5cFpKOThPX2diM2UxeDc2MkZheHRncktaZEVNNXhQQ0I1dERQQ2d4RUFSR3p6VVBocnpzcU9nc1RuaGxGMUV5dllaLXBvMjhBSEZrNnZ2UTROMmFpdE5fQzNFUFcwMmxmNGhQcTNGX3IwY3EtQ3pPYzMzdE9aQTZIbkpuOW50MkkzbUJ0Ujd1ODRYcFRuakVYXzVzT3RLV1g4YUpLSFJ1eWF6QTRZaEtsM1Q0OHUtNFJCMldIZmN5cTVWNEN4TDIzeF9YbDZWLWtBbzk3bWN3RzhLdTg?oc=5",
-      "summary": "به‌روزرسانی‌های زنده جنگ ایران: ائتلاف به رهبری عربستان سعودی در بحبوحه تنش‌های مداوم با حوثی‌های مورد حمایت ایران، 3 پهپاد را در نزدیکی ریاض منهدم کرد.",
-      "summary_original": "US Iran War Live Updates: Saudi-led coalition destroys 3 drones near Riyadh amid ongoing tensions with Iran-backed Houthis The Times of India",
-      "source": "Google News",
-      "category": "military",
+      "title": "گرتا تونبرگ می‌گوید دانش‌آموزان فرانسوی در میان اعتراضات سراسری «دزدیده می‌شوند».",
+      "title_original": "Greta Thunberg says French students are being “robbed” amid nationwide prot",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot?traffic_source=rss",
+      "summary": "گرتا تونبرگ، فعال آب و هوا، در حالی که اعتراضات همچنان در حال افزایش است، به تظاهرات دانش آموزان دبیرستانی در فرانسه پیوست.",
+      "summary_original": "Climate activist Greta Thunberg has joined demonstrating high school students in France as protests continue to grow.",
+      "source": "Al Jazeera",
+      "category": "social",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-13T16:18:03+03:30",
+      "published": "2026-10-13T16:18:06+03:30",
       "published_fa": "1405/07/21 - 16:18",
       "translated": true,
       "verified_source": true
@@ -53,7 +227,7 @@
       "title_original": "Omar raid outrage goes from bad to worse when internet notices her past 6-word claim: 'Couldn't agree more'",
       "link": "https://www.foxnews.com/politics/omar-raid-outrage-goes-bad-worse-internet-notices-past-6-word-claim-couldnt-agree-more",
       "summary": "واکنش‌ها بلافاصله پس از یورش مقامات فدرال به واشنگتن دی سی، خانه نماینده ایلهان عمر، دموکرات، آغاز شد و بسیاری در رسانه‌های اجتماعی به ادعای قبلی عمر اشاره کردند که «هیچ‌کس» فراتر از قانون نیست. فاکس نیوز دیجیتال برای اولین بار گزارش داد که خانه عمر توسط ماموران واحد تحقیقات وزارت امنیت داخلی ایالات متحده (DHS) در اوایل صبح دوشنبه مورد هجوم قرار گرفت، در جستجویی که ناشی از تحقیقات مربوط به کلاهبرداری جنایی در مورد مدارک مهاجرت این نماینده کنگره سومالیایی بود، که توسط پدر مرحومش در زمانی که وی پر شده بود. عمر ماه‌هاست که مورد انتقاد قرار گرفته و در طول مدت حضورش در کنگره با بحث‌های بی‌شماری روبرو بوده است، اخیراً، افشای مالی او مورد توجه قرار گرفته است و سوالاتی از سوی مقامات ارشد درباره این موضوع مطرح شده است.",
-      "summary_original": "Reactions immediately started pouring in after federal authorities raided the Washington, D.C., home of Rep. Ilhan Omar , D-Minn., with many on social media pointing to a previous claim from Omar that \"no one\" is above the law. Omar’s home was raided by agents with the U.S. Department of Homeland Security’s (DHS) investigation unit in the early Monday morning hours, Fox News Digital first reported , in a search that stems from a criminal fraud investigation into the Somali-born congresswoman's immigration paperwork, which was filled out by her late father when she was a child. Omar has been under fire for months and faced a myriad of controversies during her time in Congress, most recently, her financial disclosures have come into focus, and questions have been raised by top officials about her path to citizenship as well. Many on social media were quick to point to a previous comment from Omar where she declared that \" no one is above the law \" after Trump was indicted in a hush money case that conservatives argued was based on flimsy evidence and a political prosecution. OMAR'S GOP CHALLENGER COMES OUT FIRING WITH VOW TO CLEAN UP 'MESS' IN DEEP BLUE DISTRICT: 'PEOPLE ARE FED UP' \"Rather than issue our own statement, we'll defer to Rep. Omar,\" the Minnesota Republican Party posted on X . \"She said it best back in 2023, when the subject of a criminal investigation was someone else.\" \"We couldn't agree more, Congresswoman. We're sure you still feel the same way now that it's y",
+      "summary_original": "Reactions immediately started pouring in after federal authorities raided the Washington, D.C., home of Rep. Ilhan Omar , D-Minn., with many on social media pointing to a previous claim from Omar that \"no one\" is above the law. Omar’s home was raided by agents with the U.S. Department of Homeland Security’s (DHS) investigation unit in the early Monday morning hours, Fox News Digital first reported , in a search that stems from a criminal fraud investigation into the Somali-born congresswoman's immigration paperwork, which was filled out by her late father when she was a child. Omar has been under fire for months and faced a myriad of controversies during her time in Congress, most recently, her financial disclosures have come into focus, and questions have been raised by top officials about her path to citizenship as well. Many on social media were quick to point to a previous comment from Omar where she declared that \"no one is above the law\" after Trump was indicted in a hush money case that conservatives argued was based on flimsy evidence and a political prosecution. OMAR'S GOP CHALLENGER COMES OUT FIRING WITH VOW TO CLEAN UP 'MESS' IN DEEP BLUE DISTRICT: 'PEOPLE ARE FED UP' \"Rather than issue our own statement, we'll defer to Rep. Omar,\" the Minnesota Republican Party posted on X . \"She said it best back in 2023, when the subject of a criminal investigation was someone else.\" \"We couldn't agree more, Congresswoman. We're sure you still feel the same way now that it's you",
       "source": "Fox News",
       "category": "military",
       "tags": [
@@ -84,8 +258,8 @@
       "title": "در حالی که رئیس جمهور پس از حمله فدرال، ایلهان عمر را پاره می کند، جمعیت تظاهرات ترامپ شعار «اخراج» سر می دهند",
       "title_original": "Trump rally crowd chants 'deport' as president rips Ilhan Omar after federal raid",
       "link": "https://www.foxnews.com/politics/trump-rally-crowd-chants-deport-president-rips-ilhan-omar-federal-raid",
-      "summary": "و جمعیت اوهایو در حالی که رئیس جمهور دونالد ترامپ، ایلهان عمر، نماینده دموکرات دموکرات را در جریان سخنرانی در راهپیمایی انتخاباتی دوشنبه شب به شدت مورد انتقاد قرار داد، شعار «اخراج» سر دادند. ترامپ این تظاهرات را در یانگستون، اوهایو، تنها چند ساعت پس از آن که ماموران فدرال حکم بازرسی خانه عمر را در رابطه با تحقیقات جنایی اجرا کردند، برگزار کرد. ترامپ عمر و جامعه سومالیایی را در مینه سوتا هدف گرفت. یورش ماموران فدرال به خانه ایلهان عمر در دی سی در میان تحقیقات کلاهبرداری در مورد مهاجرت \"او یک فاجعه است. او از کشوری بدون قانون، بدون پلیس، بدون ارتش وارد شده است. تنها کاری که انجام می دهند این است که به یکدیگر شلیک می کنند، و او به کشور ما می آید و می گوید: \"من طبق قانون اساسی ترامپ حق دارم.\" او یک حق قانونی دارد. او در مورد قانون اساسی به ما می گوید و از یکی از بدترین کشورهای جهان می آید.",
-      "summary_original": "And Ohio crowd chanted \"deport\" as President Donald Trump blasted Rep. Ilhan Omar , D-Minn., during a campaign rally speech on Monday night. Trump held the rally in Youngstown, Ohio, just hours after federal agents executed a search warrant on Omar's home in relation to a criminal investigation. Trump took aim at Omar and the wider Somali community in Minnesota . FEDERAL AGENTS RAID ILHAN OMAR’S DC HOME AMID IMMIGRATION FRAUD INVESTIGATION \"She's a disaster. She comes in from a country without laws, without police, without military. All they do is shoot each other, and she comes into our country and she says, 'I have a constitutional right,'\" Trump joked. \"She's got a constitutional right. She's telling us about the Constitution and she's coming from one of the worst countries anywhere on the planet.\" He then targeted \"savage Somali gang members\" who opened fire at a Minnesota high school's homecoming event last week, going on to reference the FBI's arrest of another Somali immigrant who was allegedly planning an ISIS-style attack on the Mall of America . FORMER MN STATE TROOPER TEARS INTO DEMS AS SOMALI GANG VIOLENCE TERRORIZES MINNESOTA: ‘WHERE IS ILHAN OMAR?’ \"This is not what we want in this country. We don't want this,\" Trump said as the crowd started to chant \"deport.\" \"They come from a part of the world that only knows how to kill each other. All they do is kill each other in the streets, and they come into the United States of America and they tell us how to run our c",
+      "summary": "هنگامی که دونالد ترامپ، رئیس جمهور آمریکا، ایلهان عمر، نماینده دموکرات دموکرات، را در جریان یک سخنرانی کمپین انتخاباتی دوشنبه شب به باد انتقاد گرفت، جمعیت اوهایو شعار «اخراج» سر دادند. ترامپ این تظاهرات را در یانگستون، اوهایو، تنها چند ساعت پس از آن که ماموران فدرال حکم بازرسی خانه عمر را در رابطه با تحقیقات جنایی اجرا کردند، برگزار کرد. ترامپ عمر و جامعه سومالیایی را در مینه سوتا هدف گرفت. یورش ماموران فدرال به خانه ایلهان عمر در دی سی در میان تحقیقات کلاهبرداری در مورد مهاجرت \"او یک فاجعه است. او از کشوری بدون قانون، بدون پلیس، بدون ارتش وارد شده است. تنها کاری که انجام می دهند این است که به یکدیگر شلیک می کنند، و او به کشور ما می آید و می گوید: \"من طبق قانون اساسی ترامپ حق دارم.\" او یک حق قانونی دارد. او در مورد قانون اساسی به ما می گوید و از یکی از بدترین کشورهای جهان می آید.",
+      "summary_original": "An Ohio crowd chanted \"deport\" as President Donald Trump blasted Rep. Ilhan Omar , D-Minn., during a campaign rally speech on Monday night. Trump held the rally in Youngstown, Ohio, just hours after federal agents executed a search warrant on Omar's home in relation to a criminal investigation. Trump took aim at Omar and the wider Somali community in Minnesota . FEDERAL AGENTS RAID ILHAN OMAR’S DC HOME AMID IMMIGRATION FRAUD INVESTIGATION \"She's a disaster. She comes in from a country without laws, without police, without military. All they do is shoot each other, and she comes into our country and she says, 'I have a constitutional right,'\" Trump joked. \"She's got a constitutional right. She's telling us about the Constitution and she's coming from one of the worst countries anywhere on the planet.\" He then targeted \"savage Somali gang members\" who opened fire at a Minnesota high school's homecoming event last week, going on to reference the FBI's arrest of another Somali immigrant who was allegedly planning an ISIS-style attack on the Mall of America . FORMER MN STATE TROOPER TEARS INTO DEMS AS SOMALI GANG VIOLENCE TERRORIZES MINNESOTA: ‘WHERE IS ILHAN OMAR?’ \"This is not what we want in this country. We don't want this,\" Trump said as the crowd started to chant \"deport.\" \"They come from a part of the world that only knows how to kill each other. All they do is kill each other in the streets, and they come into the United States of America, and they tell us how to run our c",
       "source": "Fox News",
       "category": "military",
       "tags": [
@@ -94,6 +268,23 @@
       "urgent": true,
       "published": "2026-10-13T16:11:29+03:30",
       "published_fa": "1405/07/21 - 16:11",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "اتحادیه آفریقا مذاکرات کیگالی را در حالی برگزار می کند که درگیری ها در شرق کنگو ادامه دارد",
+      "title_original": "African Union holds Kigali talks as fighting continues in eastern DRC",
+      "link": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc?traffic_source=rss",
+      "summary": "سه رئیس جمهور سابق آفریقا در مورد تعهدات امنیتی، حفاظت از پناهندگان و همکاری منطقه ای گفتگو کردند.",
+      "summary_original": "Three former African presidents discussed security commitments, refugee protection and regional cooperation.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T16:10:26+03:30",
+      "published_fa": "1405/07/21 - 16:10",
       "translated": true,
       "verified_source": true
     },
@@ -300,11 +491,11 @@
       "verified_source": true
     },
     {
-      "title": "اپلیکیشن همسریابی ایرانی پس از اجازه دادن به کودکان توسط گوگل حذف شد - The Jerusalem Post",
-      "title_original": "Iranian matchmaking app removed by Google after allowing children - The Jerusalem Post",
+      "title": "گوگل برنامه خواستگاری ایرانی را پس از اجازه ثبت نام به دختران 12 ساله حذف کرد - The Jerusalem Post",
+      "title_original": "Iranian matchmaking app removed by Google after allowing girls as young as 12 to register - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OTWhwZzg2STJ3ZkdyR1VYMDVJcHpBUnBaXzhqR1dwTXhOcnUweHZmS1hrUDhWZnRFZ2lwZ0hzN2lCTlA3ajlrbWVjVC1ad3pyYndYZDhYazJTdkZGVlM3c2tubE1qS3phN3c?oc=5",
-      "summary": "اپلیکیشن همسریابی ایرانی توسط گوگل پس از اجازه دادن به کودکان The Jerusalem Post حذف شد",
-      "summary_original": "Iranian matchmaking app removed by Google after allowing children The Jerusalem Post",
+      "summary": "اپلیکیشن خواستگاری ایرانی توسط گوگل پس از اجازه به دختران ۱۲ ساله برای ثبت نام The Jerusalem Post حذف شد",
+      "summary_original": "Iranian matchmaking app removed by Google after allowing girls as young as 12 to register The Jerusalem Post",
       "source": "Google News",
       "category": "other",
       "tags": [],
@@ -315,11 +506,11 @@
       "verified_source": true
     },
     {
-      "title": "جنگ ایران زنده: حوثی ها پنج غیرنظامی را در استان تعز یمن - الجزیره کشتند",
-      "title_original": "Iran war live: Houthis kill five civilians in Yemen’s Taiz province - Al Jazeera",
+      "title": "جنگ ایران زنده: حوثی‌ها و نیروهای تحت رهبری عربستان در مورد حملات تهدیدات خود را رد و بدل می‌کنند - الجزیره",
+      "title_original": "Iran war live: Houthis and Saudi-led forces exchange threats over attacks - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEs4LUc1VGI2Tm03R05nd09BY1dtS0JLYmdlcFc3aUdjRG5SWFZaQzNodEVUc0RZRkRtMHBKSG1fLWh6djZ1Wk9FcXdvVm9MYk5KNks3RzM5LWE2T0haMVhIUDdObldxY1RWN3FMVkx5YlFqMm5lUUtCZFR2Q1lMLVlkcnhMV2x5cTBfMlpwaUxGRmNLQnVTa2tEOG94Q000Mjh5NGVGNkZSX3p2QjZteHBBN3RXc1BkSC1YVtIBwgFBVV95cUxPSk1uX1YxaDVmUW9qQzU2TWZPSE5CY0JmRnJxT2h0dVQtV2dZWGpuS2Q0UWE4NFhfM1pjWkFzWU5IclVuaGdNZXJqTEx5Y0ZfbFN3dHNvYUVmTzMzb1FheXZHNFN3LUdWTDJoM21nOXpOX3BNQ1ZreHlXUXhlMjdHNjBVcHNpUWVLT3hVbXN4UlBOSEMxWEUtcjJJTnFrYzg3bmd0ZXNoSkFNOTNacHBXamJBNEpEX2dyNlZVNW1hNnp4UQ?oc=5",
-      "summary": "زنده جنگ ایران: حوثی‌ها پنج غیرنظامی را در استان تعز یمن کشتند",
-      "summary_original": "Iran war live: Houthis kill five civilians in Yemen’s Taiz province Al Jazeera",
+      "summary": "جنگ ایران زنده: حوثی‌ها و نیروهای تحت رهبری عربستان در مورد حملات الجزیره به تبادل تهدید می‌پردازند",
+      "summary_original": "Iran war live: Houthis and Saudi-led forces exchange threats over attacks Al Jazeera",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -342,21 +533,6 @@
       "published": "2026-10-13T15:19:50+03:30",
       "published_fa": "1405/07/21 - 15:19",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "زنان بومی ظلم اسلامگرایان را به چالش می کشند و خواستار همبستگی بین جوامع هستند - جروزالم پست",
-      "title_original": "Indigenous women challenge Islamist oppression, call for cross-community solidarity - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kX0lKVnMtaVJyOThJYU11N2pCRWc5V1dzQXpSc1dHaGtFSk5xSUlEdGx5VlEzbzU2YTFKd2VtWndYR3JnSTFtQ3o1cm5FaUtNMlNUa3F0NTN2czJvcUZhellKMUVXeTZ5ZFE?oc=5",
-      "summary": "زنان بومی ظلم اسلامگرایان را به چالش می کشند و خواستار همبستگی بین جوامع هستند جروزالم پست",
-      "summary_original": "Indigenous women challenge Islamist oppression, call for cross-community solidarity The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T15:13:18+03:30",
-      "published_fa": "1405/07/21 - 15:13",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -449,6 +625,21 @@
       "published": "2026-10-13T14:43:51+03:30",
       "published_fa": "1405/07/21 - 14:43",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "گزارش: ایران با تهدید مقامات به حمله به کشورهای همسایه، دفاع خود را تقویت می کند - تایمز اسرائیل",
+      "title_original": "Report: Iran bolstering defenses as officials threaten to invade neighboring countries - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sUVVsRzk1YmJUaEJHNGVCRlVUWGE1T3lacU80aW1WYTRTYUJ3R1g3TnZEMXBNOHRXbXZZdWY4dmhRNVRZREI5ZXVaMm4yb3lvRnlyWTU5UTBIY3Fia3JxSEU4cG4xUdIBa0FVX3lxTE9uZk5LbGpDQTNEYWxaQ2VwX3hLc2ktWWU1SmRvUVlwbk4wUjJ4LUZ1MUZJSUsxNUFjWWhVSWFjNFRmVXpHa01rckRQMW1XTVdTWUJPTWVfQVZMZmJCVjg3M29lZVcwSlZacVBR?oc=5",
+      "summary": "گزارش: ایران با تهدید مقامات به حمله به کشورهای همسایه، نیروهای دفاعی خود را تقویت می کند تایمز اسرائیل",
+      "summary_original": "Report: Iran bolstering defenses as officials threaten to invade neighboring countries The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-13T14:39:34+03:30",
+      "published_fa": "1405/07/21 - 14:39",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -1161,51 +1352,6 @@
       "verified_source": true
     },
     {
-      "title": "پلیس رهبران جنبش \"سوسک\" هند را در تظاهرات دهلی نو بازداشت کرد",
-      "title_original": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
-      "link": "https://www.aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest?traffic_source=rss",
-      "summary": "داوطلبان حزب سوسک جانتا پس از ورود به محل اعتراض مردمی بازداشت شدند که مقامات ممنوعیت اعلام کرده بودند.",
-      "summary_original": "Cockroach Janta Party volunteers detained after entering a popular protest site authorities had declared off-limits.",
-      "source": "Al Jazeera",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T12:06:27+03:30",
-      "published_fa": "1405/07/21 - 12:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "رونالدو در پیروزی النصر پس از تاخیر امنیتی گل می زند و روسری عربستان را تکان می دهد",
-      "title_original": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
-      "summary": "بازی النصر در لیگ قهرمانان آسیا در ریاض به دلیل هشدار امنیتی در میان حملات حوثی ها یک ساعت به تعویق افتاد.",
-      "summary_original": "Al-Nassr&#039;s AFC Champions League game in Riyadh was delayed for one hour due to a security warning amid Houthi attacks.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T11:57:37+03:30",
-      "published_fa": "1405/07/21 - 11:57",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "نقشه برداری از ثروت انرژی آفریقا و 560 میلیون بدون برق باقی مانده است",
-      "title_original": "Mapping Africa’s energy wealth and 560 million who remain without power",
-      "link": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss",
-      "summary": "آفریقا از نظر انرژی غنی است، با این حال صدها میلیون آفریقایی هنوز بدون برق زندگی می کنند که بیشتر کل کل جهان است.",
-      "summary_original": "Africa is rich in energy, yet hundreds of millions Africans still live without electricity, most of the world&#039;s total.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T11:55:54+03:30",
-      "published_fa": "1405/07/21 - 11:55",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "حمله ماموران به تجمع اعتراضی مردم میمه در اصفهان",
       "title_original": "",
       "link": "https://www.iranintl.com/202610135335",
@@ -1220,38 +1366,6 @@
       "published": "2026-10-13T11:49:52+03:30",
       "published_fa": "1405/07/21 - 11:49",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "تشدید جنگ بین عربستان سعودی و حوثی ها برای ترامپ در ایران چه معنایی دارد - ایندیپندنت",
-      "title_original": "What the escalating war between Saudi Arabia and the Houthis means for Trump in Iran - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVB4ZUNVUG91ZUZGeVF2Mkk1X0RQYVQ5TURWMmw2T1l4M0dYb3RZQ3hrdjRCZDJlOFN2bTZtLUo0d1E3ZWZnbDgwcnhvejV4OWdBSGc4ZzJaQUVQbzBnNmpCNXk4X1pTS3JpRGs1UGotU1hKWVhHZnY0VFotTnY4aHZuUUVCZlFVSmUxd3BreXJIY2JHRTRVWnMtZG8tRlJ0S0JpZk9HVXZtWmRlUXRKVVQxLVNReWc?oc=5",
-      "summary": "تشدید جنگ بین عربستان سعودی و حوثی ها برای ترامپ در ایران چه معنایی دارد",
-      "summary_original": "What the escalating war between Saudi Arabia and the Houthis means for Trump in Iran The Independent",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-13T11:43:00+03:30",
-      "published_fa": "1405/07/21 - 11:43",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "امیر قطر بار دیگر بر ضرورت امنیت و ثبات در منطقه تاکید کرد",
-      "title_original": "Emir of Qatar reiterates the need for safety and stability in the region",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss",
-      "summary": "شیخ تمیم بن حمد آل ثانی در مجلس شورا سخنرانی می کند و بر نیاز به ثبات و امنیت منطقه تاکید می کند.",
-      "summary_original": "Sheikh Tamim bin Hamad Al Thani addresses the Shura Council and emphasises the need for regional stability and safety.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T11:40:35+03:30",
-      "published_fa": "1405/07/21 - 11:40",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1296,36 +1410,6 @@
       "urgent": false,
       "published": "2026-10-13T11:23:00+03:30",
       "published_fa": "1405/07/21 - 11:23",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "هفته نامه فلسطین: غزه سال «آتش بس» را با کشتار بیشتر اسرائیلی ها جشن می گیرد",
-      "title_original": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-      "link": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-      "summary": "یک سال پس از آتش بس غزه، حملات اسرائیل همچنان ادامه دارد، زیرا خشونت شهرک نشینان برداشت نفت کرانه باختری را مختل می کند.",
-      "summary_original": "A year after Gaza&#039;s ceasefire, Israeli attacks persist as settler violence disrupts West Bank&#039;s oil harvest.",
-      "source": "Al Jazeera",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T11:15:07+03:30",
-      "published_fa": "1405/07/21 - 11:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "نخست‌وزیر بلغارستان گفت: حمله هواپیمای بدون سرنشین کشتی را در سواحل دریای سیاه غرق کرد",
-      "title_original": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-      "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
-      "summary": "در این حمله دو کشتی از جمله کشتی اوکراینی چلسی 3 مورد اصابت قرار گرفت که آسیب دید.",
-      "summary_original": "Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-13T11:06:38+03:30",
-      "published_fa": "1405/07/21 - 11:06",
       "translated": true,
       "verified_source": true
     },
@@ -1390,6 +1474,21 @@
       "verified_source": true
     },
     {
+      "title": "گفته می شود مشاور مایک هاکبی گزارش های انتقادی و تغییر یافته در مورد اسرائیل را سرکوب کرده است: گزارش - KATV",
+      "title_original": "Mike Huckabee adviser allegedly suppressed, altered reports critical of Israel: report - KATV",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQQ1hEaWJDMEducFFVeHBiTmdrYkJOOFpQTElXQzY3N2tTeXV0YjhxSU1MV1JhX01HaTBfUEpIdmNGbmlrMkpTcG1scDdhRjB3QUhXYTgzU1FTWEdqdWxkSGtEcy1tbW1oajZ3N3hQWlc5SFJtSG5GcnY2bThObzBMQXZ5OGlIRWphUnRSUmM4VU1nZFVmYXNSV1N4S3JIUGVHZUpQVmwtTFNfRmg3LWxRRkwzSDVKbHM1a1VmMWNfdEVTNG9HRm92dWhxM21ZVXU2QUxqU1o4TXFrMDh6UUZDTk5FdGFCZjhheUhPR0NMTUlKZTlKdnptUE1wMXNBNjlIOFJOQ2pHYnRWRjBYb2NhcWhGYUFhU0hlMlRJUFBsc2ZtMUJxMVhSNm9WUVNDOXB1VEVzUEZWR01rREFsLU90WmxqQmJEZHQ2Y014aWFoR0x0U0Jab1A0aVZyZGp1RVg1UU51Sg?oc=5",
+      "summary": "گزارش KATV: گفته می شود مشاور مایک هاکبی گزارش های انتقادی و تغییر یافته از اسرائیل را سرکوب کرده است",
+      "summary_original": "Mike Huckabee adviser allegedly suppressed, altered reports critical of Israel: report KATV",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T10:49:35+03:30",
+      "published_fa": "1405/07/21 - 10:49",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "چگونه نیروهای نخبه ایران \"ذهن دانشجویان جوان را شکل می دهند\" - Inquirer.net",
       "title_original": "How Iran’s elite forces ‘mold the minds of the young cadets’ - Inquirer.net",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTAweXoxVm12bjlnMEJ1VU1UelV4Uk54WUJmaU9HV0NKMk1zbF96OVNEdnV4QnJDQzI0dTdzNzd0blhnX2dUVlJpU3B4MWZ4bW1JWXd6UUhUajRmdzluVlR5S1drV2xmbzVYRlpDaFBmbVpJZ1o3Q1NyWUg3Y2M5MlpXT1ZjaUVNZ2lMMGFPWThIcFVvT3Q0Vk93eUZIWkXSAaQBQVVfeXFMTnNIRm5OVVlpQklZVUI2UFVaR2hsUmVCOEhFY3JRNV9aSUY3MHZoMVlLOGtFUlBKdG16WWtocThCMDhVb3pYSkI2SDEyQjFIU29ZZUtfQmVRSTVXSDFfYzJwYU9BQWdzX0xhd19DWlcxQXRyUU55U285dTNtS1pnNEZMZUp2dFFMdUtSbHlPbXYzOEV0Rng0Y0JCbURLVGxIckZ2Qkc?oc=5",
@@ -1437,36 +1536,6 @@
       "verified_source": true
     },
     {
-      "title": "گفته می شود مشاور مایک هاکبی گزارش های انتقادی و تغییر یافته در مورد اسرائیل را سرکوب کرده است: گزارش - KATV",
-      "title_original": "Mike Huckabee adviser allegedly suppressed, altered reports critical of Israel: report - KATV",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPRUJ3eEE1Z2lkOGpLRlRJNm9XZXN6RFRNcUtlVm41OWxfX05lRTFqNHg2bGVOekZrTERFaHpyeVZfYnB0a3pwNVpEQnZKSW1IR2N3ZWx0Z3ZwbTFWeWhUekdoMm1KNFhKRTZsSXhzSDhlQU5xZWJfcHFhWDZuSktLV1BHamo2REt5WFp3Tmt2VlJsMUk4UE9zZ0VRRG9rcjhBRWMyQUlRYnZCQmdKSDlHNG4tdEJfVlhabVpjalVURDZWb19DU0h3b0gzSjkzR3FxUGFVeThMWXhOaHptVXpzbjZxRTNHRkl1ZUtCcnJzVjZNU1RKQS1sQlRKOVRoSmFuU2FMUnhuVEZSdUY0QmxaRldiR3BxaVQwaEFpRmZiUHQwbnF4SmhWXzQzRUEzMU52YzVoRTRJYmdMaF9NVkJvU2piSlI1c3M?oc=5",
-      "summary": "گزارش KATV: گفته می شود مشاور مایک هاکبی گزارش های انتقادی و تغییر یافته از اسرائیل را سرکوب کرده است",
-      "summary_original": "Mike Huckabee adviser allegedly suppressed, altered reports critical of Israel: report KATV",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T10:15:00+03:30",
-      "published_fa": "1405/07/21 - 10:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "امیر: قطر در برابر \"رویدادهای استثنایی\" مقاومت نشان داده است.",
-      "title_original": "Emir says Qatar has shown resilience in the face of ‘exceptional events’",
-      "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
-      "summary": "شیخ تمیم بن حمد آل ثانی می گوید که واکنش قطر قدرت نهادهای دولتی را برجسته کرده است.",
-      "summary_original": "Sheikh Tamim bin Hamad Al Thani says Qatar&#039;s response has highlighted the strength of state institutions.",
-      "source": "Al Jazeera",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T10:12:58+03:30",
-      "published_fa": "1405/07/21 - 10:12",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ایران به جهاد فلسطینی ها دامن می زند و از خلع سلاح تروریست ها جلوگیری می کند - JNS.org",
       "title_original": "Iran fueling Palestinian jihad, preventing terrorists’ disarmament - JNS.org",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3o2VElGOWRqTFdqVjBLY2FFVnoyNW82MlR4R2hDZ1pDWm5NbUd5cGZXZjYwRE1SX3BxdTdJMzhVUW5rMFZFNTJwVG1NUE9fX2JUdmltclBHSzh1UDlUOXNPVTJVbW1nUzFQWGx5Y3lCR1VmM01wVWZ5cXdtQzRkQmVmekJ3VGkzWUViSDlOYWFZNzl5VlUxaQ?oc=5",
@@ -1477,23 +1546,6 @@
       "tags": [],
       "urgent": false,
       "published": "2026-10-13T10:12:55+03:30",
-      "published_fa": "1405/07/21 - 10:12",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "فایرفلای مالزی پروازهای خود به سنگاپور را به دلیل غبار از اندونزی لغو کرد",
-      "title_original": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
-      "link": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
-      "summary": "این حرکت در حالی صورت می‌گیرد که مه آتش‌سوزی‌های اندونزی، سنگاپور و کوالالامپور را به آلوده‌ترین شهرهای جهان تبدیل کرده است.",
-      "summary_original": "Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.",
-      "source": "Al Jazeera",
-      "category": "military",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-10-13T10:12:02+03:30",
       "published_fa": "1405/07/21 - 10:12",
       "translated": true,
       "verified_source": true
@@ -1768,21 +1820,6 @@
       "urgent": false,
       "published": "2026-10-13T08:50:00+03:30",
       "published_fa": "1405/07/21 - 08:50",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "حوثی‌ها تهدید کردند در صورت کمک آمریکا به حملات عربستان به یمن، واکنشی «سریع و دردناک» خواهند داشت - جروزالم پست",
-      "title_original": "Houthis threaten 'swift, painful' response if US assists Saudi strikes in Yemen - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zSktQWHhvd1ZDbXRNeDRuSGZqVklxZ3A0SE5TdElEdnFkNnh3UXFRZEVNUHNBMWwzcU9lYm1ET0xjalJCOHNidDFhdkNxdmw2LWJrSlZOOTNsdF93?oc=5",
-      "summary": "حوثی‌ها تهدید کردند در صورت کمک آمریکا به حملات عربستان به یمن، واکنشی «سریع و دردناک» خواهند داشت. جروزالم پست",
-      "summary_original": "Houthis threaten 'swift, painful' response if US assists Saudi strikes in Yemen The Jerusalem Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T08:34:58+03:30",
-      "published_fa": "1405/07/21 - 08:34",
       "translated": true,
       "verified_source": true
     },
@@ -2134,6 +2171,21 @@
       "verified_source": true
     },
     {
+      "title": "تندروهای ایران از تهدید به حمله به زیرساخت های دیجیتال خلیج فارس حمایت می کنند - ایران اینترنشنال",
+      "title_original": "Iran hardliners back threats to strike Persian Gulf digital infrastructure - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wZzlhM0FpZGhOSUZpajNYNHM2NkJyNjdRVGpWTFk5N1Y4U3F2OWY3eWJfYncxOWFaSEtVck90LVAyQkw3QVRxYVE3M04yZkhFVFE?oc=5",
+      "summary": "تندروهای ایران از تهدید به حمله به زیرساخت های دیجیتالی خلیج فارس ایران اینترنشنال حمایت می کنند",
+      "summary_original": "Iran hardliners back threats to strike Persian Gulf digital infrastructure Iran International",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-13T02:29:46+03:30",
+      "published_fa": "1405/07/21 - 02:29",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "نتانیاهو ترامپ را از دست داد و اسرائیل آمریکا را از دست داد - Ynetnews",
       "title_original": "Netanyahu has lost Trump, and Israel has lost America - Ynetnews",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RGoxdjUxNnMyUnphNk1KdThmR1RKcmMtMFBTc21EUlQ5cjA4bmd0ZXAzWU5MUkFYandFVnI2Tzdkb1VxQjJBT2lOelBhai1LaXVLZE56cUFHTWo2b0tzVERKaTFUaGZGb3RfX1Jn?oc=5",
@@ -2383,6 +2435,21 @@
       "verified_source": true
     },
     {
+      "title": "اسرائیل نقطه عطف در رقابت‌های کلیدی سنا است، زیرا دموکرات‌ها در مورد اتحاد ایالات متحده زیر سوال می‌روند - بالتیمور سان",
+      "title_original": "Israel a flashpoint in key Senate races as Dems questioned over US alliance - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2xEdHdQZkJPSkhKZDM1M1Vtb3ZWNEhEbS0tdVZNanZaZEZ0VEViUGV1aXE1Zm1UNWpIMU1xQmVxQlZLYUNFNFBST0FQWlBfUDRuNXNGLTl1VTIwODZISTM5aV91eGpyM3B1SUVKcy1XWFFTTDZvU1pnMVJOTXdma2Z2ai1mWnRINzZFY2NyYWF1Z0NWX3lGZUtPeHMtV21MMHp3SUZOVG51MGdsZEg2SlFTNVJLLU0?oc=5",
+      "summary": "اسرائیل نقطه عطف در رقابت‌های کلیدی سنا است، زیرا دموکرات‌ها در مورد اتحاد ایالات متحده بالتیمور سان زیر سوال می‌روند",
+      "summary_original": "Israel a flashpoint in key Senate races as Dems questioned over US alliance Baltimore Sun",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T00:22:08+03:30",
+      "published_fa": "1405/07/21 - 00:22",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "کن مارتین، رئیس DNC، وقتی بر سوسیالیست‌های دموکراتیک فشار می‌آورد، از استراتژی «خیمه بزرگ» دفاع می‌کند",
       "title_original": "DNC Chair Ken Martin defends 'Big Tent' strategy when pressed on democratic socialists",
       "link": "https://www.foxnews.com/politics/dnc-chair-ken-martin-defends-big-tent-strategy-when-pressed-democratic-socialists",
@@ -2597,21 +2664,6 @@
       "urgent": false,
       "published": "2026-10-12T22:20:25+03:30",
       "published_fa": "1405/07/20 - 22:20",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "شبه‌نظامیان تحت حمایت ایران پیچ‌ها را بر روی ولیعهد عربستان سفت می‌کنند - WSJ",
-      "title_original": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVkwTkl0c2w2QlgwUEtidDJ1UjlxMUIxSGdVYTljZ0VrSTJNMDVsUVUwTk1Lc1E3YklfTDhkSWhkWG1MUEgwWTI0bFlNMUkxbkZFSlEwTlRnMENCY0xMZlNZWHd4TTMyNnFLdHYydFVRWTRGZjJhT2R6eFhCcHhleGp0cW56MjVPcGFpY3BOZEZCY1ZYOFR5QlJVVm1CMnRxeGxNX19pVnVFSmkzcVZNQ2Y2S2pueGpYOF9WSGJPQVJqZw?oc=5",
-      "summary": "ستیزه جویان تحت حمایت ایران پیچ ها را بر روی ولیعهد عربستان سفت می کنند WSJ به روز رسانی جنگ ایران: زخمی شدن پس از حمله جدید حوثی ها به فرودگاه عربستان سعودی الجزیره حملات مرگبار فرودگاه عربستان نشان دهنده تشدید تنش بزرگ در خاورمیانه است.",
-      "summary_original": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera Deadly Saudi airport strikes mark major Mideast escalation NBC News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T22:01:00+03:30",
-      "published_fa": "1405/07/20 - 22:01",
       "translated": true,
       "verified_source": true
     },
@@ -3161,18 +3213,18 @@
       "verified_source": true
     },
     {
-      "title": "استقبال اتحادیه جهانی بازیکنان از خدمات انجماد تخمک با تاکید بر حق انتخاب ورزشکاران",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610122431",
-      "summary": "به گزارش رویترز، اقدام اخیر باشگاه چلسی و فدراسیون فوتبال اسپانیا در ارائه خدمات رایگان انجماد تخمک به بازیکنان زن، با استقبال و هشدارهایی از سوی اتحادیه جهانی بازیکنان فوتبال (فیف‌پرو) مواجه شده است.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
+      "title": "ان‌بی‌سی نیوز: حملات مرگبار فرودگاه عربستان، تشدید بزرگی در خاورمیانه است",
+      "title_original": "Deadly Saudi airport strikes mark major Mideast escalation - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXBqcDZYX08ybGtwNlRFSVZFWnRIRnAzMTg0TEhYUHhlckNnaGdnQnlaVFk3Y1Z1dFhEQmZyMHZfRVhla2Iya2loTnl4alkyS3RZYm90U3dZUmpBb2htTExPQ094eTZFNTEwQWdQc3VNdy1vQ2otakFBS0M4S1lTN1ZVWHMxaFRQY09qUDFuLUJRM1lsNVljQTdvaU83bUdfX3VoQk5Tc1JJWXc0cmVDcA?oc=5",
+      "summary": "حملات مرگبار فرودگاه عربستان نشانگر تشدید تنش در خاورمیانه است",
+      "summary_original": "Deadly Saudi airport strikes mark major Mideast escalation NBC News",
+      "source": "Google News",
+      "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T16:48:57+03:30",
-      "published_fa": "1405/07/20 - 16:48",
-      "translated": false,
+      "published": "2026-10-12T17:06:57+03:30",
+      "published_fa": "1405/07/20 - 17:06",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -3202,6 +3254,21 @@
       "urgent": false,
       "published": "2026-10-12T16:46:51+03:30",
       "published_fa": "1405/07/20 - 16:46",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "نظم انرژی جهان دوباره آزمایش شد با گسترش دامنه جنگ ایران - نیویورک تایمز",
+      "title_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
+      "summary": "نظم انرژی جهان بار دیگر با گسترش دامنه جنگ ایران آزمایش شد نیویورک تایمز",
+      "summary_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further The New York Times",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T16:45:38+03:30",
+      "published_fa": "1405/07/20 - 16:45",
       "translated": true,
       "verified_source": true
     },
@@ -3248,36 +3315,6 @@
       "published": "2026-10-12T16:18:18+03:30",
       "published_fa": "1405/07/20 - 16:18",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "به روز رسانی جنگ ایران: عربستان موشک های حوثی ها را در جریان حملات مرگبار جاری سرنگون کرد - الجزیره",
-      "title_original": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGtkLXd1c0tZZlVxNER3Tmc4V1RodWo0UE5Xc3pWSjU3bkJRdDJFRVpmLXprUnlDTUYtQnk4U281TFNqQk5USWdkalJscDhGZzdJZ0tWaTV5MHZNQ2hFcE16VlNpdGN1SUtpb21felQ4cTdfcnM3MnJEbFdRWm5ubG5UbzNYVDdUSjFzZ1FrWS15U1lDNXlEZF9iX3l5MHczX2VVRS1pQVhRcEE1OS00Z1dXaDRVMldrcGQ5MTd30gHDAUFVX3lxTE84MkxvSFZFMjJnblFxWGZoLVAzRkxXUVZSLUQyWG1RR3BJMk8zTVJzQ2dHVVRrNHA3Z1BlRkg3bHU0aXBqZ1FaNW80ZXdmY3Z1UkN0SXpXcWI4eGZxOEl1dE5sNlNBcV9mTzJ1VXJ4TmJZVU5ON0llVTBRWXdRYzAwV2N0UHRkMVB5ZzVGREhZUVVOWEloaEIzTEUwUDlIanFla1pLczdxem5SUmJGTllEVERNWTJJNS1wR1pFSWRyNnNPWQ?oc=5",
-      "summary": "اخبار جنگ ایران: عربستان در جریان حملات مرگبار الجزیره، موشک های حوثی ها را سرنگون کرد",
-      "summary_original": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks Al Jazeera",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-12T16:17:59+03:30",
-      "published_fa": "1405/07/20 - 16:17",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "حملات حوثی‌ها به عربستان سعودی؛ افزایش نگرانی‌ها نسبت به امنیت رویدادهای ورزشی",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610129622",
-      "summary": "در حالی که حملات نیروهای حوثی یمن، تحت حمایت جمهوری اسلامی به عربستان سعودی به افزایش تنش‌ها در منطقه منجر شده است، مهدی علی‌نژاد، دبیر کمیته ملی المپیک جمهوری اسلامی، از نگرانی‌ها درباره اعزام کاروان ورزشی به عربستان سعودی خبر داد.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T16:03:20+03:30",
-      "published_fa": "1405/07/20 - 16:03",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -3424,21 +3461,6 @@
       "verified_source": true
     },
     {
-      "title": "جمهوری خواهان سنا پس از فراخوانی در رسانه های اجتماعی، لایحه انتخاباتی شش ساله خود را حل و فصل کردند",
-      "title_original": "Senate Republican settles six-year-old campaign bill after being called out on social media",
-      "link": "https://www.foxnews.com/politics/roger-marshall-unpaid-campaign-cookie-bill",
-      "summary": "سناتور راجر مارشال، ایالت کان، پس از آن که یک صاحب نانوایی در رسانه های اجتماعی او را به اتهام ناتوانی در پرداخت هزینه کلوچه ها و سایر خوراکی های سفارش داده شده برای یک مهمانی ناظر انتخاباتی در سال 2020 فریاد زد، صورت حساب تبلیغاتی شش ساله را پرداخت کرد. هالی توماس، موسس نانوایی، در یک پست فیس بوک در 8 اکتبر گفت که هرگز به مارشال رای نخواهد داد، زیرا کمپین او علیرغم تلاش های مکرر او برای جمع آوری پول، موفق به پرداخت صورت حساب 678.75 دلاری نشده است. توماس تصویری از فاکتور و عکسی را به اشتراک گذاشت که به نظر می رسید کوکی های سفارشی ساخته شده برای کمپین مارشال را نشان می دهد. \"آیا می دانید چرا من هرگز به راجر مارشال رای نخواهم داد؟ زیرا شش سال پیش، زمانی که من یک صاحب یک کسب و کار کوچک کاملاً جدید بودم، کمپین او برای مهمانی اولیه خود در انتخابات از نانوایی من شیرینی و شیرینی سفارش داد. و من هرگز پولی دریافت نکردم. نزدیک به یک سال، من",
-      "summary_original": "Sen. Roger Marshall , R-Kan., paid a six-year-old campaign bill after a bakery owner called him out on social media for allegedly failing to pay for cookies and other treats ordered for a 2020 election watch party. Holly Thomas, a bakery founder, said in an Oct. 8 Facebook post that she would never vote for Marshall because his campaign had failed to pay a $678.75 bill despite her repeated attempts to collect the money. Thomas shared an image of the invoice and a photo that appeared to show custom cookies made for Marshall's campaign. \"Do you know why I will never vote for Roger Marshall? Because six years ago, when I was a brand-new small business owner, his campaign ordered cookies and treats from my bakery for his primary election watch party. And I never got paid. For nearly a year, I made repeated attempts to collect payment, reaching out by phone and email. I never received a return phone call, and the invoice was never paid,\" Thomas wrote in the post. SLEEPER SENATE RACE EMERGES AS UNEXPECTED HEADACHE FOR REPUBLICANS AHEAD OF MIDTERMS \"Not only was I just starting out, but we were also in the middle of COVID, when small businesses everywhere were struggling just to keep their doors open. Every single dollar mattered. Those cookies and treats cost money to make, employees' time to prepare, and resources that my little business couldn't afford to give away,\" she explained. \"Six years later, I haven't forgotten. This isn't about political parties or policy disagreements. ",
-      "source": "Fox News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T13:42:07+03:30",
-      "published_fa": "1405/07/20 - 13:42",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ایالات متحده و اسرائیل باید منافذ تحریم‌های هوایی روسیه و ایران را ببندند - مجمع خاورمیانه",
       "title_original": "The U.S. and Israel Should Close Aviation Sanctions Loopholes on Russia and Iran - Middle East Forum",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlM1Mk12aDBrUURkazluQld1RWV0cHVxVWxTQ3V6RnRqMzFWeXI3NVBzUzRmSW5nVnlRUkEzcEVRa3Y1R3JCSG5oMWxhRUVrcF9mQ09rRDhEMGZsdmtTZlZMbi1aQm9XWDlhYUd3ZDJzcDhaaFlwdmlJalp0ZUZiMWJTOGRfMXBzMHo5SmxENUkyQkhTd0FMM09IU0cwbmZxT2ZkOWZuYUdyZFM2NDBOT2dNelY4ek0?oc=5",
@@ -3513,21 +3535,6 @@
       "urgent": true,
       "published": "2026-10-12T12:39:51+03:30",
       "published_fa": "1405/07/20 - 12:39",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "نظم انرژی جهان دوباره آزمایش شد با گسترش دامنه جنگ ایران - نیویورک تایمز",
-      "title_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
-      "summary": "نظم انرژی جهان بار دیگر با گسترش دامنه جنگ ایران آزمایش شد نیویورک تایمز",
-      "summary_original": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further The New York Times",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T12:33:18+03:30",
-      "published_fa": "1405/07/20 - 12:33",
       "translated": true,
       "verified_source": true
     },
@@ -3765,6 +3772,21 @@
       "verified_source": true
     },
     {
+      "title": "شبه‌نظامیان تحت حمایت ایران پیچ‌ها را بر روی ولیعهد عربستان سفت می‌کنند - WSJ",
+      "title_original": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVkwTkl0c2w2QlgwUEtidDJ1UjlxMUIxSGdVYTljZ0VrSTJNMDVsUVUwTk1Lc1E3YklfTDhkSWhkWG1MUEgwWTI0bFlNMUkxbkZFSlEwTlRnMENCY0xMZlNZWHd4TTMyNnFLdHYydFVRWTRGZjJhT2R6eFhCcHhleGp0cW56MjVPcGFpY3BOZEZCY1ZYOFR5QlJVVm1CMnRxeGxNX19pVnVFSmkzcVZNQ2Y2S2pueGpYOF9WSGJPQVJqZw?oc=5",
+      "summary": "ستیزه جویان تحت حمایت ایران در حال سخت تر کردن پیچ ها بر روی ولیعهد عربستان سعودی WSJ هستند",
+      "summary_original": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince WSJ",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T04:30:28+03:30",
+      "published_fa": "1405/07/20 - 04:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "هشدار موسسه مطالعات مالی بریتانیا درباره تاثیر جنگ ایران بر بودجه دولت",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/c68xz49y91kjo?at_medium=RSS&at_campaign=rss",
@@ -3821,8 +3843,8 @@
       "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-12T02:56:19+03:30",
-      "published_fa": "1405/07/20 - 02:56",
+      "published": "2026-10-12T02:59:30+03:30",
+      "published_fa": "1405/07/20 - 02:59",
       "translated": true,
       "verified_source": true
     },
@@ -3839,21 +3861,6 @@
       "published": "2026-10-12T02:36:59+03:30",
       "published_fa": "1405/07/20 - 02:36",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "ایران آخرین پاسخ ایالات متحده به پیشنهاد را ناکافی و سایر تحولات خاورمیانه می خواند - KTALnews.com",
-      "title_original": "Iran calls latest US response to proposal insufficient, and other Mideast developments - KTALnews.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVZFWHhYa05pTS1JbUVETE9yZ3J4NV9CVTNpZ1hnblVmMU1kNk9ZaU5PYnQ4U2VHWGFDMkZtR0tsOGtYRHJLNEZfWlZyNFRnX3RaLW5MUGowQ2JQRkE3aTQ0YzN0UVI1M2w1TXI1SURpVGR2bEJEZTdiU2ZuQVZRNXpBZ2dqR3ltX0tWbUNiSktZUVEtWjJTUVFqSURxeVItTW1Zb3FaZ21PWi1jWmM3ekpmS01PbXFyak9TcWpfVFd2eTRMT1ozVlJ4UEw4RjNzcWRKddIB2gFBVV95cUxNdE1jYVpoeldVeUxKVThyRmxsa3FMeUEyMnZIUEJUQUp2VmE1NXJnU2tlMmZQOUhFd2czWlhTNUFUMUFYMVhaT08tclNGT0RxTG5objBxMWtfQk5UeVZQNGlIVlJrSFktMVNYc3FTWlktYUdpRFpsWGJoS2VIUXlxZVM3Y2IzUllRX1c0UHdRcHBLMV9tUnZQS2c3M1BNV3YzRnAxcWhWcjBoTjBsZUlOaXVHWmZDQWNVNkpZeFRteGUtMmFsRTFqVUtVMldXWW8wMm1QNV9VWWdZZw?oc=5",
-      "summary": "ایران آخرین پاسخ ایالات متحده به پیشنهاد را ناکافی و سایر تحولات خاورمیانه را KTALnews.com می خواند",
-      "summary_original": "Iran calls latest US response to proposal insufficient, and other Mideast developments KTALnews.com",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T01:53:20+03:30",
-      "published_fa": "1405/07/20 - 01:53",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -4014,23 +4021,6 @@
       "verified_source": true
     },
     {
-      "title": "میدل ایست آی، رئیس امنیت ایران واکنش آمریکا به شرایط توافق را «ناکافی» خواند",
-      "title_original": "Iran’s security chief calls US response to deal conditions ‘inadequate’ - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOXB4VG1RSWlLT2M1TjlNejVBb3hPbXBLa0syT1ZOQVUySWE4VzREcC16SC1kLXFXWjdZejh2QWdFdmM1dFgzbVgyT2pRYlNWOUhteDcyNXNOSjFXM2dLV1RoZWZnekwtR3ZIbTd3WmhJUml5anNILWZPaDNDVUxZbnJMT1FfR2xaNGRja1Q5b0VEc3k4OWwwU011NmVLNENvazFmZXkzS296N1JaN2VYMHhzbVNrWnBSQTVVcHJXWQ?oc=5",
-      "summary": "رئیس امنیت ایران واکنش آمریکا به شرایط توافق را «ناکافی» می‌دانست",
-      "summary_original": "Iran’s security chief calls US response to deal conditions ‘inadequate’ Middle East Eye",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T20:44:00+03:30",
-      "published_fa": "1405/07/19 - 20:44",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "رویترز: ایران می گوید پاسخ آمریکا به پیشنهادش برای بازگشایی هرمز \"ناکافی\" بوده است",
       "title_original": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDM4RVFjdmpFdUszUHFFbm5tWGM1R21NMEI2aFNqN2NOUGZPZzVPQ3d6QnUwY3VkWm96Q0tXQVFfTFF6c21hYzgzQWwyQVhJam0zZW45cGNuc282RkYzVEIyOEJlTkljM0l5MkdTRHRzRE1rdExZV2o4aFBiTURQMXd0UlFsTVlLdVlwVDZJcGpBNWZkb0RhalloX21XclFXTWJnN3pTSzZPNy1tS1o0SDNjLVlmZ2ZkVldj?oc=5",
@@ -4188,6 +4178,21 @@
       "verified_source": true
     },
     {
+      "title": "ایران آخرین پاسخ ایالات متحده به پیشنهاد را ناکافی و سایر تحولات خاورمیانه - KSAT می خواند",
+      "title_original": "Iran calls latest US response to proposal insufficient, and other Mideast developments - KSAT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbkxUTDVQaDRKaG9OV21Hc19FYmJRb3JlQnVFQnpVdVRGNHVudHl6Q3pRXzhxWmw3clJFNk0tV3ItbUkxQVdOREtLcXk3Q2VyeF84SXlvbTJIa2p5REROenVjZlhBS1lCVFBJWlhTRk8yaU5XVGFjSmZWbzVJcEI1NHlYRVdrNXR4RkxaamZfQWhXN1Z0NmNRNWxZS0Z4aFdOM3pfVVQxdHRzMXRISzY1eDhiQnhqUVVrWjF2RENLY1JXaGhyNWZIQTJKUEs?oc=5",
+      "summary": "ایران آخرین پاسخ ایالات متحده به پیشنهاد را ناکافی و سایر تحولات خاورمیانه را KSAT می خواند",
+      "summary_original": "Iran calls latest US response to proposal insufficient, and other Mideast developments KSAT",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T18:00:19+03:30",
+      "published_fa": "1405/07/19 - 18:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ایران می گوید خسارات زیست محیطی ناشی از حملات آمریکا و اسرائیل قربانی خاموش جنگ است - میدل ایست آی",
       "title_original": "Iran says environmental damage from US-Israeli attacks 'silent victim of war' - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYm5pM2VVQldYVUtWRWZiNHRsVEJiZThNMzU5SmFiTlJVbEJwLUNFOW9jUVFfOFVGTy1JdWVuM1FCQ2c5dTNHeWZVWG9fbXVuZkJQTUx2NENOMHVJbUhldlczbXlKaVQyWXBLSEYwMnd6MTE1RFQ3aEl6VVlxcnY0NFlCaXI0TnRtQXdxdVNvQ3VlWXdQT0NtWmx4MDhVR2JuT1NyZjlUenhtR2x0SUZlNmhpNk90Y2JxZFg5Nk1Rc042QQ?oc=5",
@@ -4229,23 +4234,6 @@
       "urgent": false,
       "published": "2026-10-11T15:52:06+03:30",
       "published_fa": "1405/07/19 - 15:52",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "تجزیه و تحلیل • 54 کشور، 110 تحریم: اسرائیل در خواب راهپیمایی در تحریم جهانی - هاآرتص",
-      "title_original": "Analysis • 54 countries, 110 sanctions: Israel is sleepwalking into a global boycott - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPelVOaThpUE9FellsR3ZiQjB3QllXR3FOS0dydnpRWHRrcE1sWmN0UkRyS1ZCVTdNQjJTR2ZabXFKS09hRHRZSnlrV1l2LUxfLUtucU1JRXE3YnNZVE96S2RKRFhXVXVPbW1xcVNIdm1JLVhvNXU0Y0pOVWNlQnp3T3Y3Ri1IS1VkYUFjdUtpZ0RubWRTLXk3YU5TcWdXVUdBQy14OWFjUnlIcTZRcFItenoxYy1HMGJOdEJOLTNPcFpiWk85X183VmZ2dVY4R1liVVVrbEFCX19vM0dYZ2duTzVhdnRRTUlCYXV3bldONEFyUjZXQUhBNUlzYXFtU2hMbzFJRDBQX2I3ZjZUMHF3N0V2a1BOY1RxNHdGNGkwcjU?oc=5",
-      "summary": "تجزیه و تحلیل • 54 کشور، 110 تحریم: اسراییل در خواب به تحریم جهانی هاآرتص است.",
-      "summary_original": "Analysis • 54 countries, 110 sanctions: Israel is sleepwalking into a global boycott Haaretz",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "تحلیلگران"
-      ],
-      "urgent": false,
-      "published": "2026-10-11T15:33:00+03:30",
-      "published_fa": "1405/07/19 - 15:33",
       "translated": true,
       "verified_source": true
     },
@@ -4310,6 +4298,21 @@
       "urgent": false,
       "published": "2026-10-11T14:34:23+03:30",
       "published_fa": "1405/07/19 - 14:34",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "به روز رسانی جنگ ایران: زخمی ها پس از حمله جدید حوثی ها به فرودگاه عربستان سعودی - الجزیره",
+      "title_original": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5",
+      "summary": "به روز رسانی جنگ ایران: زخمی ها پس از حمله جدید حوثی ها به فرودگاه الجزیره عربستان سعودی",
+      "summary_original": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-11T14:30:05+03:30",
+      "published_fa": "1405/07/19 - 14:30",
       "translated": true,
       "verified_source": true
     },
@@ -4407,6 +4410,21 @@
       "published": "2026-10-11T12:40:03+03:30",
       "published_fa": "1405/07/19 - 12:40",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "آنچه که جنگ ایران با تامین انرژی جهان انجام داده است، در نمودارها - الجزیره",
+      "title_original": "What the Iran war has done to the world’s energy supply, in charts - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
+      "summary": "آنچه که جنگ ایران با تامین انرژی جهان انجام داده است، در نمودار الجزیره",
+      "summary_original": "What the Iran war has done to the world’s energy supply, in charts Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-11T12:03:35+03:30",
+      "published_fa": "1405/07/19 - 12:03",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -5150,6 +5168,23 @@
       "verified_source": true
     },
     {
+      "title": "مدیریت نتانیاهو در 7 اکتبر به عنوان یک موضوع کلیدی در انتخابات اسرائیل ظاهر می شود - PBS",
+      "title_original": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election - PBS",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDd0N1p4ckRpSHN0bFlmVFN3WWt4aUczWDZiS004dlFzSnNTeFEzcGdwUGhXOEdmakh4SXU3Z2w0WkpBSjJPRWV3TW5QNlBwdWd5Q081NjlYd1c1cEJPR0RpQUh3dUVrSVQ0VkNGTDE2UWZsN0JabDRkWW9BMUJCSXZVeXdnN0pBMnZuZUZyaURjcm8xU3NJWmlENDhzMFhTdDhUR0hn?oc=5",
+      "summary": "مدیریت نتانیاهو در 7 اکتبر به عنوان موضوع کلیدی در PBS انتخابات اسرائیل ظاهر می شود",
+      "summary_original": "Netanyahu's handling of Oct. 7 emerges as key issue in Israeli election PBS",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T02:05:31+03:30",
+      "published_fa": "1405/07/17 - 02:05",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "معترض ایرانی ساعاتی پس از ازدواج با نامزد زندانی خود از طریق خط تلفن در زندان به دار آویخته شد",
       "title_original": "Iranian protester hanged hours after marrying his imprisoned fiancée over jail phone line",
       "link": "https://www.foxnews.com/world/iranian-protester-hanged-hours-after-marrying-imprisoned-fiancee-jail-phone-line",
@@ -5884,21 +5919,6 @@
       "verified_source": true
     },
     {
-      "title": "جبهه داخلی: اسرائیل، ایران و رهبران ایالات متحده چگونه از جنگ ضربه خورده اند - الجزیره",
-      "title_original": "The home front: How Israel, Iran, and US leaders have been hit by the war - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5",
-      "summary": "جبهه داخلی: اسرائیل، ایران و رهبران ایالات متحده چگونه از جنگ الجزیره ضربه خورده اند",
-      "summary_original": "The home front: How Israel, Iran, and US leaders have been hit by the war Al Jazeera",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-30T10:30:00+03:30",
-      "published_fa": "1405/06/08 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "جنگ ایران در شش ماه: یک منطقه – و رابطه آن با ایالات متحده – متحول شد – شورای روابط خارجی",
       "title_original": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
@@ -6356,25 +6376,6 @@
       "verified_source": true
     },
     {
-      "title": "نتانیاهو در کاخ سفید برای اولین گفتگوی ترامپ در طول جنگ ایران - اخبار دادگاه",
-      "title_original": "Netanyahu at White House for first Trump talks during Iran war - Courthouse News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEdqSGQ2cktwVEF6RjNMc3VRbm9McmJJSkVWc3VCMFZSYldlWXZ2UGZqeVlncTVRc3Atd1Bxd0ZyNTlHV21TSVVlTGV6YWNfZWRKVkNpbmJxT3hPRDhDQnBzWEpXd3U5WnYzQ3NOWldSNTJSdGhlOE9xUjBIbkxaVzVTZTJBN2szNHpxVnczX0NRQWhrZjRzWmln?oc=5",
-      "summary": "نتانیاهو در کاخ سفید برای اولین گفتگوی ترامپ در جریان جنگ ایران اخبار دادگاه دادگاه",
-      "summary_original": "Netanyahu at White House for first Trump talks during Iran war Courthouse News",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T19:27:41+03:30",
-      "published_fa": "1405/05/06 - 19:27",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ترامپ پشت درهای بسته با نتانیاهو و زلنسکی درگیر شد - نیویورک تایمز",
       "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
@@ -6710,21 +6711,6 @@
       "urgent": false,
       "published": "2026-07-01T10:30:00+03:30",
       "published_fa": "1405/04/10 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "بروکینگز: چگونه جنگ ایران ممکن است جهان را تغییر دهد",
-      "title_original": "Blowback: How the Iran war may change the world - Brookings",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGZjcUM1VmF0RnlsMUpKZlhuZXEtUlpQMHh1Z1B2OWczUkxuYXdXN2FEMS01TzY2WVZOTkpobXJpUm03VEtrN080cTI1Qmd3OHlZa0pMNlZPb3BmLXExNU1adWwyaV8wTTZkalVtSDFZQWo1VVgwVDExSWREMVF3Nm1DeGtMQnQtZVhaOA?oc=5",
-      "summary": "بازگشت ضربه: چگونه جنگ ایران ممکن است بروکینگز جهان را تغییر دهد",
-      "summary_original": "Blowback: How the Iran war may change the world Brookings",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-06-08T19:48:40+03:30",
-      "published_fa": "1405/03/18 - 19:48",
       "translated": true,
       "verified_source": true
     },
