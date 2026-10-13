@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T03:02:10.043472+00:00",
-  "generated_at_fa": "1405/07/21 - 06:32",
+  "generated_at": "2026-10-13T03:22:55.416891+00:00",
+  "generated_at_fa": "1405/07/21 - 06:52",
   "count": 423,
   "items": [
     {
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-13T06:29:02.954105+03:30",
-      "published_fa": "1405/07/21 - 06:29",
+      "published": "2026-10-13T06:50:01.214376+03:30",
+      "published_fa": "1405/07/21 - 06:50",
       "translated": false,
       "verified_source": true
     },
@@ -30,9 +30,87 @@
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-13T06:29:02.952297+03:30",
-      "published_fa": "1405/07/21 - 06:29",
+      "published": "2026-10-13T06:50:01.212503+03:30",
+      "published_fa": "1405/07/21 - 06:50",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "حملات تجاری روسیه و اوکراین در بحبوحه تردید در مورد \"آتش بس انرژی\"",
+      "title_original": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+      "summary": "رئیس جمهور اوکراین می گوید حملات روسیه به زیرساخت های انرژی اوکراین با وجود «آتش بس انرژی» ادامه دارد.",
+      "summary_original": "Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T06:41:19+03:30",
+      "published_fa": "1405/07/21 - 06:41",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "جنگ ایران خاورمیانه را به سمت رکود سوق می دهد زیرا صندوق بین المللی پول درباره رکود اقتصادی هشدار می دهد - مالایی میل",
+      "title_original": "Iran war pushes Middle East towards recession as IMF warns of economic slump - Malay Mail",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSFVVdDJKYjJUOFk1cE9fRDd3V3hzdUg3VnJoblpkZ2d5VGRETUZDeGcyRzhvS0RDdHNUTlZsM1FQc3ZWaEx2ZHF6Qkd3THNna3p6MVRLYy1kek1nTWNCbUxvc0xBT0JXUnNVY20yVDdYVE5samE1elpZVnZSOENhYTg0QUxOa0ZYSmVaOUxUNUZTb0lNSW8taFVwOGZocGdscDlrYlRwQWhrSXpBMU5OU1pvS3EyblRuZmNpN3B5Ym9rbmpmMXAwVjloRdIB0AFBVV95cUxOZDgyVjZtQkdDWm5GNkY2MjFUcmRVR2VrTktna0szM3ptQUxKWm1VRkxVNGtUM1hjWmxzdGh0LWR0empTdWZCZHMydGpQVW5FRFAydkdudXBvdDU5VUdZZkUxeW9oTlo0R1JpakI5dWlvWlhfVkdHLUh4RkwybmFiRFQ1S1ZnYmtTd3JwZzhMd0ltZmpDMy1FNG5ObHUxekl6LWxMYmRuekZnZXY1ZldJU3BzdDlLRFVTd2RjSkc2SG1CUDM1d284Z2VaQXVtNzBI?oc=5",
+      "summary": "جنگ ایران خاورمیانه را به سمت رکود سوق می دهد، زیرا صندوق بین المللی پول درباره رکود اقتصادی هشدار می دهد",
+      "summary_original": "Iran war pushes Middle East towards recession as IMF warns of economic slump Malay Mail",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T06:33:42+03:30",
+      "published_fa": "1405/07/21 - 06:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حمله سایبری به سوپرمارکت های فرانسه باعث آتش سوزی و میلیون ها خسارت می شود",
+      "title_original": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "summary": "یک حمله سایبری که سیستم‌های تبرید سوپرمارکت‌ها را هدف قرار داد، قفسه‌ها را در سراسر فرانسه خالی گذاشت.",
+      "summary_original": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-13T06:31:53+03:30",
+      "published_fa": "1405/07/21 - 06:31",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ایران سایت های هسته ای را تقویت می کند و مردم خود را برای بازگشت به جنگ جمع می کند - WSJ",
+      "title_original": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5",
+      "summary": "ایران سایت‌های هسته‌ای را تقویت می‌کند و مردم خود را برای بازگشت به جنگ با WSJ جمع می‌کند.",
+      "summary_original": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting WSJ",
+      "source": "Google News",
+      "category": "social",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T06:30:00+03:30",
+      "published_fa": "1405/07/21 - 06:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "تجزیه و تحلیل • تله ترامپ: چگونه یک طناب نجات سعودی می تواند آتش جنگ تازه ای با ایران ایجاد کند - هاآرتص",
+      "title_original": "Analysis • Trump's trap: How a Saudi lifeline could ignite fresh war with Iran - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRWloRTlVT2ZwYk83ZWdjbmNldDhWVEdjMDU4MV9YV2U5ekFwS3hCdkJPODJ4THZxdG1xbTljNy0yOTRMb3haNlNVRkt2R243U2dvS3NHV3hubnlVc0xkSFVkZDFNQkZRMXoxbXhVeDF1WDRyNGgxeko5UG1TMXFnSDJFaHEwQm5PZThlM0JMT2VWYTBaNktPZkJ2VC1kYTBhRlZaS0dRTGpmRUlzcWZrb2tlRjVlcFNXcFFxMEI0OWNBS19tYVppcUlFb3hNVkJPMGMtT0dvXy1nUzU3QThsM2VmYkpPZmdwdHh1MUx0YjdoR1hjLVJUWWpPQkZZZ3k0eC0yTA?oc=5",
+      "summary": "تجزیه و تحلیل • تله ترامپ: چگونه طناب نجات سعودی می تواند آتش جنگ تازه ای با ایران هاآرتص ایجاد کند",
+      "summary_original": "Analysis • Trump's trap: How a Saudi lifeline could ignite fresh war with Iran Haaretz",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "تحلیلگران"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T06:30:00+03:30",
+      "published_fa": "1405/07/21 - 06:30",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -51,24 +129,9 @@
       "verified_source": true
     },
     {
-      "title": "به روز رسانی زنده: جدیدترین از اسرائیل، ایران و خاورمیانه - جروزالم پست",
-      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdlB1WXhFSnRRWkh0VHpkbURzTDFjU1d6bG84UnhRTE9YTE8wcUtwQU4wakxIN3I5aXdUakxvOHBnam9SUkNIb2htZTBrYU84c3JxNDgxVmRmRzZma3M4aWpaSlVxOFFzRTlWZnJERGNkOHNDTm5WejRXSWE4ZXc?oc=5",
-      "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
-      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T05:30:05+03:30",
-      "published_fa": "1405/07/21 - 05:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "میدل ایست آی: ترامپ می گوید انتخابات میان دوره ای آمریکا بر رویکرد جنگ علیه ایران تاثیری نخواهد داشت",
       "title_original": "Trump says US midterm elections will not impact approach to war on Iran - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT0ZoZHNBTGlEVW0wWVMzaUxtYXdUVldLUG4zSFVwOXFrTkI4TnBjUDA5dnpaQ0thUUkwWERpaHBITlFORnl1SlVZWU5MQ01rRkswRkQ5ZjJ5NUZOWjhxNVBRY2dvbHdMUXRPal92Vjc1MFBORHpOMFlRdXNIRXY3WHpKdlo5RzJrbVZObjJ4eTY0cG8tUWNtTHJaYTZnOURlSklxdDMwdlNxZHlDOUJqLXdDV2txaHV5azN4S3lrdlVrRlg2SUdzaUJuZGJYRHJ2VHJqN2IwUWZjOWllNmxlSFNfeWNiVmI3dDVBekladEVVaTdINkt3d1FNZzBGQU0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTZqSG5MOFN5TDBkUmtjWkJyQXdGbVBWSTNmYnFLcmY2SmVyckFCU2dHUG5URURKMkZSVFh0ejQ2eXVWT0RUUUxwSjNBSmw1TjF3TmE1RlhVTGpEaXBYS0R5YzFDY0dDVTRDQ3QxdlJpTjdTVnFZTW1uTGpBQWs0Z3NSdjNkNC1YOUdkVnVFcHFlYUxFNzRSaW9Qam95bmU2XzhKMjlFelJSbVFRUy1pZzJWU3p4YzZzY1QtV3owTQ?oc=5",
       "summary": "ترامپ می‌گوید انتخابات میان‌دوره‌ای آمریکا روی رویکرد جنگ بر روی خاورمیانه چشم ایران تأثیری نخواهد داشت",
       "summary_original": "Trump says US midterm elections will not impact approach to war on Iran Middle East Eye",
       "source": "Google News",
@@ -98,28 +161,13 @@
       "verified_source": true
     },
     {
-      "title": "دست کم 12 کشته و صدها زخمی در فرودگاه عربستان در حملات حوثی - WSJ",
-      "title_original": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
-      "summary": "دست کم 12 کشته و صدها زخمی در فرودگاه عربستان در حملات حوثی ها WSJ",
-      "summary_original": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes WSJ",
+      "title": "قیمت نفت خام برنت به دلیل حملات عربستان سعودی و ترس از جنگ روسیه و اوکراین از عرضه سوخت به بالای 106 دلار رسید - سود NDTV",
+      "title_original": "Brent Crude Oil Holds Above $106 As Saudi Attacks, Russia-Ukraine War Fuel Supply Fears - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVdYaV8tdFhZVlRVSzBtRzhfM1NXbTVHOVR0aHU3SVFFWUdGUFp4WW1zMTFmTDNMTUFqMm9wOVR6ZHNqaHl3bE1kaGhFTE1PSHJTS1lzVGh6QmdzaXNiME9zWkNtTV9sOUx5cjB6YU5EcFQzV1B3dTNYNXBxYldVVlNuUGdsY05lN3ZiZ21zcTgzbzlBcFNsTHBRU2xZcE5WcXZNQ1I2a2JJcGp6dmZzMlZ6dWdvaUEtdzh2emhxQW1OX05RdWxLSXRPMkRxZDFhcUM3UFI1TEU3b3BITTBDdTlMNVhPMTh3dFlnUmNOT0w1dnBpeHJ2d2pJUWgycTJaT0Fv0gGLAkFVX3lxTE5wVzN4VFRtQ1l2eENFVHQ2N21ZX0JoVVRHeUpyV2pTOWQ3S1FyVml2cEZUcWw5T0pVM0xPRzM2SWZ0Q0QyQm9BOHJLNXpmSjhxMVpUY01GeTRnMmtHMVlhWDA4Z215VzdSbERDcXhSMFRwMng3UjMtWGplU2NlOWFscFlVQ1lQNTdHRmwtZ3AtUWdpOE1VN1ZkcnBqNUlhd3Eyd1V6Sm1qUzdiaXdwMXNXSUk5NkctMjgyRG54X3JKWjliVm9iWGF1LWU4anZBdDB3anhSTndCalp0c0p4VE8zSWMwOEUtR2QyNE1fX3JLcTRUeHpUZlROY2pHcFpidzhNbURrNVU0TjdQVQ?oc=5",
+      "summary": "قیمت نفت خام برنت با حملات عربستان سعودی به بالای 106 دلار رسید، عرضه سوخت جنگی روسیه و اوکراین از سود NDTV نگران است.",
+      "summary_original": "Brent Crude Oil Holds Above $106 As Saudi Attacks, Russia-Ukraine War Fuel Supply Fears NDTV Profit",
       "source": "Google News",
       "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T05:08:40+03:30",
-      "published_fa": "1405/07/21 - 05:08",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "قیمت نفت امروز: قیمت نفت برنت نزدیک به 106 دلار با تشدید تنش‌ها در خاورمیانه - سود NDTV",
-      "title_original": "Oil Prices Today: Brent Crude Near $106 As Middle East Tensions Escalate - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVdYaV8tdFhZVlRVSzBtRzhfM1NXbTVHOVR0aHU3SVFFWUdGUFp4WW1zMTFmTDNMTUFqMm9wOVR6ZHNqaHl3bE1kaGhFTE1PSHJTS1lzVGh6QmdzaXNiME9zWkNtTV9sOUx5cjB6YU5EcFQzV1B3dTNYNXBxYldVVlNuUGdsY05lN3ZiZ21zcTgzbzlBcFNsTHBRU2xZcE5WcXZNQ1I2a2JJcGp6dmZzMlZ6dWdvaUEtdzh2emhxQW1OX05RdWxLSXRPMkRxZDFhcUM3UFI1TEU3b3BITTBDdTlMNVhPMTh3dFlnUmNOT0w1dnBpeHJ2d2pJUWgycTJaT0Fv0gGLAkFVX3lxTE5wVzN4VFRtQ1l2eENFVHQ2N21ZX0JoVVRHeUpyV2pTOWQ3S1FyVml2cEZUcWw5T0pVM0xPRzM2SWZ0Q0QyQm9BOHJLNXpmSjhxMVpUY01GeTRnMmtHMVlhWDA4Z215VzdSbERDcXhSMFRwMng3UjMtWGplU2NlOWFscFlVQ1lQNTdHRmwtZ3AtUWdpOE1VN1ZkcnBqNUlhd3Eyd1V6Sm1qUzdiaXdwMXNXSUk5NkctMjgyRG54X3JKWjliVm9iWGF1LWU4anZBdDB3anhSTndCalp0c0p4VE8zSWMwOEUtR2QyNE1fX3JLcTRUeHpUZlROY2pHcFpidzhNbURrNVU0TjdQVQ?oc=5",
-      "summary": "قیمت نفت امروز: قیمت نفت برنت نزدیک به 106 دلار با تشدید تنش در خاورمیانه سود NDTV",
-      "summary_original": "Oil Prices Today: Brent Crude Near $106 As Middle East Tensions Escalate NDTV Profit",
-      "source": "Google News",
-      "category": "economy",
       "tags": [],
       "urgent": false,
       "published": "2026-10-13T04:33:15+03:30",
@@ -172,6 +220,21 @@
       "published": "2026-10-13T03:41:46+03:30",
       "published_fa": "1405/07/21 - 03:41",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "به روز رسانی زنده: جدیدترین از اسرائیل، ایران و خاورمیانه - جروزالم پست",
+      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hdDVKalFreFFGRFBEREg3ajlzaTVpMzFXUThBRWdRZWxTRUlQdEd3VGZ1WmdDMlQ2N0lLRVlhV3RSSklydTdQekFTanNLRUVpVnhfdUctenNOV1VURmp1bjdLT0tleEhRVmRUV0taSVdWQWRSRkVSX0hQQWJHcW8?oc=5",
+      "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
+      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T03:30:05+03:30",
+      "published_fa": "1405/07/21 - 03:30",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -1092,21 +1155,6 @@
       "verified_source": true
     },
     {
-      "title": "فشار آمریکا، خفقان اقتصادی و معضل هسته‌ای ایران - TV7 اسرائیل نیوز",
-      "title_original": "U.S. Pressure, Economic Suffocation, and Iran’s Nuclear Dilemma - TV7 Israel News",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BTU5Fc3pOeTJPNWJMUEZnRmR2THJhaEdSNTRsZUplaERXUmVWbHhERU1EX1VfYTRlTUhhOEJuelhGdllRbzZ5RTNGZFhDRHpzU2U2ckgtVFBDZWZLeS1fUndWZkQzT05JNk9rU3lTNkY1R1lkQ2Zv?oc=5",
-      "summary": "فشار ایالات متحده، خفقان اقتصادی، و معضل هسته ای ایران TV7 اسرائیل نیوز",
-      "summary_original": "U.S. Pressure, Economic Suffocation, and Iran’s Nuclear Dilemma TV7 Israel News",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T22:00:11+03:30",
-      "published_fa": "1405/07/20 - 22:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ماجراجوی بریتانیایی پس از 28 سال پیاده روی در سراسر جهان به خانه بازگشت",
       "title_original": "British adventurer returns home after 28-year walk around the world",
       "link": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world",
@@ -1169,36 +1217,6 @@
       "verified_source": true
     },
     {
-      "title": "رئیس اتحادیه مطبوعات مصر فشار بر روزنامه نگاران بازداشت شده را رد کرد",
-      "title_original": "Egypt’s press union chief rejects pressure over detained journalists",
-      "link": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
-      "summary": "شش روزنامه نگار از پلتفرم مستقل Matsadaash ادعای شکنجه در بازداشت را دارند که مصر آن را رد می کند.",
-      "summary_original": "Six journalists from independent platform Matsadaash allege torture in detention, which Egypt denies.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T21:51:44+03:30",
-      "published_fa": "1405/07/20 - 21:51",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "اندی برنهام، نخست‌وزیر انگلیس، در دوران شهرداری منچستر با رئیس منچسترسیتی دیدار کرد",
-      "title_original": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
-      "summary": "این بیانیه پس از انتقاد از واکنش اولیه برنهام به مجرم شناخته شدن سیتی به دلیل نقض مالی جدی منتشر شد.",
-      "summary_original": "Statement comes after criticism of Burnham&#039;s initial response ⁠to City being found guilty of serious financial breaches.",
-      "source": "Al Jazeera",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T21:45:10+03:30",
-      "published_fa": "1405/07/20 - 21:45",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "قاضی منصوب بایدن با سابقه درگیری های آتشین ترامپ در وزارت دادگستری فوران کرد: \"شما تمام اعتبار خود را از دست دادید!\"",
       "title_original": "Biden-appointed judge with history of fiery Trump clashes erupts at DOJ: 'You've lost all credibility!'",
       "link": "https://www.foxnews.com/politics/biden-appointed-judge-history-fiery-trump-clashes-erupts-doj-lost-all-credibility",
@@ -1231,11 +1249,11 @@
       "verified_source": true
     },
     {
-      "title": "هنگامی که ترامپ در میان دوره ای مورد ضرب و شتم قرار می گیرد، چهار کلمه به او برمی گردد - عصر روزگار",
-      "title_original": "When Trump gets a thrashing at the midterms, four words will come back to haunt him - The Age",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdzQzT0dOSkx0REN5OUhuMUc0b3l0T0VvN1NtR1dnUm5HSHRYOHJXcjBxQ25MSl9kWTZlUGFOX09qWjJLcE9fYkpiVHExWjNjT2ZmQVBaMlhRZmNBa2N0Z1hCcmNvQUJEREZsTE9CUTAzbkJybmhEYVV2eE1kTjBDbmNHZnFqUFJkWDVlM084b3lqLVlDMkpJb1hqQmh1aDdfa1VmUlB4QmJQdDQwRjhMb2pGY2NIQ1VjWkJGelRpYXlZOUxNY3hYRXdTeHcyaTg5cUlhWnRUako4NnRwcHRqdW1KQQ?oc=5",
-      "summary": "وقتی ترامپ در میان‌دوره‌ها مورد ضرب و شتم قرار می‌گیرد، چهار کلمه به او برمی‌گردد.",
-      "summary_original": "When Trump gets a thrashing at the midterms, four words will come back to haunt him The Age",
+      "title": "بریزبن تایمز: وقتی ترامپ در انتخابات میان‌دوره مورد انتقاد قرار می‌گیرد، چهار کلمه به او برمی‌گردد.",
+      "title_original": "When Trump gets a thrashing at the midterms, four words will come back to haunt him - Brisbane Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQODJ4dHZ3RGZyRVN1aTFRYWl0eGRzUGdJWmtDM1Q1UnFtbm5KZlY2LWpXTUJoWXJwTTdLdUEtbUVFcUpuSWJUdEhnUHlTdzNFcUVqaURablBvLXQ1X1JodmNJQzd6Z0ZWMGl2SFFZWmgyV0xRV1lKcmY5X2s2SElrcl9jZ3hLNDRTMk5ZbVRjWEJURjM5Nmc3SGl3bEM1bzllb2pQM2Q3RGhQUzBOUVd2VzRGODRPRXRNOTUyb3ZSVTNILTdUVk5QU0R4amp1MGRIMHRNbHZOZmlOOVplaGpvMnc3Ql9FRWdSYnFJSg?oc=5",
+      "summary": "وقتی ترامپ در انتخابات میان دوره ای کوبنده شود، چهار کلمه به او برمی گردد بریزبن تایمز",
+      "summary_original": "When Trump gets a thrashing at the midterms, four words will come back to haunt him Brisbane Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -1646,6 +1664,21 @@
       "published": "2026-10-12T18:41:05+03:30",
       "published_fa": "1405/07/20 - 18:41",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "فشار آمریکا، خفقان اقتصادی و معضل هسته‌ای ایران - TV7 اسرائیل نیوز",
+      "title_original": "U.S. Pressure, Economic Suffocation, and Iran’s Nuclear Dilemma - TV7 Israel News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMZkhtS08wZ2ZoaXc0MHVTeDlfZzllbjNXaDdOYl9fcFZod2hyM2RHbUZsbEpjMGdqSVFzNUY4RHQ3YUdOaDV2NEpLZUk1UXVrNm5lNWNvdDdReXNaaEIxcWhDeHgtTS1URUQzT0NaTzdfTWhyYVFVMWJR?oc=5",
+      "summary": "فشار ایالات متحده، خفقان اقتصادی، و معضل هسته ای ایران TV7 اسرائیل نیوز",
+      "summary_original": "U.S. Pressure, Economic Suffocation, and Iran’s Nuclear Dilemma TV7 Israel News",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T18:40:07+03:30",
+      "published_fa": "1405/07/20 - 18:40",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -2205,7 +2238,7 @@
     {
       "title": "ایندیپندنت - جنگ خاورمیانه ترامپ از کنترل آمریکا خارج شده است",
       "title_original": "Trump’s Middle East war has spiralled beyond America’s control - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDZsd3daNVM3MWZ5akk5MXpScjJEV2Z5Sm90NXN4S0R2OTFYT2VucUU1NmJpZzFFX3NZQ0xZa1ZDbnBKcXlGaTlwaEZyeGFjZXlfOHMtOUllWGtRdGZmZkloTXVtRGY5M21kMWxXeE9mN1lVQUsxOVF1cTlaMVZodmF5U0ZfVXo3WTZtLU9wczlwXzVaRHVRZ25EUGlwQ1kzbGZaUG1BQy1WU1FEUjhBemVUOVdXSzFkYXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUIwWVN2MVZ3U3YzRmNDXzlDRFBoZ05iNFJ2aVJHbENVWlp0aVMyaFR5bkhWZ0tzS0pubXFXVFpiRzdDSFJudEVFOWlGaUt4TG00YU0tUkJYMW54cXMtUktuUGZQeC00RXV1QkNpVGJBNjR6SHRXVVlxOVlKQUJrRzdQZGVIVUpOLU8xV0RNZ0FOSExCZzhBOFEzYllYdzl6OFdYTlF5TWdybzlBbHhyVE9iX2R1UG8?oc=5",
       "summary": "جنگ خاورمیانه ای ترامپ از کنترل آمریکا خارج شده است",
       "summary_original": "Trump’s Middle East war has spiralled beyond America’s control The Independent",
       "source": "Google News",
@@ -2485,6 +2518,21 @@
       "verified_source": true
     },
     {
+      "title": "ایران در صحار دو نفتکش را در هرمز اصابت کرد، آمریکا فلوکر را از کار انداخت - Seatrade Maritime News",
+      "title_original": "Iran hits tanker in Sohar and two in Hormuz, US disables bulker - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU255S0ZwRHJ6dTY1RHlYLVdxNDI5SlZ5cU5sVUV4RWtjTXp6NG5JZnlzazhDT24xWHVTTC1TSnItX2tKZEVGa3VnbWp0MG9PUERvQm5BUGUzWTFMNmR6cnBoQ1gwQ2pzWE44cUtlVmRWdFYzOVdLV2NER3ZXdlZiVlRDWE1GMkJkdWFXaFY2LWNUZlRoTXhfSGhYZkQ5SGFReGZLbUEzVXE?oc=5",
+      "summary": "ایران در صحار و دو نفتکش را در هرمز اصابت کرد، آمریکا فلوکر را از کار انداخت Seatrade Maritime News",
+      "summary_original": "Iran hits tanker in Sohar and two in Hormuz, US disables bulker Seatrade Maritime News",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T11:51:49+03:30",
+      "published_fa": "1405/07/20 - 11:51",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ترس از جنگ در خاورمیانه؛ مذاکرات ایران و عربستان در جریان است - The Business Standard",
       "title_original": "Fears of war in the Middle East; Saudi-Iran talks underway - The Business Standard",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjNGSXc5Q0NBM2dhbHo1RlJmaG9hYmJNbC01Q29HandTbWhNQk1TM2ROajJ4NzN1MHpCUjE5TF9Wc3cyc3NvbTB1MFVzSE91V0V4a2dDNjB3OWk1ZnJVcl9HTHlBSzJ0R20xTVJBa2l0dTNKOTA3QUpQdTJQLTRCdWVHSWc5UEIwUzlyZmlORTBBdHVQMHdHNXhkR0U?oc=5",
@@ -2641,23 +2689,6 @@
       "published": "2026-10-12T10:16:57+03:30",
       "published_fa": "1405/07/20 - 10:16",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "اختلال در پروازهای دبی و خاورمیانه: لغو گسترده با تمدید تعطیلی فرودگاه ریاض - Condé Nast Traveller خاورمیانه",
-      "title_original": "Dubai and Middle East flight disruption: widespread cancellations as Riyadh airport extends closure - Condé Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDJiajdOS0dITVd0TXM3eHNTUWZGUnk0RGpUYkxweWRXektYYzNJZWpWN2wtbmVyelRpaF9IMms0dHpFZXVVeWJrY1dPdHVBcHFRMDFzSEJhUjhiYTd1VlZGUTFKekMxNGF6UUMwX19pcVlKa2x0ZVlBdndOMU45MGhuNHE0cnk1VElnSmd1TU5OeHROVWNDbUxiREFfb25uX2I2SkVFQzJYRWYwSUVQNEtGMWg5TVl1UGJLbVFpSm1QRVJDYlJKWEJwWlZLZnM?oc=5",
-      "summary": "اختلال در پروازهای دبی و خاورمیانه: لغو گسترده به دلیل تمدید تعطیلی فرودگاه ریاض Condé Nast Traveller خاورمیانه",
-      "summary_original": "Dubai and Middle East flight disruption: widespread cancellations as Riyadh airport extends closure Condé Nast Traveller Middle East",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-10-12T10:06:44+03:30",
-      "published_fa": "1405/07/20 - 10:06",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -4736,17 +4767,20 @@
       "verified_source": true
     },
     {
-      "title": "ایران آپدیت، 9 اکتبر 2026 - موسسه مطالعات جنگ",
-      "title_original": "Iran Update, October 9, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHNqNmJyVzFoSERxVFdQdmVhMTREdWgwX3Zmel94ajRpenJsWi1PaVBrQUZMMkN0LUJlMnpVV21sNDZudXE4WkxHMS1NQm1OSTh0a25Yb2lhYldkSmZ3YnhpSHkyLXA2bDlQa0tWUEpqeHZudE5CYk1BUVB4aTBRanZYYw?oc=5",
-      "summary": "ایران آپدیت، 9 اکتبر 2026 موسسه مطالعات جنگ",
-      "summary_original": "Iran Update, October 9, 2026 Institute for the Study of War",
+      "title": "ترامپ کیتی زکریا را به عنوان سخنگوی کاخ سفید انتخاب کرد: یک وفادار به MAGA که از نتانیاهو دفاع کرد - Ynetnews",
+      "title_original": "Trump names Katie Zacharia White House press secretary: A MAGA loyalist who defended Netanyahu - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmTWwtUjBvaTJfSl9wX2VUZU1NSl83OXVnTy1fX3poWjNIcHJYNnJDMC0wY1dkQjdmbXQxY2owWm5JcnVzNTVCMEJvTDdQaXRUbmdWbG1mVQ?oc=5",
+      "summary": "ترامپ کیتی زکریا را به عنوان سخنگوی کاخ سفید انتخاب کرد: یک وفادار به MAGA که از نتانیاهو دفاع کرد Ynetnews",
+      "summary_original": "Trump names Katie Zacharia White House press secretary: A MAGA loyalist who defended Netanyahu Ynetnews",
       "source": "Google News",
-      "category": "other",
-      "tags": [],
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
       "urgent": false,
-      "published": "2026-10-10T06:21:35+03:30",
-      "published_fa": "1405/07/18 - 06:21",
+      "published": "2026-10-10T03:59:38+03:30",
+      "published_fa": "1405/07/18 - 03:59",
       "translated": true,
       "verified_source": true
     },
@@ -5373,6 +5407,23 @@
       "verified_source": true
     },
     {
+      "title": "نتانیاهو اسرائیل با انزوای جهانی و مبارزه برای آینده سیاسی خود به صحنه سازمان ملل می رود - NBC News",
+      "title_original": "Israel’s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2JxWlF4WmxTck14RHRJUDNMZjdwanJrVUxOLW5rV1RJUzE4MjdHRjBmYnRPWWhEc2R3WU9kQlZ5WTNtLWtDdktGV2dfUTFiN3NSVkU0ZTVDM25WLXRhNEFxVkpBbVVpeVRHY1ZrSnVDbjVkQ2hXcWlMZkowaWgzUjFyalFwbUJ3a2lZUWVuX0l6OGtaWTFYLU1uenR5bkE0TFJ5UVZHbFJIUV9SaXhV?oc=5",
+      "summary": "نتانیاهو اسرائیل با انزوای جهانی و مبارزه برای آینده سیاسی خود به صحنه سازمان ملل می رود.",
+      "summary_original": "Israel’s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future NBC News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-09-24T10:30:00+03:30",
+      "published_fa": "1405/07/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "رویترز - سفر زودگذر نتانیاهو به نیویورک روابط آمریکا را تیره کرد",
       "title_original": "Netanyahu's fleeting visit to New York mirrors strained US ties - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5",
@@ -5802,24 +5853,6 @@
       "verified_source": true
     },
     {
-      "title": "یک منبع آگاه می گوید کوشنر و نتانیاهو توافق کردند که ژنرال آمریکایی باید بر \"غیرمشکی سازی\" حماس نظارت کند - NBC News",
-      "title_original": "Kushner and Netanyahu agree U.S. general should oversee Hamas ‘demilitarization,’ source says - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUhZUlhMLVZ3UlVKbW1GdDQ5bkJEWU9yQUFoMGpGSHZDTFNQblVvTE55VEMzUmk0MVYxMjZ5cGZBMmRBVHc3RnRqV2llUmc0NENDT1I5Ymk0aDFRdENoMVdRZEdvWlJQOTg5b0JfbDA3ZUdqS0RmNF9VOGZueW9yUzcydzBLS0l2aGJGbWpzc2ZjMFJvVW9UN2pPUU5oUQ?oc=5",
-      "summary": "یک منبع خبری ان‌بی‌سی می‌گوید کوشنر و نتانیاهو توافق کردند که ژنرال آمریکایی باید بر «غیره‌نظامی‌سازی» حماس نظارت کند.",
-      "summary_original": "Kushner and Netanyahu agree U.S. general should oversee Hamas ‘demilitarization,’ source says NBC News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-18T10:30:00+03:30",
-      "published_fa": "1405/05/27 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گزارش ویژه ایران آپدیت، 17 آگوست 2026 - موسسه مطالعات جنگ",
       "title_original": "Iran Update Special Report, August 17, 2026 - Institute for the Study of War",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVdJbkRYZE1DUFhOUzBFaDc3ek90b0k2TVBXdnBBdzFnUWFhOVlVRzZVRG9DclY0dkMzdU5PNXNKM013MExVbk1EaWF1c0NtVTJQNVJ5V2pvOEJDSkRYT1ZKQTJOZnUteW5NTDRxYmdDeW5WTlg2MGlsZkRKTF9UYTVaYjIzWU00MlgxRFZiUldZVjlkcHp3?oc=5",
@@ -5996,24 +6029,6 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ می‌گوید روابط خوب است حتی اگر نتانیاهو طرح صلح غزه را رد کند - الجزیره",
-      "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
-      "summary": "ترامپ می‌گوید روابط خوب است حتی اگر نتانیاهو طرح صلح غزه الجزیره را رد کند",
-      "summary_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-10T10:30:00+03:30",
-      "published_fa": "1405/05/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "وتوی نتانیاهو و محدودیت های قدرت آمریکا - الجزیره",
       "title_original": "Netanyahu’s veto and the limits of American power - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWF1Zmo3MU1hYWdpU0pSME11dm1zT3gxbE9JZ2pLOV9LWEs0RUxHeTUyQkx0NUJ3X1ZTS05vMW5Nc2NjX3o0cldvYWtaSV9kODd2LUFlQWdlOFVrOWtzdHhQcUhueVVnblpVUk03dGlPS1F0dVB1NFd1QnZKTlRNcFBOQzR4ZzVhMWxVbW9NSUFPeEVEN3VkTdIBngFBVV95cUxPS1ZUdkVYSjJlZ2NnZHB6dElJRzVrMGhOd0hmWFlLeHcyRERSRE44ZXUwNklaclFWYVduSGpLSS1LbVlCN05QdlJ2UnBoQXlFNHJwS08tWnZ5elc4SGxRWjVjNzY0UDV0a3h2dE4xQjZzbW1obWdRV0JpR0lyS0cwNTlNNXA0cElmWXROTlE5LWdLa0xGZ0lMTWxTeDFWdw?oc=5",
@@ -6042,6 +6057,24 @@
         "ترامپ",
         "نتانیاهو",
         "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-08-10T10:30:00+03:30",
+      "published_fa": "1405/05/19 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ می‌گوید روابط خوب است حتی اگر نتانیاهو طرح صلح غزه را رد کند - الجزیره",
+      "title_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTdDWDB6OVdPa0MwVkoxWDRLUHRodkNCUlQzb01GTmdPMTVuTld6YmhuQklUd1hJc0h5eWtEUzRGa1EzYldjWVJtSjZwQXg0aDl4dzdnalZHRVdwZElnaGlSR1lDLUlDRktBenp1QVp3YmtKd1VJN2JVR0lhTWExZ0YwM3dISUZPN1NPclJ1YkkzUHdFTzhtRDdOUHpFeFRPSUNZVXZxSDl0SXJmYzA1ZDlZMlLSAboBQVVfeXFMTzNrNWF4dVlUVHY3eDZKWkgwVUFhdUF6VlczT0xzLS1UX2ZlaGI5NUF1MzRXLTc1S1kyeDdtbjcySGRaalB1cFNxdDRReER5d2dGS1B5dkVnbklLRlhOTGM4UnlRcGs4cnlUWXdrUlQ0LVhmOVNqMTQyU0gtVGdCdGwtTkFkTVBnMmtEQWZQQUlGa0w4amgzQWowTFl1RkN0RGM3YXRuSC1XUllXVjdqTzVjMEZ2aUt3QWpR?oc=5",
+      "summary": "ترامپ می‌گوید روابط خوب است حتی اگر نتانیاهو طرح صلح غزه الجزیره را رد کند",
+      "summary_original": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
       ],
       "urgent": false,
       "published": "2026-08-10T10:30:00+03:30",
@@ -6154,21 +6187,6 @@
       "urgent": false,
       "published": "2026-08-07T10:30:00+03:30",
       "published_fa": "1405/05/16 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ایران قصد دارد ورود کشتی های آمریکایی و اسرائیلی را از تنگه هرمز ممنوع کند و از دیگران عوارض بگیرد - NPR",
-      "title_original": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll - NPR",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQV8zdjVQNEctTWh2cW83azhtc0w1NENNN0dTUjRkMnNwQ2J6TzdBZVJ3NFJwQTJHLTU0YU1lM2EtZTVZUmwzNFBCSzJBYXpkMlVzdnNUVmFQZWJtTUJfalVtMG5wTkFzeWhpMThDOFZ1QkVaSDFVeU00RVJHcmFnTS1YMA?oc=5",
-      "summary": "هدف ایران ممنوع کردن کشتی‌های آمریکایی و اسرائیلی از تنگه هرمز و گرفتن عوارض NPR از دیگران است.",
-      "summary_original": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll NPR",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-06T10:30:00+03:30",
-      "published_fa": "1405/05/15 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6329,11 +6347,11 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ پشت درهای بسته با نتانیاهو و زلنسکی درگیر شد - نیویورک تایمز",
-      "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
-      "summary": "پشت درهای بسته، ترامپ با نتانیاهو و زلنسکی درگیر می شود نیویورک تایمز",
-      "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
+      "title": "ترامپ و نتانیاهو پس از هفته‌ها تنش از دیدار «مولد» خبر دادند - Axios",
+      "title_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQ3h1QjRzRVdfTXRuMkFQMDNXS2VSMlRnWVNZMThzWjVhVFRPbXhORDRscjZGdU0yWUhDbmpyVUZQNnoyWG1tY2JGZ25yNHFkZkZ2bWJLWUVQVzNxWW41QnhGSmVVTUR4Y0RqX3Y5R2Z6c2dkeUdYYw?oc=5",
+      "summary": "ترامپ و نتانیاهو پس از هفته‌ها تنش Axios از دیدار «مولد» خبر دادند",
+      "summary_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions Axios",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6347,11 +6365,11 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ و نتانیاهو پس از هفته‌ها تنش از دیدار «مولد» خبر دادند - Axios",
-      "title_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQ3h1QjRzRVdfTXRuMkFQMDNXS2VSMlRnWVNZMThzWjVhVFRPbXhORDRscjZGdU0yWUhDbmpyVUZQNnoyWG1tY2JGZ25yNHFkZkZ2bWJLWUVQVzNxWW41QnhGSmVVTUR4Y0RqX3Y5R2Z6c2dkeUdYYw?oc=5",
-      "summary": "ترامپ و نتانیاهو پس از هفته‌ها تنش Axios از دیدار «مولد» خبر دادند",
-      "summary_original": "Trump, Netanyahu tout \"productive\" meeting after weeks of tensions Axios",
+      "title": "ترامپ پشت درهای بسته با نتانیاهو و زلنسکی درگیر شد - نیویورک تایمز",
+      "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
+      "summary": "پشت درهای بسته، ترامپ با نتانیاهو و زلنسکی درگیر می شود نیویورک تایمز",
+      "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6383,11 +6401,11 @@
       "verified_source": true
     },
     {
-      "title": "گاردین - ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو تمجید کرد",
-      "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
-      "summary": "ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو گاردین تمجید کرد",
-      "summary_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
+      "title": "ابراز ناامیدی ترامپ از نتانیاهو قبل از دیدار با کاخ سفید - الجزیره",
+      "title_original": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo4d1dTQ0I3UmpKOElTdlhoV09Tc3lMMnZRUjdVR2ZNcktZLUROS0VFaTFIRm4xdTBOS2NCSFB1V0tFdVlkNUZSTE1obUk0eWg1MWZBVk9Ob1IxbGRkNThRaFYyekZFX2FaMFF1Q2ZOcVA2MDdFc1dxdlJBTFVrNmM4dEJoLUR6enJOY2hwYnZ4a2U2WFV4bGw3dzh1ZTN2R1VGSXhFbU5XNnFnWUFj0gG0AUFVX3lxTE1WS2NKWkh6dk9hSGFtY3Y4LUxLR1o4XzZXcnlBcjFoOWdwemJteTUwTVNNUzczYVhYT0ZQWE1GbnVkcFBQbUpVbGQteDVReG9fcnJnSmRrb1Z6UE5FaDYxU19nRVlYSzFYbjNrNnBjSENOMElTSlpuWDRMMU9PQXNtanExQWFGTHZkYUk1R2FXTmRYcGNSalhabEVHMUFPSHNNNms2Z2R0TkdvbjNmWTZQSTlwXw?oc=5",
+      "summary": "ترامپ پیش از دیدار با الجزیره در کاخ سفید از نتانیاهو ابراز ناامیدی کرد",
+      "summary_original": "Trump expresses frustration with Netanyahu before White House meeting Al Jazeera",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6401,11 +6419,11 @@
       "verified_source": true
     },
     {
-      "title": "ابراز ناامیدی ترامپ از نتانیاهو قبل از دیدار با کاخ سفید - الجزیره",
-      "title_original": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo4d1dTQ0I3UmpKOElTdlhoV09Tc3lMMnZRUjdVR2ZNcktZLUROS0VFaTFIRm4xdTBOS2NCSFB1V0tFdVlkNUZSTE1obUk0eWg1MWZBVk9Ob1IxbGRkNThRaFYyekZFX2FaMFF1Q2ZOcVA2MDdFc1dxdlJBTFVrNmM4dEJoLUR6enJOY2hwYnZ4a2U2WFV4bGw3dzh1ZTN2R1VGSXhFbU5XNnFnWUFj0gG0AUFVX3lxTE1WS2NKWkh6dk9hSGFtY3Y4LUxLR1o4XzZXcnlBcjFoOWdwemJteTUwTVNNUzczYVhYT0ZQWE1GbnVkcFBQbUpVbGQteDVReG9fcnJnSmRrb1Z6UE5FaDYxU19nRVlYSzFYbjNrNnBjSENOMElTSlpuWDRMMU9PQXNtanExQWFGTHZkYUk1R2FXTmRYcGNSalhabEVHMUFPSHNNNms2Z2R0TkdvbjNmWTZQSTlwXw?oc=5",
-      "summary": "ترامپ پیش از دیدار با الجزیره در کاخ سفید از نتانیاهو ابراز ناامیدی کرد",
-      "summary_original": "Trump expresses frustration with Netanyahu before White House meeting Al Jazeera",
+      "title": "گاردین - ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو تمجید کرد",
+      "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
+      "summary": "ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو گاردین تمجید کرد",
+      "summary_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6478,24 +6496,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sN0dtOFdwWnpvU09kMm02Z2hkWkNuNkw3SWxLbERVNXQtS0xnNDlxRE5HaFhJN3JzX0hSMG9nNEVyVmhLWkpDVklNb2g2MW5rUG5MTHlIcUJxT3VzRUVRRktn?oc=5",
       "summary": "جنگ ایران: نتانیاهو از دیدار پشت درهای بسته با ترامپ استقبال کرد DW.com",
       "summary_original": "Iran war: Netanyahu hails closed-door meeting with Trump DW.com",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-28T10:30:00+03:30",
-      "published_fa": "1405/05/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "نتانیاهو و زلنسکی به طور جداگانه با ترامپ در کاخ سفید دیدار کردند - ABC7 لس آنجلس",
-      "title_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWlqZVJnYW00NkVSQTgtbjl6WENRS25iclkxanF4bG12YzRsc2V6OGU5akNONnlCQmlQX09hVFRhU0cxUnd4Rm1yTHdXMGkwQ1lzUi1HT1lQckl0bVI5WERISEl2Z0xqX1l5V3Z1TGdxTnpZemRscUVTT2ZZcXRQR25KcWVKVWxJcWF4ZzY2RVdraG5UTkxJ?oc=5",
-      "summary": "نتانیاهو و زلنسکی به طور جداگانه با ترامپ در کاخ سفید ABC7 لس آنجلس دیدار کردند",
-      "summary_original": "Netanyahu and Zelenskyy meet separately with Trump at the White House ABC7 Los Angeles",
       "source": "Google News",
       "category": "politics",
       "tags": [
