@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T07:23:40.821481+00:00",
-  "generated_at_fa": "1405/07/21 - 10:53",
-  "count": 423,
+  "generated_at": "2026-10-13T07:52:27.165310+00:00",
+  "generated_at_fa": "1405/07/21 - 11:22",
+  "count": 422,
   "items": [
     {
       "title": "هشدار حوثی‌ها به آمریکا: به مداخله پاسخی «دردناک» می‌دهیم",
@@ -15,8 +15,8 @@
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-13T10:50:00.460644+03:30",
-      "published_fa": "1405/07/21 - 10:50",
+      "published": "2026-10-13T11:19:13.591157+03:30",
+      "published_fa": "1405/07/21 - 11:19",
       "translated": false,
       "verified_source": true
     },
@@ -30,8 +30,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-13T10:50:00.460401+03:30",
-      "published_fa": "1405/07/21 - 10:50",
+      "published": "2026-10-13T11:19:13.590992+03:30",
+      "published_fa": "1405/07/21 - 11:19",
       "translated": false,
       "verified_source": true
     },
@@ -47,13 +47,118 @@
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-13T10:50:00.458600+03:30",
+      "published": "2026-10-13T11:19:13.589747+03:30",
+      "published_fa": "1405/07/21 - 11:19",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "نخست‌وزیر بلغارستان گفت: حمله هواپیمای بدون سرنشین کشتی را در سواحل دریای سیاه غرق کرد",
+      "title_original": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+      "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
+      "summary": "در این حمله دو کشتی از جمله کشتی اوکراینی چلسی 3 مورد اصابت قرار گرفت که آسیب دید.",
+      "summary_original": "Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-13T11:06:38+03:30",
+      "published_fa": "1405/07/21 - 11:06",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "از موز تا بنزین؛ جنگ ایران چگونه به زندگی آمریکایی‌ها رسیده است؟",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cry4xvlg8jz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "رسانه‌های آمریکایی در این روزها بارها از اثرات جنگ با ایران بر اقتصاد کشور نوشته و گفته‌اند. هزینه‌هایی که فعلا به نظر نمی‌رسد قرار باشد پایین بیایند. وضع معیشت آمریکایی‌ها در این روزهای باقی مانده تا انتخابات میان‌دوره‌ای نظر بسیاری را به خود جلب کرده است. از جمله رییس جمهوری آمریکا که در سخنرانی‌های اخیر خود بارها سعی کرده نشان دهد که وضعیت اقتصادی آنقدرها هم که گفته می‌شود بد نیست. اما گزارش‌های رسانه‌ای چیز دیگری می‌گویند.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T11:03:08+03:30",
+      "published_fa": "1405/07/21 - 11:03",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "ایران با تقویت نیروهای دفاعی، نسبت به واکنش شدیدتر به حمله آمریکا هشدار داد - www.jordannews.jo",
+      "title_original": "Iran Fortifies Defenses, Warns of Harsher Response to US Attack - www.jordannews.jo",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0RuOEp4UEpwSEhyMjQ4WXVxWnNzVzdYR2tORlU0TDJiQXJZamoxOFJ2RWpZYlEzMUU2REFQbmpqc29Sb3Q5ZGNDVmdFVEhadHBqTUJzU3RmTkZVRUp6R21JUERnam9DNGlGTUdxWU1YVEs3WTVlZVhRbXI4SF85d2lTVVlSbVIxaFhvYzdZT1FZTkI1VWJBVGhPNFh6MmtaVGVSRS01b3FZeW52MTZxQjJsU3RwWFlT?oc=5",
+      "summary": "ایران با تقویت نیروهای دفاعی، نسبت به واکنش شدیدتر به حمله آمریکا هشدار داد www.jordannews.jo",
+      "summary_original": "Iran Fortifies Defenses, Warns of Harsher Response to US Attack www.jordannews.jo",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-13T11:00:13+03:30",
+      "published_fa": "1405/07/21 - 11:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "قلعه‌نویی: قول قهرمانی در جام ملت‌ها را ندادم؛ عبور از اصولم یعنی پایان دعوت به تیم ملی",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610133033",
+      "summary": "امیر قلعه‌نویی، سرمربی تیم ملی فوتبال ایران، در گفت‌وگویی تلویزیونی به تشریح آخرین وضعیت ملی‌پوشان، موضوع دعوت نشدن برخی بازیکنان و اتفاقات جلسه هیئت‌رئیسه فدراسیون فوتبال پرداخت.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T10:53:27+03:30",
+      "published_fa": "1405/07/21 - 10:53",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "صندوق بین‌المللی پول کاهش ۷.۶ درصدی اقتصاد ایران در سال ۲۰۲۶ را پیش‌بینی کرد",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610137956",
+      "summary": "صندوق بین‌المللی پول در تازه‌ترین پیش‌بینی خود اعلام کرد اقتصاد ایران در سال ۲۰۲۶، در پی پیامدهای جنگ، ۷.۶ درصد کوچک خواهد شد. این برآورد در حالی منتشر شده است که آمار مرکز آمار ایران نیز از کاهش ۱۰.۱ درصدی تولید ناخالص داخلی در بهار ۱۴۰۵ نسبت به بهار سال قبل حکایت دارد.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T10:50:24+03:30",
       "published_fa": "1405/07/21 - 10:50",
       "translated": false,
       "verified_source": true
     },
     {
-      "title": "میدل ایست آی، ترامپ می گوید که ممکن است آمریکا در هدف قرار دادن رهبری ایران «بیش از حد» پیش رفته باشد",
+      "title": "چگونه نیروهای نخبه ایران \"ذهن دانشجویان جوان را شکل می دهند\" - Inquirer.net",
+      "title_original": "How Iran’s elite forces ‘mold the minds of the young cadets’ - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTAweXoxVm12bjlnMEJ1VU1UelV4Uk54WUJmaU9HV0NKMk1zbF96OVNEdnV4QnJDQzI0dTdzNzd0blhnX2dUVlJpU3B4MWZ4bW1JWXd6UUhUajRmdzluVlR5S1drV2xmbzVYRlpDaFBmbVpJZ1o3Q1NyWUg3Y2M5MlpXT1ZjaUVNZ2lMMGFPWThIcFVvT3Q0Vk93eUZIWkXSAaQBQVVfeXFMTnNIRm5OVVlpQklZVUI2UFVaR2hsUmVCOEhFY3JRNV9aSUY3MHZoMVlLOGtFUlBKdG16WWtocThCMDhVb3pYSkI2SDEyQjFIU29ZZUtfQmVRSTVXSDFfYzJwYU9BQWdzX0xhd19DWlcxQXRyUU55U285dTNtS1pnNEZMZUp2dFFMdUtSbHlPbXYzOEV0Rng0Y0JCbURLVGxIckZ2Qkc?oc=5",
+      "summary": "چگونه نیروهای نخبه ایران «ذهن دانشجویان جوان را شکل می دهند» Inquirer.net",
+      "summary_original": "How Iran’s elite forces ‘mold the minds of the young cadets’ Inquirer.net",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T10:48:00+03:30",
+      "published_fa": "1405/07/21 - 10:48",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "مقامات ایران به تهاجم زمینی در صورت از سرگیری حملات آمریکا اشاره کردند - WSJ - ایران اینترنشنال",
+      "title_original": "Iran officials hinted at land incursions if US resumes strikes - WSJ - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wQmNpWW1fRjRsWk9VbE1PRzBWRjRHbUtReXRTYlZWYXZrWUg0SlBnclhaaWZnQ2YzM21veXZidGdtM0Rfc0x6aU1FTHEzYXhVbVE?oc=5",
+      "summary": "مقامات ایران به تهاجم زمینی در صورت از سرگیری حملات آمریکا اشاره کردند - WSJ Iran International",
+      "summary_original": "Iran officials hinted at land incursions if US resumes strikes - WSJ Iran International",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T10:33:55+03:30",
+      "published_fa": "1405/07/21 - 10:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "میدل ایست آی، ترامپ می گوید که ایالات متحده ممکن است در هدف قرار دادن رهبری ایران «بیش از حد» پیش رفته باشد",
       "title_original": "US may have 'gone too far’ in targeting Iran’s leadership, Trump says - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOME8wQWxlM3o5WkdSQjNqUlJPSUhfSGJ5bXh3VEtUcjhpZlZSYUhjQUFGQ2p4bm5oVFcxRTE0ZnpLMjhTVmhybzkzS2tKTTRYbGItQkt4d1o1NzEzSVVIbkRGOEdqcmhpc2EzbERVSkhVZHJ0WVlsNi1oMnIwOXZnUjUzMTZ4TGFKN2V0U2xpMlAxeXBMZU41MGJKU2ljcy1MaUpBcElVSzRGYkZpXy1JUDdqZVk2QUNjS01sVTB5Vk5ySW44eHNmTTdMQmpmTFdxbW1CVGJfRldqQTF6cE1vTmZSNlB2V0RPOXByQk1ydzk5NDhuajdRVmE0TQ?oc=5",
       "summary": "میدل ایست آی می گوید که ترامپ ممکن است در هدف قرار دادن رهبری ایران «بیش از حد» پیش رفته باشد",
@@ -79,19 +184,19 @@
       "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-13T10:18:10+03:30",
+      "published": "2026-10-13T10:18:06+03:30",
       "published_fa": "1405/07/21 - 10:18",
       "translated": true,
       "verified_source": true
     },
     {
       "title": "امیر: قطر در برابر \"رویدادهای استثنایی\" مقاومت نشان داده است.",
-      "title_original": "Emir says Qatar has shown resilience in face of ‘exceptional events’",
+      "title_original": "Emir says Qatar has shown resilience in the face of ‘exceptional events’",
       "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
-      "summary": "شیخ تمیم بن حمد آل ثانی می گوید که قطر قدرت و انسجام خود را نشان داده است.",
-      "summary_original": "Sheikh Tamim bin Hamad Al Thani says Qatar has demonstrated its strength and cohesion.",
+      "summary": "شیخ تمیم بن حمد آل ثانی می گوید که واکنش قطر قدرت نهادهای دولتی را برجسته کرده است.",
+      "summary_original": "Sheikh Tamim bin Hamad Al Thani says Qatar&#039;s response has highlighted the strength of state institutions.",
       "source": "Al Jazeera",
-      "category": "other",
+      "category": "politics",
       "tags": [],
       "urgent": false,
       "published": "2026-10-13T10:12:58+03:30",
@@ -118,7 +223,7 @@
       "title": "فایرفلای مالزی پروازهای خود به سنگاپور را به دلیل غبار از اندونزی لغو کرد",
       "title_original": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
       "link": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
-      "summary": "این حرکت در حالی انجام می شود که مه آتش سوزی اندونزی، سنگاپور و کوالالامپور را به آلوده ترین شهرهای جهان تبدیل کرده است.",
+      "summary": "این حرکت در حالی صورت می‌گیرد که مه آتش‌سوزی‌های اندونزی، سنگاپور و کوالالامپور را به آلوده‌ترین شهرهای جهان تبدیل کرده است.",
       "summary_original": "Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.",
       "source": "Al Jazeera",
       "category": "military",
@@ -135,7 +240,7 @@
       "title": "حزب تحریک انصاف عمران خان برای مبارزه با تسلط فدرال خیبر پختونخوا آماده می شود",
       "title_original": "Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa",
       "link": "https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss",
-      "summary": "اسلام آباد می گوید که حزب تحریک انصاف در رهبری مبارزه با گروه های مسلح شکست خورد، اما تحلیلگران این تصرف را زیر سوال می برند.",
+      "summary": "اسلام آباد می گوید حزب تحریک انصاف در رهبری مبارزه با گروه های مسلح شکست خورد، اما تحلیلگران این تصرف را زیر سوال می برند.",
       "summary_original": "Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.",
       "source": "Al Jazeera",
       "category": "economy",
@@ -197,10 +302,10 @@
       "verified_source": true
     },
     {
-      "title": "پرواز خطوط هوایی اتیوپی توسط اسرائیل بر فراز خلبان اندونزیایی برگردانده شد: گزارش - TRT World",
+      "title": "پرواز خطوط هوایی اتیوپی توسط اسرائیل به خلبان اندونزیایی برگردانده شد: گزارش - TRT World",
       "title_original": "Ethiopian Airlines flight ordered to turned back by Israel over Indonesian pilot: report - TRT World",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnBpODM1UWlnU21WTW1zRk1ycS1yYXFZeHo5M0toZkQtQ3hrdnNtNTZOaC0teUdRWE55ZnJza3cxbTRCNktyV0tGVHRqdWRKRDNVeWxKYVdLS05HWWZEMFJLeVlzM1R6cFdhMVExclVveHIweGZ4MUprT2dQLW9Qa2ZtaVcxalJnc3VrSkhCVVRlNlI5OGxhNTEyOTVnMU45S1dEUFR6andhQVdKRk9ZZm1QVnItY0xBaTdGMW92aG1WQWwxM0NSNkU0VGZidkVOSDlZTUE2UU95cEhMOWJQY0M0NE9XRFhVQ1JF?oc=5",
-      "summary": "به گزارش TRT World، پرواز خطوط هوایی اتیوپی توسط اسرائیل بر فراز خلبان اندونزیایی بازگردانده شد",
+      "summary": "به گزارش TRT World، هواپیمای خطوط هوایی اتیوپی توسط اسرائیل به خلبان اندونزیایی برگردانده شد",
       "summary_original": "Ethiopian Airlines flight ordered to turned back by Israel over Indonesian pilot: report TRT World",
       "source": "Google News",
       "category": "military",
@@ -232,7 +337,7 @@
       "title": "پرزیدنت ترامپ قبل از انتخابات اسرائیل از نتانیاهو حمایت نکرد - الجزیره - UA.NEWS",
       "title_original": "President Trump did not endorse Netanyahu ahead of Israel’s elections — Al Jazeera - UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmhQcGpUd1ZPbEtpMVdLVWY1dzJ6NXh1V2VZTXhObGhJRUhYNmJqV2lwbmtsTkhoUXZ4Z3BRYU1acVFYbWxMV2xqRjlXa3UyZkdjYzhrb1lCdVNqd1U4TWZGU2k0amFUT2UyYjhhU2dhUVlZb2xraHdjZklmS3pVU1hsblRYa0pNRjZUUnJySDNSSlRfejVhWHV6VUVHbzBvdmc?oc=5",
-      "summary": "پرزیدنت ترامپ پیش از انتخابات اسرائیل از نتانیاهو حمایت نکرد - الجزیره UA.NEWS",
+      "summary": "پرزیدنت ترامپ قبل از انتخابات اسرائیل از نتانیاهو حمایت نکرد - الجزیره UA.NEWS",
       "summary_original": "President Trump did not endorse Netanyahu ahead of Israel’s elections — Al Jazeera UA.NEWS",
       "source": "Google News",
       "category": "politics",
@@ -277,7 +382,7 @@
       "verified_source": true
     },
     {
-      "title": "ددی بارنیا رئیس سابق موساد در اجلاس اسرائیل هیوم در نیویورک سخنرانی می کند - www.israelhayom.com",
+      "title": "ددی بارنیا، رئیس سابق موساد در اجلاس هیوم اسرائیل در نیویورک سخنرانی می کند - www.israelhayom.com",
       "title_original": "Former Mossad chief Dedi Barnea to speak at Israel Hayom Summit in New York - www.israelhayom.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1lCendOMVpGRXN3UlEtSDllclI2Z3kwUWJ6cmRqVDkwSXN1UV9qNnBIdFN6aENDWjNOVlhjYU5FaXpZVjEza09YU1Q0S2xjYU13MV9oQnJQMzVUdndnaGI5TDBmeUtrMmQ3VzJoSFJMcW8zX093blNPZUNGZ25KVE1FRlM1ZmxwQTg4eEEyenVaSjBFeFdPTkIyb2tLOUhmNTlBX0EwcUdtRnZtOUZUblg5RDI4UQ?oc=5",
       "summary": "ددی بارنیا رئیس سابق موساد در اجلاس اسرائیل هیوم در نیویورک سخنرانی می کند www.israelhayom.com",
@@ -319,6 +424,23 @@
       "tags": [],
       "urgent": false,
       "published": "2026-10-13T09:29:48+03:30",
+      "published_fa": "1405/07/21 - 09:29",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "اختلال در پروازهای دبی و خاورمیانه: لغو گسترده مسیرها با تمدید تعطیلی فرودگاه ریاض - Condé Nast Traveler خاورمیانه",
+      "title_original": "Dubai and Middle East flight disruption: widespread route cancellations as Riyadh airport extends closure - Condé Nast Traveller Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGhXbDVORlprTmVBMGdqblBLVGxUaUY1VlJ0a1dvdzN3Z0x4TkxZak9IYzk1ZGI0ZEpXcGVKRWk1VmFDR3F2c2M5SWtucXItWWdoVFlJTWFoc2FjbzZxY01Eby1mOVpJeVNDTnlqdWN5U0RhREJwRXdIQmhwdmpJNmVGTkZEOGZJY0ZBX3RNRzE1NVZlZWUyVVBwU3UxdHhjTkNLWVJLYTVFekV1NVVWbG84cXFoaFdGNWJoUVR5ZUdMZGR4OGZFd3lsTjRpS2FvUGJ1ODlpQQ?oc=5",
+      "summary": "اختلال در پروازهای دبی و خاورمیانه: لغو گسترده مسیرها به دلیل تمدید تعطیلی فرودگاه ریاض Condé Nast Traveller خاورمیانه",
+      "summary_original": "Dubai and Middle East flight disruption: widespread route cancellations as Riyadh airport extends closure Condé Nast Traveller Middle East",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "فلایت رادار"
+      ],
+      "urgent": false,
+      "published": "2026-10-13T09:29:35+03:30",
       "published_fa": "1405/07/21 - 09:29",
       "translated": true,
       "verified_source": true
@@ -369,7 +491,7 @@
       "verified_source": true
     },
     {
-      "title": "علیرغم سابقه طولانی با نتانیاهو، ترامپ با نزدیک شدن به رای‌گیری اسرائیل، از آن محافظت می‌کند",
+      "title": "علیرغم سابقه طولانی با نتانیاهو، ترامپ با نزدیک شدن به رای‌گیری اسراییل، خود را پوشش می‌دهد",
       "title_original": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
       "link": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears?traffic_source=rss",
       "summary": "رئیس جمهور آمریکا نخست وزیر اسرائیل را پیش از انتخابات 27 اکتبر در بحبوحه تغییر احساسات عمومی تایید نکرده است.",
@@ -423,7 +545,7 @@
       "title": "بیش از 100 کوهنورد خارجی در منطقه گورخا نپال در اثر سیل سرگردان شدند.",
       "title_original": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
       "link": "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss",
-      "summary": "عملیات امداد و نجات پس از سیل ناگهانی که خانه، پل ها و بخش هایی از مسیر کوهنوردی ماناسلو را با خود برد، در حال انجام است.",
+      "summary": "پس از سیل ناگهانی که خانه، پل ها و بخش هایی از مسیر کوهنوردی ماناسلو را فرا گرفت، عملیات امداد و نجات در حال انجام است.",
       "summary_original": "Rescue operation underway after flash floods swept away home, bridges and parts of the Manaslu trekking trail.",
       "source": "Al Jazeera",
       "category": "other",
@@ -453,10 +575,10 @@
       "verified_source": true
     },
     {
-      "title": "ایران پیشنهاد میانجیگری را با تشدید درگیری عربستان و حوثی - میدل ایست آی",
+      "title": "ایران پیشنهاد میانجیگری با تشدید درگیری عربستان و حوثی ها را می دهد - میدل ایست آی",
       "title_original": "Iran offers to mediate as Saudi-Houthi conflict escalates - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3c0WTdza3ZiVnJqeEpkNHpNNlFuTkVrLWdfVzlhbEFQZ19NY19YX1Q3WTFha2FuOTMtMWlicVhNUTdRRF95bFNCdm1QTEF2ZS1NVnJPeXR4MUpOY1RaVG9YMWljdGNVcDdUS252QmhWRXV3RXpqSW84MDV5VG5yaUE3Y0ZEY282OEgyVmtXTkpKX3BISjBYcG9vTVlvZzdoV0wzUUhlWmZSbWwz?oc=5",
-      "summary": "ایران پیشنهاد میانجیگری را با تشدید درگیری عربستان و حوثی ها در خاورمیانه می دهد",
+      "summary": "ایران پیشنهاد میانجیگری را با تشدید مناقشه عربستان و حوثی ها در خاورمیانه می دهد",
       "summary_original": "Iran offers to mediate as Saudi-Houthi conflict escalates Middle East Eye",
       "source": "Google News",
       "category": "other",
@@ -471,7 +593,7 @@
       "title": "مردی پس از سقوط از ترن هوایی شش پرچم در گرجستان جان خود را از دست داد",
       "title_original": "Man dies after fall from Six Flags rollercoaster in Georgia",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss",
-      "summary": "در یک حادثه در پارک موضوعی Six Flags 'Over Georgia' در نزدیکی آتلانتا، یک نفر کشته و چندین نفر زخمی شدند.",
+      "summary": "در یک حادثه در پارک موضوعی Six Flags \"Over Georgia\" در نزدیکی آتلانتا یک نفر کشته و چندین نفر زخمی شدند.",
       "summary_original": "One person has died and several others were injured in an incident at Six Flags ‘Over Georgia’ theme park near Atlanta.",
       "source": "Al Jazeera",
       "category": "other",
@@ -530,7 +652,7 @@
       "verified_source": true
     },
     {
-      "title": "رونالدو پس از بازی که به دلیل هشدار موشکی قطع شد، شال پرچم عربستان را تکان می‌دهد",
+      "title": "رونالدو روسری پرچم عربستان را تکان می‌دهد پس از بازی که به دلیل هشدار موشکی قطع شد",
       "title_original": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
       "summary": "کریستیانو رونالدو فوق ستاره پرتغالی پس از پیروزی النصر روسری با پرچم عربستان را تکان داد.",
@@ -545,27 +667,27 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ می گوید باور ندارد که چین و روسیه به هیچ وجه به ایران کمک می کنند - The Edge Malaysia",
-      "title_original": "Trump says he does not believe China and Russia are helping Iran 'at all' - The Edge Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92X3ZPUTlqd0JCNzFHbnM3LUhWSm40NWVUM0MxYUZQdF9PNFBYVzlTOF9aZWZ4TTNxQUlJRXRMdXZEZExPMmFESk1FYjd5bXBL?oc=5",
-      "summary": "ترامپ می‌گوید باور ندارد که چین و روسیه «اصلاً» به ایران کمک می‌کنند",
-      "summary_original": "Trump says he does not believe China and Russia are helping Iran 'at all' The Edge Malaysia",
+      "title": "رویترز: ترامپ می گوید باور ندارد که چین و روسیه به هیچ وجه به ایران کمک می کنند",
+      "title_original": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5",
+      "summary": "ترامپ می گوید باور ندارد که چین و روسیه به هیچ وجه به ایران کمک می کنند",
+      "summary_original": "Trump says he does not believe China and Russia are helping Iran 'at all' Reuters",
       "source": "Google News",
       "category": "politics",
       "tags": [
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-13T07:32:24+03:30",
-      "published_fa": "1405/07/21 - 07:32",
+      "published": "2026-10-13T07:23:00+03:30",
+      "published_fa": "1405/07/21 - 07:23",
       "translated": true,
       "verified_source": true
     },
     {
-      "title": "پیلای برنده جایزه صلح نوبل حملات ترامپ به دیوان کیفری بین‌المللی را \"کاملا غیرقانونی\" خواند - خبرنگاران صحرا",
+      "title": "پیلای برنده جایزه صلح نوبل حملات ترامپ به دیوان کیفری بین المللی را \"کاملا غیرقانونی\" خواند - خبرنگاران صحرا",
       "title_original": "Nobel Peace Prize Winner Pillay Slams Trump's Attacks On ICC As \"Completely Unlawful\" - Sahara Reporters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcW15cHpjNWY1OGJOMC01LXhQVWVUVkFvSW9qbWRCMmE4WkxsdWxqckswdzRkVGo5N05ETFNxRWZac3I5Zmk5bE5lbXJzNV81TThQaDFPM2NLNElIemtSUVplMUN6Mnpza2J6WEg2Z05TRWRLNzByRVpjZTN1RGdqOU1Vei1HenRnRnFHSnBhaTdDY1RtSWlwV2E4WldoT1RVblFYUzhIWnJxbDVFQXBmMGZPc1R5dw?oc=5",
-      "summary": "پیلای، برنده جایزه صلح نوبل، حملات ترامپ به دیوان بین‌المللی کیفری را \"کاملاً غیرقانونی\" گزارشگران صحرا محکوم کرد.",
+      "summary": "پیلای، برنده جایزه صلح نوبل، حملات ترامپ به دیوان بین‌المللی کیفری را محکوم کرد و آن‌ها را «کاملاً غیرقانونی» خواند.",
       "summary_original": "Nobel Peace Prize Winner Pillay Slams Trump's Attacks On ICC As \"Completely Unlawful\" Sahara Reporters",
       "source": "Google News",
       "category": "military",
@@ -611,7 +733,7 @@
       "verified_source": true
     },
     {
-      "title": "حملات تجاری روسیه و اوکراین در بحبوحه تردید در مورد \"آتش بس انرژی\"",
+      "title": "حملات تجاری روسیه و اوکراین در بحبوحه تردید درباره «آتش بس انرژی»",
       "title_original": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
       "summary": "رئیس جمهور اوکراین می گوید حملات روسیه به زیرساخت های انرژی اوکراین با وجود «آتش بس انرژی» ادامه دارد.",
@@ -646,7 +768,7 @@
       "title": "عراقچی پیشنهاد میانجیگری ایران در مذاکرات عربستان و حوثی ها و خواستار پایان دیپلماتیک خصومت ها - جروزالم پست",
       "title_original": "Iran's Araghchi offers to mediate Saudi-Houthi talks, calls for diplomatic end to hostilities - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85UUh6WkM2eW5pWjczdFdaZTlEV195WXluaXhpLUV6LVJreTNSVEVrQTlfWFlVYUtMUkpXbGVKTmZzb0JGQmxCNUNoU3RpYkZ6bnpWVWV0a2dsQWk1eFR6YUVqV2czMzNocVE?oc=5",
-      "summary": "پیشنهاد عراقچی ایران برای میانجیگری در مذاکرات عربستان و حوثی ها و خواستار پایان دیپلماتیک خصومت ها جروزالم پست",
+      "summary": "عراقچی پیشنهاد میانجیگری ایران در مذاکرات عربستان و حوثی ها را خواستار پایان دیپلماتیک خصومت ها شد روزنامه جروزالم پست",
       "summary_original": "Iran's Araghchi offers to mediate Saudi-Houthi talks, calls for diplomatic end to hostilities The Jerusalem Post",
       "source": "Google News",
       "category": "politics",
@@ -663,7 +785,7 @@
       "title": "جنگ ایران خاورمیانه را به سمت رکود سوق می دهد زیرا صندوق بین المللی پول درباره رکود اقتصادی هشدار می دهد - مالایی میل",
       "title_original": "Iran war pushes Middle East towards recession as IMF warns of economic slump - Malay Mail",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSFVVdDJKYjJUOFk1cE9fRDd3V3hzdUg3VnJoblpkZ2d5VGRETUZDeGcyRzhvS0RDdHNUTlZsM1FQc3ZWaEx2ZHF6Qkd3THNna3p6MVRLYy1kek1nTWNCbUxvc0xBT0JXUnNVY20yVDdYVE5samE1elpZVnZSOENhYTg0QUxOa0ZYSmVaOUxUNUZTb0lNSW8taFVwOGZocGdscDlrYlRwQWhrSXpBMU5OU1pvS3EyblRuZmNpN3B5Ym9rbmpmMXAwVjloRdIB0AFBVV95cUxOZDgyVjZtQkdDWm5GNkY2MjFUcmRVR2VrTktna0szM3ptQUxKWm1VRkxVNGtUM1hjWmxzdGh0LWR0empTdWZCZHMydGpQVW5FRFAydkdudXBvdDU5VUdZZkUxeW9oTlo0R1JpakI5dWlvWlhfVkdHLUh4RkwybmFiRFQ1S1ZnYmtTd3JwZzhMd0ltZmpDMy1FNG5ObHUxekl6LWxMYmRuekZnZXY1ZldJU3BzdDlLRFVTd2RjSkc2SG1CUDM1d284Z2VaQXVtNzBI?oc=5",
-      "summary": "جنگ ایران خاورمیانه را به سمت رکود سوق می دهد زیرا صندوق بین المللی پول درباره رکود اقتصادی هشدار می دهد مالایی میل",
+      "summary": "جنگ ایران خاورمیانه را به سمت رکود سوق می دهد، زیرا صندوق بین المللی پول درباره رکود اقتصادی هشدار می دهد",
       "summary_original": "Iran war pushes Middle East towards recession as IMF warns of economic slump Malay Mail",
       "source": "Google News",
       "category": "economy",
@@ -693,7 +815,7 @@
       "title": "ایران سایت های هسته ای را تقویت می کند و مردم خود را برای بازگشت به جنگ جمع می کند - WSJ",
       "title_original": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting - WSJ",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTkwZW9nLXl1eWlMQlZFd0oxTU40NEhlT1hJbDdhaGRpc3IyWkl4YzhPa1AzelhJNDRSVGdNT2x5akdidldLdklIVkRmYTE5ckhsQmxGR3Y2ZmdXUlJQZHBXMFA0cElkWlBKU19yaTQ1QUVFZjJobk8zckw0Z1lCWlM5YWhoSmRUckNMMW0xNVdCbUhiSEwzVlVIR0d3TDJaUy1Lc2UxTFpPZWIxX3dPTUJ3LWF4bTFmUVRxSVdZeHpSZkZwTVJF?oc=5",
-      "summary": "ایران سایت‌های هسته‌ای را تقویت می‌کند و مردم خود را برای بازگشت به جنگ با WSJ جمع می‌کند.",
+      "summary": "ایران سایت های هسته ای را تقویت می کند و مردم خود را برای بازگشت به جنگ با WSJ جمع می کند",
       "summary_original": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting WSJ",
       "source": "Google News",
       "category": "social",
@@ -705,11 +827,11 @@
       "verified_source": true
     },
     {
-      "title": "تجزیه و تحلیل • تله ترامپ: چگونه یک طناب نجات سعودی می تواند آتش جنگ تازه ای با ایران ایجاد کند - هاآرتص",
-      "title_original": "Analysis • Trump's trap: How a Saudi lifeline could ignite fresh war with Iran - Haaretz",
+      "title": "تحلیل • آیا ترامپ از عربستان سعودی دفاع خواهد کرد و تا کجا پیش خواهد رفت؟ - هاآرتص",
+      "title_original": "Analysis • Will Trump defend Saudi Arabia – and how far will he go? - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRWloRTlVT2ZwYk83ZWdjbmNldDhWVEdjMDU4MV9YV2U5ekFwS3hCdkJPODJ4THZxdG1xbTljNy0yOTRMb3haNlNVRkt2R243U2dvS3NHV3hubnlVc0xkSFVkZDFNQkZRMXoxbXhVeDF1WDRyNGgxeko5UG1TMXFnSDJFaHEwQm5PZThlM0JMT2VWYTBaNktPZkJ2VC1kYTBhRlZaS0dRTGpmRUlzcWZrb2tlRjVlcFNXcFFxMEI0OWNBS19tYVppcUlFb3hNVkJPMGMtT0dvXy1nUzU3QThsM2VmYkpPZmdwdHh1MUx0YjdoR1hjLVJUWWpPQkZZZ3k0eC0yTA?oc=5",
-      "summary": "تجزیه و تحلیل • تله ترامپ: چگونه طناب نجات سعودی می تواند آتش جنگ تازه ای با ایران هاآرتص ایجاد کند",
-      "summary_original": "Analysis • Trump's trap: How a Saudi lifeline could ignite fresh war with Iran Haaretz",
+      "summary": "تحلیل • آیا ترامپ از عربستان سعودی دفاع خواهد کرد و تا کجا پیش خواهد رفت؟ هاآرتص",
+      "summary_original": "Analysis • Will Trump defend Saudi Arabia – and how far will he go? Haaretz",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -755,7 +877,7 @@
       "verified_source": true
     },
     {
-      "title": "جنگ تیگری در اتیوپی: امارات و عربستان سعودی کجا ایستاده اند؟",
+      "title": "جنگ تیگری اتیوپی: امارات و عربستان سعودی در کجا ایستاده اند؟",
       "title_original": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
       "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
       "summary": "درگیری تیگری، حمایت امارات از اتیوپی و نقش دیپلماتیک عربستان سعودی را تحت نظارت قرار می دهد.",
@@ -770,7 +892,7 @@
       "verified_source": true
     },
     {
-      "title": "رئیس‌جمهور بارزانی - رووداو: گروه‌های اپوزیسیون کرد در طول جنگ ایران و آمریکا «غیر مسئولانه» عمل کردند",
+      "title": "رئیس‌جمهور بارزانی - رووداو: گروه‌های اپوزیسیون کرد در طول جنگ آمریکا و ایران «غیر مسئولانه» عمل کردند",
       "title_original": "Kurdish opposition groups acted ‘irresponsibly’ during US-Iran war: President Barzani - Rudaw",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4MWRGQ1paZ2RtRktnUnd4Z1B0QnN6OUhzaU1ac2hnLTdQaXlWMWZCdjBRblVCaDhPS0M1QVhIcFhfZmZVTXdKRzA5OEZOekRCTUhXVzVxRndoUF9DRUxRSm83Y3FibEdLY29r?oc=5",
       "summary": "رئیس جمهور بارزانی رووداو: گروه های مخالف کرد در طول جنگ ایران و آمریکا \"غیر مسئولانه\" عمل کردند",
@@ -788,7 +910,7 @@
       "title": "قیمت نفت خام برنت به دلیل حملات عربستان سعودی و ترس از جنگ روسیه و اوکراین از عرضه سوخت به بالای 106 دلار رسید - سود NDTV",
       "title_original": "Brent Crude Oil Holds Above $106 As Saudi Attacks, Russia-Ukraine War Fuel Supply Fears - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVdYaV8tdFhZVlRVSzBtRzhfM1NXbTVHOVR0aHU3SVFFWUdGUFp4WW1zMTFmTDNMTUFqMm9wOVR6ZHNqaHl3bE1kaGhFTE1PSHJTS1lzVGh6QmdzaXNiME9zWkNtTV9sOUx5cjB6YU5EcFQzV1B3dTNYNXBxYldVVlNuUGdsY05lN3ZiZ21zcTgzbzlBcFNsTHBRU2xZcE5WcXZNQ1I2a2JJcGp6dmZzMlZ6dWdvaUEtdzh2emhxQW1OX05RdWxLSXRPMkRxZDFhcUM3UFI1TEU3b3BITTBDdTlMNVhPMTh3dFlnUmNOT0w1dnBpeHJ2d2pJUWgycTJaT0Fv0gGLAkFVX3lxTE5wVzN4VFRtQ1l2eENFVHQ2N21ZX0JoVVRHeUpyV2pTOWQ3S1FyVml2cEZUcWw5T0pVM0xPRzM2SWZ0Q0QyQm9BOHJLNXpmSjhxMVpUY01GeTRnMmtHMVlhWDA4Z215VzdSbERDcXhSMFRwMng3UjMtWGplU2NlOWFscFlVQ1lQNTdHRmwtZ3AtUWdpOE1VN1ZkcnBqNUlhd3Eyd1V6Sm1qUzdiaXdwMXNXSUk5NkctMjgyRG54X3JKWjliVm9iWGF1LWU4anZBdDB3anhSTndCalp0c0p4VE8zSWMwOEUtR2QyNE1fX3JLcTRUeHpUZlROY2pHcFpidzhNbURrNVU0TjdQVQ?oc=5",
-      "summary": "قیمت نفت خام برنت با حملات عربستان سعودی به بالای 106 دلار رسید، عرضه سوخت جنگی روسیه و اوکراین از سود NDTV نگران است.",
+      "summary": "قیمت نفت خام برنت با حملات عربستان سعودی به بالای 106 دلار می رسد، عرضه سوخت جنگی روسیه و اوکراین از سود NDTV نگران است.",
       "summary_original": "Brent Crude Oil Holds Above $106 As Saudi Attacks, Russia-Ukraine War Fuel Supply Fears NDTV Profit",
       "source": "Google News",
       "category": "military",
@@ -943,7 +1065,7 @@
       "title": "احتیاط بالا برای سفر به خاورمیانه پس از حملات حوثی ها توصیه می شود - ABC News & Headlines - Australian Broadcasting Corporation",
       "title_original": "High degree of caution advised for Middle East travel after Houthi strikes - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWdQSHNoWjNRUjlUMVFqN00zUE1fZEQ2RWhVRUVjVTFsYldoOXZISUUwTmJJMlpPY1FDQTc4SHd6bUNyNWp5ZmczZzNKODc1N3hrMjVmSGpCaWNoSVFMZ3hsSFYyR3Fqb09iTzdNOTVFQk16Sk80Tnk2aEF0c3M2NWxKWDB3Zjd5Y0EyeVN1U2pKRXJyUF9zUw?oc=5",
-      "summary": "پس از حمله حوثی‌ها به ABC News & Headlines - شرکت پخش استرالیایی، در سفر به خاورمیانه احتیاط بالا توصیه می‌شود.",
+      "summary": "پس از حمله حوثی ها به ABC News & Headlines – Australian Broadcasting Corporation توصیه می شود درجه احتیاط بالایی برای سفر به خاورمیانه توصیه شود",
       "summary_original": "High degree of caution advised for Middle East travel after Houthi strikes ABC News & Headlines – Australian Broadcasting Corporation",
       "source": "Google News",
       "category": "military",
@@ -1035,10 +1157,10 @@
       "verified_source": true
     },
     {
-      "title": "لهستان می گوید دو ترک به دلیل آتش سوزی ایستگاه استارلینک مرتبط با روسیه دستگیر شدند",
+      "title": "لهستان می گوید دو ترک به دلیل آتش سوزی ایستگاه Starlink مرتبط با روسیه دستگیر شدند",
       "title_original": "Poland says two Turks arrested over Russia-linked Starlink station fire",
       "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
-      "summary": "ورشو می گوید دو مظنون بازداشت شده در آلمان با اتهامات خرابکاری روبرو خواهند شد.",
+      "summary": "ورشو می گوید 2 مظنونی که در آلمان نگهداری می شوند با اتهامات خرابکاری روبرو خواهند شد.",
       "summary_original": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
       "source": "Al Jazeera",
       "category": "other",
@@ -1268,21 +1390,6 @@
       "verified_source": true
     },
     {
-      "title": "عبدی والی به عنوان اولین پناهنده متولد سومالی در پارلمان بریتانیا تاریخ ساز شد",
-      "title_original": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
-      "summary": "ساگل عبدی والی، نماینده تازه سوگند خورده حزب کارگر، اولین زن پناهجوی سومالیایی است که به پارلمان بریتانیا راه یافته است.",
-      "summary_original": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
-      "source": "Al Jazeera",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T00:38:08+03:30",
-      "published_fa": "1405/07/21 - 00:38",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "بختیاری‌زاده پس از برد استقلال: باید گل‌های بیشتری می‌زدیم، اما دو مصدومیت بی‌موقع داشتیم",
       "title_original": "",
       "link": "https://www.iranintl.com/202610128466",
@@ -1316,7 +1423,7 @@
       "title": "\"سوال مضحک\": السید، جویای سنا پشت انتقاد اسرائیل ایستاده است - میز اخبار ملی",
       "title_original": "'Ridiculous question': Senate seeker El-Sayed stands behind Israel criticism - National News Desk",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNakNrQUlzN2o1XzFtLU90dHhYbF94S2lRdmo1Wm9BdEQzSnBTTUF4Z0ZfbG9IZUdsSjdlNjk1R0NVNDljSHlmdUhXeFVvalpaM0NKeFJlVnIzTDkwUXJibWRLel9RelZHM1FLY0UtcFBOaHJIU0Z4UDRhblBETFJSSTY5SWpfazRkZ1V6VFlaUHdmYzBRN3BWYS1WckFPdUZTVXd4a216RDNYODVLendqYjRTei1IcHoxTVhUc2xya1hRS3ZCVTRSYVk2VW5jNnpmNzJoaGRoa1dicm9mS2Zrbms5dGt6MTVUbGJaMkNnSzkyRks3Y0ZaRkFHYTBBRmR4Z3JhTVpIb3Rmd2I0Z1k4VkpGYnU0bDBrd2hvQU5YYw?oc=5",
-      "summary": "\"سوال مضحک\": السید، جویای سنا، پشت سر انتقادات از اسرائیل ایستاده میز اخبار ملی",
+      "summary": "\"سؤال مضحک\": السید، جویای سنا، پشت سر انتقادات اسرائیل ایستاده میز اخبار ملی",
       "summary_original": "'Ridiculous question': Senate seeker El-Sayed stands behind Israel criticism National News Desk",
       "source": "Google News",
       "category": "other",
@@ -1376,7 +1483,7 @@
       "title": "کن مارتین، رئیس DNC، وقتی بر سوسیالیست‌های دموکراتیک فشار می‌آورد، از استراتژی «خیمه بزرگ» دفاع می‌کند",
       "title_original": "DNC Chair Ken Martin defends 'Big Tent' strategy when pressed on democratic socialists",
       "link": "https://www.foxnews.com/politics/dnc-chair-ken-martin-defends-big-tent-strategy-when-pressed-democratic-socialists",
-      "summary": "کن مارتین، رئیس کمیته ملی دموکرات، روز دوشنبه از رویکرد بزرگ حزبش دفاع کرد و گفت که دموکرات‌ها باید به گسترش ائتلاف خود ادامه دهند، حتی در شرایطی که جمهوری‌خواهان این حزب را به دلیل پیوندهایش با سوسیالیست‌های دموکراتیک هدف قرار می‌دهند. مارتین در طول مصاحبه ای در MSNOW در مورد اینکه آیا سوسیالیست های دموکرات آمریکا (DSA) مسئولیتی برای حزب پیش از انتخابات میان دوره ای است یا خیر، تحت فشار قرار گرفت. مارتین گفت: «بنابراین اجازه دهید فقط بگویم، من همیشه رویکرد بزرگی در مورد نحوه ایجاد یک مهمانی داشته‌ام. \"به همین دلیل است که من در تمام این سال ها در مینه سوتا موفق بودم. من معتقدم که شما از طریق جمع برنده می شوید، نه تفریق. شما با رشد ائتلاف خود برنده می شوید، نه کوچک کردن آن.\" نیوزوم به دموکرات ها می گوید که با سوسیالیست ها در تجارت «افزودن نه تفریق» باشند «و گاهی اوقات، آیا حد وسطی وجود دارد،",
+      "summary": "کن مارتین، رئیس کمیته ملی دموکرات، روز دوشنبه از رویکرد بزرگ حزبش دفاع کرد و گفت که دموکرات‌ها باید به گسترش ائتلاف خود ادامه دهند، حتی در شرایطی که جمهوری‌خواهان این حزب را به دلیل پیوندهایش با سوسیالیست‌های دموکراتیک هدف قرار می‌دهند. مارتین در طول مصاحبه ای در MSNOW در مورد اینکه آیا سوسیالیست های دموکرات آمریکا (DSA) مسئولیتی برای حزب پیش از انتخابات میان دوره ای است یا خیر، تحت فشار قرار گرفت. مارتین گفت: «بنابراین اجازه دهید فقط بگویم، من همیشه رویکرد بزرگی در مورد نحوه ایجاد یک مهمانی داشته‌ام. \"به همین دلیل است که من در تمام این سال ها در مینه سوتا موفق بودم. من معتقدم که شما از طریق جمع برنده می شوید، نه تفریق. شما با رشد ائتلاف خود برنده می شوید، نه کوچک کردن آن.\" نیوزوم به دموکرات‌ها می‌گوید که با سوسیالیست‌ها در تجارت «افزودن نه تفریق» باشند «و گاهی اوقات، آیا حد وسطی وجود دارد،",
       "summary_original": "Democratic National Committee Chairman Ken Martin defended his party's big-tent approach Monday, arguing Democrats must continue expanding their coalition even as Republicans target the party over its ties to democratic socialists. Martin was pressed during an interview on MSNOW about whether the Democratic Socialists of America (DSA) is a liability for the party ahead of the midterm elections . \"So let me just say, I've always taken a big-tent approach to how you build a party,\" Martin said. \"That's why I was successful for all these years in Minnesota. I believe you win through addition, not subtraction. You win by growing your coalition, not shrinking it.\" NEWSOM TELLS DEMOCRATS TO BE IN THE 'ADDITION NOT SUBTRACTION' BUSINESS WITH SOCIALISTS \"And sometimes, is there a middle ground, though, when Americans see that…\" interjected MSNOW anchor Peter Alexander. \"No, not at all, because that's where the vast majority of Americans are at,\" Martin replied. \"Maybe right in the middle, or a little center-left, or a little center-right. But it doesn't mean we can't bring new voices into the party, right? Of course, we have to keep growing and we have to keep expanding this tent,\" Martin reiterated. SEE IT: TOP DEM OPERATIVE DRAWS LINE AT ‘DEPLORABLE’ HASAN PIKER AFTER TOUTING PARTY’S ‘BIG TENT’ Fox News Digital has reached out to the Democratic National Committee for comment. \"Democratic Party Chair Ken Martin embraces far-Left radicals who want to abolish the police, prisons, and ",
       "source": "Fox News",
       "category": "other",
@@ -1400,21 +1507,6 @@
       "published": "2026-10-13T00:00:02+03:30",
       "published_fa": "1405/07/21 - 00:00",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "کمبود رهگیرهای عربستان سعودی برای دفاع در برابر حملات موشکی حوثی ها - گزارش | وبلاگ زنده - i24NEWS",
-      "title_original": "Saudi Arabia running low on interceptors to defend against Houthi missile strikes – report | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnk0S3BhOHk4aWswOXl0bFRlckl0WEQ3WjczWWZWcE4wbzJ1OU9hbDZsMF9tb005UzY2cTd0VE1nOXlqanY2MzcwdHRQaG9TM2IybXQ5QnNiQzZZSWV3am5MaWdPWmZpWGw0VXBPb2FfNEM0Sl93STB1ai1YWnJPTFI5ZkpCcmI0ZThGc1lXbnB4ZFdGX1ZXZkpfRHlIZTkzaGtmTW9DUzd1RW95WjhGTVBBOFRMVTNBQ0wyRmdMRzdnSmNqTUd5eFExbG56NXlaUnJpalk0MlZKNkx2VmRKM213?oc=5",
-      "summary": "کمبود رهگیرهای عربستان سعودی برای دفاع در برابر حملات موشکی حوثی ها - گزارش | وبلاگ زنده i24NEWS",
-      "summary_original": "Saudi Arabia running low on interceptors to defend against Houthi missile strikes – report | LIVE BLOG i24NEWS",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-12T23:59:01+03:30",
-      "published_fa": "1405/07/20 - 23:59",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -1459,6 +1551,21 @@
       "urgent": false,
       "published": "2026-10-12T23:30:47+03:30",
       "published_fa": "1405/07/20 - 23:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "بدترین سناریوی ایران در عربستان سعودی حتی آغاز نشده است - مجمع خاورمیانه",
+      "title_original": "Saudi Arabia’s Worst-Case Iran Scenario Hasn’t Even Begun - Middle East Forum",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVRQbUEycThXZVNoZUdFMl9Za3BXTzdmbldFRWltT2dXTWF3LUlQRmxQU0ZYZVN6Skxlck04SUw3YzRicWZEX19kSVYzdHJ4U08yVFNQbnNQQk1PRklPdV9lcU1NN1MydmRvMkRIR0ZNYVZ5b184dFlxaDlha1FwMnNvZDBlMDZ5Z0dDVUtBYkRoM1Vy?oc=5",
+      "summary": "بدترین سناریوی ایران در عربستان سعودی حتی مجمع خاورمیانه را آغاز نکرده است",
+      "summary_original": "Saudi Arabia’s Worst-Case Iran Scenario Hasn’t Even Begun Middle East Forum",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T23:26:15+03:30",
+      "published_fa": "1405/07/20 - 23:26",
       "translated": true,
       "verified_source": true
     },
@@ -1641,7 +1748,7 @@
       "title": "قاضی منصوب بایدن با سابقه درگیری های آتشین ترامپ در وزارت دادگستری فوران کرد: \"شما تمام اعتبار خود را از دست دادید!\"",
       "title_original": "Biden-appointed judge with history of fiery Trump clashes erupts at DOJ: 'You've lost all credibility!'",
       "link": "https://www.foxnews.com/politics/biden-appointed-judge-history-fiery-trump-clashes-erupts-doj-lost-all-credibility",
-      "summary": "یک قاضی فدرال منصوب بایدن که قبلاً شکایتی رسمی از وزارت دادگستری دونالد ترامپ، رئیس جمهور آمریکا به دلیل تعصب ادعا کرده بود، بار دیگر در روز دوشنبه در یک رویارویی شدید بر سر برداشتن سریع درختان در یک زمین گلف تاریخی در پارک ملی، در میان وکلای دولت فوران کرد. قاضی آنا ریس آخرین سرزنش خود را در جریان یک جلسه استماع اضطراری در مورد صدها درخت برداشته شده از لینک های گلف ایست پوتوماک در هاینز پوینت دی سی بیان کرد. ترامپ می خواهد این مرکز عمومی تاریخی را به یک زمین گلف با کالیبر قهرمانی مانند زمین های خود در ایالات متحده، ایرلند و اسکاتلند تبدیل کند - آخرین برخورد دولت دادگاه با مخالفان سیاسی. اسکات مک فارلین، روزنامه‌نگار، که به صورت زنده از جلسه توئیت کرد، ریس را به عنوان «فریاد» در مقابل وکلای دولت توصیف کرد.",
+      "summary": "یک قاضی فدرال منصوب بایدن که قبلاً شکایتی رسمی از وزارت دادگستری دونالد ترامپ، رئیس جمهور آمریکا به دلیل تعصب ادعا کرده بود، بار دیگر در روز دوشنبه در یک رویارویی شدید بر سر برداشتن سریع درختان در یک زمین گلف تاریخی در پارک ملی، در میان وکلای دولت فوران کرد. قاضی آنا ریس آخرین سرزنش خود را در جریان یک جلسه استماع اضطراری در مورد صدها درخت برداشته شده از لینک های گلف ایست پوتوماک در هاینز پوینت دی سی بیان کرد. ترامپ می خواهد این مرکز عمومی تاریخی را به یک زمین گلف با کالیبر قهرمانی مانند زمین های خود در ایالات متحده، ایرلند و اسکاتلند تبدیل کند - آخرین برخورد دولت دادگاه با مخالفان سیاسی. اسکات مک فارلین، روزنامه‌نگار، که از جلسه استماع به صورت زنده توییت کرد، ریس را به عنوان «فریاد» در مقابل وکلای دولت توصیف کرد.",
       "summary_original": "A Biden-appointed federal judge who previously drew a formal misconduct complaint from President Donald Trump's Justice Department for alleged bias erupted at government lawyers again Monday, in a heated showdown over rapid tree removal at a historic golf course on national parkland. Judge Ana Reyes unleashed her latest rebuke during an emergency hearing over hundreds of trees removed from East Potomac Golf Links in Hains Point, D.C. Trump wants to transform the historic public facility into a championship-caliber golf course like his courses in the U.S., Ireland and Scotland – the latest courtroom collision between the administration and its political opponents. Journalist Scott MacFarlane, who live-tweeted from the hearing, described Reyes as \"scream[ing]\" at administration attorneys over the government's late-Friday notification that tree removal would begin Saturday. A government lawyer acknowledged that approximately 430 trees had already been cut down, according to MacFarlane. OBAMA-APPOINTED JUDGE TORCHES TRUMP ADMIN IN LATEST COURTROOM SHOWDOWN, REFERS ATTORNEY FOR BAR REVIEW \"You've lost credibility!\" Reyes told government attorneys, according to MacFarlane's live courtroom reporting. The administration maintains that the removals implement a 2019 National Park Service landscape-restoration plan predating Trump's redesign proposal for the links, which sit on an island connected to the city proper by the Jefferson Memorial and Francis Case Bridge at its western edge. ",
       "source": "Fox News",
       "category": "politics",
@@ -1702,7 +1809,7 @@
       "verified_source": true
     },
     {
-      "title": "هاآرتص: نتانیاهو به دنبال پیوستن به نبرد عربستان علیه حوثی‌ها است، ولیعهد مخالف این اقدام است.",
+      "title": "نتانیاهو به دنبال پیوستن به نبرد عربستان علیه حوثی‌ها است، ولیعهد مخالف این اقدام است - هاآرتص",
       "title_original": "Netanyahu seeks to join Saudi's fight against Houthis, crown prince opposes move - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1pvMFQ0Z3o5UTVPUU1MbnBVYTQxZE1Jc1hWdVRPNEJwNlJfWTQ1eXByTVNIeDV0VUpfbW1INWNJemo3UXVWaDdnaHBlTlRwaHUtdE5idTFFY1Z2dEpsX19SMHFWeTJmelBzbGloN25EaTdWdTVwazZfc3Z1djkwZHdDdS1Oc1M3bktMUDZNNkVkbG5HYkltWUdxWENXWjNUZks4MG5Ic0RmZU5lNEhRUWx0Rk1PSDViOU9GbEJwWGNvemJ1OXV4Tm9sVXZMTU44QkhWV3JKbDNRMHozYXVGOU9mUV9lMTNNVFFxVnlJRUdrSFBsUGVreEJtaERBek93Smc2N0NGbEZUejdaRTVOYktDLWVIZw?oc=5",
       "summary": "نتانیاهو به دنبال پیوستن به نبرد عربستان علیه حوثی‌ها است، ولیعهد مخالف حرکت هاآرتص است",
@@ -1812,10 +1919,10 @@
       "verified_source": true
     },
     {
-      "title": "گفته می شود مشاور مایک هاکبی گزارش های انتقادی و تغییر یافته در مورد اسرائیل را سرکوب کرده است - میز اخبار ملی",
+      "title": "گفته می شود مشاور مایک هاکبی گزارش های انتقادی از اسرائیل را تغییر داده و سرکوب شده است: گزارش - میز اخبار ملی",
       "title_original": "Mike Huckabee adviser allegedly suppressed, altered reports critical of Israel: report - National News Desk",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxON1haM1BETHFNU0lPb0p2OGFQMTNBRDlLYThTLTBKR2VvSEVtTGFVWVhRZUo3QTFscm1VZk9uU2o4S1g1bmVHNjVmVDlWWDhrcjFsQkhKbzVuU2M2X3dvOV8xbWNIaXRZM3l0X3M4VW84aS1UcU5seWVEYzB3V2lrX2pTZWU4aDZxWV9JM0NjcmYtbmdBYnJwbi0zUXNnS2NUcUxWN1Bra2NOOW83aU14LVY4WWRNZGozMGRYdjlhMThxN0w2X2Zta1Z6dDktVmZXZkdJQzZZZ3JSV2NrTlRwZTZqNjRsYVdjYU1fcU5reXczS05fckdoeW9iSFJKUGdTRUQ4NDNvR0s5ak4yTm9pN3YyeFlNN1VOOGVrN1dhOVM0X2UzSXBCYjdrOWc4NmVnSGRnNDdMSm10SEY1c2pndk1Qb2NPYUFwSEdEb3lpdktzQmJRUjduNGwyUko5Zw?oc=5",
-      "summary": "گزارش میز اخبار ملی: گفته می شود مشاور مایک هاکبی گزارش های انتقادی و تغییر یافته از اسرائیل را سرکوب کرده است",
+      "summary": "گزارش میز اخبار ملی: ظاهراً مشاور مایک هاکبی گزارش‌های انتقادی از اسرائیل را سرکوب کرده است",
       "summary_original": "Mike Huckabee adviser allegedly suppressed, altered reports critical of Israel: report National News Desk",
       "source": "Google News",
       "category": "other",
@@ -1892,7 +1999,7 @@
       "title": "رسانه دولتی ایران می‌گوید سفیر ایران در بریتانیا نقش داشتن در توطئه نیروهای هوایی فیرفورد را رد می‌کند - Middle East Eye",
       "title_original": "Iran's ambassador to UK denies role in RAF Fairford plot, Iranian state media says - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXNRT2VpMnJUY3hrSWtMdHNPR0s1STlabGhUZllJbERCNmtwdG9TQkFKU1BWMVVGSzgzOVczOXlfcW0zMDdGdnFwSUFncjhycmVVTERfZ0luUENaWmw1TmxWdEk3Ui1KWkNBZ0ZlU1V0V0hvTjk0S1Zydm9lSjgyYnhmQk11WWVuWm1KYXRsdFBGQlk3UTNaNGQyUWo5RGFFdUNHaGg2MEN6cTlhUVlfaDJMbWRYWUs5Z21rellFVTlQcjZBOFBWNw?oc=5",
-      "summary": "رسانه های دولتی ایران می گویند میدل ایست آی، سفیر ایران در انگلیس نقش داشتن در توطئه نیروی هوایی ارتش فیرفورد را رد می کند.",
+      "summary": "رسانه دولتی ایران می گوید که میدل ایست آی، سفیر ایران در بریتانیا نقش داشتن در توطئه نیروی هوایی ارتش فیرفورد را رد می کند.",
       "summary_original": "Iran's ambassador to UK denies role in RAF Fairford plot, Iranian state media says Middle East Eye",
       "source": "Google News",
       "category": "military",
@@ -1904,22 +2011,7 @@
       "verified_source": true
     },
     {
-      "title": "عوامل هرج و مرج حوثی افراد قبیله ای سرکش نیستند. ایندیپندنت - آنها به توطئه ایران و روسیه برای ایجاد ویرانی پیوسته اند",
-      "title_original": "Houthi agents of chaos are no unruly tribesmen. They have joined Iran and Russia’s plot to wreak havoc - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2VHSGVaVGlhdXA4VjBuMVBPOUdDZTROV1FPcnVwd09sSFNmRmVjTFpnZ1hkUnl3LXgxaDlUUFgzMEt0bDF6dTQ3SEpTRDhfYjE4eTVXeTBsYlM4bmtkb2pyWnlhMUVXX2JNaURkZHNUOGlBalB0blk2TEU3UWdOVXVyMXdMNlVJOGZmMmhCcHd4RVZDZVhDdHN5VWNKUzB1WGVKZUlHc1FCQ1RMa2I2LVlNMEJndUl3MEhz?oc=5",
-      "summary": "عوامل هرج و مرج حوثی افراد قبیله ای سرکش نیستند. آنها به توطئه ایران و روسیه برای ویران کردن ایندیپندنت پیوسته اند",
-      "summary_original": "Houthi agents of chaos are no unruly tribesmen. They have joined Iran and Russia’s plot to wreak havoc The Independent",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T19:59:00+03:30",
-      "published_fa": "1405/07/20 - 19:59",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "عربستان سعودی پروازها را لغو کرد و تهدید کرد که با تشدید جنگ، به حملات حوثی ها پاسخ جدی خواهد داد - ایندیپندنت",
+      "title": "عربستان سعودی پروازهای خود را لغو کرد و تهدید کرد که با تشدید جنگ به حملات حوثی ها پاسخ جدی خواهد داد - ایندیپندنت",
       "title_original": "Saudi Arabia cancels flights and threatens severe response to Houthi attacks as war escalates - The Independent",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEFwb21OXzREczc3dm1Ha3JnRzgza2o1cENFcXpBb3VDb2JtdW9xaGk3RXpieVRYSHNBcHNaWGJ1V1R6cFhzNTRmYVlRLTJVQmtFSlBMdXg2c19SeC1SeFJDbGI5MHNTbHBTUXVFTi0zeE5wdFEyZWdPbW91QTNrUjNtV1RHZmZVek5NT01FX2pRM0FlUDVBQ2RwSDRhOUZDSWVXY3pxa3ZtOHNk?oc=5",
       "summary": "عربستان سعودی پروازها را لغو کرد و تهدید کرد که به حملات حوثی‌ها با تشدید جنگ پاسخ جدی خواهد داد.",
@@ -1966,7 +2058,7 @@
       "verified_source": true
     },
     {
-      "title": "جروزالم پست پهپادهای ایرانی به کمپ مخالفان کردهای ایران در شمال عراق حمله کردند",
+      "title": "جروزالم پست پهپادهای ایرانی به اردوگاه مخالفان کردهای ایرانی در شمال عراق حمله کردند",
       "title_original": "Iranian drones hit Iranian Kurdish opposition camp in northern Iraq - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yT3FsMGR1Tm9DYWZxb1RJdzRFQUhnaUN6S0lXdWtSM1ZNeFJ2QWRnMS1nLWdOM2J6bzRsU0NPcVNKeGZZM1lkVjJ1VENaTlFMdzBGSGRpWnFBLU11cExqREwycGFuYW1Hc2c?oc=5",
       "summary": "پهپادهای ایرانی به اردوگاه مخالفان کردهای ایران در شمال عراق، روزنامه جروزالم پست حمله کردند",
@@ -2016,7 +2108,7 @@
       "title": "گزارشگر سازمان ملل به اعتصاب غذای هفتگی به دلیل افزایش اعدام ها و سرکوب اعتراضات در ایران پیوست - جروزالم پست",
       "title_original": "UN rapporteur joins weekly hunger strike over Iran's execution surge and protest crackdown - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRNmc5Z19sR0ZaMENFenZTT2YtYnBqNy1JZ1hjMzFXTVpyUDJ5UG8tWVRJcVUzOEY3QjRqdnlRNm5QN0d0TGxhOHZhMG41NGtxMlNkLTR4d2Y4UXdzOXJ1U2tfZU1wTTNjb2c?oc=5",
-      "summary": "گزارشگر سازمان ملل به اعتصاب غذای هفتگی به دلیل افزایش اعدام‌ها و سرکوب اعتراضات در ایران پیوست. جروزالم پست",
+      "summary": "گزارشگر سازمان ملل متحد به اعتصاب غذای هفتگی به دلیل افزایش اعدام‌ها و سرکوب اعتراض‌ها در ایران به جروزالم پست پیوست.",
       "summary_original": "UN rapporteur joins weekly hunger strike over Iran's execution surge and protest crackdown The Jerusalem Post",
       "source": "Google News",
       "category": "military",
@@ -2031,7 +2123,7 @@
       "title": "نخست‌وزیر انگلیس: تایمز اسرائیل: حادثه پایگاه هوایی بریتانیا «تقریباً مطمئناً» توسط سپاه پاسداران ایران هدایت شده است.",
       "title_original": "British airbase incident ‘almost certainly directed’ by Iran Guards, says UK PM - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0Fva0VQN3g3UlViRHVEUDhya0JhdHlXNGpLYlVOcWxsNEtGbWRqYjdta29fMWctdTh3ZTRfZ3ZWSmVpczUteDRETUZ4S05NSk1hLW5VYzJBUEppNi1SRG1ONVRYbDVNWk1kS0M3aHRKQjBIdUZWZm8wazZFaGNtN0htOWVYdVJkMHZaRHRtQTRnUURsM2MxUnREWUZzcW80QjVfN2l4QWxjd0xZVk5pbGZnV2pEV1MxYlJRckdDSQ?oc=5",
-      "summary": "نخست‌وزیر انگلیس تایمز اسرائیل می‌گوید: حادثه پایگاه هوایی بریتانیا «تقریباً مطمئناً» توسط سپاه پاسداران ایران هدایت شده است.",
+      "summary": "نخست‌وزیر بریتانیا تایمز اسرائیل می‌گوید حادثه پایگاه هوایی بریتانیا «تقریباً مطمئناً» توسط سپاه پاسداران ایران هدایت شده است.",
       "summary_original": "British airbase incident ‘almost certainly directed’ by Iran Guards, says UK PM The Times of Israel",
       "source": "Google News",
       "category": "military",
@@ -2040,21 +2132,6 @@
       "published": "2026-10-12T18:44:45+03:30",
       "published_fa": "1405/07/20 - 18:44",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "در صورت پیروزی در انتخابات، حزب اصلاح بریتانیا وعده داد نظام پناهندگی کشور را تا پنج سال تعلیق کند",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/c3pwgdleq5qko?at_medium=RSS&at_campaign=rss",
-      "summary": "حزب اصلاح بریتانیا (رفرم بریتانیا) اعلام کرده است که در صورت به قدرت رسیدن، نظام پناهندگی بریتانیا را برای یک دوره کامل پارلمان تعطیل خواهد کرد. این حزب اعلام کرد که تمام درخواست‌های پناهندگی جدید را رد و درخواست‌های موجود را باطل می‌کند، همچنین همه متقاضیان را در فهرست اخراج قرار می‌دهد. این حزب اعلام کرد که هیچ گونه حمایت بشردوستانه یا وضعیت پناهندگی اعطا نخواهد کرد؛ در عین حال، به مسیرهای قانونی پناهندگی و طرح‌های اسکان مجدد هم پایان خواهد داد.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T18:41:05+03:30",
-      "published_fa": "1405/07/20 - 18:41",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -2088,7 +2165,22 @@
       "verified_source": true
     },
     {
-      "title": "زلنسکی پوتین را به سرپیچی از فشارهای آتش بس ترامپ متهم کرد و پیامی دقیق به کاخ سفید فرستاد.",
+      "title": "تایمز اسرائیل می گوید که سپاه پاسداران ایران به کشتی در تنگه هرمز حمله کرده است",
+      "title_original": "Iran Guards say they struck vessel in Strait of Hormuz - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTlGOXprdE5JUV9MM1JINVlSUmJkOTJ6OE9aV3VOV3M2STJvelpxZjFTZGJRT09xbUE4MVo5R1YzcHl1ZmJudHRpNWh5UE1iX2ljMTJKRWtYYXhwSnYwMFpMLUZ5UnhEWUh1Y0pVQjYtMkNzQVlKa3AxQzJFdmYwOUxYYXN1amd5cFYyNlVzU0ZEXzNYNDFHaVRUaElTOHIwb0E?oc=5",
+      "summary": "تایمز اسرائیل می گوید که سپاه پاسداران ایران به کشتی در تنگه هرمز حمله کرده است",
+      "summary_original": "Iran Guards say they struck vessel in Strait of Hormuz The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-12T18:19:45+03:30",
+      "published_fa": "1405/07/20 - 18:19",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "زلنسکی پوتین را به سرپیچی از فشارهای آتش بس ترامپ متهم کرد و پیامی دقیق به کاخ سفید فرستاد",
       "title_original": "Zelenskyy accuses Putin of defying Trump's ceasefire push, sends pointed message to White House",
       "link": "https://www.foxnews.com/world/zelenskyy-blasts-putin-defying-trumps-ceasefire-push-sends-pointed-message-white-house",
       "summary": "ولادیمیر زلنسکی، رئیس‌جمهور اوکراین روز دوشنبه به فاکس نیوز گفت که روسیه به حملات خود به زیرساخت‌های انرژی اوکراین، علی‌رغم اعلام دونالد ترامپ، رئیس‌جمهور آمریکا مبنی بر آتش‌بس فوری انرژی، ادامه داد و ولادیمیر پوتین را به رد تلاش‌های صلح واشنگتن و درخواست فشار بیشتر بر مسکو متهم کرد. زلنسکی در گفتگوی زنده با بیل همر در «اتاق خبر آمریکا» گفت: «ما امروز برای آتش‌بس انرژی آماده هستیم، همانطور که پرزیدنت ترامپ گفت، اما مطمئن نیستم که پوتین آماده باشد زیرا حتی پس از پیام‌های دیروز رئیس‌جمهور درباره آتش‌بس انرژی، پوتین به زیرساخت‌های گازی ما حمله کرد». زلنسکی در پاسخ به این سوال که آیا اوکراین به آتش‌بس احترام می‌گذارد، گفت: \"البته\" و تاکید کرد که کیف قبلا از حمله به تاسیسات انرژی روسیه خودداری کرده است.",
@@ -2108,7 +2200,7 @@
       "title": "سپاه پاسداران ایران از اصابت سومین ابرنفتکش متخلف در تنگه هرمز در دو روز گذشته خبر داد - Anadolu Ajansı",
       "title_original": "Iran’s IRGC says 3rd ‘offending’ supertanker hit in Strait of Hormuz in 2 days - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWxWOG5jQVFENjY3b1JfdV9XdE5ELVJQX1NVRGpQTGwzYWJNVkl3eWVrWTJ4R0RWRkRTUEJzeXNhSTFaTjEzQ3EwZ0xhUTZaSjliOEg5QmpzVEtVamoxSVNoYlh5aXZzVElrcmtSUzRCcWNBTGd6OGpfcTdQQlFNQ1RCYWEydDF2OTZvMUhMeWMya1h1MVZyb3ZjVk5JQVg0a2U4RFE4aTlpVWFvaHlOeFY5dmswNmFETjlBcHI3N2pPak1iamdj?oc=5",
-      "summary": "سپاه پاسداران ایران از اصابت سومین ابرنفتکش متخلف در تنگه هرمز طی 2 روز گذشته آنادولو آجانسی خبر داد.",
+      "summary": "سپاه پاسداران ایران از اصابت سومین ابر نفتکش متخلف در تنگه هرمز در 2 روز گذشته آنادولو آجانسی خبر داد.",
       "summary_original": "Iran’s IRGC says 3rd ‘offending’ supertanker hit in Strait of Hormuz in 2 days Anadolu Ajansı",
       "source": "Google News",
       "category": "military",
@@ -2135,10 +2227,25 @@
       "verified_source": true
     },
     {
+      "title": "عوامل هرج و مرج حوثی افراد قبیله ای سرکش نیستند. ایندیپندنت - آنها به توطئه ایران و روسیه برای ایجاد ویرانی پیوسته اند",
+      "title_original": "Houthi agents of chaos are no unruly tribesmen. They have joined Iran and Russia’s plot to wreak havoc - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2VHSGVaVGlhdXA4VjBuMVBPOUdDZTROV1FPcnVwd09sSFNmRmVjTFpnZ1hkUnl3LXgxaDlUUFgzMEt0bDF6dTQ3SEpTRDhfYjE4eTVXeTBsYlM4bmtkb2pyWnlhMUVXX2JNaURkZHNUOGlBalB0blk2TEU3UWdOVXVyMXdMNlVJOGZmMmhCcHd4RVZDZVhDdHN5VWNKUzB1WGVKZUlHc1FCQ1RMa2I2LVlNMEJndUl3MEhz?oc=5",
+      "summary": "عوامل هرج و مرج حوثی افراد قبیله ای سرکش نیستند. آنها به توطئه ایران و روسیه برای ویران کردن ایندیپندنت پیوسته اند",
+      "summary_original": "Houthi agents of chaos are no unruly tribesmen. They have joined Iran and Russia’s plot to wreak havoc The Independent",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T18:00:00+03:30",
+      "published_fa": "1405/07/20 - 18:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "دموکرات‌ها فرصت‌های جدیدی را برای تغییر ایالت‌های قرمز می‌بینند – اما مزیت ۴۰۰ میلیون دلاری هزینه‌های GOP می‌تواند برنامه‌های آنها را از مسیر خارج کند.",
       "title_original": "Democrats see new chances to flip red states — but a $400M GOP spending advantage could derail their plans",
       "link": "https://www.foxnews.com/politics/democrats-widening-path-power-400m-gop-advantage-brutal-dilemma",
-      "summary": "در حالی که تنها سه هفته تا روز انتخابات باقی مانده است، ایالت های قرمز رنگ و حوزه های کنگره بیشتر و بیشتر در دسترس دموکرات ها هستند، زیرا آنها تلاش می کنند اکثریت مجلس نمایندگان و سنا را از جمهوری خواهان در میان دوره ای به دست آورند. اما یک مزیت مخارج عظیم جمهوری خواهان این جاه طلبی ها را پیچیده تر می کند. به گفته AdImpact، یک شرکت پیشرو ردیابی تبلیغات سیاسی، کمپین ها، کمیته ها و گروه های همسو با جمهوری خواهان تا کنون 400 میلیون دلار از همتایان دموکرات خود در این دوره از انتخابات هزینه کرده اند. این نابرابری دموکرات ها را مجبور می کند تا تصمیمات دشواری در مورد اینکه کجا سرمایه گذاری کنند و چقدر هزینه کنند، اتخاذ کنند، زیرا حزب تلاش می کند نقشه انتخاباتی را گسترش دهد. لورن فرنچ، مدیر ارتباطات سنا، \"ما توسط جمهوری خواهان خرج می شویم. این فقط یک واقعیت است.\"",
+      "summary": "در حالی که تنها سه هفته تا روز انتخابات باقی مانده است، ایالت های قرمز رنگ و حوزه های کنگره بیشتر و بیشتر در دسترس دموکرات ها هستند، زیرا آنها تلاش می کنند اکثریت مجلس نمایندگان و سنا را از جمهوری خواهان در میان دوره ای به دست آورند. اما مزیت مخارج گسترده جمهوری خواهان این جاه طلبی ها را پیچیده تر می کند. به گفته AdImpact، یک شرکت پیشرو ردیابی تبلیغات سیاسی، کمپین ها، کمیته ها و گروه های همسو با جمهوری خواهان تا کنون 400 میلیون دلار از همتایان دموکرات خود در این دوره از انتخابات هزینه کرده اند. این نابرابری دموکرات ها را مجبور می کند تا تصمیمات دشواری در مورد اینکه کجا سرمایه گذاری کنند و چقدر هزینه کنند، اتخاذ کنند، زیرا حزب تلاش می کند نقشه انتخاباتی را گسترش دهد. لورن فرنچ، مدیر ارتباطات سنا، \"ما توسط جمهوری خواهان خرج می شویم. این فقط یک واقعیت است.\"",
       "summary_original": "With just over three weeks to go until Election Day , more and more red states and congressional districts appear in reach for the Democrats, as they work to win back House and Senate majorities from the Republicans in the midterms. But a massive Republican spending advantage threatens to complicate those ambitions. Republican campaigns, committees and aligned groups have outspent their Democratic counterparts by $400 million so far this election cycle, according to AdImpact, a leading political advertising tracking firm. The disparity is forcing Democrats to make difficult decisions about where to invest and how much to spend as the party tries to expand the electoral map . \"We are being outspent by the Republicans. That's just a fact,\" Lauren French, communications director at the Senate Majority PAC, told Fox News Digital. \"In many of these states, they have really transactionalized elections, so they have monopoly money to play with, whereas we are working with real resources.\" DEMOCRATS THINK A BLUE WAVE IS FORMER - HERE ARE THREE FACTORS THAT COULD STOP IT The latest Fox News Power Rankings shifted GOP-dominated South Carolina from Solid to Likely Republican. The Senate showdown in reliably Republican Kansas is Lean Republican, while the races in red-leaning Alaska, Iowa, Ohio and Texas are rated toss-ups. \"Senate Majority PAC has resources to compete, and we are very happy that we're able to be in 9 battleground states,\" French said. The super PAC is the leading outsid",
       "source": "Fox News",
       "category": "economy",
@@ -2153,7 +2260,7 @@
       "title": "SA با حمله ترامپ و اسرائیل به پیلای - میل و گاردین، تحریم های دیوان بین المللی کیفری را محکوم می کند",
       "title_original": "SA condemns ICC sanctions as Trump and Israel attack Pillay - Mail & Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkpWcUhtOU9Hd1pleGlEQnR5U1R4MHBpTWJ3Z18yYlU4M2pCTEtuLXJfS0U2U21CRi1fb29GdUdrZGxTNzBSdFlSS3ZMa0FuLWtrZ0tHcmI1eDlCRGVDOTBKbGJ0blFJajJBNjZWYjhGbHNOQTlwaWZNLWgyTGx0Zm84N1I2TTl6Q0x3M0NmaTFxa05Uc21fdmZidWtlTHZabU5oaHVZdnRqdw?oc=5",
-      "summary": "SA با حمله ترامپ و اسرائیل به Pillay Mail & Guardian، تحریم های دیوان بین المللی کیفری را محکوم می کند",
+      "summary": "SA با حمله ترامپ و اسرائیل به پیلای میل و گاردین، تحریم های دیوان بین المللی کیفری را محکوم می کند",
       "summary_original": "SA condemns ICC sanctions as Trump and Israel attack Pillay Mail & Guardian",
       "source": "Google News",
       "category": "military",
@@ -2167,10 +2274,10 @@
       "verified_source": true
     },
     {
-      "title": "نامزد دموکرات مجلس سنا ادعا می کند که در مقابل حزب خود ایستادگی خواهد کرد زیرا گراهام او را به \"دموکرات های سوسیالیست\" پیوند می دهد.",
+      "title": "نامزد دموکرات مجلس سنا ادعا می کند که در مقابل حزبش ایستادگی خواهد کرد زیرا گراهام او را با \"دموکرات های سوسیالیست\" پیوند می دهد.",
       "title_original": "SC Dem Senate candidate claims she will stand up to her party as Graham ties her to 'socialist Democrats'",
       "link": "https://www.foxnews.com/politics/sc-dem-senate-candidate-claims-stand-party-graham-ties-socialist-democrats",
-      "summary": "سناتور دارلین گراهام، R-S.C، و رقیب دموکرات آنی اندروز یکشنبه شب در جریان مناظره سنای کارولینای جنوبی، که شامل نامزد لیبرتارین، Kasie Whitener نیز بود، با هم درگیر شدند. گراهام گفت که \"نگران دموکرات های سوسیالیست است\" و تاکید کرد که پس از کشتار اسرائیلی ها توسط تروریست های حماس در 7 اکتبر 2023، دموکرات ها در نیویورک \"به دلیل مرگ بیش از هزار نفر\" تشویق کردند. گراهام اعلام کرد: \"آنی اندروز در مقابل حزب سوسیالیست دموکرات نخواهد ایستاد. او فقط به آنها خواهد پیوست.\" نورافکن های امنیتی ملی \"شرم آور و غیرقابل توجیه\" دارلین گراهام از برادر مرحوم اندروز شکسته شد و مدعی شد که او مایل است در مقابل حزب خود بایستد. \"من به شما گفتم که حریف من قرار است من را سوسیالیست خطاب کند و او دوباره این کار را انجام داد",
+      "summary": "سناتور دارلین گراهام، R-S.C، و رقیب دموکرات آنی اندروز یکشنبه شب در جریان مناظره سنای کارولینای جنوبی، که شامل نامزد لیبرتارین، Kasie Whitener نیز بود، با هم درگیر شدند. گراهام گفت که \"نگران دموکرات های سوسیالیست است\" و تاکید کرد که پس از کشتار اسرائیلی ها توسط تروریست های حماس در 7 اکتبر 2023، دموکرات ها در نیویورک \"به دلیل مرگ بیش از هزار نفر\" تشویق کردند. گراهام گفت: \"آنی اندروز در مقابل حزب سوسیالیست دموکرات نخواهد ایستاد. او فقط به آنها خواهد پیوست.\" نورافکن های امنیتی ملی \"شرم آور و غیرقابل توجیه\" دارلین گراهام از برادر مرحوم اندروز شکسته شد و مدعی شد که او مایل است در مقابل حزب خود بایستد. \"من به شما گفتم که رقیب من قرار است من را سوسیالیست خطاب کند و او دوباره این کار را انجام داد",
       "summary_original": "Sen. Darline Graham , R-S.C., and Democratic challenger Annie Andrews clashed on Sunday night during the South Carolina U.S. Senate debate, which also included Libertarian candidate Kasie Whitener. Graham said she is \"concerned about the socialist Democrats,\" asserting that after Hamas terrorists slaughtered Israelis on Oct. 7, 2023, Democrats in New York cheered \"over the death of over a thousand people.\" \"Annie Andrews will not stand up to the socialist Democratic Party. She's only going to join them,\" Graham declared. DARLINE GRAHAM'S 'EMBARRASSING AND INEXCUSABLE' NATIONAL SECURITY STUMBLE SPOTLIGHTS BREAK FROM LATE BROTHER Andrews fired back, claiming that she is willing to stand up to her party. \"I told you my opponent was going to call me a socialist and there she's done it again. She's been told to come out here and call me Bernie, Ocasio, Mamdani. That's what's in her script,\" Andrews said, referring to Sen. Bernie Sanders, I-Vt., Rep. Alexandria Ocasio-Cortez, D-N.Y., and New York City Mayor Zohran Mamdani . \"But the truth is my name is Annie Andrews. And there shouldn't be any confusion about that because unlike my opponent, I haven't changed my name recently,\" she said. DEMOCRATS ARE CHANGING THEIR TRANSGENDER MESSAGE. REPUBLICANS SAY THEY'RE JUST FLIP-FLOPPING \"The real difference between me and Sen. Graham is that I will stand up to my own party and I will always put South Carolina first. She seems to believe the job she has right now is to be the White House's ",
       "source": "Fox News",
       "category": "other",
@@ -2227,10 +2334,10 @@
       "verified_source": true
     },
     {
-      "title": "میدل ایست آی: «راه حل نظامی وجود ندارد»: ایران پیشنهاد میانجیگری با تشدید درگیری عربستان و حوثی ها را می دهد",
+      "title": "میدل ایست آی: «راه حل نظامی وجود ندارد»: ایران پیشنهاد میانجیگری را با تشدید درگیری عربستان و حوثی ها ارائه می دهد",
       "title_original": "'No military solutions': Iran offers to mediate as Saudi-Houthi conflict escalates - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3MxQWNuMTQ5U3AtRDE1Z3V4VUNSelhRbHNOT2UwTjB3NVFmMU40aUZpZy1XUWFfVjZZcDlUanNTMDMtU0FsXzJDSEREVUhNMUNsczAtUjBFejNZRlRDLW93YmpUQ2FaRHJQdmNsbjRDa2hYd1AyR05helBGUDhLaE1GWWwwUno1clhfQXduQllXY2w2S1NNLXdIZjBmZ2UzSTZPenp2ejBxSlZf?oc=5",
-      "summary": "\"راه حل نظامی وجود ندارد\": ایران پیشنهاد میانجیگری را با تشدید درگیری عربستان و حوثی ها در خاورمیانه ارائه می دهد",
+      "summary": "\"راه حل نظامی وجود ندارد\": ایران پیشنهاد میانجیگری را با تشدید درگیری عربستان و حوثی ها در خاورمیانه پیشنهاد می دهد",
       "summary_original": "'No military solutions': Iran offers to mediate as Saudi-Houthi conflict escalates Middle East Eye",
       "source": "Google News",
       "category": "military",
@@ -2283,6 +2390,21 @@
       "urgent": false,
       "published": "2026-10-12T16:18:18+03:30",
       "published_fa": "1405/07/20 - 16:18",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "به روز رسانی جنگ ایران: عربستان موشک های حوثی ها را در جریان حملات مرگبار جاری سرنگون کرد - الجزیره",
+      "title_original": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGtkLXd1c0tZZlVxNER3Tmc4V1RodWo0UE5Xc3pWSjU3bkJRdDJFRVpmLXprUnlDTUYtQnk4U281TFNqQk5USWdkalJscDhGZzdJZ0tWaTV5MHZNQ2hFcE16VlNpdGN1SUtpb21felQ4cTdfcnM3MnJEbFdRWm5ubG5UbzNYVDdUSjFzZ1FrWS15U1lDNXlEZF9iX3l5MHczX2VVRS1pQVhRcEE1OS00Z1dXaDRVMldrcGQ5MTd30gHDAUFVX3lxTE84MkxvSFZFMjJnblFxWGZoLVAzRkxXUVZSLUQyWG1RR3BJMk8zTVJzQ2dHVVRrNHA3Z1BlRkg3bHU0aXBqZ1FaNW80ZXdmY3Z1UkN0SXpXcWI4eGZxOEl1dE5sNlNBcV9mTzJ1VXJ4TmJZVU5ON0llVTBRWXdRYzAwV2N0UHRkMVB5ZzVGREhZUVVOWEloaEIzTEUwUDlIanFla1pLczdxem5SUmJGTllEVERNWTJJNS1wR1pFSWRyNnNPWQ?oc=5",
+      "summary": "اخبار جنگ ایران: عربستان در جریان حملات مرگبار الجزیره، موشک های حوثی ها را سرنگون کرد",
+      "summary_original": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-12T16:17:59+03:30",
+      "published_fa": "1405/07/20 - 16:17",
       "translated": true,
       "verified_source": true
     },
@@ -2458,7 +2580,7 @@
       "verified_source": true
     },
     {
-      "title": "حیاط خلوت ترامپ بی سر و صدا در حال تبدیل شدن به «سیلیکون ولی جنوبی» با هجوم ثروتمندان آمریکایی است.",
+      "title": "حیاط خلوت ترامپ بی سر و صدا در حال تبدیل شدن به «سیلیکون ولی جنوبی» با هجوم آمریکایی های ثروتمند است.",
       "title_original": "Trump's backyard is quietly transforming into 'Silicon Valley South' as wealthy Americans flock in",
       "link": "https://www.foxnews.com/politics/trumps-backyard-quietly-transforming-silicon-valley-south-wealthy-americans-flock",
       "summary": "منطقه‌ای ثروتمند جنوبی که زمانی به عنوان زمین بازی برای بازنشستگان و پرندگان برفی شناخته می‌شد، در حال تبدیل شدن به یک مرکز فناوری و مالی در حال رشد است که با مهاجرت کسب‌وکارها، مدیران وال استریت و کارآفرینان، با سیلیکون ولی مقایسه می‌شود. شهرستان پالم بیچ فلوریدا توجه جدیدی را به خود جلب می‌کند زیرا آمریکایی‌های ثروتمند به دنبال جایگزین‌هایی برای ایالت‌های نیویورک و کالیفرنیا با مالیات بالا هستند. مارگیت برانت، کارشناس املاک لوکس به فاکس نیوز دیجیتال گفت: پالم بیچ از مکانی که مردم برای بازنشستگی می آیند به مکانی که مردم برای ساختن آن می آیند تغییر کرده است. او گفت: «مدیرعامل بی‌شماری و روسای بزرگ شرکت‌ها هستند که کسب‌وکار خود را به پالم بیچ منتقل کرده‌اند. رقابت ایالت های سرخ در کشور قدرتمند آمریکا",
@@ -2492,7 +2614,7 @@
       "verified_source": true
     },
     {
-      "title": "آخرین خبر خاورمیانه: ما باید ایران را درهم بشکنیم، مقام ارشد سابق ترامپ - در حالی که عربستان سعودی \"در معرض حمله\" است - اسکای نیوز",
+      "title": "آخرین خبر خاورمیانه: ما باید ایران را درهم بشکنیم، مقام ارشد سابق ترامپ - در حالی که عربستان سعودی \"تحت حمله\" قرار گرفته است - اسکای نیوز",
       "title_original": "Middle East latest: We must crush Iran, says top ex-Trump official - as Saudi Arabia 'under attack' - Sky News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjExQVpfbUt5dFNlNDEyRWYyU1hScFh2Zk1oS0g3THFISlQ2VG0yNWRiVU1TemhFMWtZRXZqRU5YZFYwbnlBcFA1blhrazNUR015WUs2UFNCTHVucVlLUTA1UTJJOGtBNVFqLXVFbjBhTFFVTENEa2c2MldzQ0xpdXc5dVJBODF4SjBpMjR6Y0VldEZrTURXckJpYw?oc=5",
       "summary": "آخرین خبر خاورمیانه: ما باید ایران را درهم بشکنیم، مقام ارشد سابق ترامپ - در حالی که عربستان سعودی \"تحت حمله\" اسکای نیوز ستیزه جویان تحت حمایت ایران در حال سخت تر کردن پیچ ها بر روی ولیعهد عربستان سعودی هستند WSJ به روز رسانی جنگ ایران: زخمی ها پس از حمله جدید حوثی ها به فرودگاه عربستان سعودی الجزیره",
@@ -2539,7 +2661,7 @@
       "verified_source": true
     },
     {
-      "title": "رویترز می گوید ایران می گوید پس از بررسی پیشنهاد هرمز به پاسخ ایالات متحده پاسخ خواهد داد",
+      "title": "رویترز می گوید ایران می گوید پس از بررسی پیشنهاد هرمز به پاسخ آمریکا پاسخ خواهد داد",
       "title_original": "Iran says it will reply to US response on Hormuz proposal once review over - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2U1d1RUamtzYmRiN0tHUHhlclVaNVNLYTN4V05LTF90R0xjRTVhNS14WW1qRlhSYlZ5RzJOM3RSSGtxMGpLUDNZc0MyWmNaU0l6SVdpZm1WT295MTFYRWRDSXFRbE0yZlpBQTRpUDlJbHVoTHJOQmRBSVBNakdKTmw1QnV1RHc5b0xzZ212SHQwZmhSZ3JUQmlvZ21IY19yMFVURk8xMUtQcUxfRTNpLUZjMkp2dmRDWVVxa1VyTQ?oc=5",
       "summary": "ایران می گوید پس از بررسی رویترز به پاسخ آمریکا در مورد پیشنهاد هرمز پاسخ خواهد داد",
@@ -2676,7 +2798,7 @@
       "verified_source": true
     },
     {
-      "title": "شکارچی: ایران تلاش‌های آمریکا و اسرائیل برای تغییر شکل غرب آسیا را مسدود خواهد کرد - خبرگزاری وانا",
+      "title": "شکارچی: ایران تلاش های آمریکا و اسرائیل برای تغییر شکل غرب آسیا را مسدود خواهد کرد - خبرگزاری وانا",
       "title_original": "Shekarchi: Iran Will Block U.S.-Israeli Efforts to Reshape West Asia - - WANA News Agency",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanRacmNEVjZWTkRrclVPZGxub0N4T3V6RXpLZFBUNlZGN0JUVzhCbEQya0t1YnlUOUlXRFpLWUI4bl9zcWFFZjlQWTBXX3Y1dGRJTURDbEUtdklQa042Z2RDUFhGTU41cDBlU3FlWUN4QklUZ3VFWGhmWDFsSlUzcko4ZVlWUXRGSG1SZW9vOA?oc=5",
       "summary": "شکارچی: ایران تلاش‌های آمریکا و اسرائیل برای تغییر شکل غرب آسیا را مسدود خواهد کرد - خبرگزاری وانا",
@@ -2691,7 +2813,7 @@
       "verified_source": true
     },
     {
-      "title": "ایران \"جنگ تمام عیار\" با آمریکا اعلام می کند، منطقه خاورمیانه برای خشونت بیشتر آماده می شود: چگونه درگیری... - Moneycontrol.com",
+      "title": "ایران «جنگ تمام عیار» با آمریکا اعلام می‌کند، منطقه خاورمیانه برای خشونت بیشتر آماده می‌شود: چگونه درگیری... - Moneycontrol.com",
       "title_original": "Iran declares 'full-scale war' with US, Middle East region braces for more violence: How the conflict... - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVFBDNXYwcGRNdFJMcFl0WFl4eUlmd0Qtb1otTG9wb3BRSnhtdEVuZ3VoTHROdzhwTkFaZVVqNmp1dzVMUUMxcVJJM3JHb1RhOXh1WVdOdUJYLVVseWFxX3FjNUhMY1U5S1VQMTdOcU5lbEhob3NIelc5RFBMT2l1dTZXSG1qcldnaTFVa2JJdGFfXy1xQ0gxN3prOU9IU1ZNWUs0UEF4QVFFZHBFU2lSYklYNktXMWhNcVIxZVhKazVvVXhpVjZsN25NeVFEelJxYW1XcUZmTTlBS2s3WTdvZTUwbW42RzlhR0RWMnhxaElTT1RnNlNtN2hkUXNEak9TQ1VoZFB3QlY0UHRCZG1zVmpMRWTSAZoCQVVfeXFMUHZDci1pS3VoNDNNQW4teExfdWt4NlVkTkREYmVSSzBSWG9ucE9yNzMwRUpLUHhkTlpGN0NjQnZvWE1Od2dCNDNPRmEzTTZsU3V1a2JVcUZ3UkFmMV9JczZNVmY2Wk1zaFRKUFZKTU9RMnBHWWxKRjVQNElYSHhTYmFIVTJqbTNyMFBPdVFsZU5OYUtIb1ZnY3JvRXdUUUlLc2luQjYtbVdLXzNjSnVlXzJHbGpPRllfcnNiT0prSGRYZ2lLQWFVclhTdDVIcGpkRW9TZHVIZlpWQ25TekVSY1ltNDIxSTVoRnlCU05QWW15eHFVdnUxM0VJc2E3TVV4a3piM3dOTHNVcTV5MVpzZDBFOU9rNFo4cEhn?oc=5",
       "summary": "ایران «جنگ تمام عیار» با آمریکا اعلام می‌کند، منطقه خاورمیانه برای خشونت بیشتر آماده می‌شود: چگونه درگیری... Moneycontrol.com",
@@ -2774,7 +2896,7 @@
       "title": "پس از حمله فرودگاهی که 12 کشته، صدها زخمی برجای گذاشت، ترامپ و نتانیاهو اقدامات احتمالی را بررسی می کنند - CBN.com",
       "title_original": "After Airport Attack Kills 12, Injures Hundreds, Trump and Netanyahu Explore Possible Action - CBN.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVRDV1NQanZCWHhCQ0hnNFVHSTNzM2tLMkt4Qnk3WkMxWEJVd3I5UG9hbTl1aVlpNEhSbVJWYlcxTVB4RlphbjFuRUtDejYwNjI1VWRObVZJVTFGQUY0T0dBLVNhUjktUzVKVG9NenUzOUJiakRReHF1T3U4Q3FIQ09pS1ZtOEJPQ2tJUDZZU1FidkxiVXRmUm1UX2lralVqSmVKUDRtelE0SjRxVXl1Ug?oc=5",
-      "summary": "پس از حمله فرودگاهی که 12 کشته، صدها زخمی برجای گذاشت، ترامپ و نتانیاهو اقدامات احتمالی را بررسی می کنند CBN.com",
+      "summary": "پس از حمله فرودگاهی که 12 کشته، صدها زخمی برجای گذاشت، ترامپ و نتانیاهو اقدامات احتمالی را بررسی کردند CBN.com",
       "summary_original": "After Airport Attack Kills 12, Injures Hundreds, Trump and Netanyahu Explore Possible Action CBN.com",
       "source": "Google News",
       "category": "military",
@@ -2899,7 +3021,7 @@
       "title": "ترس از جنگ در خاورمیانه؛ مذاکرات ایران و عربستان در جریان است - The Business Standard",
       "title_original": "Fears of war in the Middle East; Saudi-Iran talks underway - The Business Standard",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjNGSXc5Q0NBM2dhbHo1RlJmaG9hYmJNbC01Q29HandTbWhNQk1TM2ROajJ4NzN1MHpCUjE5TF9Wc3cyc3NvbTB1MFVzSE91V0V4a2dDNjB3OWk1ZnJVcl9HTHlBSzJ0R20xTVJBa2l0dTNKOTA3QUpQdTJQLTRCdWVHSWc5UEIwUzlyZmlORTBBdHVQMHdHNXhkR0U?oc=5",
-      "summary": "ترس از جنگ در خاورمیانه؛ مذاکرات ایران و عربستان سعودی در حال انجام است",
+      "summary": "ترس از جنگ در خاورمیانه؛ مذاکرات ایران و عربستان در حال انجام است",
       "summary_original": "Fears of war in the Middle East; Saudi-Iran talks underway The Business Standard",
       "source": "Google News",
       "category": "politics",
@@ -2913,7 +3035,7 @@
       "verified_source": true
     },
     {
-      "title": "مایک پنس می‌گوید ایران \"شکست خورده\" است اما هشدار می‌دهد که درگیری در خاورمیانه به پایان نرسیده است - تجارت عربی",
+      "title": "مایک پنس می‌گوید ایران «شکست خورده» است، اما هشدار می‌دهد که درگیری در خاورمیانه به پایان نرسیده است - تجارت عربی",
       "title_original": "Mike Pence says Iran is ‘defeated’ but warns Middle East conflict is far from over - Arabian Business",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OU2o3WE5DcTFFMzZhMmZQM2lfaUsxWFlYMnc5SVU3R1V0RzROZE8tVGc1cFFZYzhiMWxqTmI2QmhkUmtrclJMVDAzYVd2NHY5eVJrNDFsSmdZeklPUmxuWGh4UXNWaEZEOUwzYUViY0cyQXNqQXUxbA?oc=5",
       "summary": "مایک پنس می‌گوید ایران «شکست خورده» است اما هشدار می‌دهد که مناقشه خاورمیانه بر سر تجارت عربی فاصله زیادی دارد",
@@ -2931,7 +3053,7 @@
       "title": "رهبر اپوزیسیون می گوید انتظار نمی رود اسرائیل قبل از انتخابات به ایران حمله کند - Anadolu Ajansı",
       "title_original": "Israel not expected to attack Iran before elections, opposition leader says - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUhPR0pBLXZWRGxBUkFGeEFLSWttejM0MHloZmdib0pid0JoLThQdHBubWo3X2pKV21obEE1SGFQSXFYVTdhdm9DWV9qX09SbGZ0eWIyeWZYcmJDUEZNdTN5bmFuOEJCV29YUXJVdmVONzV1UE9JSnA2MUFkUHhuZ3VxX3FxNGxpRjNxbjUwSkczLVd5c0dZYzVlWW1aUnZGNUFPeFhVVGRzNjdWay1HQkI5dS1vaVE1ZWZJ?oc=5",
-      "summary": "آنادولو آجانسی، رهبر اپوزیسیون می‌گوید اسرائیل انتظار نمی‌رود قبل از انتخابات به ایران حمله کند",
+      "summary": "آنادولو آجانسی، رهبر اپوزیسیون می‌گوید که اسرائیل انتظار ندارد قبل از انتخابات به ایران حمله کند",
       "summary_original": "Israel not expected to attack Iran before elections, opposition leader says Anadolu Ajansı",
       "source": "Google News",
       "category": "military",
@@ -2993,21 +3115,6 @@
       "verified_source": true
     },
     {
-      "title": "پاسخ کنایه‌آمیز زنوزی به بیرانوند: «بازیکن برای پیراهنش بازی می‌کند، نه برای پول»",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610125287",
-      "summary": "در پی حواشی اخیر و اخراج علیرضا بیرانوند از اردوی تراکتور، محمدرضا زنوزی، مالک باشگاه تراکتور، با لحنی کنایه‌آمیز به اظهارات و رفتار دروازه‌بان تیمش واکنش نشان داد.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T10:34:36+03:30",
-      "published_fa": "1405/07/20 - 10:34",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "«راسوت»؛ رقیب روسی استارلینک چیست و چرا اهمیت دارد؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cw1l3v5n7jymo?at_medium=RSS&at_campaign=rss",
@@ -3040,42 +3147,10 @@
       "verified_source": true
     },
     {
-      "title": "تعطیلی و بازگشایی باشگاه انقلاب؛ اختلاف‌نظر و ناهماهنگی وزارت ورزش و شرکت توسعه",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610122949",
-      "summary": "انتشار خبرهای متناقض درباره تعطیلی و بازگشایی مجموعه ورزشی انقلاب و کشوری، نشان‌دهنده اختلاف‌نظر و ناهماهنگی شدید میان وزارت ورزش و جوانان و شرکت توسعه و نگهداری اماکن ورزشی است.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T10:16:57+03:30",
-      "published_fa": "1405/07/20 - 10:16",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "اختلال در پروازهای دبی و خاورمیانه: لغو گسترده به دلیل تمدید تعطیلی فرودگاه ریاض - Condé Nast Traveller خاورمیانه",
-      "title_original": "Dubai and Middle East flight disruption: widespread cancellations as Riyadh airport extends closure - Condé Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDJiajdOS0dITVd0TXM3eHNTUWZGUnk0RGpUYkxweWRXektYYzNJZWpWN2wtbmVyelRpaF9IMms0dHpFZXVVeWJrY1dPdHVBcHFRMDFzSEJhUjhiYTd1VlZGUTFKekMxNGF6UUMwX19pcVlKa2x0ZVlBdndOMU45MGhuNHE0cnk1VElnSmd1TU5OeHROVWNDbUxiREFfb25uX2I2SkVFQzJYRWYwSUVQNEtGMWg5TVl1UGJLbVFpSm1QRVJDYlJKWEJwWlZLZnM?oc=5",
-      "summary": "اختلال در پروازهای دبی و خاورمیانه: لغو گسترده به دلیل تمدید تعطیلی فرودگاه ریاض Condé Nast Traveller خاورمیانه",
-      "summary_original": "Dubai and Middle East flight disruption: widespread cancellations as Riyadh airport extends closure Condé Nast Traveller Middle East",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "فلایت رادار"
-      ],
-      "urgent": false,
-      "published": "2026-10-12T10:06:44+03:30",
-      "published_fa": "1405/07/20 - 10:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "حملات خاورمیانه و تنش‌های ایران با افزایش نفت و بهشت‌ها باعث تغییر ریسک می‌شود - VT Markets",
+      "title": "حملات خاورمیانه و تنش‌های ایران با افزایش قیمت نفت و پناهگاه‌ها باعث تغییر ریسک می‌شود - VT Markets",
       "title_original": "Middle East attacks and Iran tensions spur risk-off shift as oil and havens gain - VT Markets",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0dISWpoazBrOEprUDJfdzA4dEtBMWQ2MnhhblU3TnFVcmlWaXVHaG9rOFpDVU9VZ2hYNHBUaUdBajZUXzRDZWVQbHJuTzR2MFM5WVhnM2otNENBb3ZGNWdhOWRWQW9oVldVSVhqd1RCZWI0ZXNpMndWWmp1X1EycTJYRjJEeDhfTDRSMjlYc0ZubWc4TVBfdldwT1F2UWhPMnNycFVWQ3c0cFVHaEV0ZWtmUnN5SXZBTDg2N3diNHl4QkZS?oc=5",
-      "summary": "حملات خاورميانه و تنش‌هاي ايران با به دست آوردن نفت و پناهگاه‌ها در بازارهاي VT باعث تغيير ريسك مي‌شود",
+      "summary": "حملات خاورميانه و تنش‌هاي ايران باعث مي‌شود كه نفت و پناهگاه‌ها به بازارهاي VT دست يابند",
       "summary_original": "Middle East attacks and Iran tensions spur risk-off shift as oil and havens gain VT Markets",
       "source": "Google News",
       "category": "military",
@@ -3090,7 +3165,7 @@
       "title": "Birds of a Feather - Counterpunch",
       "title_original": "Birds of a Feather - Counterpunch",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfM2xSMkloS1JsSDBNczdoc2hPZGZxMmJvMXFld0lUek5RN2gxX0s0ZWN4WmVfUWgzQTRlVFlXaDdDakpQNk1WM3BtNnJxT2toYVFDcHdQYmVmSkZjX3lEQWt6SWx1WmpoZVZoT0RB?oc=5",
-      "summary": "کانتر پانچ پرندگان پر",
+      "summary": "پرندگان از یک پر کنترپانچ",
       "summary_original": "Birds of a Feather Counterpunch",
       "source": "Google News",
       "category": "other",
@@ -3150,10 +3225,10 @@
       "verified_source": true
     },
     {
-      "title": "پاپ لئو مجازات اعدام را پیش از اجرای زنده برنامه ریزی شده پنتاگون محکوم کرد و آن را \"غیرقابل قبول\" خواند.",
+      "title": "پاپ لئو مجازات اعدام را پیش از اجرای زنده برنامه ریزی شده پنتاگون محکوم کرد و آن را \"غیر قابل قبول\" خواند.",
       "title_original": "Pope Leo denounces death penalty as 'inadmissible' ahead of Pentagon's planned livestreamed execution",
       "link": "https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution",
-      "summary": "پاپ لئو چهاردهم مجازات اعدام را \"غیرقابل قبول\" محکوم کرد زیرا پنتاگون به دلیل برنامه ریزی برای پخش زنده یک اعدام در اواخر سال جاری با انتقاد روبرو می شود. لئو، اولین پاپ آمریکایی، روز شنبه در پستی در شبکه های اجتماعی به مناسبت روز جهانی مبارزه با مجازات اعدام، مخالفت خود را با مجازات اعدام به اشتراک گذاشت. لئو با استناد به دکترین کاتولیک اصلاح شده در زمان سلف خود، پاپ فرانسیس، تاکید کرد که مجازات اعدام، کرامت انسانی را نقض می کند. \"مجازات اعدام غیرقابل پذیرش است زیرا حمله به مصونیت و حیثیت افراد است. منفعت عمومی را می توان حفظ کرد و الزامات عدالت را می توان بدون توسل به مجازات اعدام برآورده کرد: سیستم های موثر بازداشت توسعه یافته اند که از شهروندان محافظت می کند و در عین حال مجرمان را کاملاً محروم نمی کند.",
+      "summary": "پاپ لئو چهاردهم مجازات اعدام را \"غیرقابل قبول\" محکوم کرد زیرا پنتاگون به دلیل برنامه ریزی برای پخش زنده یک اعدام در اواخر سال جاری با انتقاد روبرو می شود. لئو، اولین پاپ آمریکایی، روز شنبه در پستی در شبکه های اجتماعی به مناسبت روز جهانی مبارزه با مجازات اعدام، مخالفت خود را با مجازات اعدام به اشتراک گذاشت. لئو با استناد به دکترین کاتولیک که در زمان سلف خود، پاپ فرانسیس بازنگری شد، تأکید کرد که مجازات اعدام، کرامت انسانی را نقض می کند. \"مجازات اعدام غیرقابل پذیرش است زیرا حمله به مصونیت و حیثیت افراد است. منفعت عمومی را می توان حفظ کرد و الزامات عدالت را می توان بدون توسل به مجازات اعدام برآورده کرد: سیستم های موثر بازداشت توسعه یافته اند که از شهروندان محافظت می کند و در عین حال مجرمان را کاملاً محروم نمی کند.",
       "summary_original": "Pope Leo XIV condemned the death penalty as \"inadmissible\" as the Pentagon faces criticism over plans to livestream an execution later this year. Leo, the first American pope, shared his opposition to capital punishment Saturday in a social media post marking World Day Against the Death Penalty. Citing Catholic doctrine revised under his predecessor, Pope Francis, Leo emphasized that the death penalty violates human dignity. \"The death penalty is inadmissible because it is an attack on the inviolability and dignity of the person. The common good can be safeguarded and the requirements of justice can be met without recourse to capital punishment: effective systems of detention have been developed that protect citizens while at the same time do not completely deprive those who are guilty of the possibility of redemption,\" Leo wrote on X. \"#NoDeathPenalty,\" he added in the post. VETERAN SHOT 7 TIMES IN FORT HOOD MASSACRE HAS A WARNING FOR AMERICANS PLANNING TO WATCH EXECUTION In 2018, Francis revised the Catholic Church's official position on capital punishment, declaring the death penalty \"inadmissible\" in all circumstances. \"Consequently the church teaches, in the light of the Gospel, that the death penalty is inadmissible because it is an attack on the inviolability and dignity of the person,\" the revised Catechism states. Before the change, Catholic teaching permitted the death penalty in cases where it was deemed the only effective means of protecting human life from a dang",
       "source": "Fox News",
       "category": "military",
@@ -3165,22 +3240,7 @@
       "verified_source": true
     },
     {
-      "title": "کمک های مخرب: بررسی نقش چین و روسیه در جنگ ایران - موسسه خاورمیانه",
-      "title_original": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5SFFuOWhOc2k1Y001RUVadkRmUk1OQjBqdThpVUpsSE1TN3RhWTdCcnQ3RGQzbV9DeW1pNFJZVGJRYXZqU28wM3h6VFcwRWZwcjYzbXhMSnpQbzh6REdpT0pZbWtkSXRkUGNLVHduQUNmbjNHbV9lNDE4ME9JZkd3NjB1TXdhSVlZOUw1LVdISF9HcVFMaWFBTQ?oc=5",
-      "summary": "کمک های مخرب: بررسی نقش چین و روسیه در موسسه خاورمیانه جنگ ایران",
-      "summary_original": "Disruptive Assistance: Examining China and Russia’s Roles in the Iran War Middle East Institute",
-      "source": "Google News",
-      "category": "analysis",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T07:21:47+03:30",
-      "published_fa": "1405/07/20 - 07:21",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "السید در جریان مناظره از سوال درباره تهدید ایران و اسرائیل طفره رفت - فاکس نیوز",
+      "title": "السید در مناظره از سوال درباره تهدید ایران و اسرائیل طفره رفت - فاکس نیوز",
       "title_original": "El-Sayed dodges question on Iran-Israel threat during debate - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbFR1VUNDRVU0V2tDQ29xWlJWSkozTnpZTlJQRXVCT08zMjF6Ul9OeGlEbWx2NjZZOHV2NWgyUU8yY2ZWRmRSMHJ3a2VzZzROTW8tSXln?oc=5",
       "summary": "السید در مناظره فاکس نیوز از سوال درباره تهدید ایران و اسرائیل طفره رفت",
@@ -3213,7 +3273,7 @@
       "title": "رئیس امنیت ایران مراکز داده هوش مصنوعی خاورمیانه و کابل های زیردریایی را در صورت تشدید جنگ با آمریکا به عنوان هو - بنزینگا تهدید کرد",
       "title_original": "Iran Security Chief Threatens Middle East AI Data Centers, Undersea Cables If War With US Escalates As Ho - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnVSZks2UFU0RmdSLUFpMjFXUGhKUzNEVk9Ndm9aSERoSUZVZDgzS3hoSC1ZaW1QOXloYkRYOFpjUjlKbGQ4SWZYRjVhT0Zla0h0ZHNMbldHR3ZGY0tCTUZOZHFPNDdSNktNYzFwcmFiTThDb0MtbS1oNi1TUEUzU3ZJWWVvcXBSQXVKRzFIRXJqOXRKeXFJV0tPcXJkdVdjMTdLMFdtYUtxRjBIRFlTR2pUVnlvWklBX3hrWHFOQlV6eFp0Nmc?oc=5",
-      "summary": "رئیس امنیت ایران مراکز داده های هوش مصنوعی خاورمیانه و کابل های زیردریایی را در صورت تشدید جنگ با آمریکا تهدید کرد همانطور که هو بنزینگا",
+      "summary": "رئیس امنیت ایران مراکز داده هوش مصنوعی خاورمیانه و کابل های زیردریایی را در صورت تشدید جنگ با آمریکا تهدید کرد همانطور که هو بنزینگا",
       "summary_original": "Iran Security Chief Threatens Middle East AI Data Centers, Undersea Cables If War With US Escalates As Ho Benzinga",
       "source": "Google News",
       "category": "other",
@@ -3255,7 +3315,7 @@
       "verified_source": true
     },
     {
-      "title": "حوثی ها 14 نفر را در فرودگاه عربستان سعودی به قتل رساندند، زیرا کارشناس درباره \"اهداف سریع\" در بحبوحه جنگ خاورمیانه هشدار می دهد",
+      "title": "حوثی ها 14 نفر را در فرودگاه عربستان سعودی به قتل رساندند، در حالی که کارشناس درباره \"اهداف سریع\" در بحبوحه جنگ خاورمیانه هشدار داد",
       "title_original": "Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war",
       "link": "https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war",
       "summary": "حوثی‌های مورد حمایت ایران تا روز یکشنبه مجموعه‌ای از حملات را به فرودگاه‌های عربستان سعودی انجام دادند که بر اساس گزارش‌ها، دست‌کم 14 نفر از جمله یک آمریکایی کشته و بیش از 300 نفر دیگر زخمی شدند. این حملات ترس از وقوع یک جنگ گسترده تر در خاورمیانه را تشدید کرد، زیرا کارشناسان منطقه نسبت به \"تشدید بین حوزه ای\" در بحبوحه تشدید تنش ها بر سر اقدامات سپتامبر واشنگتن علیه بخش هوانوردی ایران هشدار دادند. حوثی‌ها مسئولیت حملات قبلی به فرودگاه بین‌المللی ملک خالد در ریاض را بر عهده گرفتند، در حالی که مقامات آمریکایی گروه مورد حمایت ایران را مسئول حمله روز شنبه می‌دانند که طبق گزارش‌ها 13 نفر کشته و بیش از 300 زخمی شدند. کی",
@@ -3334,7 +3394,7 @@
       "verified_source": true
     },
     {
-      "title": "ایران آخرین پاسخ آمریکا به این پیشنهاد را ناکافی و سایر تحولات خاورمیانه خواند - فاکس 56 نیوز",
+      "title": "ایران آخرین پاسخ آمریکا به این پیشنهاد را ناکافی و سایر تحولات خاورمیانه خواند - FOX 56 News",
       "title_original": "Iran calls latest US response to proposal insufficient, and other Mideast developments - FOX 56 News",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWpsMUp4YTRSdVFJeWxjSFFTU2ExQTFvSEFOdHVITXZkRmowMUo5WUhRVUhuMGJlamZyRW02c205NzFhalpXZHFhNXhnSkNvX2x4cDVMSjlIZUpVdV9XV0lvdXNEYlNQTHVEeThhTjB1VVo1OTFITXVBZUdTajlXY0FmTnRfUUE1RU1XcUxXUWxHdlBraE9oRVk0LW14c0xBWG9mS2ZpQWhCYjdvTFc0ZmhmVFM2UXRFdVlkV2g1enBVQVFudTZLVzZ0UXZlRVJnRm9TSUFIWdIB3AFBVV95cUxPQjJGcnU0SmJsWTlzYzg4dmdtZnJzc2FjLTBsbG9WRWdMRHIyZnd4cl9jUE5zREdObDN4MTB2bTc1emZhLUhZV1ZXeTJnU1FSV1J0U1lzRDJZbFlzNGg0SFRTY0FhcWJaWnJSZ29KX1NZNnVYd25sbVVpaHJLTzhhTmFuNW92REpRVGJ5MlhXT1ZmTm95ODhnY1EyV0hNUEJrS21VTXVjczNQcXZvazlwcHVLUm5LeVR2ZHhmYVh0NVdDYmdoTjRZTVY1V2xweTN6UWxHeHdjdjhkTXFN?oc=5",
       "summary": "ایران آخرین پاسخ ایالات متحده به پیشنهاد را ناکافی و سایر تحولات خاورمیانه را فاکس 56 نیوز می خواند",
@@ -3345,21 +3405,6 @@
       "urgent": false,
       "published": "2026-10-12T01:53:20+03:30",
       "published_fa": "1405/07/20 - 01:53",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "بدترین سناریوی ایران در عربستان سعودی هنوز شروع نشده است - 19FortyFive",
-      "title_original": "Saudi Arabia’s Worst-Case Iran Scenario Hasn’t Even Begun - 19FortyFive",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHhxWDB6OGo1dE84cGRsYjR3ODdLM093ZzRKZVB1a1RLb2dkQmczVnhFaGpSVWVSVDNvSlNkd3RBWDdVa1NTX0NjYWgyT3JfZ3VXQVhjZURqSnh2b1ctN3pUcEVDdDB2MnI1RjdyUDdJQUJVZC1sVWsyUlpZYTFhTDhOdlMtVzJWUlJfYXVHV2VWdE5hUEZr?oc=5",
-      "summary": "بدترین سناریوی ایران در عربستان سعودی حتی از ۱۹۴۵ شروع نشده است",
-      "summary_original": "Saudi Arabia’s Worst-Case Iran Scenario Hasn’t Even Begun 19FortyFive",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T01:42:49+03:30",
-      "published_fa": "1405/07/20 - 01:42",
       "translated": true,
       "verified_source": true
     },
@@ -3382,7 +3427,7 @@
       "verified_source": true
     },
     {
-      "title": "ایران آخرین پیشنهاد آمریکا برای پایان دادن به جنگ را با از سرگیری محاکمه فساد نتانیاهو «ناکافی» خواند - PBS",
+      "title": "ایران آخرین پیشنهاد آمریکا برای پایان دادن به جنگ را با از سرگیری محاکمه فساد نتانیاهو \"ناکافی\" خواند - PBS",
       "title_original": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
       "summary": "ایران آخرین پیشنهاد آمریکا برای پایان دادن به جنگ را «ناکافی» می‌داند زیرا محاکمه فساد نتانیاهو از سر گرفته می‌شود PBS",
@@ -3444,7 +3489,7 @@
       "verified_source": true
     },
     {
-      "title": "مجتبی خامنه‌ای حملات «بدخواهانه» را به چالش می‌کشد در حالی که ارتش آمریکا ۳۵۰ هزار نیروی ایران را به صفر رسانده است.",
+      "title": "مجتبی خامنه ای حملات \"بدخواهانه\" را در حالی که ارتش ایالات متحده به 350000 نیروی نظامی ایران صفر می کند، نادیده می گیرد.",
       "title_original": "Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops",
       "link": "https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops",
       "summary": "مجتبی خامنه‌ای، رهبر ایران، در 8 اکتبر مدعی شد که حملات ایالات متحده و اسرائیل نتوانسته است نیروهای امنیتی داخلی ایران را تضعیف کند و از پرسنل پلیس به دلیل مقاومت در برابر حملاتی که در فوریه تحت عملیات‌های «حماسه خشم» و «شیر خروشان» آغاز شد، تمجید کرد. اظهارات خامنه‌ای در مورد X همچنین در حالی بیان شد که ارتش ایالات متحده راهنمای شناسایی میدان نبرد جدیدی را منتشر کرد تا به نیروهای آمریکایی کمک کند تا اعضای ارتش متعارف ایران موسوم به ارتش را بشناسند، که نیروی زمینی آن توسط موسسه استراتژی و امنیت بیت‌المقدس در ژوئن 350000 پرسنل تخمین زده شد. تلاش مذبوحانه دشمن جنایتکار آمریکایی-صهیونیستی و حملات بدخواهانه به ارکان نظم و امنیت اجتماعی که در طول تاریخ بی نظیر است، موجب تزلزل کارکنان شجاع نیروی انتظامی نشده است.",
@@ -3566,7 +3611,7 @@
       "verified_source": true
     },
     {
-      "title": "نتانیاهو مقامات امنیتی را در بحبوحه نگرانی ها از تشدید تنش در ایران گرد هم می آورد - تایمز اسرائیل",
+      "title": "نتانیاهو مقامات امنیتی را در بحبوحه نگرانی از تشدید تنش در ایران تشکیل می دهد - تایمز اسرائیل",
       "title_original": "Netanyahu convenes security officials amid concerns of Iran escalation - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2xrSGdVRXlpdVZKMkgwWWUwWUlRbklDSXFhSnpJMTEwSng0aGdSYXYzWHVLYTNGWm5FNWUzWkpCaUFFTWs3SDE2ODJwNzZyWGljUVVhaGJoX0NMcTFFOGkxNWpTdGlqSm5OTHBST0tXdW53TVhYY1NjaXRLVEJoM3dSU1VadmJFR3pOWkpPbEJBak45RUNUeUhCOURzS1d2TUN1aV9NdUEwZ01fa1U4X29sRQ?oc=5",
       "summary": "نتانیاهو مقامات امنیتی را در بحبوحه نگرانی ها از تشدید تنش در ایران تشکیل می دهد تایمز اسرائیل",
@@ -3630,7 +3675,7 @@
       "verified_source": true
     },
     {
-      "title": "کارشناس امداد و نجات هشدار داد که تلاش هواپیماربای FlyDubai نشان می دهد که ایالات متحده و متحدان در حال «بازی مهره» علیه تهدید تروریستی هستند.",
+      "title": "کارشناس امداد و نجات هشدار داد که تلاش هواپیماربایی FlyDubai نشان می دهد که ایالات متحده و متحدان در حال «بازی مهره» علیه تهدید تروریستی هستند.",
       "title_original": "Rescue expert warns FlyDubai hijacking attempt shows US, allies are ‘playing checkers’ against terror threat",
       "link": "https://www.foxnews.com/politics/rescue-expert-warns-flydubai-hijacking-attempt-shows-us-allies-playing-checkers-against-terror-threat",
       "summary": "یک کارشناس امداد و نجات ایالات متحده و اولین واکنش دهنده حادثه 11 سپتامبر هشدار می دهند که تلاش برای هواپیماربایی FlyDubai نشان می دهد که ایالات متحده و متحدانش هنوز از مفروضات منسوخ ضد تروریسم علیه دشمنان پیچیده تر استفاده می کنند. برایان استرن، رئیس و مدیر عامل Gray Bull Rescue، روز دوشنبه به فاکس نیوز دیجیتال گفت: «آنها در شطرنج خوب هستند. و اگر خوش شانس باشیم، چکرز بازی می‌کنیم - اگر خوش شانس باشیم - و من می‌توانم استدلال کنم که حتی به این خوبی چکرز بازی نمی‌کنیم. خلبان بازنشسته هشدار می دهد که سلول های تروریستی در داخل خطوط هوایی خارجی \"مسلماً یک احتمال\"",
@@ -3799,7 +3844,7 @@
       "title": "سناتور کریس مورفی مبارزه علیه جنگ ایران را به خاورمیانه می برد - The Hill",
       "title_original": "Sen. Chris Murphy takes fight against Iran war to Middle East - The Hill",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmdJbnF6Q1lqNlZPb1MzTGNYODVNVVpIR1dhMFJYWmh4ZFlrSW0tbVRGOURpRXptVnRhLWhEa2cwc1JmbFZuMy1fUjA2TFNGbkFIUVRnSlhFOGxtTFNjdGpuZHh0YzdKNjhLalJLWXFYX1JRcmdYVjNVYnBYWDRSZw?oc=5",
-      "summary": "سناتور کریس مورفی به نبرد علیه ایران در تپه خاورمیانه می رود",
+      "summary": "سناتور کریس مورفی به نبرد علیه جنگ ایران به خاورمیانه می‌پردازد",
       "summary_original": "Sen. Chris Murphy takes fight against Iran war to Middle East The Hill",
       "source": "Google News",
       "category": "economy",
@@ -3841,7 +3886,7 @@
       "verified_source": true
     },
     {
-      "title": "صندلی حزب جمهوری خواه مینه سوتا گروه مترقی را بر روی تابلویی با مضمون KKK که در سخنان سخنران کاخ سیاه نشان داده شده بود منفجر کرد.",
+      "title": "صندلی حزب جمهوری خواه مینه سوتا گروه مترقی را بالای تابلویی با مضمون KKK که در سخنان سخنران کاخ سیاه نشان داده شده بود منفجر می کند.",
       "title_original": "Minnesota GOP chair blasts progressive group over KKK-themed sign shown during Black House speaker's remarks",
       "link": "https://www.foxnews.com/politics/minnesota-gop-chair-blasts-progressive-group-kkk-themed-sign-shown-during-black-house-speakers-remarks",
       "summary": "رئیس حزب جمهوری خواه مینه سوتا معترضان را به ارعاب نژادی متهم می کند، پس از اینکه تظاهرکنندگان یک شام حزب جمهوری خواه را برهم زدند و در حالی که اولین رئیس زن سیاه پوست مجلس نمایندگان در جمع مردم سخنرانی می کرد، تابلویی را در مورد کوکلوکس کلان به نمایش گذاشتند. الکس پلچاش، رئیس حزب جمهوری‌خواه مینه‌سوتا، پس از شام جمعه شب لینکلن ریگان در ایگان، جایی که معترضان در طی سخنان رئیس مجلس نمایندگان و نامزد جمهوری‌خواه فرمانداری لیزا دموت، تابلویی را در دست داشتند که روی آن نوشته شده بود، اعتراض کرد. پلچاش در بیانیه‌ای که توسط حزب جمهوری‌خواه مینه‌سوتا برای X ارسال شد، گفت: «شب گذشته، معترضان رادیکال به صحنه شام ​​لینکلن ریگان ما حمله کردند و نماد KKK را در حالی که سخنران لیزا دموت صحبت می‌کرد، در دست گرفتند». دیوید مارکوس: نامزدهای حزب جمهوری‌خواه مینه‌سوتا ترامپ را در طول بازو حفظ می‌کنند",
@@ -3906,7 +3951,7 @@
       "title": "تجزیه و تحلیل • 54 کشور، 110 تحریم: اسرائیل در خواب راهپیمایی در تحریم جهانی - هاآرتص",
       "title_original": "Analysis • 54 countries, 110 sanctions: Israel is sleepwalking into a global boycott - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPelVOaThpUE9FellsR3ZiQjB3QllXR3FOS0dydnpRWHRrcE1sWmN0UkRyS1ZCVTdNQjJTR2ZabXFKS09hRHRZSnlrV1l2LUxfLUtucU1JRXE3YnNZVE96S2RKRFhXVXVPbW1xcVNIdm1JLVhvNXU0Y0pOVWNlQnp3T3Y3Ri1IS1VkYUFjdUtpZ0RubWRTLXk3YU5TcWdXVUdBQy14OWFjUnlIcTZRcFItenoxYy1HMGJOdEJOLTNPcFpiWk85X183VmZ2dVY4R1liVVVrbEFCX19vM0dYZ2duTzVhdnRRTUlCYXV3bldONEFyUjZXQUhBNUlzYXFtU2hMbzFJRDBQX2I3ZjZUMHF3N0V2a1BOY1RxNHdGNGkwcjU?oc=5",
-      "summary": "تجزیه و تحلیل • 54 کشور، 110 تحریم: اسرائیل در خواب راهپیمایی در تحریم جهانی هاآرتص",
+      "summary": "تجزیه و تحلیل • 54 کشور، 110 تحریم: اسراییل در خواب به تحریم جهانی هاآرتص است.",
       "summary_original": "Analysis • 54 countries, 110 sanctions: Israel is sleepwalking into a global boycott Haaretz",
       "source": "Google News",
       "category": "politics",
@@ -3920,10 +3965,10 @@
       "verified_source": true
     },
     {
-      "title": "اظهارات گستاخانه ترامپ باعث سرگرمی جمعیت در تجمع انتخاباتی در تنسی شد - الجزیره",
+      "title": "اظهارات گستاخانه ترامپ باعث سرگرمی جمعیت در راهپیمایی انتخاباتی در تنسی شد - الجزیره",
       "title_original": "Trump’s brash remarks entertain crowd at election rally in Tennessee - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWc0ZnMwU3pNWHdIS093LUlicTd4TWE3R05nODYySVZRa1BNenBTNmtmaTd3RmowcDAtaXl2QWM1YUU0VkViZTBYblVQN1NrNVdkX1lWa0RLcWl1dG5aeTY5Z21pcHpMM0xjN1phN2FLRXBHdU00OTlSVG5VeDFwOUNtMUFjUnhHWE5JQnJidmNKMnFMNXRFNUJZbFd0cHlnT2xhRUs2NUpqNGkwNzVucURYX2hmXzJsa2NZ0gHAAUFVX3lxTE1CTTZpZjd0eTRhVjNzNThXU1JNVVpNaFQwTm54eXRocUxtV3c0d05CYmdvcXExTFM0WFczNHZaYktVM0F4YzE5UHVTenFfTGpIZjNhV0lqS0EtRWlHeWhqMmpLUWZ3ZlJXUnRBOWhiQU1fOGRzbEtfUFUxUUVRMFQzTTNPcE5iTGNBR01SZ3hJd2NsV1ZGWE5kMnZJU3c4VG9GYkJpX0ZwTWlfMjR5RUpDZmd5T1pEVzNJZm41Z2VHTA?oc=5",
-      "summary": "اظهارات گستاخانه ترامپ باعث سرگرمی جمعیت در راهپیمایی انتخاباتی در تنسی الجزیره شد.",
+      "summary": "سخنان گستاخانه ترامپ باعث سرگرمی جمعیت در راهپیمایی انتخاباتی در تنسی الجزیره شد.",
       "summary_original": "Trump’s brash remarks entertain crowd at election rally in Tennessee Al Jazeera",
       "source": "Google News",
       "category": "politics",
@@ -4004,7 +4049,7 @@
       "title": "ایران در جنوب سوریه فعال می‌ماند: شبکه‌های محلی و تهدیدی مستمر برای اسرائیل - مرکز تحقیقات و آموزش آلما",
       "title_original": "Iran Remains Active in Southern Syria: Local Networks and an Ongoing Threat to Israel - Alma Research and Education Center",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2djS2dHRmVnQ204dHpMRDdmNUJiaE5FR1JtZTc3WGctc19ZVFpCYXJHVW1YUTg3V3drVEVaUEZlTzBzREEwTjVwSHlldHF3ZHNNclI3dWhsZ1ZJUmktSG42UXBNRXRZdUlrSXlTVVNDNXN1RzM5ekV2OGhzRmtMT2E2VkNwcVEydVhRUEVBLTdEbDVTR2VZRFNKMWhEQnBvdkdYQ21NVWxhU2dTZmc?oc=5",
-      "summary": "ایران در جنوب سوریه فعال می‌ماند: شبکه‌های محلی و تهدیدی مستمر برای مرکز تحقیقات و آموزش آلما اسرائیل",
+      "summary": "ایران در جنوب سوریه فعال می‌ماند: شبکه‌های محلی و تهدیدی مستمر برای مرکز تحقیقاتی و آموزشی آلما اسرائیل",
       "summary_original": "Iran Remains Active in Southern Syria: Local Networks and an Ongoing Threat to Israel Alma Research and Education Center",
       "source": "Google News",
       "category": "other",
@@ -4019,7 +4064,7 @@
       "title": "غریب آبادی ایران: مهاجمان به مدرسه میناب باید به عدالت برخورد کنند - میدل ایست آی",
       "title_original": "Iran’s Gharibabadi says Minab school attackers must face justice - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXNkX3RjNFRhNjBWa25wdzZtSWxWV2pzdVFPTlp5M1B4NE5FVFNORFRjQjdHUXZNci1yckV3T2M2RF9SVE4xWHVBRHpaSG0ySE5NMUVqb2ozZzZ5VUpidnl3UnM3dGROVnpZY3BERDkxd21jVGtybGwtR3pIZW1sZXhrcnU5ZmREMm51RGFSSHdBRjNXbVFnelkyZnRoTnBMLUxFVmZWdWVNOTJhR3R4Zmw4dkpmaFRoYV9scQ?oc=5",
-      "summary": "غریب آبادی ایران می‌گوید مهاجمان مدرسه میناب باید به عدالت می‌پردازند",
+      "summary": "غریب آبادی ایران می‌گوید مهاجمان مدرسه میناب باید به عدالت برخورد کنند",
       "summary_original": "Iran’s Gharibabadi says Minab school attackers must face justice Middle East Eye",
       "source": "Google News",
       "category": "military",
@@ -4048,7 +4093,7 @@
       "verified_source": true
     },
     {
-      "title": "در داخل نقشه اسرائیل برای کشتن رهبر حزب الله در حالی که نتانیاهو به دستیار بایدن هشدار داد «از پوستش خواهد پرید»",
+      "title": "در داخل نقشه اسرائیل برای کشتن رهبر حزب الله در حالی که نتانیاهو هشدار داد دستیار بایدن \"از پوستش خواهد پرید\"",
       "title_original": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
       "link": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
       "summary": "به گفته الیوت کافمن، نویسنده سرمقاله وال استریت ژورنال و یک منبع دوم آشنا با دیلیبر، در حالی که اسرائیل آماده ترور رهبر حزب الله حسن نصرالله در سپتامبر 2024 بود، بنیامین نتانیاهو نخست وزیر و مقامات ارشد دفاعی وی در مورد اینکه آیا قبل از عملیات به دولت بایدن اطلاع داده شود یا خیر، اختلاف نظر داشتند، زیرا از ترس واشنگتن ممکن است این ماموریت را متوقف کند. به گفته کافمن، یکی از نویسندگان کتاب «در اتاق جنگ: داستان درونی نبرد اسرائیل علیه حماس و محور ایران» که این تبادل را در مصاحبه با فاکس نیوز دیجیتال بازگو کرد، نتانیاهو به مقامات ارشد دفاعی اسرائیل گفت: «140 درصد آنها این مأموریت را تأیید نمی‌کنند». یوآو گالانت، وزیر دفاع وقت، و هرزی هالوی، رئیس ستاد ارتش اسرائیل، بر این باور بودند که به واشنگتن اطلاع رسانی کردند.",
@@ -4196,7 +4241,7 @@
       "title": "الجزیره - آمریکا تحقیقات ضد انحصاری را علیه شبکه های تلویزیونی به دلیل توقف پوشش خبری ترامپ آغاز کرد",
       "title_original": "US opens antitrust probe into TV networks for halting Trump coverage - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFAzak00UHFFUWpPTWtHZE0yRzNCcVJnTDdtNUFWWVg5NDBOTWswZHZvQm1NV2lnXzhXcnpBQ0daRjJpazJZcDRQTTRGS3J5WkFXeTY3bkJjVF9KWU9kazZqZHV6UGxiWHl5ek5OLXV2Unc0OTNuZ0JmU2Nya1lMNURTdDR6UFdPUm84c3FpZE9qRnVyeXlGVkpJQW95Y2NjTkU4Si1rMjJzZ9IBrwFBVV95cUxQeDB6MmxLd2VrMjRubmk3ZmJ2S2FvM3NITTYySk5vUFlQUjk5b2ZoUHRfTVBzNlV3VzlkUFl1OWx2WFhrVGZULWNzTHdYNENtVlk2dmRSaHRZQW1xQUE5ODVpcHBCY2tqcGducmVHcjYzZUtjbzhyN3dvajl1N21uMGlKWDVYamh6UVN5NkFFTEdkM1VaQWlhRmptTGdyYVRCakx3dHFIX3ZiV2Z5RGpZ?oc=5",
-      "summary": "آمریکا تحقیقات ضدانحصاری را علیه شبکه های تلویزیونی به دلیل توقف پوشش خبری الجزیره ترامپ آغاز کرد",
+      "summary": "ایالات متحده تحقیقات ضد تراست را علیه شبکه های تلویزیونی به دلیل توقف پوشش خبری الجزیره ترامپ آغاز کرد",
       "summary_original": "US opens antitrust probe into TV networks for halting Trump coverage Al Jazeera",
       "source": "Google News",
       "category": "politics",
@@ -4328,10 +4373,10 @@
       "verified_source": true
     },
     {
-      "title": "گزارش: ایران با وجود حملات آمریکا و اسرائیل ظرفیت تولید موشک را حفظ می کند | وبلاگ زنده - i24NEWS",
+      "title": "گزارش: ایران ظرفیت تولید موشک را با وجود حملات آمریکا و اسرائیل حفظ می کند | وبلاگ زنده - i24NEWS",
       "title_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG - i24NEWS",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkRHloUDRaWG5STDBIUER0T21sb0ZoQ05YVWRJV0FFYjhNT0hfNGZkVV9hVk55c1J3eUZrdG9PMUUzbHYtSk03Uk5mRDJfOThUbnBpX0lYekpaX2ZPRzJvaXBaTTY1bUFyM0EtZ2VXUzRIZE80ZnpaNzRaSC05eW5tS2plZTkwMzJtSzJBTVRzQmNKS3dobXllNjcwXzFQemlxVUQ2QkVmbzFRTndvclo0bnl2aUd2b29ic1pVM0Q2bjg2WXhSNEthVGVmZms?oc=5",
-      "summary": "گزارش: ایران با وجود حملات آمریکا و اسرائیل ظرفیت تولید موشک را حفظ می کند | وبلاگ زنده i24NEWS",
+      "summary": "گزارش: ایران ظرفیت تولید موشک را با وجود حملات آمریکا و اسرائیل حفظ می کند | وبلاگ زنده i24NEWS",
       "summary_original": "Report: Iran Preserves Missile Production Capacity Despite US-Israeli Strikes | LIVE BLOG i24NEWS",
       "source": "Google News",
       "category": "military",
@@ -4399,7 +4444,7 @@
       "title": "جروزالم پست در آستانه انتخابات میان دوره ای، ایالات متحده برای عملیات تنها اسرائیل در ایران فشار آورد",
       "title_original": "US pushed for lone Israeli Iran operation as midterm elections loom - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yeGdLcFpkcDRnT1pFNEJIWlluQ0VjdlNESzJFandBNzVBQlotbnJLNURiTC16V1VwdG9qQnhaaldWN0F3SmJ0VkRBa2o3UWxydFZrZHNlNElIZy1OMTZJcVctMlktbnRqbUE?oc=5",
-      "summary": "در حالی که انتخابات میان دوره ای در پیش است، روزنامه جروزالم پست، ایالات متحده برای عملیات تنها اسرائیل در ایران فشار آورد",
+      "summary": "در حالی که انتخابات میاندوره ای در پیش است، روزنامه جروزالم پست، ایالات متحده برای عملیات تنها اسرائیل در ایران فشار آورد",
       "summary_original": "US pushed for lone Israeli Iran operation as midterm elections loom The Jerusalem Post",
       "source": "Google News",
       "category": "other",
@@ -4414,7 +4459,7 @@
       "title": "مقامات ارتش اسرائیل هشدار دادند که حمله قبل از انتخابات ایران ممکن است با انگیزه سیاسی به نظر برسد - هاآرتص",
       "title_original": "IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw?oc=5",
-      "summary": "مقامات ارتش اسرائیل هشدار دادند که حمله پیش از انتخابات ایران ممکن است با انگیزه سیاسی به نظر برسد هاآرتص",
+      "summary": "مقامات ارتش اسرائیل هشدار دادند که حمله قبل از انتخابات ایران ممکن است با انگیزه سیاسی به نظر برسد هاآرتص",
       "summary_original": "IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated Haaretz",
       "source": "Google News",
       "category": "military",
@@ -4491,7 +4536,7 @@
       "verified_source": true
     },
     {
-      "title": "نیویورک تایمز در حمله حوثی ها به فرودگاه عربستان حداقل 12 کشته و 300 زخمی برجای گذاشت.",
+      "title": "نیویورک تایمز در حمله حوثی ها به فرودگاه عربستان دست کم 12 کشته و 300 زخمی بر جای گذاشت.",
       "title_original": "At Least 12 Killed and 300 Injured in Houthi Attack on Saudi Airport - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR?oc=5",
       "summary": "نیویورک تایمز در حمله حوثی ها به فرودگاه عربستان سعودی دست کم 12 کشته و 300 زخمی بر جای گذاشت.",
@@ -4553,10 +4598,10 @@
       "verified_source": true
     },
     {
-      "title": "«آناکرونیسم»: لفاظی تمدنی روبیو باعث عقب نشینی ایران شد - الجزیره",
+      "title": "«آناکرونیسم»: لفاظی تمدنی روبیو موجب عقب نشینی ایران شد - الجزیره",
       "title_original": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamhIUGVlZ2RSX0dtNlNPZm1PQ0VqRk9GU1JLU0NnTEZ1aVNqbXE1eTFhV0dYcGVsc1ZmdkU3SW9rSnB6ZzJZSmZ1dkJxRXB3LWlMOHk5bnNvUFhKaHNleVFmSVBUU1RqbGxNcUhWTmkydTJRU1U3ekhydEcxbDJhb2E5OTJCOE9KWUFuODVyNFZnbDlkRmhMMml2a2w2RlhWVlNYS19PdDlaODZ2elR4cHpYLVZjUVBGUnZQb9IBwgFBVV95cUxObnFKajZBMmR4X1loYnRHaklZcU1jSU9ZaTg3QjJCTng3U01seUtxMWJfdXl2OHJYRXlJaUxuLXlXajJObDRQNDdIXzFYeVYwV2lSR3dtVUVZNkliZ3pvQ0dtYWJYeVNtNHkyWWdEckFfemxyZHlqUzg4SGpjTlNvRldrWTc4cWJyTVN2YmYyUkdYSTh4bUpsT1dIT0RuekU1V3NFT0pDVTFkZVNRRUhiUWI2N1AyM1hvWmdJSzlENTJfUQ?oc=5",
-      "summary": "«آناکرونیسم»: لفاظی تمدنی روبیو باعث عقب نشینی الجزیره ایران شد",
+      "summary": "«آناکرونیسم»: لفاظی تمدنی روبیو باعث عقب نشینی ایران الجزیره شد",
       "summary_original": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran Al Jazeera",
       "source": "Google News",
       "category": "other",
@@ -4586,7 +4631,7 @@
       "title": "الجزیره هشدار داد که توافق دیزل ترامپ و پوتین، جنگ روسیه را تامین خواهد کرد",
       "title_original": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzB2SGJjZTZFd1lCcGRKdUc1RDk4aC1Mdm56TnBtMTZ1RnE0Yllkcy1rSHNrTEZrNlpaWmVZbFJ2ZWN0UnFGbmowbGR1emQtUEt3Z2xROXpWX1VBa29fVG1TdGxTV2ZBSDQ2MU8wUlRBNjZMeFdSX1pzRGV1Q0N0S2xRZXZEWDVtSGFKenp2dkZhSWZ5SnhNU2JsSTlJX0ViX1ZEY1ZiU2lST09TLWQ0Q0dpakU1d9IBuwFBVV95cUxQc2MtTEF0aDdqc2NGZFA5V2lwSzdXSVhZS1FrcFVtcllXcEF6bnVkUVg4bmpicTl2V3AzVllsYjZsTEUtNmJYQUVFMUZ2ZU5QSG9WZDY2dnVxWVhlVF9OS0d6RjJiV0pSdXFjNTFmZXhSOS1rSG5TM2dFRThDUU42ZGxraTBBNUxjNm9WMXlqY2JIVlZQYy1JeE8tcFd4YTdXNUFTdHFTTHJkWmU4SURGRWEzaXBzSDhvYjJr?oc=5",
-      "summary": "اوکراین هشدار داد که قرارداد دیزلی ترامپ و پوتین به جنگ الجزیره روسیه کمک مالی خواهد کرد",
+      "summary": "اوکراین هشدار داد که قرارداد دیزلی ترامپ و پوتین، جنگ الجزیره روسیه را تامین مالی خواهد کرد",
       "summary_original": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war Al Jazeera",
       "source": "Google News",
       "category": "politics",
@@ -4601,25 +4646,7 @@
       "verified_source": true
     },
     {
-      "title": "پوتین در تماس تلفنی با ترامپ، موضع ایران را در مورد معامله خاورمیانه اعلام کرد - NDTV",
-      "title_original": "In Phone Call With Trump, Putin Conveys Iran's Position On Middle East Deal - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzhiR2xaVWg4T1BzOWZoZmI2dVF4TF83aDg3SWxRMEc3cXZ5Z2NkaUxaNGhhVHlqMzNST0I3X2U5UjNnSm90N3hZSS00Nkp3N2FOTEs0QVBIR0RGSE5wb1Z6T1RhX2tzRTBvTUdxaHZpZGJfM00yZVZpaUlPcG56UGllclhMVnpWVmZfQ1JUajJTYXdfdnZGemxIRVJWRU5OeWVRUlNrV0FCbTFJT2hOWVV6dmTSAbwBQVVfeXFMTm5QbFgyN2pSam9mbTNXZ1ZMLWt5Zzd6TmVmTXZyZ080dDZwNXdBWTI4MHF5Nkp2YUpka05yVlVMdHNad0YxSG1qakNwQUFTMVBLMEFlV1hMTVhpQml2OVZEQ1N4QldaQlVWemw0X1EycEhrcmdVOTE5d1l2NWtZOThXbWY3eEJlZF8xUzk0OTNLbXZteldKZHc5amNrLVZXM1Y1WWlsMEh1dlBGZHdtaTR2ZE1JZHFVSDlWbXQ?oc=5",
-      "summary": "پوتین در تماس تلفنی با ترامپ، مواضع ایران در مورد توافق خاورمیانه را NDTV اعلام کرد",
-      "summary_original": "In Phone Call With Trump, Putin Conveys Iran's Position On Middle East Deal NDTV",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-10T16:01:11+03:30",
-      "published_fa": "1405/07/18 - 16:01",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "روزنامه جروزالم پست، علیرغم حملات آمریکا و اسرائیل، همچنان می تواند موشک تولید کند",
+      "title": "جروزالم پست ایران همچنان می تواند موشک تولید کند، علیرغم حملات آمریکا و اسرائیل",
       "title_original": "Iran can still produce missiles despite US-Israeli strikes - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiOU1Ba0c1UjAzLVJqZXYyTC16bDlCMklBNlRhbmhUTnF4TG54ZjJhX3RteC1zNUQ3WWNwRVBxMGs0NjdfbnFtSUF6U0JZQnhyMGhXRXhRSy1kaTl2MWpYcFpKWDJsYy11T2c?oc=5",
       "summary": "با وجود حملات آمریکا و اسرائیل به روزنامه جروزالم پست، ایران همچنان می تواند موشک تولید کند",
@@ -4637,7 +4664,7 @@
       "title": "داخل کتاب بازی اعتراض برای بدنام کردن اسرائیل در \"روز جهانی اقدام\"",
       "title_original": "Inside the protest playbook to vilify Israel on 'global day of action'",
       "link": "https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel",
-      "summary": "واشنگتن دی سی - در حالی که تظاهرکنندگان، از جمله آژیتاتورهای کد پینک که سرفصل‌ها را به خود اختصاص می‌دهند، در اواخر بعد از ظهر شنبه در پایتخت کشور برای یک \"روز جهانی اقدام هماهنگ\" علیه اسرائیل فرود می‌آیند، آنها به موج جهانی راهپیمایی‌ها و اختلالات برنامه‌ریزی‌شده که ممکن است به نظر می‌رسد مستقل در حال رخ دادن است، خواهند پیوست. در کوالالامپور، مالزی، روز جمعه، تظاهرکنندگان ضد اسرائیلی، تابلوهایی را حمل کردند که در آن زبانی عاطفی علیه اسرائیل به کار می‌رفت، از جمله پرچم فلسطین و دستی خون آلود با پیام «قتل‌کشی را متوقف کنید». در همان نزدیکی، دو زن که مسلسل‌های ساختگی حمل می‌کردند، تصویر مقوایی از بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی را که با دست‌بند بسته شده بود، با طناب‌دار دور گردنش کنار زدند. اما تحقیقات دیجیتال فاکس نیوز نشان داده است که مدتها قبل از تجمع اولین تظاهرکنندگان",
+      "summary": "واشنگتن، دی سی - در حالی که تظاهرکنندگان، از جمله تحریک‌کنندگان کد پینک، در اواخر بعدازظهر شنبه به پایتخت کشور می‌روند تا «روز جهانی اقدام هماهنگ» علیه اسرائیل برگزار کنند، به موج جهانی راهپیمایی‌ها و اختلالات برنامه‌ریزی‌شده که ممکن است به نظر می‌رسد مستقل در حال رخ دادن است، خواهند پیوست. در کوالالامپور، مالزی، روز جمعه، تظاهرکنندگان ضد اسرائیلی، تابلوهایی را حمل کردند که در آن زبانی عاطفی علیه اسرائیل به کار می‌رفت، از جمله پرچم فلسطین و دستی خون آلود با پیام «قتل‌کشی را متوقف کنید». در همان نزدیکی، دو زن که مسلسل‌های ساختگی حمل می‌کردند، تصویر مقوایی از بنیامین نتانیاهو، نخست‌وزیر رژیم صهیونیستی را که با دست‌بند بسته شده بود، با طناب‌دار دور گردنش کنار زدند. اما تحقیقات دیجیتال فاکس نیوز نشان داده است که مدتها قبل از تجمع اولین تظاهرکنندگان",
       "summary_original": "WASHINGTON, D.C. — As demonstrators, including the headline-grabbing CodePink agitators, descend on the nation's capital late Saturday afternoon for a \"coordinated global day of action\" against Israel, they will join a worldwide wave of marches and planned disruptions that may appear to be unfolding independently. In Kuala Lumpur, Malaysia, on Friday, anti-Israel demonstrators carried signs deploying emotionally charged language against Israel, including one featuring a Palestinian flag and a bloodied hand with the message, \"STOP GENOCIDE.\" Nearby, two women carrying mock machine guns flanked a cardboard image of a handcuffed Israeli Prime Minister Benjamin Netanyahu with a noose around his neck. But a Fox News Digital investigation has found that, long before the first demonstrators gathered, the messages for the protest's \"communications framing\" and transnational action plan had already been written, the banners designed, the tactics circulated and the media strategy laid out to \"turn public outrage into collective leverage.\" LAWMAKERS THROW OUT 'TROJAN HORSE' ACTIVISTS THEY SAY ARE ENGAGED IN AMERICAN SUBVERSION The campaign documents reveal that coalition organizers instructed participating groups to direct protesters to \"shut down city squares,\" \"encircle government buildings\" and \"blockade complicit corporate hubs.\" The document declares, \"This is not a symbolic march and not a routine protest.\" Fox News Digital identified 179 organizations in the coalition, while an i",
       "source": "Fox News",
       "category": "politics",
@@ -4651,7 +4678,7 @@
       "verified_source": true
     },
     {
-      "title": "فرانسه در حال بلعیدن خود است زیرا شورش های مدارس بحرانی را به مراتب بزرگتر از کلاس های درس شکسته نشان می دهد",
+      "title": "فرانسه در حال بلعیدن خود است زیرا شورش‌های مدارس بحرانی بسیار بزرگ‌تر از کلاس‌های درس شکسته را نشان می‌دهد",
       "title_original": "France is devouring itself as school riots reveal a crisis far bigger than broken classrooms",
       "link": "https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms",
       "summary": "اعتراضات دانش‌آموزان به مدارس در حال فروپاشی علیرغم میلیاردها هزینه عمومی، به بحران گسترده‌تری در فرانسه دامن می‌زند و کارشناسان هشدار می‌دهند که مشکلات مالی فزاینده این کشور، مرکز سیاسی ضعیف رئیس‌جمهور امانوئل ماکرون و جنبش‌های رادیکال، ناآرامی‌ها را بسیار فراتر از نارضایتی‌های آموزشی اصلی آن پیش می‌برد. سیمون رودان-بنزاکون، فرستاده ارشد بنیاد دفاع از دموکراسی ها در اروپا، در مصاحبه ای از پاریس به فاکس نیوز دیجیتال گفت که آنچه در سپتامبر با شکایت های مشروع در مورد شرایط مدرسه آغاز شد، به طور فزاینده ای توسط نیروهای سیاسی که به دنبال رویارویی با دولت هستند، مورد سوء استفاده قرار گرفته است. او گفت: «به طور کلی، من می‌گویم که خشم واقعی است، اما خشونت سازمان‌یافته است.",
@@ -4703,7 +4730,7 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ می گوید هدف تحریم های دیوان بین المللی کیفری دفاع از نتانیاهو و دیگران است - خاورمیانه چشم",
+      "title": "ترامپ می‌گوید هدف تحریم‌های دیوان بین‌المللی کیفری دفاع از نتانیاهو و دیگران است - میدل ایست آی",
       "title_original": "Trump says ICC sanctions aimed at defending Netanyahu and others - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGNObWMxQ0dxWWZOY2RXY1VNcmk5dHRIeUxLRndKREFPVmNwRGh5dTdJMl9jQzcyZkY3OG10RTZGWno1ZndZMXRmSmxJVXdmQ1d3dURmdU5pOUJpQURLZkVYMTkxcGpRdVZqbUprUFZHTXhXVTM5U1RmNXF4N05vVENyX014LXF3eEtGNUgweEtJeF95SzNqanhERDRZeDB2dU8xVnZ4ZDh1WHUtdXZzd1lQUlNYaW5WbWc?oc=5",
       "summary": "ترامپ می گوید هدف از تحریم های دیوان بین المللی کیفری دفاع از نتانیاهو و دیگران در خاورمیانه است",
@@ -4767,21 +4794,6 @@
       "urgent": false,
       "published": "2026-10-10T02:23:57+03:30",
       "published_fa": "1405/07/18 - 02:23",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "یایر گولان، رهبر دموکرات‌ها می‌گوید کشتن رهبر ایران، اسرائیل را تضعیف کرد - هاآرتص",
-      "title_original": "Democrats Leader Yair Golan Says Killing Iran's Supreme Leader Weakened Israel - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRzlNZUp3LWhRZFlXRDFNY09ZRXk2NDBJbVFqcktCLUlkYkctQzd2eHpKcHBnQ0ducC1iMXBERDNaRjQzYnQ5N1dXMXRQd3hNd05ydXNDREoxdTJmUjZJMl9LbGcyQkdqYjVKQ2QxZXpRNTdMM3MyOXU1TWE2YmFFbFdYRlVPcmlUb3BaNTNHVzhsLTFyR1hLOW1yekhqR21Jbi0xWng3TmdhcDlUTXhXUS1hcll1b3ctTTdfYW1jQTUzY1JrWUxIMHdQUGNLcVYzX2lpWF9ValgtakMweHVfOWhoVXVUbnJodG1lY3gtWkVVZXNiWE5XMC0xcjJQdnhzM0ZwMUprV3J5SGxR?oc=5",
-      "summary": "یایر گولان، رهبر دموکرات‌ها می‌گوید کشتن رهبر ایران، اسرائیل را تضعیف کرد هاآرتص",
-      "summary_original": "Democrats Leader Yair Golan Says Killing Iran's Supreme Leader Weakened Israel Haaretz",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-10T02:21:00+03:30",
-      "published_fa": "1405/07/18 - 02:21",
       "translated": true,
       "verified_source": true
     },
@@ -4950,7 +4962,7 @@
       "title": "زن 87 ساله پس از 70 سال حمل برانکارد از خانه در حین اخراج در اسپانیا جان خود را از دست داد.",
       "title_original": "Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain",
       "link": "https://www.foxnews.com/world/woman-87-dies-carried-home-70-years-stretcher-eviction-spain",
-      "summary": "مرگ یک زن 87 ساله که از خانه دیرینه اش بیرون رانده شده بود، بحران سیاسی در اسپانیا را تشدید کرده است، جایی که اعتراضات سراسری به دلیل افزایش هزینه های مسکن به برگزاری انتخابات زودهنگام کمک کرده است. به گزارش آسوشیتدپرس، ماریا دل کارمن آباسکال، معروف به \"ماریکارمن\" روز چهارشنبه پس از اخراج از آپارتمانی در مادرید که هفت دهه در آن زندگی می کرد، در بیمارستان بستری شد. مرگ او تنها چند روز پس از آن اتفاق افتاد که پدرو سانچز، نخست وزیر اسپانیا، پس از ناکامی دولتش در تصویب تدابیر اضطراری مسکن در پارلمان، انتخابات زودهنگام را برای 29 نوامبر فراخوان داد. این جنجال فشار جدیدی را بر حزب سوسیالیست سانچز وارد کرده است زیرا اسپانیا با ناامیدی گسترده از افزایش اجاره بها و قیمت مسکن دست و پنجه نرم می کند. تماس رهبر اپوزیسیون اسپانیا",
+      "summary": "مرگ یک زن 87 ساله که از خانه دیرینه اش بیرون رانده شده بود، بحران سیاسی در اسپانیا را تشدید کرده است، جایی که اعتراضات سراسری به دلیل افزایش هزینه های مسکن به برگزاری انتخابات زودهنگام کمک کرده است. به گزارش آسوشیتدپرس، ماریا دل کارمن آباسکال، معروف به \"ماریکارمن\" روز چهارشنبه پس از اخراج از آپارتمانی در مادرید که هفت دهه در آن زندگی می کرد، در بیمارستان بستری شد. مرگ او تنها چند روز پس از آن اتفاق افتاد که پدرو سانچز، نخست وزیر اسپانیا، پس از ناکامی دولتش در تصویب تدابیر اضطراری مسکن در پارلمان، انتخابات زودهنگام را برای 29 نوامبر فراخوان داد. این جنجال فشار جدیدی را بر حزب سوسیالیست سانچز وارد کرده است زیرا اسپانیا با ناامیدی گسترده از افزایش اجاره بها و قیمت مسکن دست و پنجه نرم می کند. تماس رهبر اپوزیسیون اسپانیایی",
       "summary_original": "The death of an 87-year-old woman who was evicted from her longtime home has intensified a political crisis in Spain , where nationwide protests over soaring housing costs have helped force an early election. María del Carmen Abascal, known as \"Maricarmen,\" died Wednesday after being hospitalized following her eviction from a Madrid apartment where she had lived for seven decades, according to The Associated Press. Her death came just days after Spanish Prime Minister Pedro Sánchez called a snap election for Nov. 29 after his government's failure to pass emergency housing measures through Parliament. The controversy has put renewed pressure on Sánchez's Socialist Party as Spain grapples with widespread frustration over rising rents and housing affordability . SPANISH OPPOSITION LEADER CALLS PRIME MINISTER A ‘TRAITOR’ OVER CEUTA MIGRANT CRISIS At the center of the uproar was Abascal's Sept. 23 eviction, which drew national attention after images showed the elderly woman, who used a wheelchair, being carried from her apartment on a stretcher. Police had cordoned off the street and removed demonstrators who attempted to stop the eviction. The images sparked demonstrations in Madrid and other Spanish cities, turning Abascal into a symbol of the country's housing crisis. The real estate company responsible for her eviction had sought to lease the apartment at a substantially higher price, according to the AP. ANGRY LOCALS BLOCK FAMOUS BEACH AS MASS TOURISM PROTESTS ESCALATE AT VAC",
       "source": "Fox News",
       "category": "politics",
@@ -5074,7 +5086,7 @@
       "verified_source": true
     },
     {
-      "title": "علیرغم تمجید و بازدید از کاخ سفید، ترامپ از حمایت از نتانیاهو - الجزیره اجتناب می کند",
+      "title": "علیرغم تمجیدها و بازدید از کاخ سفید، ترامپ از تایید نتانیاهو - الجزیره اجتناب می کند",
       "title_original": "Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpyYk5MLTRqU3RnUFZQNFpEaEpLRGV1bmJrRU9RRXVqRW9rRndrSm1fNzd4eEs1OGlYNWFCRU1vOEJlOWdzU3RtMUdWUzRUaUNkOFhKeEZiaUJFUEIwMTZscXJFMXcyR09Ec3laWGstZ3NfR2lSdkJBU2pIWWNCT2tOR1ZKQWR5aVZTLTVRVGpXT3lKZURPbU5NU05aZnp6UDR1T1ZDR1ZlMmxrOUpyS9IBtgFBVV95cUxOeXNPemhyVGgzRlVLeC01MnloMkNTX3dFcENKTHcyR01aRkdvbkJqTmJkOTZyc1Q2U0JvQXpJbGV6TDBkbGItYnoyQm1sdVFBODdYdWUtX19EcldQMTdiV1RkN183bDJZTUd6NEdtclZoTkNVWGpuRnFyUWN1WXVaaFd5OEFXVmhIMTFmZ2JXUVMyaTFBQldjWVJvUnVkN3FkaGkxT2dRbDhPTDNVaXcyTC0yTTVGQQ?oc=5",
       "summary": "علیرغم تمجیدها و بازدید از کاخ سفید، ترامپ از حمایت از نتانیاهو الجزیره اجتناب می کند",
@@ -5210,7 +5222,7 @@
       "verified_source": true
     },
     {
-      "title": "ایران نقشه راه هفت روزه برای پایان دادن به درگیری با آمریکا - الجزیره ارائه می کند",
+      "title": "ایران نقشه راه هفت روزه برای پایان دادن به درگیری با آمریکا ارائه می دهد - الجزیره",
       "title_original": "Iran pitches seven-day roadmap to end conflict with US - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2p2aDJ4dC1JV2lYaGZXWXBpenhCOEpxVWlubEQxUUZkTEd1VGxMZmJEY0FfdzllbUNGSDZLZEhuY0EwWXNlTk1xcDhNMkRLRGY1RlBoNkkwQzlqc2tUQ1NxRUNtM0hJRXROUjdKdzZuWXFtTTRJUlpEcjJLVkRkTWhIS1A2RnJObFhPYmdERy1EelZFUWFGNmc5b9IBoAFBVV95cUxNVEowcUwwd0U1VGp0TXQ2dGtTMm5RYm1DUy1Xem5ZVzFETzdHZWladVJuZHNWQzljM0l0SVlWUEk2VlJCcy1SWC05YTRZcXhhT0hMWWpINVBrby1RNTJrSHR2a3YzQ0x1U1NERm9MeXdtQlpYN2tfQ191UEkyVk9DQXFWSG16ZDZ5NHhnMkVEa2FfOTZWejVMT1dsZk1NY25a?oc=5",
       "summary": "ایران نقشه راه هفت روزه برای پایان دادن به درگیری با الجزیره آمریکا ارائه می کند",
@@ -5342,7 +5354,7 @@
       "title": "نتانیاهو از سخنرانی سازمان ملل برای برجسته کردن روابط ترامپ - و توهین به دیگران - Politico استفاده می کند",
       "title_original": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else - Politico",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWJfc3dZSDVvcF9neFdPNGhEQlV6Y2NiNERBTXJKUlNtV2p3LTRTbHptRHMwOGdXSGJUelpBNE1laFVqSHZZVGtNUDlOV2psb280UjJQQ2JJMTFjOUNtdWpORFFreXVhYUZ2VHk0LTBYemNQZmV6aWs5cUc1dzdyc0J0cEg0OERPODN6MW9YOVRkcXZxbi1FMlhTQW1YczVCY0ttYWYwd0FvT2RLZXNOYzJ1Z04xTE9ZeFlDRU1IeXI2WUZX?oc=5",
-      "summary": "نتانیاهو از سخنرانی سازمان ملل برای برجسته کردن روابط ترامپ استفاده می کند - و هر کس دیگری را در Politico توهین می کند",
+      "summary": "نتانیاهو از سخنرانی سازمان ملل برای برجسته کردن روابط ترامپ استفاده می‌کند - و دیگران را در Politico اذیت می‌کند",
       "summary_original": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else Politico",
       "source": "Google News",
       "category": "politics",
@@ -5413,7 +5425,7 @@
       "title": "نتانیاهو: حمله به ایران «یکی از ساده‌ترین تصمیم‌هایی بود که تا به حال باید می‌گرفتم» - ام اس حالا",
       "title_original": "Netanyahu: Attacking Iran was ‘one of easiest decisions I’ve ever had to make’ - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43d0lvYnBSZGFaY2VlVVA3YjNnTEhMc0JYbUQtVjZSeGVYa21KVkNwU2FJcGtROVczYV9ELTJvSnFjc2RfNk51aTROMDhJc2hHaTFMTy11dzJVRm5VR3JmRzVTV200YndCTTl6ODk4Tl9uTnZMSDJLWjlR?oc=5",
-      "summary": "نتانیاهو: حمله به ایران «یکی از ساده‌ترین تصمیم‌هایی بود که من باید می‌گرفتم» MS NOW",
+      "summary": "نتانیاهو: حمله به ایران «یکی از ساده‌ترین تصمیم‌هایی بود که تا به حال می‌گرفتم» MS NOW",
       "summary_original": "Netanyahu: Attacking Iran was ‘one of easiest decisions I’ve ever had to make’ MS NOW",
       "source": "Google News",
       "category": "military",
@@ -5427,10 +5439,10 @@
       "verified_source": true
     },
     {
-      "title": "رئیس جمهور ایران در سخنرانی سرسختانه سازمان ملل، آمریکا و اسرائیل را به دلیل بی ثباتی جهانی مقصر دانست - CNBC",
+      "title": "رئیس جمهور ایران در سخنرانی سرسختانه سازمان ملل، آمریکا و اسرائیل را مقصر بی ثباتی جهانی دانست - CNBC",
       "title_original": "Iran's president blames U.S., Israel for global instability in defiant UN speech - CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU1BITTg2X284SVBlRmFFUUFzeDN1YlBOWEcteDN1S0tmZmx5R0F2WjQwS1ExcUVwRmVQc3dVd09rcExFbUZGTlZvbG5rSDl0R0hyaGQtMldodEdWTTNZZVFDd2NEMVpMV3IwLVdOcExBNVZSbTRoUdIBfkFVX3lxTE80bGdjQXNYNldKemZVSUlCOGVucVBvZjdSb3VLZlk0SWM0SHU4ZWFSdEU4d0FTUVpVOEtUN3YydGY2WTZXSjhkSzl5QXdfTWRyWUtqRzhGZVhUM3F5YU9PekxnckZHUG1VcXd3QlBiLWQ3RVJZaHBmZXVnOWtJUQ?oc=5",
-      "summary": "رئیس جمهور ایران در سخنرانی سرسختانه سازمان ملل در CNBC، آمریکا و اسرائیل را به دلیل بی ثباتی جهانی مقصر دانست.",
+      "summary": "رئیس جمهور ایران در سخنرانی سرسختانه سازمان ملل در CNBC، آمریکا و اسرائیل را مسئول بی ثباتی جهانی دانست.",
       "summary_original": "Iran's president blames U.S., Israel for global instability in defiant UN speech CNBC",
       "source": "Google News",
       "category": "other",
@@ -5481,7 +5493,7 @@
       "title": "آنچه جنگ ایران در مورد استراتژی خاورمیانه چین آشکار می کند - مرکز عرب واشنگتن دی سی",
       "title_original": "What the Iran War Reveals about China’s Middle East Strategy - Arab Center Washington DC",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFVPNUpWQmU0MlFSVTRWV252aFhXNWZwOU9pY0FTb2dYSEV4S2gyX0hUMU9kTWRmNVlzdEdwYjhzR0JoTmY4dkNoMktuZmlHYnNBNkFxWnFjSjdjdmR6RHkwaHNQZUg1bXQ0dHBkUlVISDdrSlRrbTFkRVVXZUk1dGYyYXJVbnRXM01ZeU5BbDBvZ29yX2tXc1dR?oc=5",
-      "summary": "آنچه جنگ ایران در مورد استراتژی خاورمیانه چین در مرکز عرب واشنگتن دی سی آشکار می کند",
+      "summary": "آنچه جنگ ایران در مورد استراتژی خاورمیانه چین در مرکز عرب واشنگتن دی سی نشان می دهد",
       "summary_original": "What the Iran War Reveals about China’s Middle East Strategy Arab Center Washington DC",
       "source": "Google News",
       "category": "other",
@@ -5496,7 +5508,7 @@
       "title": "دولت های خاورمیانه برای تشدید احتمالی در حالی آماده می شوند که ایران نسبت به اقدام آمریکا هشدار داده است - واتیکان نیوز",
       "title_original": "Middle East governments brace for possible escalation as Iran warns against U.S. action - Vatican News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXJCeEFwMDdTZ0hMRWtyaVlWRUt6aVZrRUg5T0lockZxQ01POVIxRFplVjEySFFfOEliTm5HajhHTzNzc3Yyb1Yta1pXVUZMRWdvclJXLXRfa1NpVDZUeklsWDdwRy1yNDRHc3pmZllkc2k4SkdRUV90UUt2eTBWdDFKeExSOEhqQXQ4b01SQUhmSmgtbVpBOXhuNjBfcWMweEZjc1BaVHZfQnZZb0Zsc1pn?oc=5",
-      "summary": "دولت‌های خاورمیانه برای تشدید احتمالی تنش آماده می‌شوند، زیرا ایران نسبت به اقدام ایالات متحده هشدار می‌دهد واتیکان نیوز",
+      "summary": "دولت‌های خاورمیانه برای تشدید احتمالی تنش آماده می‌شوند، زیرا ایران نسبت به اقدام آمریکا هشدار می‌دهد واتیکان نیوز",
       "summary_original": "Middle East governments brace for possible escalation as Iran warns against U.S. action Vatican News",
       "source": "Google News",
       "category": "politics",
@@ -5592,7 +5604,7 @@
       "title": "تایمز اسرائیل: فرماندهی نظامی ایران می گوید از برنامه های آمریکا برای از سرگیری حملات مطلع شده است",
       "title_original": "Iran’s military command says it’s been informed US plans to resume strikes - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHk4MGQybWQzOXNVaUViSmJxVjJpSGozUjBzdEo0d0pLSVV6czdsRm9HRWZEVlo4ZDRPN083RzhndTU5cU5yWkpSVnI2R05qdGdjaW5XWmRlWXZDWUJRTUZWSmt5YUtwXzAxMDhnUk5qRTBRWW1kbWxXX28yal9zS1lPMFYwblQ0b0swOGJWQWQtN2g4SmM1SHNMSnMzUVZ4OUx1eDZ30gGrAUFVX3lxTFBpcjVGRXJPaGpFU1o1MUx6UkRmMC1kTEhNbWlTMVNLVjZ6SlhlajdIODIxUkRoN0lkaVpsczhCcy1mZmhqSmNBS29iYXFiVE1Jd3BGb080OUZBZ0NIUmtkY3Rsd3ZNUUx5aVB3RmdJcDVJYXRaZ2RPWVg0UmFnOGV3RzdpZDBZYVRsaHVCbDB2Q3cwRmp3WjBRWWZGMThMRjN4OXBLM0dFbnpGaw?oc=5",
-      "summary": "فرماندهی نظامی ایران می‌گوید از برنامه‌های ایالات متحده برای از سرگیری حملات به تایمز اسرائیل مطلع شده است",
+      "summary": "فرماندهی نظامی ایران می‌گوید از برنامه‌های آمریکا برای از سرگیری حملات مطلع شده است تایمز اسرائیل",
       "summary_original": "Iran’s military command says it’s been informed US plans to resume strikes The Times of Israel",
       "source": "Google News",
       "category": "military",
@@ -5604,7 +5616,7 @@
       "verified_source": true
     },
     {
-      "title": "سفارت های ایالات متحده در سراسر خاورمیانه هشدارهای امنیتی برای آمریکایی ها صادر می کنند - CBS News",
+      "title": "سفارتخانه های ایالات متحده در سراسر خاورمیانه هشدارهای امنیتی برای آمریکایی ها صادر می کنند - CBS News",
       "title_original": "U.S. embassies across Middle East issue security alerts for Americans - CBS News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1ROYVJ6T0RNSzVUbXVHZTJTc0NDajFSSzB4VjdJcWVpX2JVVk9KcnpmZHNMZFZxS3pIaTFRMlUzSExKZHBiUlRYa2l2M0s1amg4aTd6alZNLW53cmZsWVhFZFRsUG91NnNLMXNSdnhGckhpTTlRTF9JV0xRS0dDNEh3cUhMcFl3NGNCdQ?oc=5",
       "summary": "سفارت های ایالات متحده در سراسر خاورمیانه هشدارهای امنیتی برای آمریکایی ها CBS News صادر می کنند",
@@ -5619,7 +5631,7 @@
       "verified_source": true
     },
     {
-      "title": "سی‌ان‌بی‌سی از آمریکایی‌ها می‌خواهد تا با افزایش تنش‌ها در ایران، در سفر به خاورمیانه تجدیدنظر کنند",
+      "title": "سی‌ان‌بی‌سی از آمریکایی‌ها می‌خواهد که با افزایش تنش‌ها در ایران، در سفر به خاورمیانه تجدیدنظر کنند",
       "title_original": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3RVdGQ4NzgwcVNmRDRib0F5dm5EUGp3MDRPcjdEcDdtaFdQbW9rWGpkTWVuZkF2Y3dtUERrRUFGRFFBeDBEV0o3VDZFUHdONGVEUkNycXdaYVJQNFBuc3hESHMtMXozY2NlX3lqSHNvRkJ3VlBUZDRNS0dueG96UU41cFFzb1VxeEHSAY8BQVVfeXFMTnhaMTBoNEtJRDBLbC0xM2REUXY4QmZMMDlkZy1XbzlDckJOSEp6ZDJzSjhjaWhNNFZlQzVCbkRveXc3LThMcm1jVmtEYVZlbzJpMjY3RldndjNjNG1LMWtLVTdLci1aTTNFdkhnN29qbGpaWVVxbk45MF82bG5EbzlGTmFFWXRPblNERFF1S0E?oc=5",
       "summary": "آمریکا از آمریکایی‌ها می‌خواهد که با افزایش تنش‌ها در ایران، در سفر به خاورمیانه تجدیدنظر کنند",
@@ -5870,7 +5882,7 @@
       "title": "علی رغم جنگ ایالات متحده علیه ایران، این پیمان می تواند خاورمیانه را تغییر دهد - Inkstick Media",
       "title_original": "Despite US War on Iran, This Pact Could Reshape the Middle East - Inkstick Media",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0RzLVFVdFBmbzBZbFFWYUxrOGNyZzkyR3NHVHpqZWVFTnVPYVNSUlpSUkktam9FeDQ2WjJ2UmVlaHh3VS1DRVd3b0hMX3o4RUVldWhmV3hnMHRMa01RM3dXT1NzN3hwWmpPdEZxOEZ2RTNKZVNmanhWQVUzdFEtN28wY250S1VQa2JNM0lUOFpRTzQ?oc=5",
-      "summary": "علیرغم جنگ ایالات متحده علیه ایران، این پیمان می تواند رسانه های جوهر افشان خاورمیانه را تغییر دهد",
+      "summary": "علیرغم جنگ آمریکا علیه ایران، این پیمان می‌تواند رسانه‌های جوهرافشان خاورمیانه را تغییر دهد",
       "summary_original": "Despite US War on Iran, This Pact Could Reshape the Middle East Inkstick Media",
       "source": "Google News",
       "category": "other",
@@ -5895,21 +5907,6 @@
       "urgent": false,
       "published": "2026-08-20T10:30:00+03:30",
       "published_fa": "1405/05/29 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "گزارش ویژه ایران آپدیت، 17 آگوست 2026 - موسسه مطالعات جنگ",
-      "title_original": "Iran Update Special Report, August 17, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVdJbkRYZE1DUFhOUzBFaDc3ek90b0k2TVBXdnBBdzFnUWFhOVlVRzZVRG9DclY0dkMzdU5PNXNKM013MExVbk1EaWF1c0NtVTJQNVJ5V2pvOEJDSkRYT1ZKQTJOZnUteW5NTDRxYmdDeW5WTlg2MGlsZkRKTF9UYTVaYjIzWU00MlgxRFZiUldZVjlkcHp3?oc=5",
-      "summary": "گزارش ویژه ایران آپدیت، 17 اوت 2026 موسسه مطالعات جنگ",
-      "summary_original": "Iran Update Special Report, August 17, 2026 Institute for the Study of War",
-      "source": "Google News",
-      "category": "analysis",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-17T10:30:00+03:30",
-      "published_fa": "1405/05/26 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -5987,7 +5984,7 @@
       "title": "نتانیاهو در رد طرح غزه ترامپ، اقدام متعادل کننده ای را انجام می دهد که بر آن چیره شده است - AP News.",
       "title_original": "In rejecting Trump’s Gaza plan, Netanyahu reprises a balancing act he has mastered - AP News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa21kSEZ0UUJIaWlvUmotZ1R2ZGRlcXR3SVBUSFQ4SENoSjEtQ1ZMQi11OXpkckJnbXM3YzNUeFZTX09mNHZRdXZhOUVoN3FrTkNmWW81aGtsYUN6ejdZQWlkTXdlYnE5OUVRZmloZ0Y1UE04eGVtcjd6Y2Vadl9ycTg5SlRmcjZYSlVQUXdSWm9iQk9ZN3EwNUJ4VDVvX1B0ekg5SQ?oc=5",
-      "summary": "نتانیاهو در رد طرح ترامپ برای غزه، اقدام متعادل کننده ای را انجام می دهد که بر آن مسلط شده است.",
+      "summary": "نتانیاهو در رد طرح غزه ترامپ، اقدام متعادل کننده ای را انجام می دهد که بر آن تسلط یافته است.",
       "summary_original": "In rejecting Trump’s Gaza plan, Netanyahu reprises a balancing act he has mastered AP News",
       "source": "Google News",
       "category": "politics",
@@ -6042,7 +6039,7 @@
       "title": "گفتگوی دیپلمات آمریکایی توسط نتانیاهو اسرائیل در مورد رد طرح پیشنهادی ترامپ برای صلح غزه - NPR",
       "title_original": "U.S. diplomat discusses Israel's Netanyahu rejecting Trump's proposed Gaza peace plan - NPR",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWEpQcjM0MUdhRUlpczNoOTZUUXl6LXZyeFNXRGpBcTUtbFUxeXVmLXlvdXZ5VVI0THFwSVRoNndjajFtUmNGVGE4SkVMVUtqOXl4Ynl3RVZQbFBvZDk1RzYwQXdtcDQ1Y1BfVk1aUWU5cVQ2d3BsOTI3X3BVU1h0YWoxU0lnUHZPTkhkTHhiR2NqckVqVzNLNnFaQk5vUFZuaWM1eUNpcTBCaGlQQWRnTTFZemRnOUhaZUE3NUVQMWFBZTNwOWc?oc=5",
-      "summary": "گفتگوی دیپلمات آمریکایی توسط نتانیاهو اسرائیل با طرح پیشنهادی ترامپ برای صلح غزه NPR",
+      "summary": "گفتگوی دیپلمات آمریکایی در مورد رد نتانیاهو اسرائیل طرح صلح غزه از سوی ترامپ NPR",
       "summary_original": "U.S. diplomat discusses Israel's Netanyahu rejecting Trump's proposed Gaza peace plan NPR",
       "source": "Google News",
       "category": "politics",
@@ -6129,7 +6126,7 @@
       "verified_source": true
     },
     {
-      "title": "نتانیاهو طرح صلح غزه ترامپ را رد کرد و از حماس خواست ابتدا خلع سلاح شود - NPR",
+      "title": "نتانیاهو طرح صلح ترامپ در غزه را رد کرد و از حماس خواست ابتدا خلع سلاح شود - NPR",
       "title_original": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first - NPR",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dlU0NVWkg2RmpXSG5aYzJ0aklreGJ3UDViRWxQUFVaTVFxdzJYZDF6Qk5WWEZIRUl5YnA0RDdNOVhiOVN2U29GMTEyXy14YW9ab3hFWkg0c3J2eFhxeHdSUjNWSmxsZDNQLVZSN1N3UzBZNlhIRjkzSHB5S1ZhbjFSVTlQbzJCVC1lVVI0R0RHdHNLUlpDMmNuYWdyUQ?oc=5",
       "summary": "نتانیاهو طرح صلح غزه ترامپ را رد کرد و از حماس خواست که ابتدا NPR را خلع سلاح کند",
@@ -6147,7 +6144,7 @@
       "verified_source": true
     },
     {
-      "title": "نیویورک تایمز: نتانیاهو طرح ترامپ برای خلع سلاح حماس را رد کرد",
+      "title": "نتانیاهو طرح ترامپ برای خلع سلاح حماس را رد کرد - نیویورک تایمز",
       "title_original": "Netanyahu Rejects Trump’s Plan for Disarming Hamas - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHpDV29DTXNHX2tBVGpTYjhRTUtpbDhRelpnYWZ3ZHNvU1BkdDFhckpjN1dRTUpDblBuMDVMbU1BWUg3VGJKcG1NUnVqcTZneE9vWERoMGxDS2FjYS0yZEJzT2FIazNudG5NMDBld2Q0b1FySm9pUEtjUzhTNXBNZmlWMHFQTjExWkJyQWlVOGNWZUNpckszSkxFdjJEeWptSDdDcFQ1NlY4dElkYUtv?oc=5",
       "summary": "نتانیاهو طرح ترامپ برای خلع سلاح حماس را رد کرد نیویورک تایمز",
@@ -6258,7 +6255,7 @@
       "title": "منابع می گویند آمریکا و اسرائیل برای بمباران اهداف مرتبط با انرژی در ایران آماده می شوند - سی بی اس نیوز",
       "title_original": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say - CBS News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWlZrblhRajBMcWNtSEd2ZmhsUmN0ZmFpTVFoZWlsS2Q4c0VQbWhlUV92YU1vdTNoVEMyd0t4bjJWaERIQ2VKeWdYUnVxQ2JlUTQ1dkRLY3Z2ZlpOM0hHMkVfdXd5alpUMWk5R1ZGUjN3V240dXQzTnk2Yjk0b1QwYVBjSQ?oc=5",
-      "summary": "منابع خبری سی بی اس می گویند آمریکا و اسرائیل در حال آماده شدن برای بمباران اهداف مرتبط با انرژی در ایران هستند",
+      "summary": "منابع خبری سی‌بی‌اس می‌گویند آمریکا و اسرائیل برای بمباران اهداف مرتبط با انرژی در ایران آماده می‌شوند",
       "summary_original": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say CBS News",
       "source": "Google News",
       "category": "military",
@@ -6270,7 +6267,7 @@
       "verified_source": true
     },
     {
-      "title": "رویترز می‌گوید ترامپ می‌گوید هدف کمپین دیوان کیفری بین‌المللی دفاع از نتانیاهو است نه از خودش",
+      "title": "ترامپ می‌گوید که هدف کمپین دیوان کیفری بین‌المللی دفاع از نتانیاهو است نه از خودش",
       "title_original": "Trump says ICC campaign aimed at defending Netanyahu, not himself - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWZIOWZ4Z2FTTC1kdjVIOWhlOTRHbk8tWGQ4VHA5M3otSGFqWHFuaVl2WWNLMXA5LXZkRWxnVUVRWUhZc0RzOTF5bnhRbTlkOVh6Z210cTJTUEhXdVZ2bktyYUVXbzFSNThGdWNQTU1aSUNGZmN6cXpCZWFWOFZBejZwcWFhN0pQaTJxRm9SWHZJUmkxYV9xZzVKVW5YM08tWE5pbkJB?oc=5",
       "summary": "ترامپ می گوید که هدف کمپین دیوان بین المللی کیفری دفاع از نتانیاهو است نه از رویترز",
@@ -6359,7 +6356,7 @@
       "title": "یک مقام اسرائیلی می گوید ترامپ و نتانیاهو همه گزینه های ایران از جمله حمله را بررسی کردند",
       "title_original": "Trump and Netanyahu explored all Iran options including attack, Israeli official says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
-      "summary": "یک مقام اسرائیلی می گوید ترامپ و نتانیاهو همه گزینه های ایران از جمله حمله را بررسی کردند",
+      "summary": "یک مقام اسرائیلی می گوید که ترامپ و نتانیاهو همه گزینه های ایران از جمله حمله را بررسی کردند",
       "summary_original": "Trump and Netanyahu explored all Iran options including attack, Israeli official says Reuters",
       "source": "Google News",
       "category": "military",
@@ -6377,7 +6374,7 @@
       "title": "ترامپ پشت درهای بسته با نتانیاهو و زلنسکی درگیر شد - نیویورک تایمز",
       "title_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUtkRjhma0ZESDBKLVRNWlRwZEVfTEgzOUxyM2VGS2NJTUVsWWhXaDBBV091QnNBUWJ0UTY4a0pKSENuSTVaZGxpcng3UDBqYmF6OF9oWXA0enlabEFNM3Z1N1VQVmNKQVlXRUdzY2g2dzhDelNJbGc1ZXpoVHJXZHk4MENWLTlZ?oc=5",
-      "summary": "پشت درهای بسته، ترامپ با نتانیاهو و زلنسکی درگیر می شود نیویورک تایمز",
+      "summary": "پشت درهای بسته، ترامپ با نتانیاهو و زلنسکی جمع می شود نیویورک تایمز",
       "summary_original": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky The New York Times",
       "source": "Google News",
       "category": "politics",
@@ -6431,7 +6428,7 @@
       "title": "گاردین - ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو تمجید کرد",
       "title_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNaQnp4M3ktTDkwN2JyOVdfQWQ4V1J0ekt5UlEtdVJtcXJDeHA3UU42b1JvaUw0VFFibGZNR0JkVFk5YzE4QVRUZXhVN3VDODgwNWlYaGFISVJLWXJDcmdRRHFRcHlvNTlGbGE0RHNwaWZmc3hJbHZNdHFKOFFfMFo3MnRQLUZNWkE?oc=5",
-      "summary": "ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو گاردین تمجید می کند",
+      "summary": "ترامپ از دیدارهای پشت سر هم با زلنسکی و نتانیاهو گاردین تمجید کرد",
       "summary_original": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu The Guardian",
       "source": "Google News",
       "category": "politics",
@@ -6446,7 +6443,7 @@
       "verified_source": true
     },
     {
-      "title": "ابراز ناامیدی ترامپ از نتانیاهو قبل از دیدار در کاخ سفید - الجزیره",
+      "title": "ابراز ناامیدی ترامپ از نتانیاهو قبل از دیدار با کاخ سفید - الجزیره",
       "title_original": "Trump expresses frustration with Netanyahu before White House meeting - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmo4d1dTQ0I3UmpKOElTdlhoV09Tc3lMMnZRUjdVR2ZNcktZLUROS0VFaTFIRm4xdTBOS2NCSFB1V0tFdVlkNUZSTE1obUk0eWg1MWZBVk9Ob1IxbGRkNThRaFYyekZFX2FaMFF1Q2ZOcVA2MDdFc1dxdlJBTFVrNmM4dEJoLUR6enJOY2hwYnZ4a2U2WFV4bGw3dzh1ZTN2R1VGSXhFbU5XNnFnWUFj0gG0AUFVX3lxTE1WS2NKWkh6dk9hSGFtY3Y4LUxLR1o4XzZXcnlBcjFoOWdwemJteTUwTVNNUzczYVhYT0ZQWE1GbnVkcFBQbUpVbGQteDVReG9fcnJnSmRrb1Z6UE5FaDYxU19nRVlYSzFYbjNrNnBjSENOMElTSlpuWDRMMU9PQXNtanExQWFGTHZkYUk1R2FXTmRYcGNSalhabEVHMUFPSHNNNms2Z2R0TkdvbjNmWTZQSTlwXw?oc=5",
       "summary": "ترامپ پیش از دیدار با الجزیره در کاخ سفید از نتانیاهو ابراز ناامیدی کرد",
@@ -6482,7 +6479,7 @@
       "verified_source": true
     },
     {
-      "title": "پولیتیکو: «اول یک فاجعه برای آمریکا»: متحدان ترامپ می ترسند دیدار نتانیاهو آمریکا را به جنگ عمیق تر با ایران بکشاند",
+      "title": "پولیتیکو: «اول یک فاجعه برای آمریکا»: متحدان ترامپ می‌ترسند دیدار نتانیاهو آمریکا را به جنگ عمیق‌تر با ایران بکشاند",
       "title_original": "‘A disaster for America First’: Trump allies fear Netanyahu meeting will pull US deeper into war with Iran - Politico",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUpDR1FtRVB1NGRiMFhiTzhTQm4zQmxodVRqU0JDb2VSSnRQcEw3dklYa3ZjaHlzMXNPeFB2YWhYbVFrOEp1c05LYXFJd3ZaVk1PQWF3ZENoQnpJVDRqcHB4VWJXY296VHNRcS1ISkctOTRCaHNRcXhLdEgtaVdHOEd5UnU0Q0lSMVBR?oc=5",
       "summary": "«اول یک فاجعه برای آمریکا»: متحدان ترامپ می‌ترسند دیدار نتانیاهو آمریکا را به جنگ عمیق‌تر با ایران بکشاند.",
@@ -6593,7 +6590,7 @@
       "title": "به نقل از رویترز، دفتر نخست وزیری اعلام کرد نتانیاهو روز سه شنبه با ترامپ در واشنگتن دیدار خواهد کرد",
       "title_original": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWt6eWtZa3JjTG1yRDZOSVJfdENMUUJPeUJoMDV3VE1Ub1VzUU45ZzdibEpmTkRUcU9BWFd4OWhDeVlhZ2l2am82VmpQam1GNW9LcmJGdWlQS0ZBS0ZUUzdoYVNZQTdyU1I4Unl1dS1wbllWaDhGR3ZxeUZ3WW9GS3ROaEtHUENVemFzWVYtQWpOYThDUnBIc0RZYV9KRlhhYjlCcQ?oc=5",
-      "summary": "دفتر نخست وزیری رویترز اعلام کرد نتانیاهو روز سه شنبه با ترامپ در واشنگتن دیدار خواهد کرد",
+      "summary": "دفتر نخست وزیری رویترز اعلام کرد نتانیاهو روز سه شنبه در واشنگتن با ترامپ دیدار خواهد کرد",
       "summary_original": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says Reuters",
       "source": "Google News",
       "category": "politics",
@@ -6713,7 +6710,7 @@
       "title": "چرخه خشونت: از اسرائیل-فلسطین تا ایران و بازگشت - بروکینگز",
       "title_original": "The cycle of violence: From Israel-Palestine to Iran and back - Brookings",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkNvb3FJQm96a095bzhEejNwbzV5cE92VHU3Q2VrTmRkN1hEQ1Q3cV9KeDVXQjhiVkpCb3VoR1hLN1djSWc5SkFEZk9QUktHRDJxbzh6TUM0R2xiRTRlZE9uVThwakxldWEtdkJIQ0h4dUgySDBHcjR3TGVkWmYzTmxRSE5MRm4ya2NDTW9UclhOcm43dmVLVjhidUE?oc=5",
-      "summary": "چرخه خشونت: از اسرائیل- فلسطین تا ایران و پشتیبان بروکینگز",
+      "summary": "چرخه خشونت: از اسرائیل-فلسطین تا ایران و پشتیبان بروکینگز",
       "summary_original": "The cycle of violence: From Israel-Palestine to Iran and back Brookings",
       "source": "Google News",
       "category": "other",
@@ -6721,21 +6718,6 @@
       "urgent": false,
       "published": "2026-06-24T10:30:00+03:30",
       "published_fa": "1405/04/03 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "اسرائیلی ها، فلسطینی ها و آمریکایی ها جنگ در ایران را متفاوت می بینند - مرکز تحقیقات پیو",
-      "title_original": "Israelis, Palestinians, Americans See War in Iran Differently - Pew Research Center",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUV5c0tHV2VCa0xXdFV0YVpLNm5RMEczNk45enoxaXlIVk5lQVJ5aVNLZ3g4bU9XU2pHRHA5eUJwcUdsc3I4aElSdUJJbVl6Z1FBMnFOWmJydS1EcVlyc18zN1ZVbnpnRzZEa2FHZEJFM2NfNnVVZ0MxRDZnV1BxNzhaVjdqdFpGQkZ4OWkzMEdrSWNldUJ4SW1DZDBsamplT0xyNkNVbWhkQQ?oc=5",
-      "summary": "اسرائیلی‌ها، فلسطینی‌ها و آمریکایی‌ها جنگ در ایران را متفاوت می‌بینند مرکز تحقیقات پیو",
-      "summary_original": "Israelis, Palestinians, Americans See War in Iran Differently Pew Research Center",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-06-09T10:30:00+03:30",
-      "published_fa": "1405/03/19 - 10:30",
       "translated": true,
       "verified_source": true
     },
