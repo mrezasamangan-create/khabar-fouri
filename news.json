@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T03:46:46.416519+00:00",
-  "generated_at_fa": "1405/07/23 - 07:16",
-  "count": 401,
+  "generated_at": "2026-10-15T04:18:22.563831+00:00",
+  "generated_at_fa": "1405/07/23 - 07:48",
+  "count": 399,
   "items": [
     {
       "title": "قالیباف درباره پیشنهاد واشنگتن: ترامپ نقض عهد کرده و آمریکا باید تنبیه شود",
@@ -15,26 +15,106 @@
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-15T07:13:12.567260+03:30",
-      "published_fa": "1405/07/23 - 07:13",
+      "published": "2026-10-15T07:44:25.123742+03:30",
+      "published_fa": "1405/07/23 - 07:44",
       "translated": false,
       "verified_source": true
     },
     {
-      "title": "تعویق رویدادهای مهم بین‌المللی در عربستان؛ لغو بازی‌ رونالدو و تورنمنت تنیس با حضور جوکوویچ",
+      "title": "بحران غذا؛ ایران و آمریکا باید «در چند هفته آینده» برای عبور کود از تنگه هرمز به توافق برسند",
       "title_original": "",
       "link": "https://www.bbc.co.uk/persian/live/cmwyq66ve970t?at_medium=RSS&at_campaign=rss",
-      "summary": "با ادامه حملات حوثی‌ها به فرودگاه‌های بزرگ، رویدادهای مهم بین‌المللی یکی بعد از دیگری در عربستان لغو یا به تعویق انداخته یا به فضای مجازی منتقل می‌شوند. در همین حال محمدباقر قالیباف رئیس مجلس ایران درباره پیشنهاد واشنگتن گفت دونالد ترامپ نقض عهد کرده و آمریکا باید «شیرفهم و تنبیه» شود.",
+      "summary": "معاون دبیر کل سازمان ملل متحد گفت اگر ایران و آمریکا در چند هفته آینده به توافقی برای عبور کود از تنگه هرمز نرسند وضعیت امنیت غذایی در بخش‌هایی از آسیا و آفریقا بحرانی می‌شود. در همین حال محمدباقر قالیباف رئیس مجلس ایران گفته است که دونالد ترامپ نقض عهد کرده و آمریکا باید «شیرفهم و تنبیه» شود.",
       "summary_original": "",
       "source": "BBC Persian",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-15T07:44:25.122533+03:30",
+      "published_fa": "1405/07/23 - 07:44",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
+      "title_original": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
+      "link": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
+      "summary": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
+      "summary_original": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
+      "source": "Al Jazeera",
       "category": "politics",
       "tags": [
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-15T07:13:12.565825+03:30",
-      "published_fa": "1405/07/23 - 07:13",
-      "translated": false,
+      "published": "2026-10-15T07:20:14+03:30",
+      "published_fa": "1405/07/23 - 07:20",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran - i24NEWS",
+      "title_original": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFBtbmxPaFJMRlYzZmItVXRLZHZVX01zc0pkLWhoNmZxZHlGLTFhVW1ZRDAxMWJTRWVONHZSY1pNWEsydU9UUEtEWWJpMkhIbU9pQUk3bGZrdkVzZV9Nb2NFcURxQ0FfVC1yLXowckZtWnQ4Nm13YndFSDRFdEg1cGJJTkJMdjdjY09Sd1IxcTBDc0k5SUp0VGhpNUdDNGVJUmxjc3pGYkJFVDFDdnN0RW5LMDlsdmlSWlpBRmhhNkg1TlY4TXo0MmpNTQ?oc=5",
+      "summary": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran i24NEWS",
+      "summary_original": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran i24NEWS",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-15T07:16:00+03:30",
+      "published_fa": "1405/07/23 - 07:16",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
+      "title_original": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
+      "link": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
+      "summary": "President Donald Trump wished Pope Leo XIV a speedy recovery Wednesday following his lung cancer diagnosis, revealing that he is friends with the pontiff's brother, whom he described as an enthusiastic MAGA supporter. Speaking to reporters aboard Air Force One while traveling from Arizona to Montana, Trump expressed optimism about the 71-year-old pontiff's recovery following surgery to remove part of his right lung. \"I want to see Pope Leo get well. I hear the prognosis for that type of a problem. It's a cancer. It's big stuff. Anytime you have cancer,\" the president said. \"But the prognosis seems to be good, I've watched. And we just want to wish him our love and our best wishes.\" POPE LEO XIV BEGINS HISTORIC 4-DAY VISIT TO FRANCE Trump then discussed his friendship with the pope's brothe",
+      "summary_original": "President Donald Trump wished Pope Leo XIV a speedy recovery Wednesday following his lung cancer diagnosis, revealing that he is friends with the pontiff's brother, whom he described as an enthusiastic MAGA supporter. Speaking to reporters aboard Air Force One while traveling from Arizona to Montana, Trump expressed optimism about the 71-year-old pontiff's recovery following surgery to remove part of his right lung. \"I want to see Pope Leo get well. I hear the prognosis for that type of a problem. It's a cancer. It's big stuff. Anytime you have cancer,\" the president said. \"But the prognosis seems to be good, I've watched. And we just want to wish him our love and our best wishes.\" POPE LEO XIV BEGINS HISTORIC 4-DAY VISIT TO FRANCE Trump then discussed his friendship with the pope's brother and his wife, describing them as enthusiastic supporters of the president. \"His brother is a friend of mine, who's a great — he's a fantastic guy — and his wife. You know, they're big Trump supporters. They have MAGA all over their house,\" he continued. \"And I can say that his brother loves him a lot. Loves the pope a lot, and that's good, but I just want to wish him well. Get better fast.\" The president's remarks came one day after the Vatican announced that Leo had been diagnosed with lung adenocarcinoma, a form of lung cancer, following surgery at Agostino Gemelli University Hospital in Rome. According to the Holy See Press Office, doctors removed the lower lobe of the pontiff's right l",
+      "source": "Fox News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-15T07:08:47+03:30",
+      "published_fa": "1405/07/23 - 07:08",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
+      "title_original": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
+      "summary": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post",
+      "summary_original": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-15T07:06:29+03:30",
+      "published_fa": "1405/07/23 - 07:06",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Albanian Ministry of Justice on fire as education protesters riot",
+      "title_original": "Albanian Ministry of Justice on fire as education protesters riot",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
+      "summary": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
+      "summary_original": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
+      "source": "Al Jazeera",
+      "category": "social",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-15T07:00:42+03:30",
+      "published_fa": "1405/07/23 - 07:00",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -173,21 +253,6 @@
       "urgent": false,
       "published": "2026-10-15T06:04:00+03:30",
       "published_fa": "1405/07/23 - 06:04",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
-      "title_original": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
-      "summary": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post",
-      "summary_original": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T06:00:55+03:30",
-      "published_fa": "1405/07/23 - 06:00",
       "translated": true,
       "verified_source": true
     },
@@ -789,21 +854,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran says ship sank after striking mine in Strait of Hormuz, and other Middle East developments - The Tribune-Democrat",
-      "title_original": "Iran says ship sank after striking mine in Strait of Hormuz, and other Middle East developments - The Tribune-Democrat",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaUNtUzh5LWVsSUR2aXlqVmxQR3RPb1NuZS1DYm5ObDNsdndwMXRFTHpaMUJjVWtaYjF2N0pFc1lCOHYzazlKLW1oOFlla1lSWnZVbWJzMFEtbk5kb1FBYmRwNi1rT1dTZUJSbllvMzJqd1Rtb2VJMkg5Z2VpMlBmVzU2LThPUjd0LWdCbHUzRFZCV2lkZ1gxbXM2LWVtclNYQU5iS0hiTFhMWjdWNm11YTFwdlRIcVhfWmRGbWlaaUhDLTB5MkhiZ2RreUxlYi1tTzFROFNlTXgtUk84c3hHRjhTcHFqWnJNZnU1X2NNaFBQdw?oc=5",
-      "summary": "Iran says ship sank after striking mine in Strait of Hormuz, and other Middle East developments The Tribune-Democrat",
-      "summary_original": "Iran says ship sank after striking mine in Strait of Hormuz, and other Middle East developments The Tribune-Democrat",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T01:23:00+03:30",
-      "published_fa": "1405/07/23 - 01:23",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
       "title_original": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
       "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
@@ -1112,21 +1162,6 @@
       "verified_source": true
     },
     {
-      "title": "Sky turns orange as wildfires rage across Indonesia",
-      "title_original": "Sky turns orange as wildfires rage across Indonesia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
-      "summary": "An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province.",
-      "summary_original": "An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T00:09:59+03:30",
-      "published_fa": "1405/07/23 - 00:09",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Houthis turn to China for missile parts as threat to Israel and Saudi Arabia grows - Ynetnews",
       "title_original": "Houthis turn to China for missile parts as threat to Israel and Saudi Arabia grows - Ynetnews",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10WmI0dHJfTDJvZllYeFBpbWtKSi1KTU5ldTREWWxWV1pSNDdJaTl0U0p5NXFqR01PZlhpc0FMbWxHUDJCeGFhRklCRlZrYnNBWXc1UFpn?oc=5",
@@ -1138,21 +1173,6 @@
       "urgent": false,
       "published": "2026-10-15T00:08:06+03:30",
       "published_fa": "1405/07/23 - 00:08",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "World’s oldest shipwreck found off coast of Turkiye",
-      "title_original": "World’s oldest shipwreck found off coast of Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
-      "summary": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.",
-      "summary_original": "Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.",
-      "source": "Al Jazeera",
-      "category": "analysis",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T00:03:20+03:30",
-      "published_fa": "1405/07/23 - 00:03",
       "translated": true,
       "verified_source": true
     },
@@ -1215,23 +1235,6 @@
       "urgent": false,
       "published": "2026-10-14T23:21:45+03:30",
       "published_fa": "1405/07/22 - 23:21",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran's framework deal with US helped Tehran strengthen military capabilities: Parliament speaker - Anadolu Ajansı",
-      "title_original": "Iran's framework deal with US helped Tehran strengthen military capabilities: Parliament speaker - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1Q0Yko3QXktOVZwN1A0RlRjUnN6Q0l2eGNLTVNNQ1FFOW5pMERoS2ZMTjBOdTV2YjZDUVJKM3J2Z2g2VmowYjhOWVJYdENQZE1tVkNYN1FyakdGZGFkcHZzTUc1U01iSkxlS1ZwQlJqZ2N0SXp4X3JIbGNzbkVfSzBydkdoSUNzUTRHSVEyTGJMMk9oZmNNVzlnU2Y3RUV6d3BrT182MDU1d0s0TnV1S0IwdDRYdV8yVVJtUFNSMnpZU3BZd0lkV2RMTjcwbUdWbVoxcUxB?oc=5",
-      "summary": "Iran's framework deal with US helped Tehran strengthen military capabilities: Parliament speaker Anadolu Ajansı",
-      "summary_original": "Iran's framework deal with US helped Tehran strengthen military capabilities: Parliament speaker Anadolu Ajansı",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-14T23:11:27+03:30",
-      "published_fa": "1405/07/22 - 23:11",
       "translated": true,
       "verified_source": true
     },
@@ -1339,6 +1342,23 @@
       "urgent": false,
       "published": "2026-10-14T22:30:00+03:30",
       "published_fa": "1405/07/22 - 22:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump’s war on Iran is poised to sink his party in the midterms - Mondoweiss",
+      "title_original": "Trump’s war on Iran is poised to sink his party in the midterms - Mondoweiss",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDVkOTVwbEVtc3NUUUZuSW5hV09MTldEa1JLLUFOTnhiX0Jrai01OGhCM1NyYUsxWk5GcnFHMjVhQ0hJc21jSlQ4cTNLQ1VPMnJDbHlQeXVVOWg0MmlPRHZmOFBPM3BVODBvdnpPOVlQNkVNeVFDby1jU1BtcDVXdGFMaDJiVHY2YkVtRjlGZjVIcWdyMGRQSDVR?oc=5",
+      "summary": "Trump’s war on Iran is poised to sink his party in the midterms Mondoweiss",
+      "summary_original": "Trump’s war on Iran is poised to sink his party in the midterms Mondoweiss",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-14T22:25:56+03:30",
+      "published_fa": "1405/07/22 - 22:25",
       "translated": true,
       "verified_source": true
     },
@@ -1499,6 +1519,24 @@
       "urgent": false,
       "published": "2026-10-14T21:57:25+03:30",
       "published_fa": "1405/07/22 - 21:57",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios",
+      "title_original": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JUndhMTg1cVBLbzA0Wjk0WTViZVF1c2pBTmhzNzI3eFNpQi1lVDhiUGJUUU1WdmNrSUNwOHRLMU5uelNQc0NVSUdHd1Nra3ZCOThHRzYyTVU1aG1MQlJ5anZjSm84YWc2NmlGUHMyelJ1ZnEwU0E?oc=5",
+      "summary": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait Axios",
+      "summary_original": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait Axios",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-14T21:44:15+03:30",
+      "published_fa": "1405/07/22 - 21:44",
       "translated": true,
       "verified_source": true
     },
@@ -2254,19 +2292,20 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu says he is not seeking to attack Iran again before Israel election - Internazionale",
-      "title_original": "Netanyahu says he is not seeking to attack Iran again before Israel election - Internazionale",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWpLSjNVbHlyWGc5TWZ5dGN1U1JJcklzOGNaR3hDalZWUmV5Nkh1M1hYZDV1Sk5HRFdnWkxHT29Jd2xPZlNqSnJfTWNubzBZbWYyNjVaQUxhc0NEN09NVmN1NUg5OTU3U2dWTUprMTZVUEs1dXV4UlpsVGU3ZG5hd3ZKN3FNWlBKa1pQbGF1YkM4ZlJuejhlUXNYRzNNeXFLQ1E0Z3RwMFM2bmVmM1pQV0pkUlpZWDBfWGpzUFp5ZGhweDVVTGpVSHJaSFg2UWozTjJXRlFFYw?oc=5",
-      "summary": "Netanyahu says he is not seeking to attack Iran again before Israel election Internazionale",
-      "summary_original": "Netanyahu says he is not seeking to attack Iran again before Israel election Internazionale",
+      "title": "Netanyahu says he is not seeking to attack Iran again before Israel election - Reuters",
+      "title_original": "Netanyahu says he is not seeking to attack Iran again before Israel election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWQySUR2MFRlc1ZmU2lEaFRLU0VVWU14UVZhNm1Jc05obTk2SFV6UzZwLWhySUlaTXJISmdnc00wWnpNZHd0WGlIeC03ZmVnbzJuOUV6Zm96OE9sdTExbU5LdzBoa0U1S2QtMlNoWWQ1VUQtM1FzZHBXTGFxMDczVVRoWjNZbjIzaUpwMGlSS0s0VDAtZ3J5M0laNVlrT09Mc3ZwcjQwbE9YSDN4c2V0UmpWZ1lhanNDdS1hU3BtSUJzQ2tfbXc?oc=5",
+      "summary": "Netanyahu says he is not seeking to attack Iran again before Israel election Reuters Netanyahu reportedly pressed Trump to renew Iran fighting before Israeli and US elections The Times of Israel Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait Axios",
+      "summary_original": "Netanyahu says he is not seeking to attack Iran again before Israel election Reuters Netanyahu reportedly pressed Trump to renew Iran fighting before Israeli and US elections The Times of Israel Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait Axios",
       "source": "Google News",
       "category": "military",
       "tags": [
+        "ترامپ",
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-14T16:34:55+03:30",
-      "published_fa": "1405/07/22 - 16:34",
+      "published": "2026-10-14T16:35:43+03:30",
+      "published_fa": "1405/07/22 - 16:35",
       "translated": true,
       "verified_source": true
     },
@@ -3049,21 +3088,6 @@
       "verified_source": true
     },
     {
-      "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon - Al Jazeera",
-      "title_original": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnpfdmo5WVZOX3VEd2FZM2NUZlJqT1k2Zjl3X2szamRWTHBJX1RDcmdjY1g4LXNxbV9VYl9RNHY3RDI2MXVQYkticUtVUnZyUHV6ZjJWZjBzejd4OElvamhyYXhNRGV3ZXJmazFOZVV2LW9oWjZOeHRYU2w2ejd0eHNtMmh0V2daTzFKdFVhZE02TnRsX0dtTW9LZ9IBoAFBVV95cUxQemZod3RfM25FU3dCV3lWTnluSTVqZUUyd1BPY3dyX0kweU5TUHF2aktOYjFoRWI4b2hzbl95bG5xaVlYRndrMDlzN0NaajBZdi1xaVZtbExFWEVPSkhsY08zWlVpQmJ5OHo0cVN2UUljdlZMcERFRHVpc0NCOUlWNjRMSjZCZ2Rvd2hBZTZJMUtnZUYtV1dTZ3BKS3UyYVE1?oc=5",
-      "summary": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon Al Jazeera",
-      "summary_original": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon Al Jazeera",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-14T11:21:21+03:30",
-      "published_fa": "1405/07/22 - 11:21",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "How Iraqi Kurdistan became a key mediator between Iran, Syria, and US - The Jerusalem Post",
       "title_original": "How Iraqi Kurdistan became a key mediator between Iran, Syria, and US - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94QWtreFR5WWZVdHdfNHp5VGI0R1NwVjBaeWNBYVdMZ29wa3I1SzhQcVRUXy1GeXlCcDM4TlFDc0tUT1RMYzB0cGtKN0xWbWdHWEw3UHdoQTVOcXNU?oc=5",
@@ -3480,23 +3504,6 @@
       "verified_source": true
     },
     {
-      "title": "Benjamin Netanyahu and the State of Global Autocracy - Informed Comment",
-      "title_original": "Benjamin Netanyahu and the State of Global Autocracy - Informed Comment",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWWlYTjhHVXJScnBGMldJdnlSSjZjbWpyUzhzZ0piVGVqcW9SNGc2WVVOc3V4ZDNTdlF4eDkxd0NJYklHdWV5UGw1UnFVc0tuRnRfeG1sN09OWGdMdVZjZTFsWEVKSnBsTFp0b0N3QzFnQ25o?oc=5",
-      "summary": "Benjamin Netanyahu and the State of Global Autocracy Informed Comment",
-      "summary_original": "Benjamin Netanyahu and the State of Global Autocracy Informed Comment",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-14T07:45:45+03:30",
-      "published_fa": "1405/07/22 - 07:45",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump And Netanyahu Discuss Joint Military Operation Against Iran Before Elections: how 8 outlets framed it - NewsCord",
       "title_original": "Trump And Netanyahu Discuss Joint Military Operation Against Iran Before Elections: how 8 outlets framed it - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUy1wVkZWa0xWY2p0WHVVVlNnSjlkaktaNlhQRzBTM1ZmWlJtMUVPVGxDclZCMDBIa1BvRGt3S0tvNU0yaW51RHNPZVFUX1hwTEgtM0NNWDBtY0h5bFliYjRGSV96dE9HZDcxR01MN2liYmJiRzB5d19TRXhfYnJ6RUNLU3kzdmlkckNWMGd3c29fcmV6dDlxbzRUMDJpT3U4LTdfa0J4S0Vib2tsaldFVjlCUE9GUzAxeTlUV2RkcEFmYTRxSERDdGgyNWY4T3c?oc=5",
@@ -3559,6 +3566,21 @@
       "urgent": false,
       "published": "2026-10-14T07:20:00+03:30",
       "published_fa": "1405/07/22 - 07:20",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Houthis in Yemen attempting to produce advanced ballistic missile using Chinese-delivered parts – report - i24NEWS",
+      "title_original": "Houthis in Yemen attempting to produce advanced ballistic missile using Chinese-delivered parts – report - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM3JmX0cxSEg1QTJTbFlDR0Z5MjVYTXU4T3d0MHlZNmstUWNKNndHME5tVEdOaDFSQTE5LTY5Z0VKZzVVVTVaRUtxT0xrd3B2TndRejBzcXN3OU1CRGpPb3RycXA5czlGZUJUR0ZqSktGZFRaVU9Ic3ZYb2Nyclk2MC0wVzFGX3NDZEV0djhCQ1BKdXFsY3hxanJ0b1Q3ZVdBcjV1eUxMMlB1dnEydnJYNmRScXRBMkxqckl1WEl0Y1NKQ0tyaUR1SG9qWmZIUThOWXlfUnRrYUwwUGQ1RzBFbWxNUk16amM?oc=5",
+      "summary": "Houthis in Yemen attempting to produce advanced ballistic missile using Chinese-delivered parts – report i24NEWS",
+      "summary_original": "Houthis in Yemen attempting to produce advanced ballistic missile using Chinese-delivered parts – report i24NEWS",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-14T07:18:00+03:30",
+      "published_fa": "1405/07/22 - 07:18",
       "translated": true,
       "verified_source": true
     },
@@ -3851,6 +3873,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-14T02:16:14+03:30",
+      "published_fa": "1405/07/22 - 02:16",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Axios: President Trump and Prime Minister Netanyahu discussed strikes on Iran — Anadolu Agency - UA.NEWS",
       "title_original": "Axios: President Trump and Prime Minister Netanyahu discussed strikes on Iran — Anadolu Agency - UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOHpSc09qUlYxRVY4SjhQaGVXRkk0OVVJOFcwVEdhYk9WOVlWMnl3ZVBaS2ZQZzNhbXFVU0pOTEtiSGFzaVFNZmx4UUhyLW82MVZueDNVbnJxV2xjOVBUY0FFM2FTNXdiLWtEY1dvSHdrRWIzZl84YTFIQ1VVX2U5cHZFNUw4TWRKMWk0UEhZYXNWZTkwT20yMWladEVON3hCOXloT2swYkpiS2s?oc=5",
@@ -4081,24 +4118,6 @@
       "urgent": false,
       "published": "2026-10-13T23:05:58+03:30",
       "published_fa": "1405/07/21 - 23:05",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios",
-      "title_original": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JUndhMTg1cVBLbzA0Wjk0WTViZVF1c2pBTmhzNzI3eFNpQi1lVDhiUGJUUU1WdmNrSUNwOHRLMU5uelNQc0NVSUdHd1Nra3ZCOThHRzYyTVU1aG1MQlJ5anZjSm84YWc2NmlGUHMyelJ1ZnEwU0E?oc=5",
-      "summary": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait Axios Netanyahu says he is not seeking to attack Iran again before Israel election Reuters Netanyahu reportedly pressed Trump to renew Iran fighting before Israeli and US elections The Times of Israel",
-      "summary_original": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait Axios Netanyahu says he is not seeking to attack Iran again before Israel election Reuters Netanyahu reportedly pressed Trump to renew Iran fighting before Israeli and US elections The Times of Israel",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-13T22:20:40+03:30",
-      "published_fa": "1405/07/21 - 22:20",
       "translated": true,
       "verified_source": true
     },
@@ -4478,21 +4497,6 @@
       "verified_source": true
     },
     {
-      "title": "Not Only Iran, Hezbollah, and Palestinian Organizations: The Global Jihad Threat to IDF Forces and Israel from Southern Syria and the Motivation to Target Them - Alma Research and Education Center",
-      "title_original": "Not Only Iran, Hezbollah, and Palestinian Organizations: The Global Jihad Threat to IDF Forces and Israel from Southern Syria and the Motivation to Target Them - Alma Research and Education Center",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZy1JSWVsVGhDRXU5VzlsRHptMDNVVXpGRHZCMEptTFlKQ1JLNjJKNVJQajNtV21PbWhWWmoxdVdraWhOWVF3TllhbXlRalhRTjBPMzRyRXlaZXVKazJkaDhLNFBoZEtiUWExaUxyLXU1bDUwektCZUJLbHJibGs5dHAtR1pDUXVVcFZrNmt2TnA5cFpjMmhkeEFVSTJFOXAtR0hSQjB2QzF5a004cDRwamw2cmxqbzRBaUdqVnVTQktGV3M1YWVqcDhWQXdWQ1lkbzVOT2pCSGg4Z1ZsbTh3UGNaVWFtVHRidEcyQTdJWlhpcXJwS080OVM4SWF6VzhBcV92Q08tUlFEV2Nwenc?oc=5",
-      "summary": "Not Only Iran, Hezbollah, and Palestinian Organizations: The Global Jihad Threat to IDF Forces and Israel from Southern Syria and the Motivation to Target Them Alma Research and Education Center",
-      "summary_original": "Not Only Iran, Hezbollah, and Palestinian Organizations: The Global Jihad Threat to IDF Forces and Israel from Southern Syria and the Motivation to Target Them Alma Research and Education Center",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T16:45:09+03:30",
-      "published_fa": "1405/07/21 - 16:45",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran threatens Gulf data centres: How exposed is the region’s internet? - Al Jazeera",
       "title_original": "Iran threatens Gulf data centres: How exposed is the region’s internet? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUEtb2UyN3FuX1pQZmgtd2J1VWl1QnVPS0JtUXUwSUJZY0hwVDNjLWRrWktlSkVPN2pILVpNYWFKWExyano5b1JOYUFuLXAtc01JWEVNSm5RTEVpYnRlUGlucnFDVUJ1RG9sMVE0Z2ZHN1BmMWZxRnZnOUk2TnRVS0ozSWJqcE1wUXZ6Q0RTZ1lyc0l3SGV3VTVuS1NxWVJQWjRRY0l4QjJMcTJ0RE4w0gG0AUFVX3lxTFA4clFYelpFakJ1WEd4Q2FsVVJtOEZpZkdoUFJvTnA5TkVaVGdxZzlTNmktY1FnUEdzOVdyazBxVGx3Uno2ckJIcEFJZ1lrREZXNFVuc3FTVlNJYllQX3ZSR05TY2t2anRjQ2FXbldyYTY0dENySDl0QzFZV2pQU3BrR3lrTEdKc0xyeE13SnFtYTFCUnE4VXRRTVRxNlJZQXRRb2JQYXJXcEdsRnJWQS1hZE0xRA?oc=5",
@@ -4758,21 +4762,6 @@
       "verified_source": true
     },
     {
-      "title": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates - The Christian Science Monitor",
-      "title_original": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates - The Christian Science Monitor",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXJoaUtmTWpzYnBMT0tIcU54UE5ubXp2aU9wa1NJY2hlVC1QbmozTG9UbG50WHF0VC1jelFsQndnMnVPX2JENElFS3EyakxfdWROZmI3LUxDNHU1NWdXNWo4dlZnWk5CWlF0LUJjRHNGb0NZZm9sOFNYMVgySzZNYlhrbE55bno4ZjhadTdZRHhNOGJRTUYzSThPTklsUl9tdmV3Qw?oc=5",
-      "summary": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates The Christian Science Monitor",
-      "summary_original": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates The Christian Science Monitor",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T07:30:00+03:30",
-      "published_fa": "1405/07/21 - 07:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "سریع‌تر از فرمول یک؛ ورزش پرهیجانی که زنان در آن فرمانروایی می‌کنند",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cmgqw9v37ky4o?at_medium=RSS&at_campaign=rss",
@@ -4814,21 +4803,6 @@
       "urgent": false,
       "published": "2026-10-13T03:52:08+03:30",
       "published_fa": "1405/07/21 - 03:52",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "title_original": "Iran War: Latest News, Live Coverage and Video - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
-      "summary": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "summary_original": "Iran War: Latest News, Live Coverage and Video NBC News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T03:46:14+03:30",
-      "published_fa": "1405/07/21 - 03:46",
       "translated": true,
       "verified_source": true
     },
@@ -5084,21 +5058,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran says it will reply to US response on Hormuz proposal once review over - Reuters",
-      "title_original": "Iran says it will reply to US response on Hormuz proposal once review over - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2U1d1RUamtzYmRiN0tHUHhlclVaNVNLYTN4V05LTF90R0xjRTVhNS14WW1qRlhSYlZ5RzJOM3RSSGtxMGpLUDNZc0MyWmNaU0l6SVdpZm1WT295MTFYRWRDSXFRbE0yZlpBQTRpUDlJbHVoTHJOQmRBSVBNakdKTmw1QnV1RHc5b0xzZ212SHQwZmhSZ3JUQmlvZ21IY19yMFVURk8xMUtQcUxfRTNpLUZjMkp2dmRDWVVxa1VyTQ?oc=5",
-      "summary": "Iran says it will reply to US response on Hormuz proposal once review over Reuters",
-      "summary_original": "Iran says it will reply to US response on Hormuz proposal once review over Reuters",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-12T14:17:09+03:30",
-      "published_fa": "1405/07/20 - 14:17",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "After Airport Attack Kills 12, Injures Hundreds, Trump and Netanyahu Explore Possible Action - CBN.com",
       "title_original": "After Airport Attack Kills 12, Injures Hundreds, Trump and Netanyahu Explore Possible Action - CBN.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVRDV1NQanZCWHhCQ0hnNFVHSTNzM2tLMkt4Qnk3WkMxWEJVd3I5UG9hbTl1aVlpNEhSbVJWYlcxTVB4RlphbjFuRUtDejYwNjI1VWRObVZJVTFGQUY0T0dBLVNhUjktUzVKVG9NenUzOUJiakRReHF1T3U4Q3FIQ09pS1ZtOEJPQ2tJUDZZU1FidkxiVXRmUm1UX2lralVqSmVKUDRtelE0SjRxVXl1Ug?oc=5",
@@ -5164,6 +5123,21 @@
       "published": "2026-10-12T10:34:02+03:30",
       "published_fa": "1405/07/20 - 10:34",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso - Reuters",
+      "title_original": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
+      "summary": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso Reuters",
+      "summary_original": "COMMENTARY: Middle East LNG industry remains hostage of Iran war: Bousso Reuters",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T10:02:26+03:30",
+      "published_fa": "1405/07/20 - 10:02",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -5435,21 +5409,6 @@
       "verified_source": true
     },
     {
-      "title": "Middle East latest: Houthis threaten 'painful' response to any attack on Sanaa after coalition warning - The National",
-      "title_original": "Middle East latest: Houthis threaten 'painful' response to any attack on Sanaa after coalition warning - The National",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSS1Lak5Hc21yZzVjbXdaUlR3eXMyZm1Jb1ZCSThDLVgweHFYZFlCNHNJOC1zRmdETUJTT3ZEUmhqZFF2YmFTT2ROSnNiLVdvZUlBYzdLd3F5b3l4MF96c2xodGFES09XdDJFLXRGbDl1UXBVUUhtOW9ILTFEejQtdDRCc0dHeGhhRWVUWTROcXo4bEU1Y2E5WGlsOA?oc=5",
-      "summary": "Middle East latest: Houthis threaten 'painful' response to any attack on Sanaa after coalition warning The National",
-      "summary_original": "Middle East latest: Houthis threaten 'painful' response to any attack on Sanaa after coalition warning The National",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-11T10:30:00+03:30",
-      "published_fa": "1405/07/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "«سیاره‌ای که در آن متولد شدیم دیگر وجود ندارد»؛ هشدار یک اقلیم‌شناس درباره موج فزاینده پدیده‌های شدید آب‌وهوایی",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cdj0kj93e27o?at_medium=RSS&at_campaign=rss",
@@ -5559,23 +5518,6 @@
       "verified_source": true
     },
     {
-      "title": "Who is Navi Pillay? Nobel Peace Prize winner's UN record renews fierce antisemitism accusations",
-      "title_original": "Who is Navi Pillay? Nobel Peace Prize winner's UN record renews fierce antisemitism accusations",
-      "link": "https://www.foxnews.com/world/who-navi-pillay-nobel-peace-prize-winners-un-record-renews-fierce-antisemitism-accusations",
-      "summary": "The decision to award the 2026 Nobel Peace Prize to former U.N. human rights chief Navi Pillay sparked fierce backlash Friday from Jewish advocacy groups and U.N. watchdogs accusing the South African jurist of longstanding anti-Israel bias and defending antisemitic rhetoric. The Norwegian Nobel Committee honored Pillay, 85, for her contributions to international law and efforts to hold perpetrators of war crimes, crimes against humanity and genocide accountable. But her selection immediately reignited controversies surrounding her leadership of U.N. investigations into Israel, her defense of a fellow commissioner accused of antisemitism and positions she expressed before being appointed to investigate the Jewish state. ICC PROSECUTOR WHOSE NETANYAHU WARRANT FUELED MAMDANI ARREST THREAT IS ",
-      "summary_original": "The decision to award the 2026 Nobel Peace Prize to former U.N. human rights chief Navi Pillay sparked fierce backlash Friday from Jewish advocacy groups and U.N. watchdogs accusing the South African jurist of longstanding anti-Israel bias and defending antisemitic rhetoric. The Norwegian Nobel Committee honored Pillay, 85, for her contributions to international law and efforts to hold perpetrators of war crimes, crimes against humanity and genocide accountable. But her selection immediately reignited controversies surrounding her leadership of U.N. investigations into Israel, her defense of a fellow commissioner accused of antisemitism and positions she expressed before being appointed to investigate the Jewish state. ICC PROSECUTOR WHOSE NETANYAHU WARRANT FUELED MAMDANI ARREST THREAT IS FIRED OVER SEXUAL MISCONDUCT \"Navi Pillay is indeed a world leader, an individual at the forefront of the international spread of the poisonous forms of antisemitism that beset the 21st century,\" Anne Bayefsky, president of Human Rights Voices and director of the Touro Institute on Human Rights, told Fox News Digital. Bayefsky accused Pillay of having \"perfected the art of perverting legal and universal standards of human rights to demonize and delegitimize Jewish self-determination. This award stands as a testament to human wrongs.\" The Nobel Committee offered a sharply different assessment of Pillay's legacy, praising her lifelong commitment to international justice and describing her care",
-      "source": "Fox News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-09T21:35:30+03:30",
-      "published_fa": "1405/07/17 - 21:35",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
       "title_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
@@ -5677,6 +5619,21 @@
       "verified_source": true
     },
     {
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
+      "summary": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
+      "summary_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-29T10:30:00+03:30",
+      "published_fa": "1405/07/07 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
       "title_original": "Middle Eastern oil exports rise to highest level since Iran war began - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjFUZVJMbWJUaGE0ajR1SDhOS0JpejcweGdVcWRueWczNDh3ZVdtdWRuRVNPTkgwSnZDbjZzeDFVZlB2M3pLM1Z5Qm04WGN1VFJ4c0pBRVVxQnVsWktzdFlNSS1FQVFkNjZiWks5cUdJQnRhVzhDMHJLZEE1SjZvTzBOS2U?oc=5",
@@ -5688,21 +5645,6 @@
       "urgent": false,
       "published": "2026-09-29T10:30:00+03:30",
       "published_fa": "1405/07/07 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
-      "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
-      "summary": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
-      "summary_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down WSJ",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-28T10:30:00+03:30",
-      "published_fa": "1405/07/06 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -5844,23 +5786,6 @@
       "verified_source": true
     },
     {
-      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip - BBC",
-      "title_original": "Why an international arrest warrant didn't stop Netanyahu's US trip - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBveUJHd2hKd05mSXQtQTVWQ1REN0Frdm9aQzRqa3I4cmdzZmxwZlZvcGh6TURrc3FQRno2NXY3ZWZkeGQ2SkZPWnM2NmtGUk9oQ0lqanhPSWI?oc=5",
-      "summary": "Why an international arrest warrant didn't stop Netanyahu's US trip BBC",
-      "summary_original": "Why an international arrest warrant didn't stop Netanyahu's US trip BBC",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-09-25T10:30:00+03:30",
-      "published_fa": "1405/07/03 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Israel ready to resume strikes on Iran as regime aims to rebuild nuclear program - report - The Jerusalem Post",
       "title_original": "Israel ready to resume strikes on Iran as regime aims to rebuild nuclear program - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OMHpQQkdXYUlJQ2xqcmdMZllqRE9nQXEtVHJnUV8zYWxZdGtrS2hsei12UXhxcVVWRUtMd0xGeWpqeWdRZ3YxZFJfQV81ZHhqTVlFN2ptcWtZSjhUSzZTV1pIUmpLRy1HWEE?oc=5",
@@ -5869,23 +5794,6 @@
       "source": "Google News",
       "category": "military",
       "tags": [],
-      "urgent": false,
-      "published": "2026-09-24T10:30:00+03:30",
-      "published_fa": "1405/07/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Why the Gulf Wants Trump to Hold the Line on Iran - WSJ",
-      "title_original": "Why the Gulf Wants Trump to Hold the Line on Iran - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEdvRW9adHdBLXdnWDlIQVd2RG80YTROaVVtT2RXdUxzbUxja2JTdXJvNlVfRV9hQjdnR1VDY29ka2ZqTW5TRWhxeXRNcS1peXlidmxJRFFsLTBWRHYzYWJxcjQ3YXRhd0pBR3o1bUdrRlJXVm96VFRfbXNXMzJBZG92Q194SDZHVHByVU5iellPMzNwQXRFNkFsSF8?oc=5",
-      "summary": "Why the Gulf Wants Trump to Hold the Line on Iran WSJ",
-      "summary_original": "Why the Gulf Wants Trump to Hold the Line on Iran WSJ",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
       "urgent": false,
       "published": "2026-09-24T10:30:00+03:30",
       "published_fa": "1405/07/02 - 10:30",
@@ -6257,6 +6165,21 @@
       "verified_source": true
     },
     {
+      "title": "The Middle East at a “Hinge Moment” - CSIS | Center for Strategic and International Studies",
+      "title_original": "The Middle East at a “Hinge Moment” - CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53M21DRVVCWFV1OVlUcWtab0t4LWFTZ3gyYl9kRkhYRTFTbnpOMEhKbjdDU1FTZ2RkY3c4akJiMmo5dXBXNG5LN2pGSnJjOWhIS21xd3RQNzYxZWxEY0k1eU5CVjY?oc=5",
+      "summary": "The Middle East at a “Hinge Moment” CSIS | Center for Strategic and International Studies",
+      "summary_original": "The Middle East at a “Hinge Moment” CSIS | Center for Strategic and International Studies",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-09T10:30:00+03:30",
+      "published_fa": "1405/06/18 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "The souring relationship between Trump and Netanyahu : State of the World from NPR - NPR",
       "title_original": "The souring relationship between Trump and Netanyahu : State of the World from NPR - NPR",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkMzeWFPby1hVk5LaWZiWTdWWVcydDhXUi05d3Joejh5bWtTLUJUWldvVHhIcWdSSHRzdGhKOFFfT2JmeUFxX29mYmZQTzRBN3RZeXYzeWtUMloxZzcwLUdBSm9TdnFFOTV1T3lhbllOVDJuNUZLcnllb0xsWHI1bXFEY0oxWWU1ZWluMldDQmVOd01Dc3dMNzZBRHo4UQ?oc=5",
@@ -6290,6 +6213,36 @@
       "verified_source": true
     },
     {
+      "title": "Iran Unleashed - The Atlantic",
+      "title_original": "Iran Unleashed - The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUdqWFFnREE0T2RzODZVQ0tyN3lCZ1lUTHl3dE1oYjMyeXZ1cGlRUWZJdE5WUUN6ZG44ZW5xWm1zb21TMkhVd0N6aE9Ld3ZKLWVTVkxSaDVPZ0JvZk1LSkd0ZnotX2wwSlhDNGxPcUsxeDhZeGR6RXVHVUFEZzBNVW1yWVR0LWM?oc=5",
+      "summary": "Iran Unleashed The Atlantic",
+      "summary_original": "Iran Unleashed The Atlantic",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-23T10:30:00+03:30",
+      "published_fa": "1405/06/01 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Despite US War on Iran, This Pact Could Reshape the Middle East - Inkstick Media",
+      "title_original": "Despite US War on Iran, This Pact Could Reshape the Middle East - Inkstick Media",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0RzLVFVdFBmbzBZbFFWYUxrOGNyZzkyR3NHVHpqZWVFTnVPYVNSUlpSUkktam9FeDQ2WjJ2UmVlaHh3VS1DRVd3b0hMX3o4RUVldWhmV3hnMHRMa01RM3dXT1NzN3hwWmpPdEZxOEZ2RTNKZVNmanhWQVUzdFEtN28wY250S1VQa2JNM0lUOFpRTzQ?oc=5",
+      "summary": "Despite US War on Iran, This Pact Could Reshape the Middle East Inkstick Media",
+      "summary_original": "Despite US War on Iran, This Pact Could Reshape the Middle East Inkstick Media",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-22T10:30:00+03:30",
+      "published_fa": "1405/05/31 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "The Trump Administration’s Middle East Quagmire: Six Months Into the War in Iran - Center for American Progress",
       "title_original": "The Trump Administration’s Middle East Quagmire: Six Months Into the War in Iran - Center for American Progress",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnFMcEVJc0VUUWJGeUM5akhIMk82aE84TVpTYXN5Nm5oRlZXcThJaUdKMTBPX29tY2JCZEpIZXYtcVg5cEd2QlBVOGZPdmNNS1NSWFYwdnQ2YWZiN0xUUkF5WFBJMnN1SWRrY3FoUkJxRWxmUVU1LTdVcElmWUN4eThYYmxqX2pzS2phcnlSMnlzbmFwWHVpbmZ0Tl9NRHAwa3ItM3JXOVkyM1ZreDFyZ1M4bE9WYjJyLV9qSg?oc=5",
@@ -6300,6 +6253,21 @@
       "tags": [
         "ترامپ"
       ],
+      "urgent": false,
+      "published": "2026-08-20T10:30:00+03:30",
+      "published_fa": "1405/05/29 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran Update, August 20, 2026 | ISW - Institute for the Study of War",
+      "title_original": "Iran Update, August 20, 2026 | ISW - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVlyenpLdldiM3I2Rk0zczlvUWxoLTFKUTJMVkEzU1FJcXNCWjZRakh6TXU4bEZpaXZ6VHRHNFNhVV9fOFVfTmx6NklYaDFJd2Z4Ukh5U0Z0S1RHZnczbHpnLVcxZmlEdG9fRXhkSUE4V2FRWjA1RFdyZmgtSEdWX2NTQQ?oc=5",
+      "summary": "Iran Update, August 20, 2026 | ISW Institute for the Study of War",
+      "summary_original": "Iran Update, August 20, 2026 | ISW Institute for the Study of War",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
       "urgent": false,
       "published": "2026-08-20T10:30:00+03:30",
       "published_fa": "1405/05/29 - 10:30",
