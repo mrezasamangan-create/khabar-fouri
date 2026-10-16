@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T11:14:38.400984+00:00",
-  "generated_at_fa": "1405/07/24 - 14:44",
+  "generated_at": "2026-10-16T11:47:21.274221+00:00",
+  "generated_at_fa": "1405/07/24 - 15:17",
   "count": 422,
   "items": [
     {
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": true,
-      "published": "2026-10-16T14:41:25.857123+03:30",
-      "published_fa": "1405/07/24 - 14:41",
+      "published": "2026-10-16T15:14:14.577375+03:30",
+      "published_fa": "1405/07/24 - 15:14",
       "translated": false,
       "verified_source": true
     },
@@ -28,9 +28,121 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-16T14:41:25.856055+03:30",
-      "published_fa": "1405/07/24 - 14:41",
+      "published": "2026-10-16T15:14:14.576604+03:30",
+      "published_fa": "1405/07/24 - 15:14",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "حوثی ها چه کسانی هستند؟ آنچه باید در مورد گروه مورد حمایت ایران پس از حملات خاورمیانه بدانیم - بالتیمور سان",
+      "title_original": "Who are the Houthis? What to know about Iran-backed group after Middle East attacks - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3BGekhkU1NvNFhLLUhpSnhjeW5qTkYzbXpWd2tXblM1QlR6aENmaW1LcEhJLU1UZkRSR1ZCQTVJd2ZuSlBhbTVBRHhpX0I4c1FlSHdHdng3bkp4TVdfQ1h3QWlCVHdLQjN0dWVkazEzdmIyU2lpWUxTWHROODQ0R3BRTlBUOGJOT1R4aTNZbG1QUkk4UzZrd0xMTUJFdHpGamdnOGJfNTEwUHRuSDBwZnJUT0RFdkxIZ05YN1JTOC0?oc=5",
+      "summary": "حوثی ها چه کسانی هستند؟ آنچه در مورد گروه مورد حمایت ایران پس از حمله خاورمیانه به بالتیمور سان باید بدانید؟",
+      "summary_original": "Who are the Houthis? What to know about Iran-backed group after Middle East attacks Baltimore Sun",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-16T15:02:20+03:30",
+      "published_fa": "1405/07/24 - 15:02",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "رویترز: حمایت نظامی تهران و ضعف پدافند عربستان سعودی حملات حوثی‌ها را موثرتر کرده است",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610164082",
+      "summary": "حملات اخیر حوثی‌ها به فرودگاه ریاض و مقر شرکت نفتی آرامکو، آسیب‌پذیری عربستان سعودی را آشکار کرده است. کارشناسان می‌گویند حمایت نظامی جمهوری اسلامی، افزایش توان تسلیحاتی حوثی‌ها، ضعف پدافند هوایی عربستان سعودی و کاهش ذخایر موشک‌های رهگیر آمریکا، در موفقیت این حملات نقش داشته‌اند.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "military",
+      "tags": [
+        "تحلیلگران"
+      ],
+      "urgent": false,
+      "published": "2026-10-16T15:00:00+03:30",
+      "published_fa": "1405/07/24 - 15:00",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ: آمریکا در مذاکرات «خلع سلاح هسته‌ای» با روسیه و چین",
+      "title_original": "US in ‘denuclearisation’ talks with Russia and China: Trump",
+      "link": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+      "summary": "آمریکا و روسیه هر کدام بیش از 4000 کلاهک دارند. ترامپ می‌گوید چین ظرف پنج سال آینده به آنها خواهد رسید.",
+      "summary_original": "US and Russia each have more than 4,000 warheads. China set to catch up with them within five years, Trump says.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-16T14:58:12+03:30",
+      "published_fa": "1405/07/24 - 14:58",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "بی بی سی شاهد حمله شهرک نشینان یهودی به فلسطینیان در کرانه باختری است - BBC",
+      "title_original": "BBC witnesses Jewish settlers attack Palestinians in West Bank - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05MThBbjVYUGtkMHJKcm5Qc0Y2bGdwT3ZvTjN2eU05ckx4YmZMUGN4S05YQ211enZhZmtxUVduYzlUTG1JZTcxOGZKQkJyY3cybnVZNVBhbDE?oc=5",
+      "summary": "بی بی سی شاهد حمله شهرک نشینان یهودی به فلسطینیان در کرانه باختری بی بی سی است",
+      "summary_original": "BBC witnesses Jewish settlers attack Palestinians in West Bank BBC",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "گزارش مردمی"
+      ],
+      "urgent": true,
+      "published": "2026-10-16T14:54:50+03:30",
+      "published_fa": "1405/07/24 - 14:54",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "«بدنم در حال خاموش شدن است»؛ دونده المپیکی بریتانیا روزانه ۲۲ ساعت در بستر بیماری است",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610165866",
+      "summary": "بث دابین، دونده ۳۲ ساله و عضو پیشین تیم ملی بریتانیا در المپیک توکیو، اکنون به دلیل ابتلا به بیماری «ام‌ای» (آنسفالومیلیت میالژیک)، بیش از ۲۲ ساعت از شبانه‌روز را در تختخواب می‌گذراند و تنها برای غذا خوردن یا استفاده از سرویس بهداشتی از جای خود بلند می‌شود.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-16T14:51:50+03:30",
+      "published_fa": "1405/07/24 - 14:51",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "نیروی دریایی ایران اعلام کرد نفتکش در خلیج عمان آتش گرفته است - میدل ایست آی",
+      "title_original": "Iran's navy says oil tanker detected on fire in Gulf of Oman - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmZzWUEyVG1NU2h5YjB1WXd2VU1HZktxVTFSMFFpbEN6Z3ZRZ2NCNWg1UU1uMkVfbHdCdk9RQjNER3BMWUh2MEZHRHBsSl9JekZOeFpzQWRvQWc0dDluQUluOXBNMHRtUk1PNmYxZDVUNE5sYzZ5ZkdsMHExN19uSzg4WU90VDZjb1BvT0VMZE92OUhWVFhJcjNiaVktMnNGeVVveGFyRnkyc2RrOTd1eGNPeWVGc1pPV0d5Z0d1eE9YcTFSZmhfbTYtUXlsbmtEdU5tNERMTFRnUlN1V0QySS1ldEY3dUxacjdF?oc=5",
+      "summary": "نیروی دریایی ایران اعلام کرد نفتکش در خلیج عمان در حال آتش گرفتن است",
+      "summary_original": "Iran's navy says oil tanker detected on fire in Gulf of Oman Middle East Eye",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-16T14:37:00+03:30",
+      "published_fa": "1405/07/24 - 14:37",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "\"این جعلی بود\": روستاییان هندی جعل پروژه معدن آدانی را ادعا می کنند",
+      "title_original": "‘It was fake’: Indian villagers allege forgery behind Adani mine project",
+      "link": "https://www.aljazeera.com/news/2026/10/16/tribals-in-indias-odisha-allege-forgery-behind-lands-taken-for-adani-mine?traffic_source=rss",
+      "summary": "ظاهراً از امضاها و انگشت شست جعلی - حتی افراد مرده و ساختگی - برای بدست آوردن زمین معدن بوکسیت استفاده شده است.",
+      "summary_original": "Forged signatures and thumbprints - even of dead and fictitious people - allegedly used to obtain land for bauxite mine.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-16T14:35:45+03:30",
+      "published_fa": "1405/07/24 - 14:35",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -81,17 +193,17 @@
       "verified_source": true
     },
     {
-      "title": "آخرین خبر خاورمیانه: تعداد کشته‌شدگان حمله حوثی‌ها به کاخ ریاست‌جمهوری یمن به پنج نفر افزایش یافت - The National",
-      "title_original": "Middle East latest: Death toll from Houthi attack on Yemen's presidential palace rises to five - The National",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGFFLVFuZk5jdjFla1dwbm1rNmNzem1YQ0RJVFpvQS1CdGxhblMzc1NxVnlyeDY1eEhRdnhCRGh5TFNtS2ZZZkt5Rk9aMG9rMXVNeS02dzhrN29vS0VGcWx2NHNQMUN6WlJsZnN1eGN0T0VMSEFDSnA5NFZhUlMwVnlrWTUtM1BIMTlUaXJNWjV5djdhWEFR?oc=5",
-      "summary": "آخرین خبر خاورمیانه: تعداد کشته‌شدگان حمله حوثی‌ها به کاخ ریاست‌جمهوری یمن به پنج نفر افزایش یافت.",
-      "summary_original": "Middle East latest: Death toll from Houthi attack on Yemen's presidential palace rises to five The National",
+      "title": "داده‌ها نشان می‌دهد که ایران با وجود محاصره آمریکا مقداری LPG و سوخت جت ارسال می‌کند - میدل ایست آی",
+      "title_original": "Iran ships some LPG, jet fuel despite US blockade, data shows - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVWozaFpKWS12X0RjUzZvWUpmR1RjSW5mZmhzOGowemV1b19yd3RUMkd5bDlDMWw2OXl5SHBnXzlHVmFJRGx1TkxyMTBnWVJyTmotcHpVd1RSNFZNcGNDRkw4RmdMNG9TaEJaOXgzVTF1RWEtbk5EcTdWMmJ1M1RKNHEtNWFtQ3g2aUMxZ2RKU3ozdzF5UUY3OUU2R2ZIYzJMQTlWaFpEZFhWYV92bW1lTnQ0MlR4S2tWUVVRbGJqajd5eWtXMlBKaDBlcGt0ckVfUFdwMEoyWVVJdWZTMWxlNzhUX2Q3MnNYVE5tQmtkUmFPb0IyTDQ4?oc=5",
+      "summary": "داده‌ها نشان می‌دهد که ایران مقداری LPG و سوخت جت را علی‌رغم محاصره آمریکا حمل می‌کند",
+      "summary_original": "Iran ships some LPG, jet fuel despite US blockade, data shows Middle East Eye",
       "source": "Google News",
       "category": "military",
       "tags": [],
-      "urgent": true,
-      "published": "2026-10-16T14:18:07+03:30",
-      "published_fa": "1405/07/24 - 14:18",
+      "urgent": false,
+      "published": "2026-10-16T14:20:00+03:30",
+      "published_fa": "1405/07/24 - 14:20",
       "translated": true,
       "verified_source": true
     },
@@ -684,8 +796,8 @@
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-16T11:33:45+03:30",
-      "published_fa": "1405/07/24 - 11:33",
+      "published": "2026-10-16T11:34:48+03:30",
+      "published_fa": "1405/07/24 - 11:34",
       "translated": true,
       "verified_source": true
     },
@@ -1228,21 +1340,6 @@
       "verified_source": true
     },
     {
-      "title": "به روز رسانی زنده: حوثی ها به کاخ ریاست جمهوری یمن حمله کردند، آمریکا تحریم های جدیدی علیه ایران صادر کرد - Gulf News",
-      "title_original": "Live updates: Houthis strike Yemen's presidential palace, US issues new Iran sanctions - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNS1xRW43OXZmUEhleVhnX0dyXzJtazJaMWxiamFpbnE5OGNEV3JDSGd0V3ZlZGNDUUVmUlFzZmE2TDh0dHhzX1pnMmV0TThLekt5NnFkdzRWV2RPVVpNU25OZ3BTSjVSQ3J0bE9NdlZablRWLVlocFFpbGtTN2VRM1Yzc1BUNC1USUdDS2JpWU04cW82SHJkZk9yejFpaktXeXZ5SE9kbEY5VkhDTm81YXQ5Z0VkX1JUNnoyZ1FqNmlBb3RLMjZuRklXbUtjaDlZ?oc=5",
-      "summary": "به روز رسانی زنده: حمله حوثی ها به کاخ ریاست جمهوری یمن، تحریم های جدید آمریکا علیه ایران خلیج فارس",
-      "summary_original": "Live updates: Houthis strike Yemen's presidential palace, US issues new Iran sanctions Gulf News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-16T07:15:42+03:30",
-      "published_fa": "1405/07/24 - 07:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "دو نماینده مجلس آمریکا طرحی برای گسترش دسترسی ایرانیان به اینترنت آزاد ارائه کردند",
       "title_original": "",
       "link": "https://www.iranintl.com/202610162147",
@@ -1377,21 +1474,6 @@
       "verified_source": true
     },
     {
-      "title": "ساکنان هنگام اخراج در پرو کارگران را با بنزین شعله ور می ریزند",
-      "title_original": "Residents douse workers with flaming gasoline during eviction in Peru",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
-      "summary": "یکی از رهگذران از ساکنان یک ساختمان محکوم در پرو فیلم گرفته است که در حال پرتاب بنزین شعله ور به سمت کارگران اخراج هستند.",
-      "summary_original": "A bystander has filmed residents of a condemned building in Peru throwing flaming gasoline on eviction workers.",
-      "source": "Al Jazeera",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-16T06:05:57+03:30",
-      "published_fa": "1405/07/24 - 06:05",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "هشدار دو اندیشکده آمریکایی درباره همکاری پهپادی روسیه، چین، کره شمالی و جمهوری اسلامی",
       "title_original": "",
       "link": "https://www.iranintl.com/202610167962",
@@ -1421,21 +1503,6 @@
       "urgent": false,
       "published": "2026-10-16T05:55:43+03:30",
       "published_fa": "1405/07/24 - 05:55",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "اعتراض دانشجویان آرژانتینی در محوطه دانشگاه به دلیل ریاضت اقتصادی مایلی",
-      "title_original": "Argentine students protest on campus over Milei’s austerity",
-      "link": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
-      "summary": "قاضی دولت را به دلیل کوتاهی در تأمین بودجه دانشگاه ها جریمه می کند، زیرا اعتراضات به کاهش بودجه مایلی به خشونت تبدیل می شود.",
-      "summary_original": "Judge fines the government for failing to fund universities as protests over Milei&#039;s cuts turn violent.",
-      "source": "Al Jazeera",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-16T05:41:33+03:30",
-      "published_fa": "1405/07/24 - 05:41",
       "translated": true,
       "verified_source": true
     },
@@ -2652,7 +2719,7 @@
       "verified_source": true
     },
     {
-      "title": "حوثی‌ها چگونه به تهران کمک می‌کنند تا عربستان را به اهرم فشاری علیه آمریکا تبدیل کند",
+      "title": "حوثی‌ها چگونه به تهران کمک می‌کنند تا ریاض را به اهرم فشاری علیه آمریکا تبدیل کند",
       "title_original": "",
       "link": "https://www.iranintl.com/202610151800",
       "summary": "خبرگزاری رویترز در گزارشی تحلیلی نوشت که حملات حوثی‌ها به عربستان سعودی، اهدافی فراتر از یمن دارد و از جمله با این هدف انجام می‌گیرد که عربستان را به نقطه‌ای آسیب‌پذیر در رویارویی گسترده‌ای تبدیل کند که از تنگه هرمز در دهانه خلیج فارس تا باب‌المندب در دریای سرخ امتداد دارد.",
@@ -3017,21 +3084,6 @@
       "verified_source": true
     },
     {
-      "title": "گوترش از سرکوب بی‌سابقه در ایران گفت و خواستار اصلاحات قانونی و قانون اساسی شد",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610150982",
-      "summary": "آنتونیو گوترش، دبیرکل سازمان ملل، در گزارش تازه خود از وخامت جدی وضعیت حقوق بشر و سرکوب بی‌سابقه اعتراضات در ایران خبر داد و خواستار توقف اعدام‌ها، اصلاحات قانونی و قانون اساسی برای تضمین دادرسی عادلانه و تحقیق مستقل درباره نقض حقوق بشر شد.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T16:00:00+03:30",
-      "published_fa": "1405/07/23 - 16:00",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "تالاریکو نظرات گذشته درباره خدا و جنسیت را در حالی که چارلی کرک را \"تحریک آمیز\" می خواند، رد می کند.",
       "title_original": "Talarico dismisses past comments about God and gender as 'provocative' while invoking Charlie Kirk",
       "link": "https://www.foxnews.com/politics/talarico-dismisses-past-comments-god-gender-provocative-invoking-charlie-kirk",
@@ -3044,21 +3096,6 @@
       "published": "2026-10-15T15:57:48+03:30",
       "published_fa": "1405/07/23 - 15:57",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "آلکمار - هاپوئل تحت تدابیر شدید امنیتی؛ اعتراض تل‌آویو به ممنوعیت حضور هواداران اسرائیلی",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610159046",
-      "summary": "مقام‌های شهر آلکمار هلند به دلیل «نگرانی‌های امنیتی»، حضور هواداران تیم اسرائیلی هاپوئل را در دیدار روز پنج‌شنبه ۲۳ مهر مقابل آلکمار در لیگ اروپا ممنوع کردند؛ تصمیمی که اعتراض شدید وزارت خارجه اسرائیل را به دنبال داشته است.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T15:35:53+03:30",
-      "published_fa": "1405/07/23 - 15:35",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -3339,38 +3376,6 @@
       "urgent": false,
       "published": "2026-10-15T07:36:01+03:30",
       "published_fa": "1405/07/23 - 07:36",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "کارشناسان سیاست خارجی در پنل فورد - میشیگان دیلی از دخالت ایالات متحده در خاورمیانه انتقاد کردند",
-      "title_original": "Foreign policy experts criticize U.S. involvement in the Middle East at Ford panel - The Michigan Daily",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEgxUktuLXdXMnZJbHd3dDFtSllPd1B3enRsX0ZkN1RWZkpwMUhTWkFfNVh0SVpOZ1VPeXhOS0dQRUNQUF9RU2hMNEpuLVppb0xhRG5PRkhOUzVOLTNOSS1IT1FwSGtYX2M1dUxaZW55SV9JZU9yanFNQW1pWWE3ZUU2eHUwVVVMTDhjbnZ2RFNKOHVpTnRFYjREWkxyRDRnYWZOTXYzU0hkLTFXdExoVnQ2OC02VHpNMVpfVnlqZFAzYldJbmg0?oc=5",
-      "summary": "کارشناسان سیاست خارجی در پنل فورد در میشیگان دیلی از دخالت ایالات متحده در خاورمیانه انتقاد کردند",
-      "summary_original": "Foreign policy experts criticize U.S. involvement in the Middle East at Ford panel The Michigan Daily",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "تحلیلگران"
-      ],
-      "urgent": false,
-      "published": "2026-10-15T07:35:37+03:30",
-      "published_fa": "1405/07/23 - 07:35",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "گزارش ها حاکی از ارسال پیام ایران به حزب الله برای «آماده شدن برای جنگ» - www.israelhayom.com",
-      "title_original": "Iran reportedly sends message to Hezbollah to 'prepare for war' - www.israelhayom.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWmxuM0thWUZkbzJRbmY2WDd2Rm1hSGVnTVd3d1RrVzk1bnNRZEZmQTI1OXBvVnZoaEhOSjRJdFQxT21ySHVlcUMzZHJCOG16clZYNUN6NG10X1pXYlFMQ1ZKZzFxbEh3QkV0cTVwWnJ1Xzl4Wks5VjVmSTdFYXhnaVl1LWVMNkhrRERhVTMtdFRUUFE?oc=5",
-      "summary": "گزارش ها حاکی از ارسال پیام ایران به حزب الله برای «آماده شدن برای جنگ» www.israelhayom.com",
-      "summary_original": "Iran reportedly sends message to Hezbollah to 'prepare for war' www.israelhayom.com",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-15T07:30:25+03:30",
-      "published_fa": "1405/07/23 - 07:30",
       "translated": true,
       "verified_source": true
     },
@@ -4046,21 +4051,6 @@
       "verified_source": true
     },
     {
-      "title": "مبارزات جاری استیضاح درباره جناح گرایی ایران چه می گویند - مجمع خاورمیانه",
-      "title_original": "What Ongoing Impeachment Struggles Say About Iran’s Factionalism - Middle East Forum",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkg5NHZMTHRUbmdvVEszUHVCNmlEUlR1Nno3ZGRTQkdXU0d1Ymw0eXdkdXEwUzJyaGVyQU9fOUloVjYtQmhkcmUtekxRZDRIYXdOOHoxdG9PZ3Npc1hORXR6T29iMEN6ekdSek1iYnZpRi1ZM19DRFhKRWpfN0tTbDNyT2wtY1JqS1BXbEMwOEpkRzRnLVRDM3p6ak45MXJiN3c?oc=5",
-      "summary": "مبارزات جاری استیضاح درباره مجمع جناح گرایی ایران چه می گویند",
-      "summary_original": "What Ongoing Impeachment Struggles Say About Iran’s Factionalism Middle East Forum",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-14T15:06:54+03:30",
-      "published_fa": "1405/07/22 - 15:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ایران نظارت بر هرمز را افزایش می‌دهد: حملات افزایش می‌یابد، جریان نفت دوباره سقوط می‌کند - الجزیره",
       "title_original": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEoydG9jdlpqSFV4N3RwNzZULXNUMEgwVW54MjZad0U5TWI0MVlSemdzNG90X3YtaVp2cEhHRm1FMDRqUjZtaUs1MjZtdlY0d0l2amZLTS1MMUkzakNHMzV4b0hoYktXWHo1ckwwSkVCUG1vRzF1X1p6VUJZYXUtYndkRHRoZnIwbUczS2dmc2pHYzdQSlhYNWJoZXd1T050bzBYNEx3UGlvX0JKWWxF0gG0AUFVX3lxTFBuRVdqTEhtSEJaRjhiSjU3eTBYRHVBbjllR1lhMndWOFFHMENQLXhtNXF4SHl5WjlVWWdhdWJnSU0zR1QtNmQ2MldNdzgtTWg0ZzdsNkpkS2kyMzlyZmg4NkZiOFQtVURiUEhSMGw2WFJEOGp0Z05ZbmQzVi11andqNjRJT3l4V1hQSERpNTduWTNkc2NQTUI2MGt4R29xMTlBQkNYMTFheUI0ZkdsdnRVOVluaA?oc=5",
@@ -4354,24 +4344,6 @@
       "urgent": false,
       "published": "2026-10-14T09:25:24+03:30",
       "published_fa": "1405/07/22 - 09:25",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "منابع می‌گویند ترامپ و نتانیاهو حملات جدید ایران را قبل از انتخابات ارزیابی می‌کنند",
-      "title_original": "Trump, Netanyahu weigh new Iran strikes before elections, sources say - Saudi Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPcG5aOHJET2VDMmlTN2E1Uzg4M1g4MkxFMGVWV1o3V1FXa3RrQm4xUDNXZ0R2bWtqdEJzeGZ2OWt5Wmd3MWdWUjhzVjNtVW9PanlVcA?oc=5",
-      "summary": "به گفته منابع سعودی روزنامه سعودی، ترامپ و نتانیاهو حملات جدید ایران را قبل از انتخابات ارزیابی می کنند",
-      "summary_original": "Trump, Netanyahu weigh new Iran strikes before elections, sources say Saudi Gazette",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-14T08:42:00+03:30",
-      "published_fa": "1405/07/22 - 08:42",
       "translated": true,
       "verified_source": true
     },
@@ -5021,21 +4993,6 @@
       "verified_source": true
     },
     {
-      "title": "سخنگوی دولت - العربیه انگلیسی: ایران برای \"همه سناریوهای جنگ\" آماده شده است",
-      "title_original": "Iran prepared for ‘all war scenarios’: Government spokesperson - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0Vsdk9YRU1sLU1aQXVfMF9URTVRcl9VRDNnbGMzVFNIcGphUTZubG5Sd091a0Y0WDU2b2NxWU94NmRhN09naFdtSFBMUHpRcU5IMUlOV08yRHE3NThqalBCNXdfcUxpWkk1amU3a0lKaWJPeDNrcXExMnh5LXVTQWU0UTZtUmRmVWhGdUJiRFB2bGlnZ3ZzMUVQQURqcXJNeTQ2TkRKbDNCTG9xT1VpX0FEbXplQXBXbWfSAb8BQVVfeXFMUFQ1bGRTcHVDZzk1bGMyX1V5djMwek9nQ3FUMmh0eUhJTTBlVGdHckhObnhMUGNCekY0cE9fMS03WVlKNi12LV9zSy1iamczbkVkeFhENG9sZ3A2QTJaczIweGRpdXp1d00tNnR3cTY2NW1INmxfNWhNOFlHVDdybjVOLVpHMEJMOWc1MFFnLS1YS3NvSkdfZWloUkZZSXBYTUZKY2hzS2VrS043cW9uVkl2MENVNENCS2tILVJxV00?oc=5",
-      "summary": "سخنگوی دولت العربیه انگلیسی: ایران برای \"همه سناریوهای جنگ\" آماده شده است",
-      "summary_original": "Iran prepared for ‘all war scenarios’: Government spokesperson Al Arabiya English",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-13T14:57:00+03:30",
-      "published_fa": "1405/07/21 - 14:57",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "مبارزه با اسرائیل تا آخرین فلسطین - اقیانوس اطلس",
       "title_original": "Fighting Israel to the Last Palestinian - The Atlantic",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0dyell2ZDJZNURkM0JfT25LUXFmT0JOR2w2OHhINHlnVWFSOUhEemZNTFQ1Q1dyUF9HdmlNal9OMjNyaS1OV1ktRHlWZFctSks3aVNxRURXRTRLbENsSzJjUUlodUZPT1NLNnk2SnQ5OUV3YmQ4aFVMeVJHMzlFSWJWUUt5TXoyLTFsSmp2R2VpQQ?oc=5",
@@ -5656,6 +5613,23 @@
       "verified_source": true
     },
     {
+      "title": "به ارتش دستور داده شد که برای حملات احتمالی ایران آماده باشند، زیرا ترامپ زمان بندی را می سنجد - Axios",
+      "title_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5",
+      "summary": "به ارتش دستور داده شد که برای حملات احتمالی ایران آماده باشند، زیرا ترامپ زمان بندی Axios را می سنجد",
+      "summary_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing Axios",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-07T10:30:00+03:30",
+      "published_fa": "1405/07/15 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "اخبار جنگ ایران: ترکیه و پاکستان از اعزام نیرو به عربستان سعودی حمایت کردند - الجزیره",
       "title_original": "Iran war updates: Turkiye, Pakistan back troop deployment to Saudi Arabia - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlV4d0hjVHRnNUNuUWk0a0Etb3Zxak5VQThpRFZ2SERWMnRzQTVmZUFmX21pMFVMREhFTnBqU0tYRmIyZWVneUhUV3JzQ0hXenMzWWhWSy1rNGRLd1BhSGxOeUsyeUU3bEVUTXhjX1BuWE1kdVZOVnFSLVBoMkNDenhwU2JLMnQzUWFkdFozMUZFMkNYaUlJTjlDNm9lWnJRSWMyTlBCVC1NZnBsVUxFUXRpb1FUUXE1VVIxcElLQdIBxAFBVV95cUxPdjY4SjRZS2pkdGlfdTRtNGM1eWZuTThBekRRT2RLNUxRakI1b1BtcG1rMXVnNG1CZjBjczF0YjR0MXhGWXU3dkx6MXpYYXVjU3hSelJpNWJtelBWVmhYaEdNREtaRlBiemZZdEthWEtxeTdRamREdDBmZTdGWFl0Tm80OXpuWW9QNTNDamZnTE90Njk0WklDTy1VRzJLMWt1Y1BMeUNMdGRyZ3FEUjI4UDA3Y1ZiaG1MbHZSaXZDb0hpaUxt?oc=5",
@@ -6018,6 +5992,23 @@
       "verified_source": true
     },
     {
+      "title": "چرا خلیج فارس از ترامپ می‌خواهد که خط مشی ایران را حفظ کند - WSJ",
+      "title_original": "Why the Gulf Wants Trump to Hold the Line on Iran - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEdvRW9adHdBLXdnWDlIQVd2RG80YTROaVVtT2RXdUxzbUxja2JTdXJvNlVfRV9hQjdnR1VDY29ka2ZqTW5TRWhxeXRNcS1peXlidmxJRFFsLTBWRHYzYWJxcjQ3YXRhd0pBR3o1bUdrRlJXVm96VFRfbXNXMzJBZG92Q194SDZHVHByVU5iellPMzNwQXRFNkFsSF8?oc=5",
+      "summary": "چرا خلیج فارس از ترامپ می‌خواهد که خط مشی ایران WSJ را حفظ کند؟",
+      "summary_original": "Why the Gulf Wants Trump to Hold the Line on Iran WSJ",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-09-24T10:30:00+03:30",
+      "published_fa": "1405/07/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "نتانیاهو از سخنرانی سازمان ملل برای برجسته کردن روابط ترامپ - و توهین به دیگران - Politico استفاده می کند",
       "title_original": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else - Politico",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWJfc3dZSDVvcF9neFdPNGhEQlV6Y2NiNERBTXJKUlNtV2p3LTRTbHptRHMwOGdXSGJUelpBNE1laFVqSHZZVGtNUDlOV2psb280UjJQQ2JJMTFjOUNtdWpORFFreXVhYUZ2VHk0LTBYemNQZmV6aWs5cUc1dzdyc0J0cEg0OERPODN6MW9YOVRkcXZxbi1FMlhTQW1YczVCY0ttYWYwd0FvT2RLZXNOYzJ1Z04xTE9ZeFlDRU1IeXI2WUZX?oc=5",
@@ -6284,6 +6275,21 @@
       "verified_source": true
     },
     {
+      "title": "رویترز - حملات ایران و آمریکا باعث نگرانی از جنگ مجدد در سراسر خاورمیانه شده است",
+      "title_original": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
+      "summary": "حملات ایالات متحده و ایران نگرانی از جنگ مجدد در سراسر خاورمیانه رویترز را افزایش می دهد",
+      "summary_original": "US-Iran strikes raise fears of renewed war across the Middle East Reuters",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-02T10:30:00+03:30",
+      "published_fa": "1405/06/11 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "اخبار ایران: سپاه پاسداران انقلاب اسلامی به پایگاه های آمریکا در اردن پس از بمباران جزیره لارک توسط آمریکا حمله کرد - الجزیره",
       "title_original": "Iran updates: IRGC attacks US bases in Jordan after US bombs Larak Island - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmpwLVVHQTNwYU5qS2JESWg5anN3UmVFQi1xY3l4enR4dXYyOG11em9OR3ZzR29Kazhzczd4Q1FfajBPd0ZBS3Q5cVNFdkNfSDNvQ1FsenQxWG5lUi12clZwaW5KYzZmb3FZVUNROVY4MThsUkJhQ21QZkN5TE5XNDZQRXYwcndYb2NtTWVCdjMyTXA5UnVvSHFLU3J0akhySFVPclpoUGpZSWE2MTM3TDVCZUFEREZoalHSAb8BQVVfeXFMUFdNYVJpZ0Rsek9Zc3NPdGdDNk1LU3g3clRKWEdxYkRjMndFRm80YVAzVGVCWnVQUGdid0ozVDl1al9zQ251SXhyM08yLU1RRVNEb21peEFuZm8xRXQ3cV83VFY3TTFEeWJxU0tZbFJmeVM4TklDZWdqcTltX2xsZ2VWWWk4VElCVWlkTm1jaWZLdVIyN29KU25mTW5aYUEyRVNnNWhhYUU2UDFCWEdQdi1RRlJDMk9MY1diWHpNNUE?oc=5",
@@ -6359,13 +6365,13 @@
       "verified_source": true
     },
     {
-      "title": "جنگ ایالات متحده و اسرائیل علیه ایران، شش ماه بعد: به تعداد - الجزیره",
-      "title_original": "US-Israel war on Iran, six months down the line: In numbers - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
-      "summary": "جنگ آمریکا و اسرائیل علیه ایران، شش ماه بعد: الجزیره به تعداد",
-      "summary_original": "US-Israel war on Iran, six months down the line: In numbers Al Jazeera",
+      "title": "اخبار جنگ ایران: سپاه می گوید «کنترل قاطع» بر تنگه هرمز - الجزیره",
+      "title_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTNoQ3VwTHlvc0t4V2pneTdmcUg5QXY0YXF1Vk5LMUcyZDNJTzJTUU5UUmxUN3Z2V1NremJnMWw5STJDMlp5QTZiSHc2Y2drd080Y1ctVmdIN1ZPd2lMdjlrTklDTUJIOFRWakw1QkxjM0U1ekYyTWpzTVdGS0NtNlJ5akFLdU5IR2RWdnA1dnRoM3M5RVJ4ODA3b3BwbHdrRVU3ajdQQjFIVmx6bHNHYmVITW0xZ9IBuwFBVV95cUxNT0ZhVXc5N0MzS0E5Q1BTM0JkV0xndFFBdG4wZ19ZbDhvTDA5SG0tcThhd1hDeFFPUU81QW9ra1FlY0xyMkZIWlZGS1FmLUhPeDlkd2hzQmVBSElwQmllbmJRM3kxZlE5d2p1SkpybUp0T1JTbUpGdXNRX29VWHlHZTE2c1RpbmtiLU55bFlNODJRLUREWHc3VHRkR1Flc21PQ3pidEhuRnA0UnBIWVNBc2pQa1NFN3MyMlZr?oc=5",
+      "summary": "اخبار جنگ ایران: سپاه پاسداران انقلاب اسلامی می گوید «کنترل قاطع» بر تنگه هرمز الجزیره",
+      "summary_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz Al Jazeera",
       "source": "Google News",
-      "category": "other",
+      "category": "military",
       "tags": [],
       "urgent": false,
       "published": "2026-08-28T10:30:00+03:30",
@@ -6374,13 +6380,13 @@
       "verified_source": true
     },
     {
-      "title": "اخبار جنگ ایران: سپاه می گوید «کنترل قاطع» بر تنگه هرمز - الجزیره",
-      "title_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTNoQ3VwTHlvc0t4V2pneTdmcUg5QXY0YXF1Vk5LMUcyZDNJTzJTUU5UUmxUN3Z2V1NremJnMWw5STJDMlp5QTZiSHc2Y2drd080Y1ctVmdIN1ZPd2lMdjlrTklDTUJIOFRWakw1QkxjM0U1ekYyTWpzTVdGS0NtNlJ5akFLdU5IR2RWdnA1dnRoM3M5RVJ4ODA3b3BwbHdrRVU3ajdQQjFIVmx6bHNHYmVITW0xZ9IBuwFBVV95cUxNT0ZhVXc5N0MzS0E5Q1BTM0JkV0xndFFBdG4wZ19ZbDhvTDA5SG0tcThhd1hDeFFPUU81QW9ra1FlY0xyMkZIWlZGS1FmLUhPeDlkd2hzQmVBSElwQmllbmJRM3kxZlE5d2p1SkpybUp0T1JTbUpGdXNRX29VWHlHZTE2c1RpbmtiLU55bFlNODJRLUREWHc3VHRkR1Flc21PQ3pidEhuRnA0UnBIWVNBc2pQa1NFN3MyMlZr?oc=5",
-      "summary": "اخبار جنگ ایران: سپاه پاسداران انقلاب اسلامی می گوید «کنترل قاطع» بر تنگه هرمز الجزیره",
-      "summary_original": "Iran war updates: IRGC says ‘decisive control’ over Strait of Hormuz Al Jazeera",
+      "title": "جنگ ایالات متحده و اسرائیل علیه ایران، شش ماه بعد: به تعداد - الجزیره",
+      "title_original": "US-Israel war on Iran, six months down the line: In numbers - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcy1NQzdyLWdscWpPa3BXeFoydjY5eXJxYnh3eXdSajYxckNKNW4zVl8tdEFwcXlvX1VfMVg3ZkVLNG1uM0x2TzBNdDN5cjFVYi0wZHlWSlNiODJ1QV82SlIwS0QwS0k0V3JCZUZvMEM3OE1fQWFJTGtnUFhoU203YmI2elY2SjQ1Q29zMWxxMXRVcnh3bEthdzRwbUQ5NTjSAaQBQVVfeXFMTmFSOXFHWlJWRFA1SWhMRmpXYkZ0UTlIdHl6dXVGUnFxVTVhalptTGFDc210dkJsc0lDR3NWUFVqdV9fVVFDNGMyVldHbHd2MWZRYUlSNW0tc3gwZ3V4MjNhcWJkZVAzVC1icHlyNnJXUl9ZTS11d0xtaVhxYUNTWHBDUlVJU1dBdTI3TjF1UHBEenYtSVhRTGxWV0hRR09LT1k5QWc?oc=5",
+      "summary": "جنگ آمریکا و اسرائیل علیه ایران، شش ماه بعد: الجزیره به تعداد",
+      "summary_original": "US-Israel war on Iran, six months down the line: In numbers Al Jazeera",
       "source": "Google News",
-      "category": "military",
+      "category": "other",
       "tags": [],
       "urgent": false,
       "published": "2026-08-28T10:30:00+03:30",
@@ -6437,23 +6443,6 @@
       "verified_source": true
     },
     {
-      "title": "توافق ایران و عمان بر سر مسیر جدید موقت هرمز - الجزیره",
-      "title_original": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXFIdDJyc25WazQtbUl4UVFxZEc0ajl3Y24tN3ozYVF4c2F6QTZtSmxmZEFQemk3OWJiV2x0eDdJVERNUy16NjBpWkdYYS16ZmdKYk9wNWU0VFlBb1hlUExzdlRSSWROSkdCN1JERnpaSzJ3SmV3YWxMeldaNlF0am1Vc1RJQzdWUFktdGoybnA0a2dyeUFGQmY2dHlBQ2lVampKY1dmSFR2QVF2SWVr0gG0AUFVX3lxTFB1YlBBWWlTaDJYeGxrMUpCTGQtZWNxeG1HU0hSSTB3ZnNDQnV6RTkwVXU5YVlwa2xUMkZKdHdNY2tpa19Zbng3eEl5TktKOGFRY1ZfU3BGZzVRV1lVSWFDaHpNWTZyOEQyX2ZmZTFPWGVIQ3pySTZ3NExQeW5acml3b0VyYXB5TGFVdEMwUHRBdnlvaEpLRVBvblNrTnpJOHFfTFotWHJOZGl1djhxSVFuLWQtVA?oc=5",
-      "summary": "ایران و عمان بر سر مسیر جدید موقت در هرمز الجزیره توافق کردند",
-      "summary_original": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-26T10:30:00+03:30",
-      "published_fa": "1405/06/04 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "اخبار جنگ ایران: تهران می گوید توافق عمان در مورد هرمز به معنای باز شدن تنگه نیست - الجزیره",
       "title_original": "Iran war updates: Tehran says Oman deal on Hormuz does not mean strait open - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11U283WFBPdlU5OTRhNHRnLXFLRF9pSm5rcXBlenJ3WGhQVzRaTWVDQzFaQ091UnZoUHV0MDNpdTJBTnVDOE8wcVRQSmVhU3NBY2pZeTluaEltaUhUMFFrTHJHb0VpdkRlTWNmN25nLXpPcGhxRERJ0gF8QVVfeXFMTjRybTlMLURxREVpSUJJVjJENHFEbkNaam5QQnB0bkxuR0w0SzNud0JJMktPN3JFUHJJS0ZKRVd5RjRrWDlEUlFWYnZteHNncVlEVWdyWUJ5SE1OTUQwZS1CS09XbmpuRWZhNVh6RkFHVzEtSUtxTjNWOTRCQg?oc=5",
@@ -6488,10 +6477,45 @@
       "verified_source": true
     },
     {
+      "title": "نتانیاهو اسرائیل مدعی است که ایران سعی کرده یکی از پسرانش - الجزیره - را بکشد",
+      "title_original": "Israel’s Netanyahu claims Iran tried to kill one of his sons - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFBOZWZsSFE1TUN2WmJiaUpjQ3RCUTNKUXZoVldxME4wNkd6d2dUX0pMb3ZqSVVsZWxFRFBpM1NmcUFBWnJCMlVkU2RWRXh3Q0lFa1BLRlVldXgxZFFiZTBUOGtJSk5tbFZIazBYOTI3azVjZVVPTkpNLVJreU1BSFBtZ1BDMG9EQXZBMEhUTEFYT2xZRU5CZlhqVEphX1dWS3fSAacBQVVfeXFMT19BMHlidll4TkI2b1Z0T0xUZnFSS2dBUGJmOUUydnBPeGhwaVlxQjE2N3dSWTA0U0NoN3ZoUlNyejlQLTA4RUlEdVhUb3VmTmNqeGF0NUZLYW1QbUdWWUp3Q1FHMTBfWHdBb05BVEliSC1fbll2S2JoWHJ6NHFnY1dYMGotUkMycTlCU0Y0NlFIeXJrRGxGQWw5emJaY3ZBZEFMbUk3SXc?oc=5",
+      "summary": "نتانیاهو اسرائیل مدعی شد که ایران سعی کرده یکی از پسرانش الجزیره را بکشد",
+      "summary_original": "Israel’s Netanyahu claims Iran tried to kill one of his sons Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-25T10:30:00+03:30",
+      "published_fa": "1405/06/03 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "کارشناسان می گویند تحریم های جدید آمریکا نشان دهنده استیصال ترامپ در مورد ایران است - الجزیره",
+      "title_original": "New US sanctions signal Trump desperation on Iran, experts say - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmw2X00tTmczcE5TWV8wWWJ3XzhyTTN4bms0ajdMbHZhQ3ZaSm9USmJQcnlJejVwVzlzNFBKbmJSYmdaYnF0SWp5d1dSSjl4dHN5SlZWUFdsWThyZ0xVU2ZUemlwNkZnZ3NSLWxtbEs4bWw5Q1NKdWNPTHZCYWlIYnFFVGd0Qy1NUDN5RFNxTTNSeS13dUJMb3AzaFRFd0I5Y1NuSdIBqgFBVV95cUxQM3pLMnZfc3ZERTF3akZlbjd0UHo3X1NFOUMyZ0Q2cm5pQ05ZVDZ5ZVUwX3dHUEtSclg1VzEzNFRzcWdUeGJXVklRSUlYbk03QWl6QWVDYjFjRlNLRWYtQ2hqMVA1SlpJNEdXM1B1bjJzTkhQc3hFa1FhOHVhM0VvTHNjSktvcEFUUWtIdzJCcWxIM1V5WkZGWnNIazA5bEVreWdqNmxhend6Zw?oc=5",
+      "summary": "کارشناسان الجزیره می گویند تحریم های جدید آمریکا نشان دهنده استیصال ترامپ در قبال ایران است",
+      "summary_original": "New US sanctions signal Trump desperation on Iran, experts say Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "تحلیلگران"
+      ],
+      "urgent": false,
+      "published": "2026-08-25T10:30:00+03:30",
+      "published_fa": "1405/06/03 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "جاناتان پولارد، جاسوس اسرائیل، ایران را «خارج از نقشه» می‌خواهد، می‌گوید جنگ‌های ترکیه و مصر در مرحله بعدی است - Middle East Eye",
       "title_original": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjFPb3VHR0l6M3J5Y3ZfVVlvZ1RWSGN1ZWNxSGVfRWc5V2c5WFg3SXp0dWhNVWMwOHItVVd6eXgtdHhpbTFjRFNzemtESTlkQWRCVTZyOEVqRHhVc3VSRDFCWlZNTkZuS09mUEg2VlhpZU1reVJyV3VHWnR3VnNCMlBrX040elNvUmNFdmRJdHRKLXE5T0pzdnNuZXpiZWowS0pWVWRhWTVIVWt5RkE?oc=5",
-      "summary": "جاناتان پولارد، جاسوس اسرائیلی، ایران را «خارج از نقشه» می‌خواهد، می‌گوید جنگ در ترکیه و مصر چشم‌انداز خاورمیانه بعدی است.",
+      "summary": "جاناتان پولارد، جاسوس اسرائیلی، ایران را «خارج از نقشه» می‌خواهد، می‌گوید جنگ‌های ترکیه و مصر چشم‌انداز خاورمیانه بعدی است.",
       "summary_original": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next Middle East Eye",
       "source": "Google News",
       "category": "other",
@@ -6503,11 +6527,11 @@
       "verified_source": true
     },
     {
-      "title": "آمریکا سخت‌ترین تحریم‌ها را علیه ایران تهدید می‌کند: آنچه می‌دانیم - الجزیره",
-      "title_original": "US threatens toughest sanctions yet against Iran: What we know - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXpKN3hfZGJqR05JX3RKRUtiLXFNX0ZWVFpPRWwtR2tsLXdZYTdyVjJHNU9YWmxvcS1jbFl2S29DNy04STdMdGlrUVlGeE53MGhuNndObjQ2RnZvcXlOeVNldjBOX3ZBRW1saG5ienVIRXREM09fcDlHb3J3eTNaaVVzb0pubm94cnZkaWl3S2FGUGE4T1JYRnIwUTBNeGo5eVV3d9IBqgFBVV95cUxNc1RHUlpWRGVXdHcwNXVPQkZQaFoxc3RkVFVIM1ZDc08xZm1oMXhhSEVXNEhVZDRfczVpWTVSLXFraDBENWdZbk9rUEY5Y0VPdWdXdUVUWmJ6S2haLW9iX2d3R3FIVTg5OW5nV19reXRZc1I0NkVmUk1hM2J2ZV91a0F0VTVZRC0zUnBaczQ0MFRUOW82cHozcC1RcThDVjdsd3Q5NVdQdDBuUQ?oc=5",
-      "summary": "آمریکا سخت‌ترین تحریم‌ها را علیه ایران تهدید می‌کند: آنچه می‌دانیم الجزیره",
-      "summary_original": "US threatens toughest sanctions yet against Iran: What we know Al Jazeera",
+      "title": "اخبار جنگ ایران: آمریکا تحریم های جدیدی را علیه ایران اعلام کرد - الجزیره",
+      "title_original": "Iran war updates: US announces new sanctions against Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHFWSVQxMEZ1OUctZkFoeXpZT0FfajFEeG5xVjBfVE9majl4dUYzUFRuVjYxWmRNZlUwanBvTHFDeTRtc3RkUnhiSnhNa1lpbzRaXzZMWG1PRElxZjlZclVPUEpfQWN5YjE3Q09aNHJkWm5BblRYSkE3eWdQR3M5MnVuVzhYcHdRTzlqdFJZRDJWNDd0S1JQdXIySVFlMjZYTEgzVmFJVDU1ejZ0UGhzcS1WU2RLV0JhNC1R0gHAAUFVX3lxTE9pYi1jaGFBc1VzOF9xRnlMQnpna01fWEpnNDRDY2ZfSWNMSHVZM0ZtUG9JZEQ1VEE1YURqUXNVVTJGRERzWElLZkFIOExJbzJaVm5Gc211aGtVZE83STFxeVZpUlFJQ0EwcUNERVUwcmtRSE9mWWx3eVNzcGJteHdUcGNuU2RpSS04ZjZXQjN1YU9rYU5XUFFKWTdqcUc0QnNiYXotaUdOZ1RabkdlOFJIYzJaTllRcUViRjBfLUR6LQ?oc=5",
+      "summary": "اخبار جنگ ایران: آمریکا تحریم های جدیدی را علیه ایران الجزیره اعلام کرد",
+      "summary_original": "Iran war updates: US announces new sanctions against Iran Al Jazeera",
       "source": "Google News",
       "category": "politics",
       "tags": [],
@@ -6533,6 +6557,21 @@
       "verified_source": true
     },
     {
+      "title": "آمریکا سخت‌ترین تحریم‌ها را علیه ایران تهدید می‌کند: آنچه می‌دانیم - الجزیره",
+      "title_original": "US threatens toughest sanctions yet against Iran: What we know - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXpKN3hfZGJqR05JX3RKRUtiLXFNX0ZWVFpPRWwtR2tsLXdZYTdyVjJHNU9YWmxvcS1jbFl2S29DNy04STdMdGlrUVlGeE53MGhuNndObjQ2RnZvcXlOeVNldjBOX3ZBRW1saG5ienVIRXREM09fcDlHb3J3eTNaaVVzb0pubm94cnZkaWl3S2FGUGE4T1JYRnIwUTBNeGo5eVV3d9IBqgFBVV95cUxNc1RHUlpWRGVXdHcwNXVPQkZQaFoxc3RkVFVIM1ZDc08xZm1oMXhhSEVXNEhVZDRfczVpWTVSLXFraDBENWdZbk9rUEY5Y0VPdWdXdUVUWmJ6S2haLW9iX2d3R3FIVTg5OW5nV19reXRZc1I0NkVmUk1hM2J2ZV91a0F0VTVZRC0zUnBaczQ0MFRUOW82cHozcC1RcThDVjdsd3Q5NVdQdDBuUQ?oc=5",
+      "summary": "آمریکا سخت‌ترین تحریم‌ها را علیه ایران تهدید می‌کند: آنچه می‌دانیم الجزیره",
+      "summary_original": "US threatens toughest sanctions yet against Iran: What we know Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-24T10:30:00+03:30",
+      "published_fa": "1405/06/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "نخست وزیر می گوید ایران سعی کرد یکی از پسران نتانیاهو را ترور کند - فاکس نیوز",
       "title_original": "Iran tried to assassinate one of Netanyahu's sons, prime minister says - Fox News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHBiVnhUN1JvQ21vdlRObWwtRTBLMjY0MmpTSXo2OG9SaC1CZmpVeVZGQXk0c2pOMzdDSHhjel9tQ3BtTDlvcGUyUDRqNGpDV1lLOVk1SkgwYW0xUDV1alJqTVpENmJQWHVmamRQVWpmamczdmduMWtFNUlIbUk4bW1sdmh0d0FBQ3ZxMGVSZ9IBlAFBVV95cUxQcG9fX0ZpVl9yTlhsNlozNGxQZnc2eFZmUm1kQUJMSlVHODktaDA3TE1rd0ZVU1RPLXR5WkFabFFyME5RWXNjVjVKRENDVG5QUFk2T0pwZXg2VUhaV1YxTk4tR1BFeWdHS01XT2NnQ3JwS0dJTlljNFRnME9IbEZrVXR5enJyWWZxdG9pM0plY3YzcmZR?oc=5",
@@ -6543,21 +6582,6 @@
       "tags": [
         "نتانیاهو"
       ],
-      "urgent": false,
-      "published": "2026-08-24T10:30:00+03:30",
-      "published_fa": "1405/06/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "اخبار جنگ ایران: آمریکا تحریم های جدیدی را علیه ایران اعلام کرد - الجزیره",
-      "title_original": "Iran war updates: US announces new sanctions against Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHFWSVQxMEZ1OUctZkFoeXpZT0FfajFEeG5xVjBfVE9majl4dUYzUFRuVjYxWmRNZlUwanBvTHFDeTRtc3RkUnhiSnhNa1lpbzRaXzZMWG1PRElxZjlZclVPUEpfQWN5YjE3Q09aNHJkWm5BblRYSkE3eWdQR3M5MnVuVzhYcHdRTzlqdFJZRDJWNDd0S1JQdXIySVFlMjZYTEgzVmFJVDU1ejZ0UGhzcS1WU2RLV0JhNC1R0gHAAUFVX3lxTE9pYi1jaGFBc1VzOF9xRnlMQnpna01fWEpnNDRDY2ZfSWNMSHVZM0ZtUG9JZEQ1VEE1YURqUXNVVTJGRERzWElLZkFIOExJbzJaVm5Gc211aGtVZE83STFxeVZpUlFJQ0EwcUNERVUwcmtRSE9mWWx3eVNzcGJteHdUcGNuU2RpSS04ZjZXQjN1YU9rYU5XUFFKWTdqcUc0QnNiYXotaUdOZ1RabkdlOFJIYzJaTllRcUViRjBfLUR6LQ?oc=5",
-      "summary": "اخبار جنگ ایران: آمریکا تحریم های جدیدی را علیه ایران الجزیره اعلام کرد",
-      "summary_original": "Iran war updates: US announces new sanctions against Iran Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [],
       "urgent": false,
       "published": "2026-08-24T10:30:00+03:30",
       "published_fa": "1405/06/02 - 10:30",
@@ -6578,6 +6602,21 @@
       "urgent": false,
       "published": "2026-08-24T10:30:00+03:30",
       "published_fa": "1405/06/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "به روز رسانی ایران: مجلس ایران طرح هایی را برای هزینه های خدمات هرمز پیش برد - الجزیره",
+      "title_original": "Iran updates: Iranian parliament advances plans for Hormuz service fees - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU1LUHpQeDVTWHlVQ25TbER0TExUcV9wcGIxY241UXhJeHNVTWFEVjQwSVpxTjBPT0h3b0FzT0FQX29Lc1o4c0VJRkt3c3BFYTIwUWdGbVFhb2I5b2FIYk1LMl9rejhSdk5KWHhNTGtWd3B5M0dzbkNnTlpyMUFxV2FfMV93R3Z4aHBOTmZGMUUwVk9lRDRlTnRRV3hMRHdUS1JsazFLYlRkaGN4OGtPNm9XQVpOVmJZVXBF0gHAAUFVX3lxTE9rcEFXUnZQM3pvYThzODM5SEQ1eFBVREdFN3RwNWxJUnRDYS1BcllTWkJ3TzVmeWl5VldHS25YSkFaY21ZTFg5SkgzX3pnODJ2N3k1cmRSbDNMdnBCeF91SmxpdDR1aDdlNGpqOWh0S056UUtxTmxULXRQQjctRVY3MkdtYTF4UlhKSEJXUmRZR3ptblNTcXlFOGdCZUtmT25pUVBTYjEtT0hZamNZTUc2a1B6eUV2QUpMTTktcmZUag?oc=5",
+      "summary": "به روز رسانی ایران: مجلس ایران طرح هایی را برای هزینه خدمات هرمز الجزیره پیش برد",
+      "summary_original": "Iran updates: Iranian parliament advances plans for Hormuz service fees Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-08-23T10:30:00+03:30",
+      "published_fa": "1405/06/01 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6612,21 +6651,6 @@
       "verified_source": true
     },
     {
-      "title": "به روز رسانی ایران: مجلس ایران طرح هایی را برای هزینه های خدمات هرمز پیش برد - الجزیره",
-      "title_original": "Iran updates: Iranian parliament advances plans for Hormuz service fees - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU1LUHpQeDVTWHlVQ25TbER0TExUcV9wcGIxY241UXhJeHNVTWFEVjQwSVpxTjBPT0h3b0FzT0FQX29Lc1o4c0VJRkt3c3BFYTIwUWdGbVFhb2I5b2FIYk1LMl9rejhSdk5KWHhNTGtWd3B5M0dzbkNnTlpyMUFxV2FfMV93R3Z4aHBOTmZGMUUwVk9lRDRlTnRRV3hMRHdUS1JsazFLYlRkaGN4OGtPNm9XQVpOVmJZVXBF0gHAAUFVX3lxTE9rcEFXUnZQM3pvYThzODM5SEQ1eFBVREdFN3RwNWxJUnRDYS1BcllTWkJ3TzVmeWl5VldHS25YSkFaY21ZTFg5SkgzX3pnODJ2N3k1cmRSbDNMdnBCeF91SmxpdDR1aDdlNGpqOWh0S056UUtxTmxULXRQQjctRVY3MkdtYTF4UlhKSEJXUmRZR3ptblNTcXlFOGdCZUtmT25pUVBTYjEtT0hZamNZTUc2a1B6eUV2QUpMTTktcmZUag?oc=5",
-      "summary": "به روز رسانی ایران: مجلس ایران طرح هایی را برای هزینه خدمات هرمز الجزیره پیش برد",
-      "summary_original": "Iran updates: Iranian parliament advances plans for Hormuz service fees Al Jazeera",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-23T10:30:00+03:30",
-      "published_fa": "1405/06/01 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "اردن گرفتار آتش متقابل جنگ ایران، آمریکا و اسرائیل شد - ای بی سی نیوز و سرفصل ها - شرکت پخش استرالیا",
       "title_original": "Jordan caught in Iran-US-Israel war crossfire - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0hOakNlaXpGOGc1QWRGYkZLeEtFb0YwUzBFYlo3X2VZcnQ1SGtxcFpJSHp3elFjelNoT3lELU80bWZ3SGNtdGRybjNKLThxS2xGeGx3R3QteUJ5bFR0WG9RQ1IydUU3T3FVdEs4bEdfMkxZOWRDT3dMWHlOM29TYlNSTUpIRzBXelZyNVkwWnRUN29WRWlYZ0s3c1lRMlk?oc=5",
@@ -6634,21 +6658,6 @@
       "summary_original": "Jordan caught in Iran-US-Israel war crossfire ABC News & Headlines – Australian Broadcasting Corporation",
       "source": "Google News",
       "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-08-22T10:30:00+03:30",
-      "published_fa": "1405/05/31 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ایران می گوید تحریم های جدید آمریکا ناقض حاکمیت سایر کشورها - الجزیره است",
-      "title_original": "Iran says new US sanctions violate sovereignty of other states - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0k0UU1CRG5RVTV1RjA1OEhtQkhSX1lveGIxSXd1bkZ0NlFJbWdGaXVJQmU3QmNRTExOazRldWE2ajN6LTVMdi1vR1dWZGo2T29LWGxhM2VtTV9xTVBrMmpBSWVzaTJRSHlFM0FuYjBrdi1zUkVLRHpRLWd3U3FLTlR4RmtTaVpvX2VDMmNERVN4ZjdHRjFCRkpHZXJ2X25ZVlpVZW130gGrAUFVX3lxTFAzTGVvcXk5U2tyZFhHNFQwMG1pcUFybDREQkFCakdRaHJJc1ZXS0RtT3E1WWx5Wm5lVDBydzJQNHZteGYtMmVSUkFMZHpveVZXSzh0Q2xGVzdZVmhjOHJaQ21sRlI4NnJ3MUczeEtuVHNhRWxIcVpDcGdQbVM4TzF2dGtpVmVpaFlpOUMweUZMaktsZmFJT2dnRmJTNGZyb3Y2WXEyOW82M21Dbw?oc=5",
-      "summary": "ایران می‌گوید تحریم‌های جدید آمریکا ناقض حاکمیت کشورهای دیگر الجزیره است",
-      "summary_original": "Iran says new US sanctions violate sovereignty of other states Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
       "tags": [],
       "urgent": false,
       "published": "2026-08-22T10:30:00+03:30",
