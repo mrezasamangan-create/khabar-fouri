@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T04:44:49.179525+00:00",
-  "generated_at_fa": "1405/07/25 - 08:14",
-  "count": 428,
+  "generated_at": "2026-10-17T05:11:29.722339+00:00",
+  "generated_at_fa": "1405/07/25 - 08:41",
+  "count": 429,
   "items": [
     {
       "title": "آنچه گذشت: وزیر خارجه آلمان: اروپا در تیررس ایران قرار دارد؛ فعالیت‌های خصمانه تهران را تحمل نمی‌کنیم",
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-17T08:11:45.612046+03:30",
-      "published_fa": "1405/07/25 - 08:11",
+      "published": "2026-10-17T08:38:26.605207+03:30",
+      "published_fa": "1405/07/25 - 08:38",
       "translated": false,
       "verified_source": true
     },
@@ -30,9 +30,56 @@
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-17T08:11:45.610688+03:30",
-      "published_fa": "1405/07/25 - 08:11",
+      "published": "2026-10-17T08:38:26.603718+03:30",
+      "published_fa": "1405/07/25 - 08:38",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ تحریم های جدید روسیه را که امضا کرده بود به حالت قانون درآورد",
+      "title_original": "Trump puts on hold new Russia sanctions he signed into law",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+      "summary": "فرمان اجرایی رئیس جمهور آمریکا دو روز قبل از ضرب الاجل تحریم ها و یک هفته پس از معامله گازوئیل با پوتین صادر شده است.",
+      "summary_original": "US president&#039;s executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-17T08:15:03+03:30",
+      "published_fa": "1405/07/25 - 08:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ایالات متحده می گوید ایران از تجارت دریایی منع شده است زیرا کمپین فشار درآمدهای نفتی و بودجه نظامی را هدف قرار می دهد - Anadolu Ajansı",
+      "title_original": "US says Iran barred from maritime trade as pressure campaign targets oil revenue, military funding - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamFGQ1FqRGxUcTJ6bFJGSEEwa1gzYVM1eUNGX3FaWFdUVjhNN0xKLW5yNmYycXZ3WHRKd2R5NlRMci1EZEJ4aVVjMm1WZkJXRjB5NnVrcm1GX0ZQaDloTV9BODJsUEg4QTZDeVlMZ05ISFRKQjdXQVlCc1hfLURCNF9OZUFJbHBRNFpKUXVndTRiN0ZYWnFhTlJvRC0yRDhZUmU4akZ6TkdlMkRyUzhWV0dWY3E0UzlhWDRnNVZTY0JlX1VJdFdrdDZ1a0ZqS2Z6SkljNA?oc=5",
+      "summary": "ایالات متحده می گوید ایران از تجارت دریایی منع شده است زیرا کمپین فشار درآمدهای نفتی و بودجه نظامی آنادولو آجانسی را هدف قرار می دهد.",
+      "summary_original": "US says Iran barred from maritime trade as pressure campaign targets oil revenue, military funding Anadolu Ajansı",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T08:11:24+03:30",
+      "published_fa": "1405/07/25 - 08:11",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "نخست‌وزیر آلبانی «دست‌های خارجی» را مقصر اعتراضات می‌داند",
+      "title_original": "Albania’s PM blames ‘foreign hands’ for protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+      "summary": "ادی راما، نخست‌وزیر آلبانی مدعی شد «دست‌های بیگانه» به تظاهرات اعتراضی منجر می‌شوند که ماه‌ها کشور را تکان داده است.",
+      "summary_original": "Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T07:51:18+03:30",
+      "published_fa": "1405/07/25 - 07:51",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -320,6 +367,21 @@
       "verified_source": true
     },
     {
+      "title": "ایران اتهام دست داشتن در حملات حوثی ها را رد می کند - RTE.ie",
+      "title_original": "Iran denies accusation of involvement in Houthi attacks - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43WFNhME5IemJNcmQxbUlXT0tuTXl4N2Yza3dhODlWYU5PMkx5WlNKakNMM1pCNTFOVlN4U1lSNVRCM21wTGJNMm4zck53Qkx5am55TjgtOXNMaGNLV0pheVFfdk80UjVzR3NfNm53d2dCX3NHYzBTSmJ6NA?oc=5",
+      "summary": "ایران اتهام دست داشتن در حملات حوثی ها به RTE.ie را رد می کند",
+      "summary_original": "Iran denies accusation of involvement in Houthi attacks RTE.ie",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T04:38:54+03:30",
+      "published_fa": "1405/07/25 - 04:38",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ترامپ از پیشنهاد نتانیاهو حمایت کرد و از وزیر خارجه انگلیس خواست تا علیه حوثی‌ها با اسرائیل همراه شود | تماشا کنید - تایمز هند",
       "title_original": "Trump Backs Netanyahu’s Saudi Offer, Urges MBS To Join Hands With Israel Against Houthis | Watch - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZDRlNVJVRG5LQ3lyaWJtbTVpY1FldHBweW9la18yRGV1WVdCQlN5VEptM1IwWERyZndnbllFakZKWkRIVFU1X1NKdGNHdUJkN1NudkJVSXc1WGh2OHVBS2FHUmxmeVhzRmVFYXZUOEhYMkhYUnZHa3BiY3dOQ2VHT1p0RGFuRFlDaDM0ZzRFQl80RkJMRDNGLVMwYnpaMTNGdktXWHNpc0FCSUNVNnk1T2dsa3h5V0FwdGl4RjlOQmpScHlIZzBJaVF2R1c3dXE3UkNsdkxWT2lEeVhMM0xhMTlfbWRfQ3l1THhSQlZSalpwcTRMaTFIb2hVeExGU1RkM0x30gGIAkFVX3lxTE5MMTQ5YVViTEhKX2w4NnB6V2lRRXJEZzJuNlF0N2U3dE44OUZ5cERpaTE5TzJlc2FEUk56SE1iY1BUM2FxZ1d4NDlMUkt2Ym52S2ZHVG5FempKeWFiWW12VkhoRHpfanJJcnoyRDBqOVl6S2FFRUUxcGlHcEhsb1lHSkt0Y2czSkRSR3UzUlBxNzdNQ2pzTG5rMzNIcnV2Z2JRWmp0N0xEWDRZYVJRS1lIdEExZGgzQTA1WjhWV2VYU2tqT0lBSjVqYTRfdF9SYVA0elhPdXk4MDBlVU84bk0tX1lVSUZubjU3SzFQS0d0SWFJWnFlSENqMG50NGViRXRSYVhEZzVtdw?oc=5",
@@ -373,7 +435,7 @@
     {
       "title": "به روز رسانی زنده: جدیدترین از اسرائیل، ایران و خاورمیانه - جروزالم پست",
       "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NWFDZjV2eVJvRlEtQzBwQWIwRnlEeFgxMkRLd1d1Yk5Hc2pPd01KYlJMV3dxYTBBMDRsQXJNRnVCaW1VVVZCTXpVWXlXQnJYZjVOYjhxb1ZTcFRaWHVtN0J5aEtHaHV4YWZiREh1YnRwR3BKUWI3Nl95dGNiMXM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bUxNSXduT09qYTNXMG9MRHNXNHZWRm51S3B5QVI2UkpjVzBCSDB2MGJmSkpZSHpOMFFfQWFaSVhJVVFsN0lZaVV6TVJ6bmlKNzJEcFNDalhwWVE2S1dnNFRTTVFaeHg4NWF4dVl0aGtpU3d1Z0NWNzlnNDBjWW8?oc=5",
       "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
       "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
       "source": "Google News",
@@ -1060,17 +1122,17 @@
       "verified_source": true
     },
     {
-      "title": "همسر مشاور نخست وزیر بریتانیا از اقدام فلسطین حمایت می کند",
-      "title_original": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
-      "link": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
-      "summary": "پلیس در حال بررسی پست رسانه های اجتماعی نویسنده سارا هلم، همسر جاناتان پاول، مشاور امنیت ملی برنهام.",
-      "summary_original": "Police reviewing social media post by writer Sarah Helm, wife of Burnham&#039;s National Security Adviser Jonathan Powell.",
-      "source": "Al Jazeera",
-      "category": "politics",
+      "title": "چگونه پیام‌رسانی ایران هزینه جنگ پیش از انتخابات میان‌دوره‌ای آمریکا را برجسته می‌کند - الجزیره",
+      "title_original": "How Iran messaging highlights cost of war ahead of US midterm elections - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
+      "summary": "الجزیره چگونه پیام‌رسانی ایران هزینه جنگ را در آستانه انتخابات میان‌دوره‌ای آمریکا نشان می‌دهد",
+      "summary_original": "How Iran messaging highlights cost of war ahead of US midterm elections Al Jazeera",
+      "source": "Google News",
+      "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-16T21:56:08+03:30",
-      "published_fa": "1405/07/24 - 21:56",
+      "published": "2026-10-16T21:58:04+03:30",
+      "published_fa": "1405/07/24 - 21:58",
       "translated": true,
       "verified_source": true
     },
@@ -1088,21 +1150,6 @@
       "urgent": false,
       "published": "2026-10-16T21:54:07+03:30",
       "published_fa": "1405/07/24 - 21:54",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "چگونه پیام‌رسانی ایران هزینه‌های جنگ را پیش از انتخابات میان‌دوره‌ای آمریکا نشان می‌دهد",
-      "title_original": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
-      "summary": "مقامات ایرانی از طریق بیانیه هایی به زبان انگلیسی بر قیمت بنزین و مسائل مربوط به اقتصاد آمریکا تاکید می کنند.",
-      "summary_original": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
-      "source": "Al Jazeera",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-16T21:51:43+03:30",
-      "published_fa": "1405/07/24 - 21:51",
       "translated": true,
       "verified_source": true
     },
@@ -2243,11 +2290,11 @@
       "verified_source": true
     },
     {
-      "title": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ - یورونیوز",
-      "title_original": "Military signals building: Is the US-Iran war about to escalate? - Euronews",
+      "title": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ - Euronews.com",
+      "title_original": "Military signals building: Is the US-Iran war about to escalate? - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQxSlUxSHV2RjFuaFlUN2NuYkl5ZmZ1RXlMUmNyLWl5Vk5vTEx5SU1kZ0xYNkxBbEp4SzAwbWZxQnVad2lOMGU3ZGY1dDRCdWh0Y3dxeXEzaVd3b2FpdWJSR3FLZzFuSmZjQXJ5cHJ1RnhrVUtJZVJTeE9tWGdHNVdXaTA5WVBCUlI1LUM5cUV4aU1MdU5IYThuZmtTUWs?oc=5",
-      "summary": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ یورونیوز",
-      "summary_original": "Military signals building: Is the US-Iran war about to escalate? Euronews",
+      "summary": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ یورونیوز.کام",
+      "summary_original": "Military signals building: Is the US-Iran war about to escalate? Euronews.com",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -3710,23 +3757,6 @@
       "verified_source": true
     },
     {
-      "title": "میدل ایست مانیتور - ترامپ ممکن است کنگره را از دست بدهد و همچنان جنگ آمریکا علیه ایران را گسترش دهد",
-      "title_original": "Trump could lose Congress and still expand the US war on Iran - Middle East Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjB0X1RZNDdJZmZMQ1NFZDdjNmc3T0Vjd3gtR0tFWHp0cVNuemJMdWJaUFctS0RfWHNTZG9QVGZsbXRGcDVRY2JjX3VGcGgxcXR5c1JOM2NFMnRyWUF1WEttLS1RMzBBZkVtWUV6alp4SG1OUENqRG40NnNsRW5VZ1daZGdsYVVjR3A2bUg3REtMV1BmQWtPWXpJcEJ0M2VFU25sYkJRSWvSAa4BQVVfeXFMUGItTFZ2RWtjajFTNTI5bzB2TlR0bXgxeDdybDczNEdHTmZyZnV4UlNOREx4YjdoOTBVZ09YSFF1R0EtbG5IeF9SMnJ3YVVVRWd5Zms3ZXBmRlF5ZFRMSnBvQWpiYjlUclVGb3ZXTGxsRjd0X3NPTWs2M3VZdEhRVUJvWTFMeThjTWtqVDZlV2ZuMHdWc3I0bG53dWs0MjdLdUZiaXUwbi1ySjZkRkRB?oc=5",
-      "summary": "ترامپ ممکن است کنگره را از دست بدهد و همچنان جنگ آمریکا علیه ایران خاورمیانه را گسترش دهد",
-      "summary_original": "Trump could lose Congress and still expand the US war on Iran Middle East Monitor",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-15T17:00:00+03:30",
-      "published_fa": "1405/07/23 - 17:00",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "بررسی بخش راستی‌آزمایی بی‌بی‌سی: صدها تحقیق ارتش اسرائیل درباره کشته‌شدن افراد، بدون نتیجه علنی مانده",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cq9vzgjj3kz1o?at_medium=RSS&at_campaign=rss",
@@ -4006,21 +4036,6 @@
       "urgent": false,
       "published": "2026-10-15T07:22:48+03:30",
       "published_fa": "1405/07/23 - 07:22",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ایران از حمله قریب الوقوع آمریکا در میان \"جو جنگی\" در تهران می ترسد - i24NEWS",
-      "title_original": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFBtbmxPaFJMRlYzZmItVXRLZHZVX01zc0pkLWhoNmZxZHlGLTFhVW1ZRDAxMWJTRWVONHZSY1pNWEsydU9UUEtEWWJpMkhIbU9pQUk3bGZrdkVzZV9Nb2NFcURxQ0FfVC1yLXowckZtWnQ4Nm13YndFSDRFdEg1cGJJTkJMdjdjY09Sd1IxcTBDc0k5SUp0VGhpNUdDNGVJUmxjc3pGYkJFVDFDdnN0RW5LMDlsdmlSWlpBRmhhNkg1TlY4TXo0MmpNTQ?oc=5",
-      "summary": "ایران از حمله قریب الوقوع آمریکا در میان \"جو جنگی\" در تهران می ترسد i24NEWS",
-      "summary_original": "Iran Fears Imminent US Attack Amid ‘warlike Atmosphere’ In Tehran i24NEWS",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-15T07:16:00+03:30",
-      "published_fa": "1405/07/23 - 07:16",
       "translated": true,
       "verified_source": true
     },
