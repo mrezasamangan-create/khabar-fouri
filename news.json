@@ -1,23 +1,100 @@
 {
-  "generated_at": "2026-10-17T13:42:22.942357+00:00",
-  "generated_at_fa": "1405/07/25 - 17:12",
+  "generated_at": "2026-10-17T14:07:33.158446+00:00",
+  "generated_at_fa": "1405/07/25 - 17:37",
   "count": 425,
   "items": [
     {
-      "title": "قیمت نفت به مرز ۱۱۰ دلار رسید؛ ترامپ بسیاری از تحریم‌های تازه روسیه را تعلیق کرد",
+      "title": "عراقچی: ایران از روند سیاسی برای پایان درگیری عربستان و حوثی‌ها حمایت می‌کند",
       "title_original": "",
       "link": "https://www.bbc.co.uk/persian/live/cqj9kvz0klg3t?at_medium=RSS&at_campaign=rss",
-      "summary": "دونالد ترامپ بسیاری از تحریم‌ها علیه روسیه را که قرار بود فردا اجرایی شوند، تعلیق کرده است. رئیس جمهور آمریکا گفت که این تصمیم در راستای «منافع ملی» است. او در ماه سپتامبر لایحه تحریم‌ها را امضا و به قانون تبدیل کرده بود. تعلیق تحریم‌های روسیه یک هفته پس از آن صورت می‌گیرد که آقای ترامپ با خرید گازوئیل از روسیه موافقت کرد. در همین حال، جمعه قیمت نفت برای اولین بار در پنج ماه گذشته به مرز ۱‍۱۰ دلار رسید.",
+      "summary": "وزیر امور خارجه ایران می‌گوید که تهران از یک «روند سیاسی فراگیر و جامع» برای حل درگیری میان عربستان سعودی و حوثی‌های یمن پشتیبانی می‌کند. عباس عراقچی در اجلاس سازمان همکاری اسلامی در بغداد تاکید کرد که این مساله راه حل نظامی ندارد. در هفته‌های اخیر درگیری حوثی‌های تحت حمایت ایران و عربستان تشدید شده است. حوثی‌ها کشتی‌ها، فرودگاه‌ها و تاسیسات نفتی عربستان را هدف قرار داده‌اند و ریاض تهدید کرده است که پاسخی جدی خواهد داد.",
       "summary_original": "",
       "source": "BBC Persian",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T17:34:28.754412+03:30",
+      "published_fa": "1405/07/25 - 17:34",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "تظاهرات گسترده در سراسر فرانسه؛ دهها نفر بازداشت شدند",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/c6d937wj9vyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "دهها هزار نفر در شهرهای مختلف فرانسه در اعتراض به کاهش کیفیت آموزش و افزایش هزینه‌های زندگی به خیابان‌ها آمده‌اند. در پاریس، پلیس برای متفرق کردن معترضان از گاز اشک‌آور استفاده کرده و تاکنون بیش از ۱۶۰ نفر در سراسر کشور بازداشت شده‌اند.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "social",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T17:16:24+03:30",
+      "published_fa": "1405/07/25 - 17:16",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "آنادولو آجانسی: ایران می گوید تجدید مذاکرات با آمریکا مستلزم «ضمانت های معتبر» در برابر حملات جدید است.",
+      "title_original": "Iran says renewed talks with US require ‘credible guarantees’ against new attacks - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamgxSmdLem8zb3NHTzh3cDJBVjBBa0ZPbGU0NkF0X0xqUGVsZXg3ajRQdUxyaE5zYnFMb3pOTWtwWmNVMXFxYnZwS1JKYl93S054ZlYwOXFEQW42UGRPQ0kxMjdhd1htRDRtR0d3QlZYWEVCalV6WWxCTXNqZ1hYMy1ETHlpYm5WS293VHowVktPVWNiQjByWENhWTE2WmNzRjN1TzBFVE1RQ1pGRS1YSzNnRThFOGZkTXR4ZTBOLUpEQQ?oc=5",
+      "summary": "ایران می گوید تجدید مذاکرات با آمریکا مستلزم «ضمانت های معتبر» در برابر حملات جدید Anadolu Ajansı است.",
+      "summary_original": "Iran says renewed talks with US require ‘credible guarantees’ against new attacks Anadolu Ajansı",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-17T17:12:37+03:30",
+      "published_fa": "1405/07/25 - 17:12",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "چرا آخرین وزیر مطبوعاتی ترامپ در کاخ سفید فقط پنج روز دوام آورد - الجزیره",
+      "title_original": "Why Trump’s latest White House press secretary lasted just five days - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWF9lYU5ydjhMYXhHOG1oTXdCVTcyb0ZWSlFyMFllMW1IMnVhUTRnQVZLbmJVam1sZUZGNlVJVkg3a3lsc0pDS1FMUFhBaEFQRmluY29JaWhiUEtXUWpUdlk0bXVaN3JZRUJ4dVo4V0gzZGFNNU52bHR2VDl1b3ZLUE1QMDBCaWZzRTV1ZTlnY2NsdEJCOXV5MHc3Qmk4ZHY4UGR0WWpwTWVpRlRmc0HSAbMBQVVfeXFMTjlWTlRaa2htOEhKNEVZSUdfQnlkVTRWYzNyZWx4OVhScWNkUUlDa3p6RVk5d1lDOU5nVVdNeklCVDhDSDYyYmExNXM2Ni1UQnd4eVZHbTNtcGx1TkR2N19hODVoSFNiV0k5VmE3MnpDcE94Z3UwanU1NF9XOVVpUUs2NnctQ1VHM3lHOXp0RlQxWmp2dXRrTEJGM1hTVU4tTUJUMk1VZmlNRTBsWHhiSFNZczA?oc=5",
+      "summary": "چرا آخرین وزیر مطبوعاتی ترامپ در کاخ سفید فقط پنج روز دوام آورد الجزیره؟",
+      "summary_original": "Why Trump’s latest White House press secretary lasted just five days Al Jazeera",
+      "source": "Google News",
       "category": "politics",
       "tags": [
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-17T17:08:43.927476+03:30",
-      "published_fa": "1405/07/25 - 17:08",
-      "translated": false,
+      "published": "2026-10-17T17:12:29+03:30",
+      "published_fa": "1405/07/25 - 17:12",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "سپاه پاسداران ایران از برخورد دو نفتکش با مین در تنگه هرمز خبر داد",
+      "title_original": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
+      "summary": "سپاه پاسداران ایران می گوید دو نفتکش با مین در تنگه هرمز برخورد کردند",
+      "summary_original": "Iran's Guards say two tankers hit mines in Strait of Hormuz Reuters",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T17:06:11+03:30",
+      "published_fa": "1405/07/25 - 17:06",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ایران فعالانه از حوثی ها حمایت می کند: گزارش - العربیه انگلیسی",
+      "title_original": "Iran actively supporting the Houthis: Report - Al Arabiya English",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHktZjBMbHNSNUt5amRZNkZzSUx5OXFLb0Z2VG5rQzBCY0RDNm9TNjNYUVlhaXUxdVBoRkRzc3VaMUdsbXBvY1FXRzNBaGk4NlV0Z1k3aGVmS0w4c0pEY3Vzd2xPQkhoQ1FiVmxaaXBRLWdhTmJMbm1FaXVseU96TDJtTTBuU0V4VzFUNXpyRnBRemxyOWdrdWozNnhrRE0ycDJV0gGoAUFVX3lxTE9GdUx1cV9EYlVPbXMxWTE2Zm1aMHZKVlJlMkZSakFvX2YtcnRJa0hkWE1jZEQyaS1qZXJBS0VvczFSbGR4NWhnSGZXdHEtTXFzdkE1Zks1Q19pbk5JdzNFcU1LWEFTelBNSmpaM0lqaXlSR0MtdVRhZHlPR1lHbWxtSDh4RzhBWVJobGJtR3dwalFha2s0dFREem5BUFFDNm56RzlaeDNuaQ?oc=5",
+      "summary": "ایران فعالانه از حوثی ها حمایت می کند: گزارش العربیه انگلیسی",
+      "summary_original": "Iran actively supporting the Houthis: Report Al Arabiya English",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T17:05:00+03:30",
+      "published_fa": "1405/07/25 - 17:05",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -33,21 +110,6 @@
       "published": "2026-10-17T16:53:34+03:30",
       "published_fa": "1405/07/25 - 16:53",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "آخرین اخبار خاورمیانه: سیسی مصر به دنبال تصویب پارلمان برای دفاع از عربستان سعودی در صورت درخواست است - The National",
-      "title_original": "Middle East latest: Egypt's Sisi seeks parliamentary approval to defend Saudi Arabia if requested - The National",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2xvdGJ2dG1wbUI5b2FfQ3lhLVhUeGxqcjl5aDhRb2hEZzVjQnhCQzlKUG9LWGFiTksyLTd4dVN4T21xVnZXM0ZuVFZ0eTk1cFRUaG9ORzJaMmV2Wjlud2NzYlYzZzVQbjFyeThlSW1DNGhjTENOSzhTaVhsVE5ja1dQSzN6alZrdGVSVzQxWlcwMzlmZHRSX0NB?oc=5",
-      "summary": "آخرین اخبار خاورمیانه: سیسی مصر به دنبال تصویب پارلمان برای دفاع از عربستان سعودی در صورت درخواست The National است",
-      "summary_original": "Middle East latest: Egypt's Sisi seeks parliamentary approval to defend Saudi Arabia if requested The National",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-17T16:32:38+03:30",
-      "published_fa": "1405/07/25 - 16:32",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -387,11 +449,11 @@
       "verified_source": true
     },
     {
-      "title": "پاپ لئو چهاردهم پس از جراحی برای برداشتن سرطان ریه از بیمارستان مرخص می شود و به واتیکان باز می گردد",
-      "title_original": "Pope Leo XIV to be discharged from hospital and return to Vatican after surgery to remove lung cancer",
+      "title": "پاپ لئو چهاردهم که از بیمارستان مرخص شد، پس از جراحی برای برداشتن سرطان ریه به واتیکان بازخواهد گشت",
+      "title_original": "Pope Leo XIV discharged from hospital, will return to Vatican after surgery to remove lung cancer",
       "link": "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
-      "summary": "بر اساس بیانیه سریر مقدس، پاپ لئو چهاردهم روز شنبه پس از عمل جراحی برای برداشتن یک گره سرطانی در ریه از بیمارستان Gemelli رم مرخص خواهد شد. در این بیانیه آمده است: «پس از ارزیابی پزشکان صبح امروز، پاپ لئو چهاردهم امروز از بیمارستان جملی مرخص خواهد شد، جایی که برای عمل جراحی روی ریه راستش بستری شد. در این بیانیه آمده است: \"او در اوایل بعدازظهر بیمارستان را ترک می کند و به واتیکان بازمی گردد. فردا دعای آنجلوس را از پنجره آپارتمان پاپ اقامه خواهد کرد.\" به گزارش واتیکان نیوز، پاپ روز شنبه آزمایش خون و رادیوگرافی قفسه سینه دریافت کرد که هر دو تایید کردند که او به اندازه کافی خوب است که به واتیکان بازگردد. پاپ قبل از بازگشت به بیمارستان در اتاقی در طبقه دهم بیمارستان Gemelli مراسم عشای ربانی برگزار خواهد کرد.",
-      "summary_original": "Pope Leo XIV will be discharged from Gemelli Hospital in Rome on Saturday following surgery to remove a cancerous node in his lung, according to a statement from the Holy See. \"Following the doctors’ assessment this morning, Pope Leo XIV will be discharged today from Gemelli Hospital, where he was hospitalized for surgery on his right lung,\" the statement read. \"He will leave the hospital in the early afternoon and return to the Vatican. Tomorrow, he will lead the Angelus prayer from the window of the papal apartment,\" the statement added. The pope received blood tests and a chest X-ray Saturday, both of which confirmed he is well enough to return to the Vatican, according to Vatican News. The pope will celebrate mass in a room on the 10th floor of Gemelli Hospital before returning to the Vatican, according to the Holy See press office. DR MARC SIEGEL: POPE LEO'S LUNG SURGERY PUTS MODERN MEDICINE ALONGSIDE FAITH Pope Leo underwent thoracic surgery to remove the node on Tuesday. Following the successful surgery, doctors diagnosed him with lung adenocarcinoma , a form of lung cancer. \"The Pope was in the operating room approximately three hours, while the operation itself lasted about 90 minutes. The doctors said it was successful and there were no complications,\" a statement from the Holy See press office read. RECOVERING FROM LUNG SURGERY, POPE LEO URGES PUTIN TO AGREE TO CEASEFIRE IN RUSSIAN-HELD UKRAINE CITY \"Pope Leo awoke normally after surgery and, following a brief peri",
+      "summary": "هزاران نفر از هواداران روز شنبه در مقابل بیمارستان جملی در رم تجمع کردند و فریاد زدند \"بابا!\" پس از اینکه پاپ لئو چهاردهم پس از جراحی برای برداشتن یک گره سرطانی در ریه او آزاد شد. مقر مقدس اوایل صبح شنبه اعلام کرد که او برای بازگشت به واتیکان ترک خواهد کرد. در بیانیه سریر مقدس آمده است: «پس از ارزیابی پزشکان صبح امروز، پاپ لئو چهاردهم امروز از بیمارستان جملی مرخص خواهد شد، جایی که برای جراحی ریه راستش در بیمارستان بستری بود. در این بیانیه آمده است: \"او در اوایل بعدازظهر بیمارستان را ترک می کند و به واتیکان بازمی گردد. فردا دعای آنجلوس را از پنجره آپارتمان پاپ اقامه خواهد کرد.\" پاپ روز شنبه آزمایش خون و رادیوگرافی قفسه سینه را دریافت کرد که هر دو تایید کردند که او به اندازه کافی خوب است که به واتیکان بازگردد.",
+      "summary_original": "Thousands of supporters gathered outside Gemelli Hospital in Rome on Saturday yelling \"Papa!\" after Pope Leo XIV was released following surgery to remove a cancerous node in his lung. The Holy See announced early Saturday morning that he would be leaving to return to the Vatican. \"Following the doctors’ assessment this morning, Pope Leo XIV will be discharged today from Gemelli Hospital, where he was hospitalized for surgery on his right lung,\" a statement from the Holy See read. \"He will leave the hospital in the early afternoon and return to the Vatican. Tomorrow, he will lead the Angelus prayer from the window of the papal apartment,\" the statement added. The pope received blood tests and a chest X-ray Saturday, both of which confirmed he is well enough to return to the Vatican, according to Vatican News. Before he departed, Pope Leo reportedly visited the children's oncology ward. While in the hospital, the Pope received letters from some of the children in the ward. \"Pope Leo, our prayers are for you,\" a girl named Eleonora, who had been receiving treatment in the oncology ward, wrote to him, according to letters released by Vatican News. \"May God, the Most Holy Virgin, and the guardian angels always protect you,\" she added. Eleanora's mother told the Pope, according to the Vatican, that she was now healthy. \"Faith moves mountains,\" Eleanora wrote to Pope Leo, adding, \"God has heard our prayers.\" DR MARC SIEGEL: POPE LEO'S LUNG SURGERY PUTS MODERN MEDICINE ALONGSIDE FAIT",
       "source": "Fox News",
       "category": "economy",
       "tags": [],
@@ -1765,6 +1827,21 @@
       "verified_source": true
     },
     {
+      "title": "عربستان سعودی به گنبد آهنین و بند داوود در برابر حوثی ها نیاز دارد، اما اسرائیل عجله ای ندارد - Ynetnews",
+      "title_original": "Saudi Arabia needs Iron Dome and David's Sling against Houthis, but Israel is in no rush - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nT1lTR2twWWY1S2VkdHEwS1dERHdMRll0M3hxS1RHaGtpeU56NVdfTThYdG1BZi1yV3lWTnQzQ25KWm41b1pMSTI5TS1DZ3QxWVZHRG90TmVTMnI3X1JIUEJIZGs1SkxlYlRvRXBn?oc=5",
+      "summary": "عربستان سعودی در برابر حوثی ها به گنبد آهنین و بند داوود نیاز دارد، اما اسرائیل عجله ندارد Ynetnews",
+      "summary_original": "Saudi Arabia needs Iron Dome and David's Sling against Houthis, but Israel is in no rush Ynetnews",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T01:52:45+03:30",
+      "published_fa": "1405/07/25 - 01:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "اخبار جنگ ایران: حملات به حوثی ها در تعز، ائتلاف حملات را متوقف کرد - الجزیره",
       "title_original": "Iran war updates: Strikes hit Houthis in Taiz, coalition intercepts attacks - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObUhNbGlFcGxlZ1ZJU1FSMzRqcklTaHdwWkI0ZzNhZU9aVS1DTS13N3ZfTGs0SzUxWDRVaUM5QlhfamdNM2d1WFdsWGtUenNqNWJpQmFjSTdTbkdwMDd4dzZ0dnlxU0wtMVZJelh6dEQzTE9sVjdUTDhvU3Uwbm9falNQTWFZNUlDLUNvWU9OcjM4Z2ZqdlhCVWxtdlZBMHJyLWdjV2xlN3E0c0ZmcjdibGNfQVNEeEFhczBmTjRXMNIBxAFBVV95cUxOeC0zcEJuVnV4Q2UxZ3Z3d1NyZWxkUkdsV0l4aG5nMzQyRm5lMUk0MW5PdXgyQWVWejhnbmpzZlgxREpPQkJKTzEwN0paNXZLZ0tKOWM0bmxOdTdMcnZUTUZFUlFObGlvZ0JHOUlRN3FSbm9MWGwxUUQxN2FhbDdBMjA4dXRKYktEX2FqaWZVSmU4OG0yclcyZ25PM2E1RnRtUzMxNUV6S3loZGw2LWJRdDNNYkFnTF9JUnFkOG5pSFZ3dUlR?oc=5",
@@ -2283,23 +2360,6 @@
       "urgent": false,
       "published": "2026-10-16T21:30:00+03:30",
       "published_fa": "1405/07/24 - 21:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "تماشا کنید: ایرانی ها آیفون های جدید شناور در تنگه هرمز را بازیابی می کنند - تلگراف",
-      "title_original": "Watch: Iranians recover new iPhones floating in Strait of Hormuz - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTnlHS2dQT1J4T0NZcU9kYXJjWDBHUDQ0Yl8xVW5aSVkyYTR5MjNCZ2N5ZUZCdWdldVJsRjhwMElEWlJsTmROMks4RDhaNTJpbUFyMkRod21VNzA2T3pHX0dZdUREV2hzUWI3UHZRaGxMRUhDeDhla3VzckszUk9RcDdLNWtMcE9Memp3?oc=5",
-      "summary": "تماشا کنید: ایرانی ها آیفون های جدید شناور در تنگه هرمز را بازیابی می کنند تلگراف",
-      "summary_original": "Watch: Iranians recover new iPhones floating in Strait of Hormuz The Telegraph",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ناو آمریکا"
-      ],
-      "urgent": true,
-      "published": "2026-10-16T21:22:00+03:30",
-      "published_fa": "1405/07/24 - 21:22",
       "translated": true,
       "verified_source": true
     },
@@ -3361,6 +3421,24 @@
       "verified_source": true
     },
     {
+      "title": "طرح اصلی ترامپ در خاورمیانه، رهبران خلیج فارس زمینه را برای خروج سیاسی نتانیاهو آماده می کنند؟ - تایمز هند",
+      "title_original": "Trump's Middle East Masterplan, Gulf Leaders Preparing Ground For Netanyahu's Political Exit? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb0RvMXV5WU1oS1BFMmgtancza1dlbzlaaklWUEEzbGdxbkxWT0Jia2J4emlianQwNTYyWENZekRoYU84YnpnNFdETGFhWVd2MnFyQzVsSWxpRVM5UWs0QjE4SVByRFZkVUJXWDJJS1VQanY4cU5ySVlfakpnNUFOS3hnT1gxZDd1aTZJN28xQS1aOXFsTXVWNzlqdmlkVjVEVEVGTW1fVF8zaVB4Rk9xN2lRS2tueFh5YXVJOUVvWWhLaEdKYm9NSkUwZkxQVElFSEJNZjJtVmtWNkpvRzBubS1BQzZNREFrLXJhQXNDVXVKbC1VZy1FOEFuUEhUSEXSAYQCQVVfeXFMUDVvWDZJcEdRdWE1S1VtenRvaXQtR1JJbFRvUDN4Vi1QWm0wR3ZfSEcwU01OS2FLVE1QWUtNME00eTZEWGtvSEJtT051VURadWxwcXN4dTUyU19JUVVvbzFDMFozZUNZbV9UQWs1cWtrb2xFRHZTOVhsLWY3YzYtSWtCU3dBaUtybTh2cklVc2VRUDFuT2E1TS1uaE9WVUZPQVVka213MktkM09JeVVFakozdEhQRU1aTFB5VVVGZEVmalB6Q1pobjRqeG4zdy1xZEVBVnpnaGdFSEFOekg4OVdFSXFGWktGOG5TdmRjNHZaUDVvMkFrem9aNHJvRmdJdlNzOWM?oc=5",
+      "summary": "طرح اصلی ترامپ در خاورمیانه، رهبران خلیج فارس زمینه را برای خروج سیاسی نتانیاهو آماده می کنند؟ تایمز هند",
+      "summary_original": "Trump's Middle East Masterplan, Gulf Leaders Preparing Ground For Netanyahu's Political Exit? The Times of India",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-16T13:07:05+03:30",
+      "published_fa": "1405/07/24 - 13:07",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ - Euronews.com",
       "title_original": "Military signals building: Is the US-Iran war about to escalate? - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQxSlUxSHV2RjFuaFlUN2NuYkl5ZmZ1RXlMUmNyLWl5Vk5vTEx5SU1kZ0xYNkxBbEp4SzAwbWZxQnVad2lOMGU3ZGY1dDRCdWh0Y3dxeXEzaVd3b2FpdWJSR3FLZzFuSmZjQXJ5cHJ1RnhrVUtJZVJTeE9tWGdHNVdXaTA5WVBCUlI1LUM5cUV4aU1MdU5IYThuZmtTUWs?oc=5",
@@ -3389,23 +3467,6 @@
       "urgent": false,
       "published": "2026-10-16T12:55:45+03:30",
       "published_fa": "1405/07/24 - 12:55",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "وزیر خارجه روسیه برای گفتگو در مورد ایران و تنش‌های خاورمیانه به تهران سفر می‌کند - پست کاسپین",
-      "title_original": "Russian FM to Visit Tehran for Talks on Iran and Middle East Tensions - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWJWUmxISmpTMnFYZFUxV2RBdXNwM2pObWpFbDJQRlExZnRGZG1tNTV0VjQyS2VmX2xQQ29ZMlpCajd2WHpaS0hGSHkzdW1RdTJLZEdmV0c1QTVxNU0xMDRPQnRqTkhHOWctZUxpT3hMa1RZRVlTck0tTGJ0Z21tN2g0UTV3dEdwamZCY3Y2VkpEdTlDNWZXZ1ZCRXJDdTQ?oc=5",
-      "summary": "وزیر خارجه روسیه برای گفتگو درباره ایران و تنش‌های خاورمیانه به تهران سفر می‌کند",
-      "summary_original": "Russian FM to Visit Tehran for Talks on Iran and Middle East Tensions Caspian Post",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-16T12:27:45+03:30",
-      "published_fa": "1405/07/24 - 12:27",
       "translated": true,
       "verified_source": true
     },
@@ -3535,21 +3596,6 @@
       "published": "2026-10-16T09:38:30+03:30",
       "published_fa": "1405/07/24 - 09:38",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "چه کسی آینده ایران را بعد از جمهوری اسلامی رقم خواهد زد؟ - JNS.org",
-      "title_original": "Who will shape Iran’s future after the Islamic Republic? - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjRxWnMxMWxHdWtfdHpOck5XN3JPd1poZUNiWXNZMkRBOVRsQmtuSTVlRVp6b2w1WG1VejJMVXhXM3BBOTlwVTVfMkFNMjJVeV9WWkhvUThreGlkVXIzR2t1SlUxQ1BWdjJsYV9aQkN6TzM3MkdHUGVuY0RoZHpmX2RJWi1KaFJ6Y05ERU8wdXY5TWlveDFkRlR0U2Y?oc=5",
-      "summary": "چه کسی آینده ایران را بعد از جمهوری اسلامی رقم خواهد زد؟ JNS.org",
-      "summary_original": "Who will shape Iran’s future after the Islamic Republic? JNS.org",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-16T09:33:20+03:30",
-      "published_fa": "1405/07/24 - 09:33",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -4047,6 +4093,24 @@
       "verified_source": true
     },
     {
+      "title": "نتانیاهو با ترامپ مخالفت کرد، پایگاه نظامی غزه را برای شورای صلح مسدود کرد | Gravitas - WION",
+      "title_original": "Netanyahu defies Trump, blocks Gaza military base for Board of Peace | Gravitas - WION",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnhJWk9ub1owandrQlQ1RWlOVnVqYl9qY1ZGYzdJa0xDQmZScGpkWGdmcEhiX2lla3NKdlpUWm56dXViM1dlSVRKZF9SVVpUM1BQeWR5bzU1STZPYU80Wjg5VC1rTklTWWxGUGltLXJuSWMzUC03R0lIRlNvQ1NXR2Jvam5Hcl95cnRpMGVrZVpucnBmZW5GdWQxQ09YcERnRmF1YnQ5TlBVenpvUkhRYU13TWxfRURTeU9DVDFaZDPSAcYBQVVfeXFMTTFFTlpYNDlQVUI2VkRKVlRsaXIxb3ZpNU1sSmVmYUxGUWJxNDZtWWN6XzFIbnFOaXBJV1R3NWx3dUV5LVFPLXBxLVhwSHZxaWNpaHJ5MmxtQVcwMWoyQ2dkLURKYTRfR2pKSl9iVUFxYVBBbHdhWFhpOERKM2huc2g3VmUzZnBUYk14NnJyV1d0ZGgzaVNoMXE5X18zWEdhNFJTUVRpYW9zVlNwSWtaWHM1MXk0MVRIeDZyX0wxcy1VbnJ2SUV3?oc=5",
+      "summary": "نتانیاهو با ترامپ مخالفت کرد، پایگاه نظامی غزه را برای شورای صلح مسدود کرد | Gravitas WION",
+      "summary_original": "Netanyahu defies Trump, blocks Gaza military base for Board of Peace | Gravitas WION",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-15T23:14:00+03:30",
+      "published_fa": "1405/07/23 - 23:14",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "سفیر اسرائیل در سازمان ملل در دوره انتخابات به ایران و حزب الله هشدار داد - فاکس نیوز",
       "title_original": "Israel's ambassador to the UN issues stark warning to Iran, Hezbollah during election period - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUEQ0TzV6Y09HbmFkVWMzNGJCUDRCT3J1SjJuVFVVNm84Sy1ZOHVLM2ROTHZSMXJlRXdNVWNzOG9xaVRsQnNEVzBGMmR4Ti1sTFc5bnF3?oc=5",
@@ -4092,11 +4156,11 @@
       "verified_source": true
     },
     {
-      "title": "ترور فرمانده یگان زن بسیج ایران در جدیدترین حمله به سپاه - جروزالم پست",
-      "title_original": "Iranian Basij female unit commander assassinated in latest attack against IRGC - The Jerusalem Post",
+      "title": "فرمانده یگان زن بسیج در آخرین حمله به نیروهای مسلح ایران ترور شد - جروزالم پست",
+      "title_original": "Basij female unit commander assassinated in latest attack targeting Iranian armed forces - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVGV1cUFJY2tQYzlvT2J6NjJpRV9tMlF0VDhiUllQNmlpR09JbjgwY1RFcHgza1puQmh4ZGc3RVVEQVpMXzY0NjdHSm0xVlpGRzJIQWx4NlNwVjNPX2trNHhBUGVYZElUdWc?oc=5",
-      "summary": "فرمانده یگان زن بسیج ایران در آخرین حمله به سپاه پاسداران انقلاب اسلامی ترور شد",
-      "summary_original": "Iranian Basij female unit commander assassinated in latest attack against IRGC The Jerusalem Post",
+      "summary": "فرمانده یگان زن بسیج در آخرین حمله به نیروهای مسلح ایران ترور شد",
+      "summary_original": "Basij female unit commander assassinated in latest attack targeting Iranian armed forces The Jerusalem Post",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -4477,6 +4541,21 @@
       "urgent": false,
       "published": "2026-10-15T13:30:00+03:30",
       "published_fa": "1405/07/23 - 13:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "CENTCOM تهدید کشتی های غیرنظامی در محاصره دریایی ایران را تکذیب کرد - JNS.org",
+      "title_original": "CENTCOM denies threatening civilian ships in Iran naval blockade - JNS.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaHZnUThtbkF1WHJzQUZPM2dBRW91RV9sSTVWQmlzWmlZcHhablBqOEE4dmhXMW11Wm1yNEN6Mm9JS0hfc0d4dTlqVVFKWWw2YjFNMEVaWGNFNHFlZnJfWlNCNFBYX3R5YWF3di00blZsWHVuNUZwc3ktZ0syZ2pIYlRBQl9lQmdlVVFlT1BldE5YeUd6Zk5aMzhVSVQ4Rlk?oc=5",
+      "summary": "سنتکام تهدید به محاصره کشتی های غیرنظامی در ایران توسط JNS.org را تکذیب کرد",
+      "summary_original": "CENTCOM denies threatening civilian ships in Iran naval blockade JNS.org",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-15T13:28:33+03:30",
+      "published_fa": "1405/07/23 - 13:28",
       "translated": true,
       "verified_source": true
     },
@@ -4898,23 +4977,6 @@
       "verified_source": true
     },
     {
-      "title": "موندویس - جنگ ترامپ علیه ایران در آستانه فروپاشی حزب او در میان دوره ای است",
-      "title_original": "Trump’s war on Iran is poised to sink his party in the midterms - Mondoweiss",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDVkOTVwbEVtc3NUUUZuSW5hV09MTldEa1JLLUFOTnhiX0Jrai01OGhCM1NyYUsxWk5GcnFHMjVhQ0hJc21jSlQ4cTNLQ1VPMnJDbHlQeXVVOWg0MmlPRHZmOFBPM3BVODBvdnpPOVlQNkVNeVFDby1jU1BtcDVXdGFMaDJiVHY2YkVtRjlGZjVIcWdyMGRQSDVR?oc=5",
-      "summary": "جنگ ترامپ علیه ایران در آستانه غرق شدن حزب او در انتخابات میان دوره ای موندویس است",
-      "summary_original": "Trump’s war on Iran is poised to sink his party in the midterms Mondoweiss",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-14T22:25:56+03:30",
-      "published_fa": "1405/07/22 - 22:25",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "نتانیاهو: رژیم ایران \"باید برود\" شک دارد که قبل از انتخابات سقوط خواهد کرد. ترامپ تهدید را درک می کند - تایمز اسرائیل",
       "title_original": "Netanyahu: Iran's regime 'must go,' doubt it will fall before election; Trump understands threat - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUS01MlVFa2EydG9SdkdkQW5HUFp4ZUplZ2pYeWk4V21HWXFDMkpHVW40RThMenBnWFgwdUlUUng0enBlSHJkVW1sVkNUUEptQUExbC1WTXRWbWxJeUU1dHBoaHBOQmY0NXFTLXVfdHFmZWh3OU5teWRPR25CYmdwdW10MFk4QkllYVphWDV0clNSQVM5Y2J2bnVqRDQ0WG1RaUMtMk0yak1vMXRjd0lHRzVNYnUyN2ZVMjFIVXEwVnFSZ3o4OGVvT2k4MHEtZVJPd3c?oc=5",
@@ -5049,6 +5111,21 @@
       "urgent": false,
       "published": "2026-10-14T19:54:36+03:30",
       "published_fa": "1405/07/22 - 19:54",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "با افزایش حملات ایران، دو کشتی باری در نزدیکی تنگه هرمز غرق شدند - WSJ",
+      "title_original": "Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVJzcVMzeW15SzZXQ09EZHdZNzdXY0lmbWVJNjRDLVlodjE0SVBTeFBES1VudmJROGNiQ3RlYU1NM2FlLWs0eVhadlR1Q3luYnoxTDBkRjBwcFdoN052cUxSOVBkQTFBSkdVYTd0elBuX3F0X19feXBuRGgtTVZfZmVvY21yU0F0RkdKX01DMHZDZE5ITUtMTzFZTnBJX1VnSWpwRW4xQQ?oc=5",
+      "summary": "دو کشتی باری در نزدیکی تنگه هرمز غرق شدند، زیرا حملات ایران WSJ را افزایش داد",
+      "summary_original": "Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase WSJ",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-14T19:19:00+03:30",
+      "published_fa": "1405/07/22 - 19:19",
       "translated": true,
       "verified_source": true
     },
@@ -5354,21 +5431,6 @@
       "verified_source": true
     },
     {
-      "title": "پشت موج حذف کتاب‌ها از کتابخانه‌های آمریکا چیست؟",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/cq33xd6rl7nvo?at_medium=RSS&at_campaign=rss",
-      "summary": "کتابخانه‌های عمومی آمریکا به میدان نبرد یک رویارویی ایدئولوژیک شدید بر سر این موضوع تبدیل شده‌اند که چه کتاب‌هایی باید در دسترس دانش‌آموزان قرار بگیرند.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-14T06:56:50+03:30",
-      "published_fa": "1405/07/22 - 06:56",
-      "translated": false,
-      "verified_source": true
-    },
-    {
       "title": "ترامپ و نتانیاهو درباره حمله به سایت‌های هسته‌ای ایران گفت‌وگو کردند، گزارش‌های اکسیوس - سئول اکونومیک دیلی",
       "title_original": "Trump, Netanyahu Discussed Striking Iran Nuclear Sites, Axios Reports - Seoul Economic Daily",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdktPcHdmSy1PWEVUdzRfMTNzN3JjYm1jbDk4YkJEeXRxWW9mMEVlT21qZ1d4UWRXdXNnbmRWREFFUU1aOG1BVUhLcmE3Smc5amFwRE9TMGtqZHhxcmhjcTVtYVdtUFpjODlsbVVFTzl0Y0lxNDkzdVB2ekU1bHplTi0wOUt0ZjR3cndNbE5YaUtDWjFwaWRYRWR0ODI3OEtTSUdEcjl6bGxNOFU?oc=5",
@@ -5453,23 +5515,6 @@
       "verified_source": true
     },
     {
-      "title": "رهبر اپوزیسیون اسرائیل - Anadolu Ajansı: نتانیاهو ممکن است قبل از انتخابات عملیات نظامی را آغاز کند تا در قدرت بماند",
-      "title_original": "Netanyahu may launch military operation before election to stay in power: Israeli opposition leader - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdnp6VGZtZk51TFNVVHNaUjIzSTJDS1NCWkpkUldvREVjUVREX1FGeFJ1bW1WRDNfR29uNW1NSHRYNUtISm9rMUxaV3RfMlB3M2FySU5jRnVNNVFqXzA4SUhVbkE2T2JxdVE0b0lrSUs1UkRfTmttVkFVbWRiTGxoOVB6U2xVaUt4NEdJa29IdThQM0tlUFlnU3U3dmlILUtIeVZPX1l4bElmcXRqWWs1bFV2LW1ZZXhFcUNGSlhOZnFTdFNfUEE0blpHS2xSeUF3UTRtbmZRLUlkVEU?oc=5",
-      "summary": "آنادولو آجانسی، رهبر اپوزیسیون اسرائیل: نتانیاهو ممکن است قبل از انتخابات عملیات نظامی را برای ماندن در قدرت آغاز کند",
-      "summary_original": "Netanyahu may launch military operation before election to stay in power: Israeli opposition leader Anadolu Ajansı",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-14T01:40:34+03:30",
-      "published_fa": "1405/07/22 - 01:40",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گزارش - Anadolu Ajansı: ترامپ و نتانیاهو حملات جدید ایران را قبل از انتخابات با وجود تکذیب کاخ سفید ارزیابی می کنند.",
       "title_original": "Trump, Netanyahu weigh new Iran strikes before elections despite White House denial: Report - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONlVHNnh3RVd2dm5Ub3pUNDN2eHM1TnpoYXVMWWFUUWxkbUY0bGJBSWloZFZ1NFRmeXgtS1BKb0hoeTc4STltVkd2cmozNWVNakxfVlh0ZDFkaGttM0FpdlZ6SEN6c1hUUm9JXzFUYWdGNkRONFpRT1o5M1hlaUtRX0pYdkd6elBwN3ZlcGgySm9OTTdWQ0djN1ktTUdaQ1BPWDBNc3o1a1RDdnVRS0VFTnhiUmVGNmtHOVNfUElHVnEzM2w0eldQRWFPMA?oc=5",
@@ -5535,24 +5580,6 @@
       "urgent": false,
       "published": "2026-10-13T22:20:40+03:30",
       "published_fa": "1405/07/21 - 22:20",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "گزارش: نتانیاهو ترامپ را تحت فشار قرار داد تا جنگ ایران را قبل از انتخابات از سر بگیرد. PMO تکذیب کرد - تایمز اسرائیل",
-      "title_original": "Report: Netanyahu pressed Trump to renew Iran fighting before election; PMO denies - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVU4LWhXMnVFM2JqNnFUUkZaM2gxSWo2ZUwzUlpQc2tuZE9pbDdQOFA2MU1la1MwNEdUZFFtR0p1dGVkMlQ5UXZXWTlRWUNHcDluTHY3X2xqUHBkQnlHem04VllJVE5EcHZPQUgtb1VCX2QxcVRycUN1ZUxDdzF4RDNPX3A4N1FHbTl2MFhUNE1Mdk1GRUlzUE95YktJOTh3TkdyNTkzaHVSa1hodENVQW9iMXRuaXRGbUdONGxBM1U1ZUc4WEE?oc=5",
-      "summary": "گزارش: نتانیاهو ترامپ را تحت فشار قرار داد تا جنگ ایران را قبل از انتخابات از سر بگیرد. PMO روزنامه تایمز اسرائیل را تکذیب کرد",
-      "summary_original": "Report: Netanyahu pressed Trump to renew Iran fighting before election; PMO denies The Times of Israel",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-13T21:48:01+03:30",
-      "published_fa": "1405/07/21 - 21:48",
       "translated": true,
       "verified_source": true
     },
@@ -6512,23 +6539,6 @@
       "verified_source": true
     },
     {
-      "title": "باتلاق خاورمیانه دولت ترامپ: شش ماه پس از جنگ در ایران - مرکز پیشرفت آمریکا",
-      "title_original": "The Trump Administration’s Middle East Quagmire: Six Months Into the War in Iran - Center for American Progress",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnFMcEVJc0VUUWJGeUM5akhIMk82aE84TVpTYXN5Nm5oRlZXcThJaUdKMTBPX29tY2JCZEpIZXYtcVg5cEd2QlBVOGZPdmNNS1NSWFYwdnQ2YWZiN0xUUkF5WFBJMnN1SWRrY3FoUkJxRWxmUVU1LTdVcElmWUN4eThYYmxqX2pzS2phcnlSMnlzbmFwWHVpbmZ0Tl9NRHAwa3ItM3JXOVkyM1ZreDFyZ1M4bE9WYjJyLV9qSg?oc=5",
-      "summary": "باتلاق خاورمیانه دولت ترامپ: شش ماه پس از جنگ در ایران مرکز پیشرفت آمریکا",
-      "summary_original": "The Trump Administration’s Middle East Quagmire: Six Months Into the War in Iran Center for American Progress",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-08-20T10:30:00+03:30",
-      "published_fa": "1405/05/29 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "کوشنر یک روز پس از گفتگو با حماس با نتانیاهو در غزه دیدار می کند - PBS",
       "title_original": "Kushner meets with Netanyahu on Gaza a day after talking with Hamas - PBS",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlDeVJBWWxGd2stY3dMdkJtR3NsNUtPUFV2SVRncTZGQnNOcWV6Ylp5aW9rV3hsRDQ2WkJjZ0hmQV9OdHplQThKQ19MVTlvMVpsRmptQWhrRjRxSTFsclFUTkNfOGhNVkJiNjVkMDlGOWVFME9FREFmdlFYaVF6TkVrV0J6R3F6SVRtZUNSR181MERKOUNlcEZmVFNXdDl1RExNNdIBqgFBVV95cUxPd1pGaEZPdVlqb1pYNndOMGNuQWYtUTAwVFczV2ZndzdJY09wd21jR1B2NkdmMmNUbmFkbFlrWDhIUFBOSG51Ums0UFlmcHRIdnFmVHhiZEd2b0lKQXhwYTZCMm9YMTlGQ2hpdUd3bmk5YklKandtRWNrbHZaeGIxSXVkZTYxUFhwSE5TdXlpbVAxNWtCMF9VUnpmNEVSREVuT29fek40VzNfQQ?oc=5",
@@ -6745,24 +6755,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU9OTjg0b2JyczBnVFcyRkVRUllrdlB2V2RvVGNxYmQ0S1RjbXpCZVNFZ20xd041cERFVTQ5ZzV2OW5XaFNkRGx4ZHh4ME5ieERYWGtIMkppZXVCWktENWlTd0JZNU5xdnZmSWJMZG9fWkxfa0U1aWNaY1VmeWVwVkd2T0pSaVBOSVMzNHBJSFRrb1dLbFZHc2E2c2JNck8xeVNBaWNVUWRkZS1ZN3c?oc=5",
       "summary": "ترامپ می گوید نتانیاهو نخست وزیر اسرائیل هفته آینده به آمریکا سفر خواهد کرد",
       "summary_original": "Trump says Israeli PM Netanyahu will visit US next week Reuters",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-07-24T10:30:00+03:30",
-      "published_fa": "1405/05/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "به نقل از رویترز، دفتر نخست وزیری اعلام کرد نتانیاهو روز سه شنبه با ترامپ در واشنگتن دیدار خواهد کرد",
-      "title_original": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWt6eWtZa3JjTG1yRDZOSVJfdENMUUJPeUJoMDV3VE1Ub1VzUU45ZzdibEpmTkRUcU9BWFd4OWhDeVlhZ2l2am82VmpQam1GNW9LcmJGdWlQS0ZBS0ZUUzdoYVNZQTdyU1I4Unl1dS1wbllWaDhGR3ZxeUZ3WW9GS3ROaEtHUENVemFzWVYtQWpOYThDUnBIc0RZYV9KRlhhYjlCcQ?oc=5",
-      "summary": "دفتر نخست وزیری رویترز اعلام کرد نتانیاهو روز سه شنبه با ترامپ در واشنگتن دیدار خواهد کرد",
-      "summary_original": "Netanyahu to meet with Trump in Washington on Tuesday, PM's office says Reuters",
       "source": "Google News",
       "category": "politics",
       "tags": [
