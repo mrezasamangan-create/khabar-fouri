@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T01:11:53.484170+00:00",
-  "generated_at_fa": "1405/07/25 - 04:41",
-  "count": 429,
+  "generated_at": "2026-10-17T01:42:14.545393+00:00",
+  "generated_at_fa": "1405/07/25 - 05:12",
+  "count": 428,
   "items": [
     {
       "title": "آنچه گذشت: وزیر خارجه آلمان: اروپا در تیررس ایران قرار دارد؛ فعالیت‌های خصمانه تهران را تحمل نمی‌کنیم",
@@ -13,8 +13,8 @@
       "category": "military",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-17T04:38:43.542782+03:30",
-      "published_fa": "1405/07/25 - 04:38",
+      "published": "2026-10-17T05:09:32.548042+03:30",
+      "published_fa": "1405/07/25 - 05:09",
       "translated": false,
       "verified_source": true
     },
@@ -32,9 +32,39 @@
         "NetBlocks"
       ],
       "urgent": false,
-      "published": "2026-10-17T04:38:43.541202+03:30",
-      "published_fa": "1405/07/25 - 04:38",
+      "published": "2026-10-17T05:09:32.546551+03:30",
+      "published_fa": "1405/07/25 - 05:09",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "تیراندازی در مدرسه اورگن؛ یکی از معلمان با درگیر شدن با تیرانداز جلوی فاجعه بیشتر را گرفت",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cm89zedjjk0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "جزییات بیشتری از حادثه روز گذشته در تیراندازی در مدرسه‌ای در ایالت اروگن آمریکا اعلام شده است. مایک کرانتز، رئیس پلیس شهر بند، روز جمعه گفت: «ما مدیون کسانی هستیم که در برابر چنین خشونتی شجاعت به خرج دادند و با مداخله خود مانع از وخیم‌تر شدن این فاجعه شدند.»",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "social",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T04:39:43+03:30",
+      "published_fa": "1405/07/25 - 04:39",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "ایران اتهام دست داشتن در حملات حوثی ها را رد می کند - RTE.ie",
+      "title_original": "Iran denies accusation of involvement in Houthi attacks - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43WFNhME5IemJNcmQxbUlXT0tuTXl4N2Yza3dhODlWYU5PMkx5WlNKakNMM1pCNTFOVlN4U1lSNVRCM21wTGJNMm4zck53Qkx5am55TjgtOXNMaGNLV0pheVFfdk80UjVzR3NfNm53d2dCX3NHYzBTSmJ6NA?oc=5",
+      "summary": "ایران اتهام دست داشتن در حملات حوثی ها به RTE.ie را رد می کند",
+      "summary_original": "Iran denies accusation of involvement in Houthi attacks RTE.ie",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T04:38:54+03:30",
+      "published_fa": "1405/07/25 - 04:38",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -858,6 +888,23 @@
       "verified_source": true
     },
     {
+      "title": "ترامپ می گوید آمریکا ممکن است نیاز به حمله به کوه کلنگ ایران داشته باشد - www.daily-sun.com",
+      "title_original": "Trump says US may need to strike Iran’s Pickaxe Mountain - www.daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xN2Z0Q2ZoVmpWVkFhVDl6dW8xeGJKU0FNVEFOaTJoVXlzMEM1c3JZWWx3WHZzOVpiNV9Rd3RuQWNSOTFHVjJORTk5N2hYLXJFTjRNZQ?oc=5",
+      "summary": "ترامپ می گوید آمریکا ممکن است نیاز به حمله به کوه کلنگ ایران داشته باشد www.daily-sun.com",
+      "summary_original": "Trump says US may need to strike Iran’s Pickaxe Mountain www.daily-sun.com",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": true,
+      "published": "2026-10-16T21:30:00+03:30",
+      "published_fa": "1405/07/24 - 21:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ترامپ، نتانیاهو و سیاست خطرناک ماندن در قدرت - ABC News & Headlines - شرکت پخش استرالیا",
       "title_original": "Trump, Netanyahu and the dangerous politics of staying in power - ABC News & Headlines – Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdENWUDJvQUIwaFVDOVhPTnBHOGJ1N0pGQ0xGakhQYUxUdFJOclRCenc5VngxeHJLTXVJbmNCZkt6cHI0STNHNWxYNlJpdk1fVjgwUWJJTUN4RWZpNTNLbzBlX2FFQnJDYUhBUjdyYzctNktRYnQ5VldLVVI4a2RZZkFFTC1VZHp5cEcwSTlEcEo?oc=5",
@@ -1677,21 +1724,6 @@
       "verified_source": true
     },
     {
-      "title": "اختصاصی: داده ها نشان می دهد که ایران با وجود محاصره آمریکا، مقداری LPG و سوخت جت ارسال می کند - رویترز",
-      "title_original": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
-      "summary": "اختصاصی: داده‌ها نشان می‌دهد که ایران با وجود محاصره آمریکا، مقداری LPG و سوخت جت ارسال می‌کند",
-      "summary_original": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows Reuters",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-16T15:33:27+03:30",
-      "published_fa": "1405/07/24 - 15:33",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "زمزمه کننده ترامپ در کنگره اسرار معامله رئیس جمهور را در حالی که به سمت خروج می رود فاش می کند.",
       "title_original": "Trump's Capitol Hill whisperer reveals secrets to president's dealmaking as he heads for exit",
       "link": "https://www.foxnews.com/politics/trumps-capitol-hill-whisperer-reveals-secrets-presidents-deal-making-he-heads-exit",
@@ -2057,11 +2089,11 @@
       "verified_source": true
     },
     {
-      "title": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ - Euronews.com",
-      "title_original": "Military signals building: Is the US-Iran war about to escalate? - Euronews.com",
+      "title": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ - یورونیوز",
+      "title_original": "Military signals building: Is the US-Iran war about to escalate? - Euronews",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQxSlUxSHV2RjFuaFlUN2NuYkl5ZmZ1RXlMUmNyLWl5Vk5vTEx5SU1kZ0xYNkxBbEp4SzAwbWZxQnVad2lOMGU3ZGY1dDRCdWh0Y3dxeXEzaVd3b2FpdWJSR3FLZzFuSmZjQXJ5cHJ1RnhrVUtJZVJTeE9tWGdHNVdXaTA5WVBCUlI1LUM5cUV4aU1MdU5IYThuZmtTUWs?oc=5",
-      "summary": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ یورونیوز.کام",
-      "summary_original": "Military signals building: Is the US-Iran war about to escalate? Euronews.com",
+      "summary": "ساخت سیگنال های نظامی: آیا جنگ آمریکا و ایران در شرف تشدید است؟ یورونیوز",
+      "summary_original": "Military signals building: Is the US-Iran war about to escalate? Euronews",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -5003,6 +5035,23 @@
       "verified_source": true
     },
     {
+      "title": "نظر | با پایین آمدن ساعت انتخابات، جنگ نتانیاهو برای پیروزی تمام می شود - هاآرتص",
+      "title_original": "Opinion | As the election clock ticks down, Netanyahu is running out of wars to win - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaUJpV19ORWF5NXc5SWRjdXJucWxILVJDeXI2Y19PR1p0NmFDQ19ZLUpfQmYyTWFQNHR2RnZzeUdzU3ZZWHdjcHZiMEtSSmVDUzZ0VnZKd0dVRU5YUnlnMWdKN3FPb1RvX0RXcW9RejFGUmpCMGQ3MFpVR2ZuUE1Gank3c3FMU25McEN0NGkzc2FMOVBZTXA1QUxMVlJaeVNBeVVRZGlDVXJKa0JVMGJPWEpaeElOb094Tm5LZW53dFFHRmhBRS0waC01dy0yWk9XYUFWTGFnZ0VNX2RZVkM5Vi04ZVZQVU9xOXlhaWx3U0I0d0NKTDVvQkpNYkZCdUlVY2I1d1lpY295VTdY?oc=5",
+      "summary": "نظر | با پایین آمدن ساعت انتخابات، جنگ نتانیاهو برای پیروزی در هاآرتص تمام می شود",
+      "summary_original": "Opinion | As the election clock ticks down, Netanyahu is running out of wars to win Haaretz",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-14T00:26:00+03:30",
+      "published_fa": "1405/07/22 - 00:26",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "گفتگوی نتانیاهو و ترامپ درباره حملات مجدد به ایران در آستانه انتخابات - خط رسانه",
       "title_original": "Netanyahu, President Trump Discuss Renewed Iran Strikes Ahead of Elections - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYW9uOVBzSkRuU1FuZGFsdWNBczFlOGV1TUlTV1h3WlBMd0RaYTJBU2FQSkJmODlmWUR1U3lTcTZKVk1lSEFHNTdWeEJISEw3dUp5SFAzT0Ruc3pSYTE2NzdReWVqVTdpb0p6ZGpTVTIzSHVJZlotbEZabDktZ2V5NjFlVjdCN3dId0RLTnR3aEVUemdveG9FV2VNZkFNV3RGWnZOWDNaUUdjR0F2b3c?oc=5",
@@ -5118,23 +5167,6 @@
       "urgent": false,
       "published": "2026-10-13T20:44:00+03:30",
       "published_fa": "1405/07/21 - 20:44",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "هاآرتص: ترامپ می گوید ممکن است از یک نامزد در انتخابات آتی اسرائیل حمایت کند",
-      "title_original": "Trump Says He 'May' Endorse a Candidate in Israel's Upcoming Election - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa3dxcElLb0FIZDJTS25ObjY3NE53UTU2Tzd0czZad1NkQThydV9sekVlYUw0VHRraVc0ejQtRjNnRHdtN3ZCcUdzaEE5M0lWcnZjZ1hnYkNsX2ZCbUd0U1BLSW5jZVE0LUVhWlhLT1ZCQTJxZzdXQjlLZHQ1a3NYSjhfVUV4T2NDWHNJMXVUcHlTUndudm9JcTlXN1lDdW50d3FfeDhWeUlXN0VmZkZLekx5bTVaZnpoSnhDNE5aWC1PR0hUMWRFLUVXMnFmNmpyQk8wNDdZTGpCbFJXdVB5RTliUkY2RGtNbnFuaVlGbk45bXlNeU9mek5RWW5DTnFfdnc2M3dyeTRhRjNQ?oc=5",
-      "summary": "ترامپ می‌گوید ممکن است از یک نامزد در انتخابات آتی اسرائیل هاآرتص حمایت کند",
-      "summary_original": "Trump Says He 'May' Endorse a Candidate in Israel's Upcoming Election Haaretz",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-13T20:29:00+03:30",
-      "published_fa": "1405/07/21 - 20:29",
       "translated": true,
       "verified_source": true
     },
@@ -5375,23 +5407,6 @@
       "published": "2026-10-12T14:24:44+03:30",
       "published_fa": "1405/07/20 - 14:24",
       "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "«راسوت»؛ رقیب روسی استارلینک چیست و چرا اهمیت دارد؟",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/cw1l3v5n7jymo?at_medium=RSS&at_campaign=rss",
-      "summary": "هشدار دمیتری مدودف درباره احتمال «جنگی تمام‌عیار در فضا» بار دیگر توجه‌ها را به «راسوت»، منظومه ماهواره‌ای جدید روسیه، جلب کرده است. مسکو این سامانه را گامی مهم برای کاهش وابستگی به زیرساخت‌های ارتباطی خارجی و تقویت توانمندی‌های خود می‌داند، اما منتقدان می‌گویند راسوت می‌تواند نقشی مهم در جنگ اوکراین نیز ایفا کند.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "analysis",
-      "tags": [
-        "تصاویر ماهواره‌ای"
-      ],
-      "urgent": false,
-      "published": "2026-10-12T10:34:02+03:30",
-      "published_fa": "1405/07/20 - 10:34",
-      "translated": false,
       "verified_source": true
     },
     {
@@ -5758,11 +5773,11 @@
       "verified_source": true
     },
     {
-      "title": "یاهو: ایران به آمریکا می گوید جنگ خاورمیانه راه حل نظامی ندارد",
-      "title_original": "Iran tells US there is no military solution to Middle East war - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkVIbEtsaVAxamRMTGdVOV95M2s5azF3RDVBSzFzU3dVZlZJbVB5MXN3UG03RW9RdW9QZ3Nic3h6eGZaYVZDZk5sMGZjR2xOaDE3MS0tZzNuLVRkQm9ES3ByLV9RMWpySUhzMDdmaU9nN25peEo3dmxsd21oTm1PZmp5WXVpWTNUU1E?oc=5",
-      "summary": "ایران به آمریکا می گوید جنگ خاورمیانه راه حل نظامی ندارد یاهو",
-      "summary_original": "Iran tells US there is no military solution to Middle East war Yahoo",
+      "title": "ایران به آمریکا می گوید جنگ خاورمیانه راه حل نظامی ندارد - AFP.com",
+      "title_original": "Iran tells US there is no military solution to Middle East war - AFP.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2RTWGNYbXJrdjlEZEl6NUdMU3JOOEUybjVpUFNiR29peUhzZmw2Q0V3dGJMbUZPNjhzb0JrNGhvc3hBdVl3aDBxbDM3RWFrY1ZxbVhCbU0zZ2tBWlBRUjBvTEEtbHA2Qk1SVnBYYXY3NVA3eUhCcU5zZlZ6U1VkbExKZDYwUQ?oc=5",
+      "summary": "ایران به آمریکا می گوید جنگ خاورمیانه راه حل نظامی ندارد AFP.com",
+      "summary_original": "Iran tells US there is no military solution to Middle East war AFP.com",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -5936,21 +5951,6 @@
       "urgent": false,
       "published": "2026-09-29T10:30:00+03:30",
       "published_fa": "1405/07/07 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "خاورمیانه فراتر از جنگ ایران - موسسه خاورمیانه",
-      "title_original": "The Middle East Beyond the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WREhlMmRIWjVDWG1OQnJia3pfTUhqT2p1ejJGQnRKaFZGb3ZXVUFGMnBWV3pHeXJvazd0LTRtY29OVHE2NDRoQVRMaGw0S1V0VGNWUkJIZmhlSlJIY3NmNzJEc2lWMWR0RnJr?oc=5",
-      "summary": "موسسه خاورمیانه فراتر از جنگ ایران",
-      "summary_original": "The Middle East Beyond the Iran War Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-28T10:30:00+03:30",
-      "published_fa": "1405/07/06 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6341,24 +6341,6 @@
       "verified_source": true
     },
     {
-      "title": "روابط تیره بین ترامپ و نتانیاهو: وضعیت جهان از NPR - NPR",
-      "title_original": "The souring relationship between Trump and Netanyahu : State of the World from NPR - NPR",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkMzeWFPby1hVk5LaWZiWTdWWVcydDhXUi05d3Joejh5bWtTLUJUWldvVHhIcWdSSHRzdGhKOFFfT2JmeUFxX29mYmZQTzRBN3RZeXYzeWtUMloxZzcwLUdBSm9TdnFFOTV1T3lhbllOVDJuNUZLcnllb0xsWHI1bXFEY0oxWWU1ZWluMldDQmVOd01Dc3dMNzZBRHo4UQ?oc=5",
-      "summary": "روابط تیره بین ترامپ و نتانیاهو: وضعیت جهان از NPR NPR",
-      "summary_original": "The souring relationship between Trump and Netanyahu : State of the World from NPR NPR",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-09-03T10:30:00+03:30",
-      "published_fa": "1405/06/12 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "اخبار ایران: سپاه پاسداران انقلاب اسلامی به پایگاه های آمریکا در اردن پس از بمباران جزیره لارک توسط آمریکا حمله کرد - الجزیره",
       "title_original": "Iran updates: IRGC attacks US bases in Jordan after US bombs Larak Island - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmpwLVVHQTNwYU5qS2JESWg5anN3UmVFQi1xY3l4enR4dXYyOG11em9OR3ZzR29Kazhzczd4Q1FfajBPd0ZBS3Q5cVNFdkNfSDNvQ1FsenQxWG5lUi12clZwaW5KYzZmb3FZVUNROVY4MThsUkJhQ21QZkN5TE5XNDZQRXYwcndYb2NtTWVCdjMyTXA5UnVvSHFLU3J0akhySFVPclpoUGpZSWE2MTM3TDVCZUFEREZoalHSAb8BQVVfeXFMUFdNYVJpZ0Rsek9Zc3NPdGdDNk1LU3g3clRKWEdxYkRjMndFRm80YVAzVGVCWnVQUGdid0ozVDl1al9zQ251SXhyM08yLU1RRVNEb21peEFuZm8xRXQ3cV83VFY3TTFEeWJxU0tZbFJmeVM4TklDZWdqcTltX2xsZ2VWWWk4VElCVWlkTm1jaWZLdVIyN29KU25mTW5aYUEyRVNnNWhhYUU2UDFCWEdQdi1RRlJDMk9MY1diWHpNNUE?oc=5",
@@ -6494,23 +6476,6 @@
       "verified_source": true
     },
     {
-      "title": "توافق ایران و عمان بر سر مسیر جدید موقت هرمز - الجزیره",
-      "title_original": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXFIdDJyc25WazQtbUl4UVFxZEc0ajl3Y24tN3ozYVF4c2F6QTZtSmxmZEFQemk3OWJiV2x0eDdJVERNUy16NjBpWkdYYS16ZmdKYk9wNWU0VFlBb1hlUExzdlRSSWROSkdCN1JERnpaSzJ3SmV3YWxMeldaNlF0am1Vc1RJQzdWUFktdGoybnA0a2dyeUFGQmY2dHlBQ2lVampKY1dmSFR2QVF2SWVr0gG0AUFVX3lxTFB1YlBBWWlTaDJYeGxrMUpCTGQtZWNxeG1HU0hSSTB3ZnNDQnV6RTkwVXU5YVlwa2xUMkZKdHdNY2tpa19Zbng3eEl5TktKOGFRY1ZfU3BGZzVRV1lVSWFDaHpNWTZyOEQyX2ZmZTFPWGVIQ3pySTZ3NExQeW5acml3b0VyYXB5TGFVdEMwUHRBdnlvaEpLRVBvblNrTnpJOHFfTFotWHJOZGl1djhxSVFuLWQtVA?oc=5",
-      "summary": "ایران و عمان بر سر مسیر جدید موقت در هرمز الجزیره توافق کردند",
-      "summary_original": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-08-26T10:30:00+03:30",
-      "published_fa": "1405/06/04 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "اخبار جنگ ایران: ترامپ می گوید آمریکا برای مذاکره با تهران عجله ندارد - الجزیره",
       "title_original": "Iran war updates: Trump says US ‘not in a hurry’ over talks with Tehran - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcU5SNjBKR285Wk9NamJ0RFVDcWR3THRoNmUwWm85Qmoyd1VOajNlNy1BMWtmSVNjdElMWTVISmM0VnF0d3J6UDZNYzYtblNwcFpsNzhVejVfMko3cnhaZjVITzdCSXNqcmY2VExfV1NVUkpySF8ydkRvWE1rYkE1WUNuZ0VTZE9yY2NMekVlX1VfLXN2eWI0eGRfMExGN0JqeXozZDBKOXNMYVlEVmRIMWtrbUFGUndocmfSAb8BQVVfeXFMTTNTNFBiVmpTQVNpSGZ4aHhmUG1wSmZ2YjN5QXN5YWtycmZucGZTajM0SGtNclVfMEF4NkFpdC1mZFhLeGpUUHV2blNoSnBmMFZNX19fTFpPR3gwREw5MlhNM0xTWFpnRkd2eEJKZmNZaWt5Vno1UjlNMHFJWnZLN1Rja1VfcFV3YkVBZVVwNm1xTWdzOTF2NDZlM0pVbHZocnptUmFVUFB4cGhSUmhYNjRjMWZWSENoTGxSR3NXa3c?oc=5",
@@ -6520,6 +6485,23 @@
       "category": "politics",
       "tags": [
         "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-08-26T10:30:00+03:30",
+      "published_fa": "1405/06/04 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "توافق ایران و عمان بر سر مسیر جدید موقت هرمز - الجزیره",
+      "title_original": "Iran, Oman agree on new temporary route in Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXFIdDJyc25WazQtbUl4UVFxZEc0ajl3Y24tN3ozYVF4c2F6QTZtSmxmZEFQemk3OWJiV2x0eDdJVERNUy16NjBpWkdYYS16ZmdKYk9wNWU0VFlBb1hlUExzdlRSSWROSkdCN1JERnpaSzJ3SmV3YWxMeldaNlF0am1Vc1RJQzdWUFktdGoybnA0a2dyeUFGQmY2dHlBQ2lVampKY1dmSFR2QVF2SWVr0gG0AUFVX3lxTFB1YlBBWWlTaDJYeGxrMUpCTGQtZWNxeG1HU0hSSTB3ZnNDQnV6RTkwVXU5YVlwa2xUMkZKdHdNY2tpa19Zbng3eEl5TktKOGFRY1ZfU3BGZzVRV1lVSWFDaHpNWTZyOEQyX2ZmZTFPWGVIQ3pySTZ3NExQeW5acml3b0VyYXB5TGFVdEMwUHRBdnlvaEpLRVBvblNrTnpJOHFfTFotWHJOZGl1djhxSVFuLWQtVA?oc=5",
+      "summary": "ایران و عمان بر سر مسیر جدید موقت در هرمز الجزیره توافق کردند",
+      "summary_original": "Iran, Oman agree on new temporary route in Hormuz Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
         "مذاکره"
       ],
       "urgent": false,
@@ -6658,23 +6640,6 @@
       "verified_source": true
     },
     {
-      "title": "رویترز: نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
-      "title_original": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
-      "summary": "رویترز، نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
-      "summary_original": "Israel's Netanyahu says Iran tried to kill one of his sons Reuters",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-08-24T10:30:00+03:30",
-      "published_fa": "1405/06/02 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "آمریکا سخت‌ترین تحریم‌ها را علیه ایران تهدید می‌کند: آنچه می‌دانیم - الجزیره",
       "title_original": "US threatens toughest sanctions yet against Iran: What we know - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXpKN3hfZGJqR05JX3RKRUtiLXFNX0ZWVFpPRWwtR2tsLXdZYTdyVjJHNU9YWmxvcS1jbFl2S29DNy04STdMdGlrUVlGeE53MGhuNndObjQ2RnZvcXlOeVNldjBOX3ZBRW1saG5ienVIRXREM09fcDlHb3J3eTNaaVVzb0pubm94cnZkaWl3S2FGUGE4T1JYRnIwUTBNeGo5eVV3d9IBqgFBVV95cUxNc1RHUlpWRGVXdHcwNXVPQkZQaFoxc3RkVFVIM1ZDc08xZm1oMXhhSEVXNEhVZDRfczVpWTVSLXFraDBENWdZbk9rUEY5Y0VPdWdXdUVUWmJ6S2haLW9iX2d3R3FIVTg5OW5nV19reXRZc1I0NkVmUk1hM2J2ZV91a0F0VTVZRC0zUnBaczQ0MFRUOW82cHozcC1RcThDVjdsd3Q5NVdQdDBuUQ?oc=5",
@@ -6725,6 +6690,23 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHBiVnhUN1JvQ21vdlRObWwtRTBLMjY0MmpTSXo2OG9SaC1CZmpVeVZGQXk0c2pOMzdDSHhjel9tQ3BtTDlvcGUyUDRqNGpDV1lLOVk1SkgwYW0xUDV1alJqTVpENmJQWHVmamRQVWpmamczdmduMWtFNUlIbUk4bW1sdmh0d0FBQ3ZxMGVSZ9IBlAFBVV95cUxQcG9fX0ZpVl9yTlhsNlozNGxQZnc2eFZmUm1kQUJMSlVHODktaDA3TE1rd0ZVU1RPLXR5WkFabFFyME5RWXNjVjVKRENDVG5QUFk2T0pwZXg2VUhaV1YxTk4tR1BFeWdHS01XT2NnQ3JwS0dJTlljNFRnME9IbEZrVXR5enJyWWZxdG9pM0plY3YzcmZR?oc=5",
       "summary": "نخست‌وزیر فاکس نیوز می‌گوید ایران سعی کرد یکی از پسران نتانیاهو را ترور کند",
       "summary_original": "Iran tried to assassinate one of Netanyahu's sons, prime minister says Fox News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-08-24T10:30:00+03:30",
+      "published_fa": "1405/06/02 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "رویترز: نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
+      "title_original": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
+      "summary": "رویترز، نتانیاهو اسرائیلی می گوید ایران تلاش کرد یکی از پسرانش را بکشد",
+      "summary_original": "Israel's Netanyahu says Iran tried to kill one of his sons Reuters",
       "source": "Google News",
       "category": "politics",
       "tags": [
