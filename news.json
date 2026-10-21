@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T00:07:51.885149+00:00",
-  "generated_at_fa": "1405/07/29 - 03:37",
-  "count": 416,
+  "generated_at": "2026-10-21T00:57:43.995237+00:00",
+  "generated_at_fa": "1405/07/29 - 04:27",
+  "count": 413,
   "items": [
     {
       "title": "آنچه گذشت؛ محسن رضایی در دیدار با عاصم منیر: مواد هسته‌ای از ایران خارج نخواهد شد",
@@ -13,8 +13,8 @@
       "category": "politics",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-21T03:34:50.601785+03:30",
-      "published_fa": "1405/07/29 - 03:34",
+      "published": "2026-10-21T04:24:34.368607+03:30",
+      "published_fa": "1405/07/29 - 04:24",
       "translated": false,
       "verified_source": true
     },
@@ -31,9 +31,136 @@
         "مذاکره"
       ],
       "urgent": false,
-      "published": "2026-10-21T03:34:50.600829+03:30",
-      "published_fa": "1405/07/29 - 03:34",
+      "published": "2026-10-21T04:24:34.367659+03:30",
+      "published_fa": "1405/07/29 - 04:24",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "آلمان ایران را به خاطر توطئه قتل رهبر یهودی و مدافع اسرائیل - The Forward",
+      "title_original": "Germany reprimands Iran over plot to kill Jewish leader and Israel advocate - The Forward",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1ZWMmpvaVRmQkhjM3VUajA2NHNtcWcxZ2I1RWRScWpfakx5T1BnMThBZEowM19fODc5Wml1QXQ5Z1h5ZExsY2R1MVdiUDBjcXlPRmxPUHhDbGNDX185dlM1bE1KRFJRN3EtVmxtRURsNVl6SkxEVExITlhDY29OWnVVY3BkdndoRllTaWhyeDJfTXVWNWFRS2R1dV9qTUZBS0Q5TzFQalRrM3JxbTRaeHROWGlYbjA?oc=5",
+      "summary": "آلمان ایران را به خاطر توطئه قتل رهبر یهودی و مدافع اسرائیل The Forward توبیخ می کند",
+      "summary_original": "Germany reprimands Iran over plot to kill Jewish leader and Israel advocate The Forward",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-21T04:10:28+03:30",
+      "published_fa": "1405/07/29 - 04:10",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "چرا جنگنده های سابق FDLR به رواندا بازمی گردند؟",
+      "title_original": "Why former FDLR fighters are returning to Rwanda",
+      "link": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+      "summary": "از جنگل تا موتوبو، مبارزان سابق پس از ترک گروه مسلح با چالش بازسازی زندگی خود مواجه می شوند.",
+      "summary_original": "From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.",
+      "source": "Al Jazeera",
+      "category": "military",
+      "tags": [
+        "فلایت رادار"
+      ],
+      "urgent": false,
+      "published": "2026-10-21T03:55:43+03:30",
+      "published_fa": "1405/07/29 - 03:55",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ایران از تسلیم اورانیوم غنی شده خودداری می کند، شرایطی را برای مذاکرات آمریکا تعیین می کند - اخبار ملی اسرائیل",
+      "title_original": "Iran refuses to surrender enriched uranium, sets conditions for US talks - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iR2xxMlJBNy1CaHI2dmQ3U0ZoUk5wd0s0VlhFRDJrbVZWRTBYLWJFSUZUNXFlb2hyemhGcW53RGs2c0QySUhUd3JxZGhvbWxnRjQyNkJwcjd2QQ?oc=5",
+      "summary": "ایران از تسلیم اورانیوم غنی شده خودداری می کند، شرایطی را برای مذاکرات آمریکا تعیین می کند",
+      "summary_original": "Iran refuses to surrender enriched uranium, sets conditions for US talks Israel National News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-21T03:53:12+03:30",
+      "published_fa": "1405/07/29 - 03:53",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "یک سال بعد: آیا اپوزیسیون کنیا بدون رایلا اودینگا راه خود را گم کرده است؟",
+      "title_original": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
+      "link": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
+      "summary": "میراث اودینگا با انشعاب ODM بر سر اتحاد خود با رئیس جمهور روتو، با آزمایش روبرو می شود.",
+      "summary_original": "Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-21T03:52:19+03:30",
+      "published_fa": "1405/07/29 - 03:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "نتانیاهو می‌گوید درباره حذف رژیم ایران با ترامپ، از جمله حزب‌الله گفت‌وگو کرده است: ۱۴ رسانه چگونه آن را تنظیم کردند - NewsCord",
+      "title_original": "Netanyahu Says He Discussed Eliminating Iran’s Regime With Trump, Including Hezbollah: how 14 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUMxeXkzb1FHalZOWU5VUHRqYktCTGM2T3FSeXBFMnlRUTBGbjlreDVFWHhNS3A0dDJGd2o1SWpnTHQ3VlFzQ2luX3JJVVd6U00yWHJXdENjZGNReXJ3MW9xQ3pVQ1BTM1hRUHFQalc1eTZYTUR3SGMtYUZsemQ3aVlSQ2pBb1JsY2p1T3NibUZUQ3hLcW9KaE9ITk5pNXFiT0pXOGRfc3hZRU1RX0lRR0JVWDJjTmVaenMtN1VsZ2FjN0dhbzNsY201TXRGRHVDLVJZUHRhSUhfd1lPb2VvVEZaZVVxakc1cUE?oc=5",
+      "summary": "نتانیاهو می‌گوید درباره از بین بردن رژیم ایران با ترامپ، از جمله حزب‌الله گفتگو کرده است: چگونه ۱۴ رسانه آن را تنظیم کردند NewsCord",
+      "summary_original": "Netanyahu Says He Discussed Eliminating Iran’s Regime With Trump, Including Hezbollah: how 14 outlets framed it NewsCord",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-21T03:49:41+03:30",
+      "published_fa": "1405/07/29 - 03:49",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "سازمان اتحاد علیه ایران هسته‌ای: محاصره صادرات نفت جمهوری اسلامی را به‌شدت کاهش داده است",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610212572",
+      "summary": "سازمان اتحاد علیه ایران هسته‌ای در تازه‌ترین گزارش خود اعلام کرد محاصره دریایی آمریکا، صادرات نفت جمهوری اسلامی را به‌شدت محدود کرده و ده‌ها نفتکش حامل نفت ایران را در آب‌های منطقه سرگردان کرده است.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-21T03:40:45+03:30",
+      "published_fa": "1405/07/29 - 03:40",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "شاه چارلز از سلطان عمان استقبال کرد و از تلاش های صلح در سفر دولتی بریتانیا استقبال کرد",
+      "title_original": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
+      "link": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
+      "summary": "شاه چارلز سوم به \"تلاش های نجیب\" مسقط برای کمک به بازگشایی تنگه هرمز ادای احترام می کند.",
+      "summary_original": "King Charles III pays tribute to Muscat&#039;s &#039;noble efforts&#039; to help reopen the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-21T03:38:25+03:30",
+      "published_fa": "1405/07/29 - 03:38",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "به روز رسانی زنده: جدیدترین از اسرائیل، ایران و خاورمیانه - جروزالم پست",
+      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkeU9OS2VJM0NIeXJhWFg5TVIyb0RfQkFodEhvZU5QcGY1bnBZbGJ5R2JBM1dHSDNCTVM5aUNNVlNzbmxTQU1PS056YmhYWkhNTEhsNFVmTW5MMVBCaWQzbzlSMjhtYndtY0E2RFk1TVp5d3FISDZiNjVVOHR0dGc?oc=5",
+      "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
+      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-21T03:30:05+03:30",
+      "published_fa": "1405/07/29 - 03:30",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -47,6 +174,21 @@
       "tags": [
         "مذاکره"
       ],
+      "urgent": false,
+      "published": "2026-10-21T03:30:00+03:30",
+      "published_fa": "1405/07/29 - 03:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "اکنون نفت بیشتری نسبت به قبل از جنگ ایران از خلیج فارس خارج می شود - WSJ",
+      "title_original": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+      "summary": "اکنون نفت بیشتری نسبت به قبل از جنگ ایران از خلیج فارس خارج می شود WSJ",
+      "summary_original": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War WSJ",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
       "urgent": false,
       "published": "2026-10-21T03:30:00+03:30",
       "published_fa": "1405/07/29 - 03:30",
@@ -152,38 +294,6 @@
       "verified_source": true
     },
     {
-      "title": "نتانیاهو: ایران ممکن است از نمایندگان خود برای اخلال در انتخابات استفاده کند - اخبار ملی اسرائیل",
-      "title_original": "Netanyahu: Iran may use its proxies to disrupt the election - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVS1MUUs3UzdrWnctenVfdHgzaXZGYlNvMnE1aDduSmx2bkNHUHRYVThwS0RibkZWcG11RTZwdTBLd2NONGVrUzhDVEhDSWFfbk5SNjc2MXRXdw?oc=5",
-      "summary": "نتانیاهو: ایران ممکن است از نمایندگان خود برای اخلال در انتخابات استفاده کند اخبار ملی اسرائیل",
-      "summary_original": "Netanyahu: Iran may use its proxies to disrupt the election Israel National News",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-21T02:36:36+03:30",
-      "published_fa": "1405/07/29 - 02:36",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "به روز رسانی زنده: جدیدترین از اسرائیل، ایران و خاورمیانه - جروزالم پست",
-      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkeU9OS2VJM0NIeXJhWFg5TVIyb0RfQkFodEhvZU5QcGY1bnBZbGJ5R2JBM1dHSDNCTVM5aUNNVlNzbmxTQU1PS056YmhYWkhNTEhsNFVmTW5MMVBCaWQzbzlSMjhtYndtY0E2RFk1TVp5d3FISDZiNjVVOHR0dGc?oc=5",
-      "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
-      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-21T02:30:05+03:30",
-      "published_fa": "1405/07/29 - 02:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گامبیا به قربانیان دیکتاتور سابق از فروش عمارت ایالات متحده غرامت پرداخت می کند",
       "title_original": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
       "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
@@ -195,21 +305,6 @@
       "urgent": false,
       "published": "2026-10-21T02:21:35+03:30",
       "published_fa": "1405/07/29 - 02:21",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "آلمان ایران را به خاطر توطئه قتل رهبر یهودی و حامی اسرائیل - آژانس تلگراف یهود",
-      "title_original": "Germany reprimands Iran over plot to kill Jewish leader and Israel advocate - Jewish Telegraphic Agency",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmotMF9zc2ZVWHY4MjJyd2Jxc1RHX2VjclhaU0N0U1JwbktSeXlQTWhwR0NpUnE2WFpPUlFJSlVzdEg4QW5lZ3hoMjlPX1ZKWWd2d2F0dUdRTURFdk5pR0tqYkhibUNxQzNXdXlRNHk2aUVDeDFHXy0zNHFod0JmazlJTVVUa1RRSFFjQ2lLQTZLVDkyR0pNQlR5RlBrd25kMG5lZktsSV83cVo5WmJqOE5PMA?oc=5",
-      "summary": "آلمان ایران را به خاطر توطئه قتل رهبر یهودی و آژانس تلگرافیک یهودی حامی اسرائیل سرزنش کرد",
-      "summary_original": "Germany reprimands Iran over plot to kill Jewish leader and Israel advocate Jewish Telegraphic Agency",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-21T02:12:17+03:30",
-      "published_fa": "1405/07/29 - 02:12",
       "translated": true,
       "verified_source": true
     },
@@ -612,23 +707,6 @@
       "verified_source": true
     },
     {
-      "title": "در پاکستان برای گفتگو، تهران با انتقال اورانیوم غنی شده به خارج از ایران مخالفت کرد - تایمز اسرائیل",
-      "title_original": "In Pakistan for talks, Tehran rejects moving any enriched uranium out of Iran - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10NEFrUmN0NWZTNG1mYUxBc3Yyc0dWeUt3ajNqWms5YjJLbzRic2E4amYyVXJsSDhVR0hlMzUyYy1XNG5LODBTRW55ZXlTUm1zQlQzOUlRaXhzMmZFMzBodDBlOWNDZ9IBa0FVX3lxTE4xN201c04yYzJqSzVINDhia0I4ek5QcC1Lb2V3ck5wUDVEZXY4RTlDV2JtclU1UjNWeHI2Z25JcHMyajFBU3BvNm45QjdrUTVtd0dyUXhUZnJIWEJIUENnVGpiV1NoemtqUl9z?oc=5",
-      "summary": "در پاکستان برای گفتگو، تهران خروج هر گونه اورانیوم غنی شده از ایران را رد می کند تایمز اسرائیل",
-      "summary_original": "In Pakistan for talks, Tehran rejects moving any enriched uranium out of Iran The Times of Israel",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-21T00:24:14+03:30",
-      "published_fa": "1405/07/29 - 00:24",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "آیا روسیه در حال ساخت سلاح‌های خودمختار مرگبار است؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cm4g1e5pjj1ro?at_medium=RSS&at_campaign=rss",
@@ -915,24 +993,6 @@
       "verified_source": true
     },
     {
-      "title": "کارشناس می‌گوید: «نتانیاهو برای حرفه سیاسی خود می‌جنگد» یک هفته قبل از رأی‌گیری حیاتی - France 24",
-      "title_original": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote - France 24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTNvMkY1cFVLd3FEckZhQTZIY1BzaVY0ejN6ajY4eHR6QmxRQjNXanFNU0VSNld4NTZYSkQyZmF0ZGJqbUhIemN3VXBFcVpaS2xDZ2FQVkRmTGhtaktCQjF5YmtWdnBaRmE4dVdYV3JjSHhDYjZuQ2hDaTZvaTJsWDMwOUdfNW1SeE03RENsWDJyaUxWU0xISHlNeTQtQVBFR1U0REdSWTVycjBWRVlCWUdzUU1EQQ?oc=5",
-      "summary": "کارشناس یک هفته قبل از رای گیری سرنوشت ساز France 24 می گوید: نتانیاهو برای حرفه سیاسی خود می جنگد.",
-      "summary_original": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote France 24",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو",
-        "تحلیلگران"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T23:26:56+03:30",
-      "published_fa": "1405/07/28 - 23:26",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "طرفداران پی اس جی بر سر اعتراضات در فرانسه در جریان برگزاری بازی بارسلونا اختلاف نظر دارند",
       "title_original": "PSG fans divided over protests in France as Barcelona game goes ahead",
       "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
@@ -1201,6 +1261,23 @@
       "verified_source": true
     },
     {
+      "title": "پنتاگون یو اس اس تئودور روزولت را در خاورمیانه مستقر می کند در حالی که ترامپ در حال بررسی حملات بیشتر ایران است - Yahoo!",
+      "title_original": "Pentagon deploys USS Theodore Roosevelt to Middle East as Trump weighs further Iran strikes - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORU95d3U5NWJyRm9CZklqMm5WWDhMaUpBNW9nXzRjUTUzby1iV2Y1YnpYQmtEaEoxcWlZb2NxSTdJeWw3blJTa1B0ZXdJWHZrQkdGNTZyNUc2NGxlUWdyaTkyeU14UzJqWFFzUmtEM2pjaklVUlNtaVprSkQwNVZ0OUh4T04xZlRRLS1uMmRiRzRNRW9fekVXVg?oc=5",
+      "summary": "در حالی که ترامپ در حال بررسی حملات بیشتر ایران به یاهو است، پنتاگون یو اس اس تئودور روزولت را در خاورمیانه مستقر می کند.",
+      "summary_original": "Pentagon deploys USS Theodore Roosevelt to Middle East as Trump weighs further Iran strikes Yahoo",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T22:20:33+03:30",
+      "published_fa": "1405/07/28 - 22:20",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "پیروزی دورتموند مقابل صباح در باکو، توقف فنرباغچه برابر اسلاویا پراگ در استانبول",
       "title_original": "",
       "link": "https://www.iranintl.com/202610200540",
@@ -1231,21 +1308,6 @@
       "verified_source": true
     },
     {
-      "title": "آیا می توان از بحران انسانی در غزه جلوگیری کرد؟",
-      "title_original": "Can a humanitarian crisis in Gaza be averted?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
-      "summary": "برنامه جهانی غذا می گوید که مجبور است کمک به هزاران نفر را در این منطقه کاهش دهد.",
-      "summary_original": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-20T22:15:23+03:30",
-      "published_fa": "1405/07/28 - 22:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "آیا شورش های فرانسه ممکن است در اینجا رخ دهد؟ کارشناسان شباهت هایی را در سوسیالیسم، مهاجرت - و تفاوت های کلیدی می بینند",
       "title_original": "Could France's riots happen here? Experts see parallels in socialism, immigration — and key differences",
       "link": "https://www.foxnews.com/politics/could-frances-riots-happen-here-experts-see-parallels-socialism-immigration-key-differences",
@@ -1259,21 +1321,6 @@
       "urgent": false,
       "published": "2026-10-20T22:15:04+03:30",
       "published_fa": "1405/07/28 - 22:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "لولا بولسونارو را برای انتشار سوابق شخصی قبل از انتخابات به چالش می کشد",
-      "title_original": "Lula challenges Bolsonaro to release personal records before election",
-      "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
-      "summary": "رئیس‌جمهور چپ‌گرای برزیل می‌گوید در صورتی که رقیب راست‌گرای خود این کار را انجام دهد، سوابق بانکی، مالیاتی و تلفنی را منتشر خواهد کرد.",
-      "summary_original": "Brazil&#039;s left-wing president says he will release bank, tax, and phone records if right-wing rival will do the same.",
-      "source": "Al Jazeera",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-20T22:13:41+03:30",
-      "published_fa": "1405/07/28 - 22:13",
       "translated": true,
       "verified_source": true
     },
@@ -1441,17 +1488,17 @@
       "verified_source": true
     },
     {
-      "title": "CDC سومین مرگ ناشی از سرخک را در ایالات متحده در سال جاری گزارش کرده است",
-      "title_original": "CDC reports third measles death in the United States this year",
-      "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
-      "summary": "این مرگ و میر به آمار فدرال اضافه شد، زیرا ایالات متحده بیش از 4400 مورد سرخک را در سراسر کشور ثبت کرده است.",
-      "summary_original": "The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.",
-      "source": "Al Jazeera",
+      "title": "ایران در بحبوحه تنش‌های آمریکا، انتقال مواد هسته‌ای غنی‌شده به خارج از کشور را رد می‌کند - العربیه انگلیسی",
+      "title_original": "Iran rules out transferring enriched nuclear material abroad amid US tensions - Al Arabiya English",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3Y4U1d5SEM4eVhlWm9nd283YjdhQWlsVXZlSGI5WTR0cXhudFFGYjFiTWJmQ0dVZTF4YWJTajMxdVpPX3psaUFLWGxjWU9sbW5WZFZxUEhlckJ2TElvLXlQWmR0bGxwakxYOEpWQTBhdHdXTWZjQVhvUy1hdEFtS29EWXRtUWFIZ05PZTVpc2s0eXJHYnBXdHFBZDFCcTEtaG1iQ0ltSmttcE9PWl8wRE1JbGlPclBjZTJyQlJ5RHdNN1I5OWxPZ3U3WDlrZXlf0gHWAUFVX3lxTE1kOV94a2ZNcmZCbDg3cWJGd3VvZVh3d2JfMVZSXzhGenNfcmZvQUtLQlFHS1d5VHJHZXpTd0JOT0VVRzNpWkwzQmI2M2xOd3czU212RjNZVUoyUDJkamlBRFJXbVFkU0duTlZTcHJKZ3JxOUFaOURkTkY4Q0cxSldHZnh4bFBHSF9xOUNXcFMwbXRGdTZScTVuRlRKRlZKMFlpVC04Y0xmeWRJOWtjWTVNaFZiVkk3OWdYa0ExUjM3THVZajVSN1pVa2ZTdEpsTjNjNFEwM0E?oc=5",
+      "summary": "ایران انتقال مواد هسته‌ای غنی‌شده به خارج از کشور را در بحبوحه تنش‌های العربیه انگلیسی رد می‌کند",
+      "summary_original": "Iran rules out transferring enriched nuclear material abroad amid US tensions Al Arabiya English",
+      "source": "Google News",
       "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-20T21:28:09+03:30",
-      "published_fa": "1405/07/28 - 21:28",
+      "published": "2026-10-20T21:29:00+03:30",
+      "published_fa": "1405/07/28 - 21:29",
       "translated": true,
       "verified_source": true
     },
@@ -1486,21 +1533,6 @@
       "verified_source": true
     },
     {
-      "title": "آخرین اخبار خاورمیانه: ایران می گوید ابرنفتکش در نزدیکی تنگه هرمز منفجر شد - The National",
-      "title_original": "Middle East latest: Iran says supertanker 'exploded' near Strait of Hormuz - The National",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkVpbk9qT29fT1A3MHN5dnlHc1RjaXJLRVhTVTBhOGNON3d1UGQ2amJNQVdWZ0U0RzYwTC1pVHRqZjFYZUZGSWU0cGJYTVVncnRoYjEzdG1fUmhyMWJHUE0zS3dPcmJMaDE0Z0c5ZzdSRVZLYVB3SzdfQ28ydWg4Yld3?oc=5",
-      "summary": "آخرین اخبار خاورمیانه: ایران می گوید ابرنفتکش در نزدیکی تنگه هرمز منفجر شد",
-      "summary_original": "Middle East latest: Iran says supertanker 'exploded' near Strait of Hormuz The National",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-20T21:07:45+03:30",
-      "published_fa": "1405/07/28 - 21:07",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "میدل ایست آی، رئیس امنیت ایران انتقال اورانیوم غنی شده به خارج از کشور را رد کرد",
       "title_original": "Iran security chief rejects moving enriched uranium out of country - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUpDM25FMnpqUG1FM2tvRV9zT2NrMDQwTTRwUEw0dHdHejNYcEZXNkxveGIwTGIzYncyWE5aQUN3MGs1TkducW5QVndwWU9pbE5nQmVCQTFxVGUtN2dFeHVKeHFpWHhLMjl4OE45aHY2Yi1ienZQd1hNemtEQ3JvYmgxdTFicUxTMWMzRE84YU1OQ0FILTNDZU5DNFhlUHkxb1N0dVJpMEJxeEExNzQxczhTRUZOZ3RBdjJKQw?oc=5",
@@ -1528,6 +1560,24 @@
       "published": "2026-10-20T20:58:47+03:30",
       "published_fa": "1405/07/28 - 20:58",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "نتانیاهو پس از مذاکرات آمریکا - ایران اینترنشنال - می گوید سرنگونی رژیم ایران «هدف اولیه» است",
+      "title_original": "Toppling Iran’s regime is ‘primary objective,’ Netanyahu says after US talks - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OU2JkOVAzNzJUeXRheU5DUmgxRTBURUpoUDBESC1MWGZvNUVsSWVvSmVQVE9fbFZfT1lvSF9fUmdURUJjWFEyaWRRYXVZVTV0Rnc?oc=5",
+      "summary": "نتانیاهو پس از گفتگوهای آمریکا با ایران اینترنشنال می گوید سرنگونی رژیم ایران \"هدف اولیه\" است",
+      "summary_original": "Toppling Iran’s regime is ‘primary objective,’ Netanyahu says after US talks Iran International",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T20:57:00+03:30",
+      "published_fa": "1405/07/28 - 20:57",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -1579,6 +1629,23 @@
       "urgent": false,
       "published": "2026-10-20T20:43:53+03:30",
       "published_fa": "1405/07/28 - 20:43",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "اسرائیلی‌های خارج از کشور برای رای دادن به خانه می‌روند و نتانیاهو را تهدید می‌کنند - Bloomberg.com",
+      "title_original": "Israelis Abroad Fly Home to Vote, Posing Threat to Netanyahu - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTc5OHo5YnhBRXRNVm9RUmxQVzd2Q3ZnUzk1Wjk1UDZtelloOE9BWG53Y0tLOXVUX0h5RjhRUUI5UEZHWFRvNlc4VTBxMGJuMzRITTdoOHRnSkpEUWZKbWJWM0hCekUtZmVucE1zOTV6UHJUTWZqNy1ZX0JoR2NweDlzWXBDUjJvV0lGV1V3STQ3ZTFHcWltbHVEOWh6aFU0RHg1Yy1zWlZPaW9hZlBF?oc=5",
+      "summary": "اسرائیلی‌های خارج از کشور برای رای دادن به خانه می‌روند و نتانیاهو را تهدید می‌کنند Bloomberg.com",
+      "summary_original": "Israelis Abroad Fly Home to Vote, Posing Threat to Netanyahu Bloomberg.com",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T20:41:08+03:30",
+      "published_fa": "1405/07/28 - 20:41",
       "translated": true,
       "verified_source": true
     },
@@ -1644,21 +1711,6 @@
       "urgent": false,
       "published": "2026-10-20T20:22:00+03:30",
       "published_fa": "1405/07/28 - 20:22",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "پلیس انگلیس دو نفر را به اتهام جاسوسی مرتبط با ایران در RAF Fairford دوباره دستگیر کرد - العربیه انگلیسی",
-      "title_original": "UK police re-arrest two over suspected Iran-linked spying at RAF Fairford - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejNoS2xiS0ZsMVJmdjNfeGw2alFKMGNMc1hWRW1qaURYSldNblZsZFQ5aHpjWWY0bDZnTTVER0Q0SklreVJVYV9IamlISWMwNk9wX3NEN2N2R3VzeWc5VUhEX2pnN2owTTl5VjF0SkJkTktleXE2OXd0NEo5WC1TWW5FYnJURWlmbUZIbG4zMEZBbTVpTVV4WE84M0VTUWppbWJOZkE3U3pDOThNVVhXUTYzTzc0Z3F0MFpfTVBfVlPSAcYBQVVfeXFMUFNTdkJnZnZ2WnZwV25Najh3QjRoWTRXOXIxM3NCdklkM3JLejV3SlBncTc1LVlKb3ptOGljdmhNQTBnSWhnTzBrdElsaE9xdkZZMV9jZkQwZWl2Y2ZQblNfVUl5N0FYckQxQnYtUGwxNThCTTc4SzlMTk5aQmN2WVVZcVBLMUJIVmNaUTF2NldKaXJMT0o1dUpYSm9zY2lKb3QwOW54ZXFyNHVQTHFubXNrdk0yem9hcnl2cGFCcFZOdHNiOGh3?oc=5",
-      "summary": "پلیس انگلیس دو نفر را به اتهام جاسوسی مرتبط با ایران در RAF Fairford Al Arabiya انگلیسی دوباره دستگیر کرد.",
-      "summary_original": "UK police re-arrest two over suspected Iran-linked spying at RAF Fairford Al Arabiya English",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-20T20:21:00+03:30",
-      "published_fa": "1405/07/28 - 20:21",
       "translated": true,
       "verified_source": true
     },
@@ -2105,23 +2157,6 @@
       "verified_source": true
     },
     {
-      "title": "بالتیمور سان - هگزت در سفر اعلام نشده اسرائیل با نتانیاهو دیدار می کند تا درباره ایران گفتگو کند",
-      "title_original": "Hegseth meets with Netanyahu in unannounced Israel visit to discuss Iran - Baltimore Sun",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFdyS1c1b3pHbU9MdF9vRXZaNWkxLWRNSWtvbS1BWk9Oa3dBSDRELWdzcm5UNjlGM2hZc2RZSkdGWUFQX1pPcVYyTWZzNlE1UDlWVC1HMTVsM2haSjFOQTRKY0dVTm9UVjFaSHFLZS1tQldfMnUzVGdxaWtUc0d2X1dsNWNZczh4aFBZZGFzUkhMMnJlRzJMTUppNU4zWEUtdWoxLVhhZGJDQWUxUVFtcWdQaw?oc=5",
-      "summary": "هگزث در سفر اعلام نشده اسرائیل با نتانیاهو دیدار می کند تا درباره ایران بالتیمور سان گفتگو کند",
-      "summary_original": "Hegseth meets with Netanyahu in unannounced Israel visit to discuss Iran Baltimore Sun",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T18:39:41+03:30",
-      "published_fa": "1405/07/28 - 18:39",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "با افزایش فشارهای سیاسی، مکرون از فرانسه شورش‌زده برای سفر به خلیج فارس خارج می‌شود",
       "title_original": "Macron jets out of riot-torn France for Gulf trip as political pressure mounts",
       "link": "https://www.foxnews.com/politics/macron-jets-riot-torn-france-gulf-trip-political-pressure-mounts",
@@ -2244,6 +2279,23 @@
       "verified_source": true
     },
     {
+      "title": "سفیر ترامپ به متحدان عصبی خلیج فارس گفت: آمریکا نمی تواند امنیت را برای همیشه تضمین کند - WSJ",
+      "title_original": "Trump Envoy Tells Nervous Gulf Allies U.S. Can’t Guarantee Security Forever - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFdVRnQ1U2RqODlKLU0tUFhRZWxOZC1HZmZuWVlTejh5aDFjT0U2Ykw3RUpzWFA4QW1PZnJ6cnNHTmw1TFRfTS1kUUVXdGFwbkJ0RnJVV0FQR001Qk44TE5Ock83c3J6Q1F2UXVLdXFpMzRKVHFhRnNHZmFfekNBNmFZcXpTQ3ZnVGdNenRGZ0Q5WEhpVlRZZFlKRXFwVHpKSVktUk1vTnZ6UnRHX25JdlNhblpXMVBVeG5KYg?oc=5",
+      "summary": "فرستاده ترامپ به متحدان عصبی خلیج فارس می گوید آمریکا نمی تواند امنیت را برای همیشه تضمین کند WSJ",
+      "summary_original": "Trump Envoy Tells Nervous Gulf Allies U.S. Can’t Guarantee Security Forever WSJ",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T18:17:00+03:30",
+      "published_fa": "1405/07/28 - 18:17",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "فرمانده ارتش پاکستان در تهران: آیا دیپلماسی می تواند از جنگ جدید آمریکا و ایران جلوگیری کند؟ - الجزیره",
       "title_original": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2xDaXQ1MndnaGxSZHBMeU9SUmNucnlNc0otOGhWWWpnVVBnYS15ak1VOVA5SjRFTWszZ2JFSGJWTEdkYmZtRDgwMjdwbGVuRW5sQUUzZ1U2VUhNdG1nNlZjMHJJNGg3dS1GdFNHWlE4UFdwMl9EZnZfQmdQb2JJWk1hamxka2xJZUtHOGlmeC1aRVdKY01JbTFjRU1YRE9ZNW8wZE1NQWxLR3ZSWFdfOWZwZlHSAboBQVVfeXFMUFZrV01TYlprWmw1d0hDX0ItSnZIQk52eE1FX29WSGY0d3AwaGZIS2kzNTJJVl9GRVh3aFZJS1NNb3JxLUh6Sk1wVXRndzdGeEVlQS1lMXJNUm1FN1I0X01ZNThYaVRoYWdBbE9JWHVJYlVsbG1PLXN4R3Fwd2wtRDhyQnRscThRTHEtUlVneHVTeEhySi1nYm5MbzZlcXZxcUR2M0VkQ3A1NUJFa1JMVHBJTmNYY0l4c0l3?oc=5",
@@ -2304,6 +2356,23 @@
       "urgent": false,
       "published": "2026-10-20T18:01:10+03:30",
       "published_fa": "1405/07/28 - 18:01",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "قیمت جهانی نفت در بحبوحه حملات به کشتی‌ها، تأسیسات به بالاترین سطح در 5 ماه گذشته رسید - ABC News - اخبار فوری، آخرین اخبار و ویدیوها",
+      "title_original": "Global oil prices hit highest level in 5 months amid attacks on ships, facilities - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONThfbkdFS1RqVThBR0RmOTBxU1pvMllfR1lmcGYyY3hPY1drZkVLWkF4Zm5aek5MNDlIRVp6YWc4NkNnWnhKWGFUcm5HLS00NzkyajEyaWJyVHN4UEFlVEU4Q05WVmJNNjVwSDBmRk9xbzFnUThYdnhMMUFjSnZIM1BocXNzUmJ0TFFscmNrTU9lOV94R0Jj0gGcAUFVX3lxTFBEaUdOQ3c1M0VELVBBY2dRS2dTT1JiWDZwNlExQzdmN19KYU95endONWlkSkhrSGhBWGRMMnNnSERiMFJmU0VEc1Q3dnk1NVY4TVBrbm9NT09ndF9OTTA4eC15cF9XUW5OWE5NRnhKWDFFTFJTVXlNV1hnRGNKd2pRSUsyT01UaFdfQ0F6eHBFUkhpajNtdG5VWTI4SA?oc=5",
+      "summary": "قیمت جهانی نفت در بحبوحه حملات به کشتی‌ها و تأسیسات به بالاترین سطح در 5 ماه گذشته رسید ABC News - آخرین اخبار، آخرین اخبار و ویدیوها",
+      "summary_original": "Global oil prices hit highest level in 5 months amid attacks on ships, facilities ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "گزارش مردمی"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T17:59:09+03:30",
+      "published_fa": "1405/07/28 - 17:59",
       "translated": true,
       "verified_source": true
     },
@@ -3615,23 +3684,6 @@
       "verified_source": true
     },
     {
-      "title": "پیت هگزث در سفر غیرمنتظره به اسرائیل، پیش از انتخابات با نتانیاهو دیدار کرد - گزارش | وبلاگ زنده - i24NEWS",
-      "title_original": "Pete Hegseth made unannounced visit to Israel, met Netanyahu ahead of elections - report | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQek9iMHhLLUpGMkQzV2VfRVdQZTFMalFiWEF3TDg1VTFURml2d3FyLWZURzVwUXcwX0Nzd2pRcHJpMVVYb3lEcmxEOEZQaUtkbW9aTTFoZ0s4N3pFcGhXY2tHZUpIT2pOV0VsX1lIbHZfblZrbXI3RWx4bk5ZOXVZX0dFN3h5QkNCU0pjb3kwY29ENTU4alB6VFZzSmRkMUtBcFprcExpMEZ5UUZOUDNpTld3aVozbFNFbV9IYzZGSDNObWRndEstekVmRHdlVHJWclo4MFltUGRHMF9Ld2c?oc=5",
-      "summary": "پیت هگزث در سفر غیرمنتظره به اسرائیل، پیش از انتخابات با نتانیاهو دیدار کرد - گزارش | وبلاگ زنده i24NEWS",
-      "summary_original": "Pete Hegseth made unannounced visit to Israel, met Netanyahu ahead of elections - report | LIVE BLOG i24NEWS",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T09:08:00+03:30",
-      "published_fa": "1405/07/28 - 09:08",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "وزیر امور خارجه ایران می گوید روسیه و ایران «هیچ وقت» به این نزدیکی کار نکرده اند - عرب نیوز",
       "title_original": "Iran foreign minister says Russia, Iran have ‘never’ worked so closely - Arab News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzdSZEZ5MlJsQ0lOVDhMVS10NWFraUpGUjhDYXVjaTNmbWIzSXR0OUVmbGlWMllxWkhGTmlhbXJJVU5tWlNIRUJlX2R3UDVleXZ5TkRKVGxVd3YtdUc5Q3lpUWp3VnREeGFOenZQNWdKX1Y3eHhUdGc0emNqMTBqNzdEakhqNFYyTlJaWlFRbDFMeC1wZlNGMS1ISE1RaHZ6U3lrV1pOZ25sZ05KVWoxZGpR?oc=5",
@@ -3662,17 +3714,17 @@
       "verified_source": true
     },
     {
-      "title": "جنگ خاورمیانه: موشک های حوثی ها 53 نفر را کشتند، رئیس دفاع ایالات متحده از منطقه بازدید کرد - گلف نیوز",
-      "title_original": "Middle East War: Houthi missiles kill 53, US defence chief visits region - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEg0RGxYQ0NPdWwtX29MQW0tSDFIY3pyVkltaURRc1B3QzdMdmJnQ3ctQy1jM3NkNlRVcVp4aElJTDJUUFd0SWtWRkE4SDg5eWpHSElzdnFYbHR4MU14anNQRjVucXAxS05aRXRycWdMQUNDVFpjTVYwVy1LcjNQTkk3cnp0MkFKSGRWZVlUcE5fTzREaHh2M1ViS1lPaHJaWXUzaW1yR3NPNDd1bDdxcGItOXU?oc=5",
-      "summary": "جنگ خاورمیانه: موشک های حوثی ها 53 نفر را کشتند، رئیس دفاع ایالات متحده از منطقه بازدید کرد Gulf News",
-      "summary_original": "Middle East War: Houthi missiles kill 53, US defence chief visits region Gulf News",
+      "title": "جنگ ایران 2026 | نفت، توضیح داده شده، ایالات متحده، اسرائیل، تنگه هرمز، نقشه، و درگیری - بریتانیکا",
+      "title_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+      "summary": "جنگ ایران 2026 | نفت، توضیح داده شده، ایالات متحده، اسرائیل، تنگه هرمز، نقشه، و درگیری بریتانیکا",
+      "summary_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
       "source": "Google News",
-      "category": "military",
+      "category": "economy",
       "tags": [],
-      "urgent": true,
-      "published": "2026-10-20T08:19:19+03:30",
-      "published_fa": "1405/07/28 - 08:19",
+      "urgent": false,
+      "published": "2026-10-20T08:30:00+03:30",
+      "published_fa": "1405/07/28 - 08:30",
       "translated": true,
       "verified_source": true
     },
@@ -3707,24 +3759,6 @@
       "urgent": false,
       "published": "2026-10-20T07:59:30+03:30",
       "published_fa": "1405/07/28 - 07:59",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "میدل ایست آی نتانیاهو ترامپ را «بزرگترین دوستی که اسرائیل تا به حال داشته است» می خواند",
-      "title_original": "Netanyahu calls Trump 'by far, the greatest friend Israel has ever had' - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRE4zNmVzUkZPbXJtMnJGVEVkRVlXaHh6ODBwYlhDZ2d0RGpsTTJtR1c3QWs5OG9Ed0xzajUzVnZyN0hhc1FlbzdtdnNNMkUzRmdoaDAtRWFFbWxCaUl2QkV4WVFqSWNNbnNtc3R6UnUtclpiUWRCblJrMnVlN0FFX1JWZjA2NWhZVzRPS3lkYVMxMlVuajJLMkppS2MzcUgxTFNHc3N4NjZtel92MjEtcGRBQkNzTnlBWXc?oc=5",
-      "summary": "نتانیاهو ترامپ را «بزرگترین دوستی که اسرائیل تا کنون داشته» می‌گوید خاورمیانه است",
-      "summary_original": "Netanyahu calls Trump 'by far, the greatest friend Israel has ever had' Middle East Eye",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T07:53:00+03:30",
-      "published_fa": "1405/07/28 - 07:53",
       "translated": true,
       "verified_source": true
     },
@@ -3793,11 +3827,11 @@
       "verified_source": true
     },
     {
-      "title": "ونس از تایید پیشنهاد نتانیاهو برای انتخاب مجدد خودداری کرد و از ترامپ جدا شد - CNN",
-      "title_original": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump - CNN",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHBZSzRVaS1DOVNCcDR6NWl0VGJjQ1M0S3paRkFaNjRJd0w0Zjl6dHBGcy1ycjhoN1Z0eTN2NkR1V1VVTmYtbXI1MmlqYk1lYWlFOFhZNEd6SjhrSGNOMHYwZjRrN0VnOEg0dTVtcWhtNzBCSG1mYzk4aDczcjV4bXFrWEExTjhxTDFmTg?oc=5",
-      "summary": "ونس از تایید پیشنهاد نتانیاهو برای انتخاب مجدد خودداری کرد و از CNN ترامپ جدا شد",
-      "summary_original": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump CNN",
+      "title": "ونس از تایید پیشنهاد نتانیاهو برای انتخاب مجدد خودداری کرد و از ترامپ جدا شد | سیاست CNN - CNN",
+      "title_original": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump | CNN Politics - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUQwQ2hIX1JXUFJhTm9jUXBjWUk0MU94Tkl3UjY0TmpPUC1YZFpMaElfMXlSV2pfb2NqRDZYOGlpM2U4a2NVdTktWW5FVlBPdkV2dFZHT0RkeW8zaUhCM0ZSOElLWUh4OEVSV2hTRU5vRmVMTWRwd0taeWYzWE51Wko4Q1JVR3djekZlYk9kR3N3Zw?oc=5",
+      "summary": "ونس از تایید پیشنهاد نتانیاهو برای انتخاب مجدد خودداری کرد و از ترامپ جدا شد | سی ان ان سیاست سی ان ان",
+      "summary_original": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump | CNN Politics CNN",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -3805,8 +3839,8 @@
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-20T06:45:00+03:30",
-      "published_fa": "1405/07/28 - 06:45",
+      "published": "2026-10-20T06:47:05+03:30",
+      "published_fa": "1405/07/28 - 06:47",
       "translated": true,
       "verified_source": true
     },
@@ -4013,6 +4047,23 @@
       "verified_source": true
     },
     {
+      "title": "در پاکستان برای گفتگو، تهران با انتقال اورانیوم غنی شده به خارج از ایران مخالفت کرد - تایمز اسرائیل",
+      "title_original": "In Pakistan for talks, Tehran rejects moving any enriched uranium out of Iran - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10NEFrUmN0NWZTNG1mYUxBc3Yyc0dWeUt3ajNqWms5YjJLbzRic2E4amYyVXJsSDhVR0hlMzUyYy1XNG5LODBTRW55ZXlTUm1zQlQzOUlRaXhzMmZFMzBodDBlOWNDZ9IBa0FVX3lxTE4xN201c04yYzJqSzVINDhia0I4ek5QcC1Lb2V3ck5wUDVEZXY4RTlDV2JtclU1UjNWeHI2Z25JcHMyajFBU3BvNm45QjdrUTVtd0dyUXhUZnJIWEJIUENnVGpiV1NoemtqUl9z?oc=5",
+      "summary": "در پاکستان برای گفتگو، تهران خروج هر گونه اورانیوم غنی شده از ایران را رد می کند تایمز اسرائیل",
+      "summary_original": "In Pakistan for talks, Tehran rejects moving any enriched uranium out of Iran The Times of Israel",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T03:30:23+03:30",
+      "published_fa": "1405/07/28 - 03:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "هشدار امنیتی خاورمیانه: ایالات متحده با افزایش خشونت حوثی های مورد حمایت ایران به شهروندان هشدار می دهد - FOX 10 Phoenix",
       "title_original": "Middle East security alert: U.S. warns citizens as Iran-backed Houthi violence ramps up - FOX 10 Phoenix",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVVdJRjAxeGplUmtJRVh5NUwtNnNKMkpVVkFFLTZ5ejkzb0RyRkVhM1V2YnVhRDdoOXZrRi15UEpMRF9FMnZ2UUltNHZiakRTdFh3VFFyQmM4eTNsM3JLcTNqTnRMUdIBa0FVX3lxTE1iQVh2Zk9TR3otanVKWlp6a1c1d0NRcHRndllob05iVzNoQlVYc0VKNXk3ZmZOSlBEc0Rlek9tWWd5ZG1QOXRDWFBVUm0yM0FSWFMzNTJSMVFGS3ZNd3JMX2Q4NWZJeXpLbjE0?oc=5",
@@ -4024,24 +4075,6 @@
       "urgent": false,
       "published": "2026-10-20T03:17:32+03:30",
       "published_fa": "1405/07/28 - 03:17",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ونس از پیوستن به حمایت ترامپ از نتانیاهو خودداری کرد - تایمز اسرائیل",
-      "title_original": "Vance declines to join Trump’s endorsement of Netanyahu - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXFIZ2pSOU9LMnRsUEMxNER4REtPaG1VbGNGMzdIRHpxRE1wMHBfM0Rxb2dpOTRfMlU2X3Y1ZkpDQVlBMV85MWJyNW44LUZTR2I3aUoxMkNyMkRCMkgwU20teHNDa1IwRDVkQXNwNVNEeUpkTHpoQ2RPaHRGZWlMNnNSVzUyUi1YZXEtc3ROUXVWMGxqa1ZBN2c5ejd3T2JEVHc?oc=5",
-      "summary": "ونس از پیوستن به حمایت ترامپ از نتانیاهو امتناع کرد تایمز اسرائیل",
-      "summary_original": "Vance declines to join Trump’s endorsement of Netanyahu The Times of Israel",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T03:08:13+03:30",
-      "published_fa": "1405/07/28 - 03:08",
       "translated": true,
       "verified_source": true
     },
@@ -4108,23 +4141,6 @@
       "verified_source": true
     },
     {
-      "title": "گزارش: هگزت مخفیانه از اسرائیل بازدید می کند و با نتانیاهو دیدار می کند در میان صحبت ها درباره حملات مجدد به ایران - Ynetnews",
-      "title_original": "Report: Hegseth secretly visits Israel, meets Netanyahu amid talk of renewed strikes on Iran - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1b0hfZ1FXbE96MnBCWTFCQkhyZHBFRjN6bnlRVEpNY1YtZ3lyc21uV0VJMFloWmZIcEVuaWdWSFNRM1p4eGJPSmUxSnBvR293TmZzcXpB?oc=5",
-      "summary": "گزارش: هگزت مخفیانه از اسرائیل بازدید می کند و با نتانیاهو ملاقات می کند در میان صحبت ها درباره حملات مجدد به ایران Ynetnews",
-      "summary_original": "Report: Hegseth secretly visits Israel, meets Netanyahu amid talk of renewed strikes on Iran Ynetnews",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T02:33:00+03:30",
-      "published_fa": "1405/07/28 - 02:33",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ماکرون محصور شده از جنگ ایران و آمریکا به عنوان عامل اعتراض در میان انتقادات ترامپ و ونس یاد می کند",
       "title_original": "Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism",
       "link": "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism",
@@ -4155,24 +4171,6 @@
       "published": "2026-10-20T01:28:37+03:30",
       "published_fa": "1405/07/28 - 01:28",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Trump’s Backing for Netanyahu Puts Israel’s Opposition in a Bind - الحرة",
-      "title_original": "Trump’s Backing for Netanyahu Puts Israel’s Opposition in a Bind - الحرة",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9SS0xaR1VFcVNHMTlMNlp3dmtEUnJreXVRekFUanF0aXI5LUNzMi1INXhUeDBEb0VFcVY3aWhoTmJ6dw?oc=5",
-      "summary": "Trump’s Backing for Netanyahu Puts Israel’s Opposition in a Bind الحرة",
-      "summary_original": "Trump’s Backing for Netanyahu Puts Israel’s Opposition in a Bind الحرة",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-20T01:24:45+03:30",
-      "published_fa": "1405/07/28 - 01:24",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -4287,6 +4285,24 @@
       "verified_source": true
     },
     {
+      "title": "ترامپ از نتانیاهو در انتخابات اسرائیل حمایت کرد - ستاره دموکرات",
+      "title_original": "Trump endorses Netanyahu in Israel elections - The Star Democrat",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3VjNnY1QjN4MXUwTVUwNHdBeDdmU3Fhb3Q0aEp6SElnVWlmWHNsTjV2U1R0blViZmduV3RJQWFNR3JtQ2g1WUxNMVRqQUlGd1VkakpqWVFFR1FuWFpTOXNhSHZXQlQ1NjdncWI0dGlWX2RvNWVkMWU4TFlLZmR6TFktZ3l0Z18yUGVoWldrM3h3aVhjVzgzU3pkLXNsY3E4MnNvT29WcHVsOGxUMmRfZFVxcmljdEpHQmNNZ2h3QzduaTRaLVZCd1FCQkQ?oc=5",
+      "summary": "ترامپ از نتانیاهو در انتخابات اسرائیل حمایت کرد",
+      "summary_original": "Trump endorses Netanyahu in Israel elections The Star Democrat",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-19T23:38:00+03:30",
+      "published_fa": "1405/07/27 - 23:38",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ترامپ کمک روسیه و چین به تهران را ناچیز و وضعیت را «بسیار مثبت» توصیف کرد",
       "title_original": "",
       "link": "https://www.iranintl.com/202610191188",
@@ -4369,57 +4385,6 @@
       "verified_source": true
     },
     {
-      "title": "اسرائیل: ترامپ پیش از انتخابات از نتانیاهو حمایت کرد - DW.com",
-      "title_original": "Israel: Trump endorses Netanyahu ahead of elections - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3NmdkNNTTVQUUdyTVZyLVNIOWNGMnlOWDdsMW1zN245WTJhYUJ6dUJIZE90ZWRFM0dfZFZuYXZKTzNWSlNwLUpuNlBLZHlqSkw5T0xLOGRHVkNGa0dPcmpJX3RyelAxLVFaTkpZTExJaWJzV1R1Vy1ZQ0VuLUlnZzZ3ZDJfUTlDOXN30gGLAUFVX3lxTE5rMXY2NlRwNXlPQmJ5bjFYYno4WWVvNHVYSWRialhEbzRuUHhQaENOcElockgwaDdLeDFBV3RkdjNJZ3MzTW42ZEVZczc5aGpEaVo4NGhqVFV0eG5qUHFrY0VsWldWbTZCcUc2RlNEV0NuclBiaU1GZ3U5YkN2dmh5eU5pSy12QV9QMU0?oc=5",
-      "summary": "اسرائیل: ترامپ پیش از انتخابات از نتانیاهو حمایت کرد DW.com",
-      "summary_original": "Israel: Trump endorses Netanyahu ahead of elections DW.com",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-19T21:37:17+03:30",
-      "published_fa": "1405/07/27 - 21:37",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "حمله حوثی‌ها به اردوگاهی در یمن ۵۸ کشته و ۲۰۰ زخمی بر جای گذاشت",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610193768",
-      "summary": "مقام‌های محلی یمن از کشته شدن ۵۸ نفر و زخمی شدن ۲۰۰ نفر در حمله حوثی‌ها به اردوگاه نیروهای امنیتی در شبوه خبر دادند. ارتش یمن نیز از حمله موشکی این گروه به مارب خبر داد. حوثی‌ها نیز اعلام کردند شش عملیات علیه اهدافی در عربستان سعودی انجام داده‌اند.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "military",
-      "tags": [],
-      "urgent": true,
-      "published": "2026-10-19T21:35:55+03:30",
-      "published_fa": "1405/07/27 - 21:35",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "نتانیاهو در تماس تلفنی - هاآرتص - از ترامپ برای تأیید انتخابات تشکر کرد",
-      "title_original": "Netanyahu thanks Trump for election endorsement in televised phone call - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbk43R1N1czkzTDEwODNkTndjTXdfNi01cFF5X29jdEdqeGNBUlUwclFoUmY1YVpQelAzQTZfVGlMaGhwWkgxVmRYTVl2UWg4ajRfSjNXQlNFSnIweUdSeHVqVXRxUnRNZjdkLVZOdVp0dVdSYVQzLW8wMDhtaDdYOEpSLVlGazExUlhVT3FxWnNtTnFSWWVuVmR4Vm9DUXV5OGp1Sm1xQmpTeXRoTUR6ajlvQzJRV09xLXpRTjJzV3k5Ul9mVVJfMlBLMzYwRXZoSGdPQmlTdE5WQnc2aDdaNlBUODFlajhUTTh3MDZBanMzM21mbnJCV1NqSk52TnlwQnVkcWZBWHZIcFc3Mm9nSU1wYw?oc=5",
-      "summary": "نتانیاهو در تماس تلفنی هاآرتص از ترامپ به خاطر حمایت انتخاباتی تشکر کرد",
-      "summary_original": "Netanyahu thanks Trump for election endorsement in televised phone call Haaretz",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-19T21:28:00+03:30",
-      "published_fa": "1405/07/27 - 21:28",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "پس از حمله ایران به کشتی‌های کانتینری، مردم تنگه هرمز را برای یافتن محموله‌های ریخته شده جستجو می‌کنند - گاردین",
       "title_original": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVd5NTdZejdJLW9KZFpNUFVhVFpHaUxWU09tMU9lTXMxNGl3aG8ydFhmekpmcEZEdHNWRWs1MEVrUU1JamVKN1NVVWxyTXUyVmpQOC1lcUJTWUtFSkNEU2hweGJ3cFVaa2hfQ0xEZ1hTbEFKcTlPMGY0RTRXS3dpWXpIdWVXUWdvcV9MRnBqaEJlS2pySWNhbXBiWTRYVXktMFpmWjVn?oc=5",
@@ -4452,21 +4417,6 @@
       "verified_source": true
     },
     {
-      "title": "خبرگزاری تسنیم: ایران سفیر آلمان را به اتهامات بی اساس احضار کرد - میدل ایست آی.",
-      "title_original": "Iran summons German ambassador over 'baseless accusations,' Tasnim reports - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmRTYXFxS2UzSjcxZllUaDh0UDJUeURzSjBDSnhDTk4xUmgzblMzaWR0bm1yaUJadzA0T0FCaXZia3lZV2N0QnBxVVFHOFV1VDFSSXg2Y08ydTVUUW45ZFkwdDVlbEUtUUs0QS1HbVFES0VocE1JTHZ2R0tWcHRuWXVrLW4xWjJwbkphRnluV0NfYVB0ckRtVHZQS1NtZmlSa2RpVlVUbm13TXJ5R3FObUxORnRQbm50WTV3alVxOHdmTlM3SEtV?oc=5",
-      "summary": "به گزارش خبرگزاری تسنیم به نقل از میدل ایست آی، ایران سفیر آلمان را به اتهامات بی اساس احضار کرد",
-      "summary_original": "Iran summons German ambassador over 'baseless accusations,' Tasnim reports Middle East Eye",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-19T21:03:00+03:30",
-      "published_fa": "1405/07/27 - 21:03",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "حمایت ترامپ از نتانیاهو: آیا ایالات متحده در حال برنامه ریزی برای حمله جدید به ایران با اسرائیل است؟ - الجزیره",
       "title_original": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1Zud0l3Tmd1WENUNlFUTXM3QjVudnRWdnVrTHk2enF0eTZsWmtyR1RsMFRmUHhHTzYyN2NRdVlNamlMUFhlNkNsUmI5TkQ3V1hhMV9ISVlPaUtxYkYybkJfYzljcFZsUWtjT2oxOTdPelJ4UmZMeVNDX0U2QVRLZ2tIdXo1NjBFMTFSVGZDOHN5Z1RMVGdUc3BzSi1oRE5FMTdSaGNBdjJyMUYwYjFKdWh30gG3AUFVX3lxTE9vR1ZvNVZoeWNMbnYtRWhPalliR3NjZ2NsbGNWckR6bURQN0JLYkxqQUtRZ2lJOGVtMnZ4T29yeEFBczlFQWVQR2xwb0lnTFdZelVOaUxKTVBEbTYwUzN0ZnJoekZQZUVmOXJYdFE0VEMwdVQ2MWxJZ1FQbDEyUy16ZTlhSXhfMGhKSnVoZS16bW5rcjJvb2RJTFRHcHdxUHltUkZSMHkzQ2tReklsNE1UT1N2NHNBOA?oc=5",
@@ -4481,24 +4431,6 @@
       "urgent": true,
       "published": "2026-10-19T20:49:53+03:30",
       "published_fa": "1405/07/27 - 20:49",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "چرا حمایت ترامپ ممکن است برای تضمین پیروزی نتانیاهو کافی نباشد - المانیتور؟",
-      "title_original": "Why Trump's endorsement may not be enough to secure Netanyahu's victory - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYUlrallpb3ExX0YtdFlqUUFMV0VKN28ySzdZUjdxLXg1T2VLMVR2dFNDLXdaVDVta3pPRGE3Nk1sb3NFR1UwX0I4ekk5eGJfQjlTLU9WTU9kdmsxZ3NkcVYwRV9fczZOSUtCSVRqc1pTYUNhakRtWEFLV0pzS3JBQ0VwZWxJVC1ZaWRSaGtEN1JQU2l2TWtubDl5b3YzU0lUVVp1V0Zmdkg0SGRnNkhZNg?oc=5",
-      "summary": "چرا حمایت ترامپ ممکن است برای تضمین پیروزی نتانیاهو کافی نباشد المانیتور؟",
-      "summary_original": "Why Trump's endorsement may not be enough to secure Netanyahu's victory Al-Monitor",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-19T20:18:06+03:30",
-      "published_fa": "1405/07/27 - 20:18",
       "translated": true,
       "verified_source": true
     },
@@ -4544,36 +4476,6 @@
       "urgent": false,
       "published": "2026-10-19T19:52:51+03:30",
       "published_fa": "1405/07/27 - 19:52",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "درس هایی که اسرائیل باید قبل از جنگ بعدی با ایران بیاموزد - www.israelhayom.com",
-      "title_original": "The lessons Israel must learn before the next war with Iran - www.israelhayom.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmpqVC1fbC03bWtPV3R6MUxXZGw3VmhxVUtpR2I3NWc0RjRsbnI3RzZWYk5YOGN2ZHZ6b2R3VVBIWUVQSDRtcEN1Wmd1QWxLaWNsczJxQWJFaVJGT3FyYXFmcVFYdzBJbTdnQ2VRM3VUMUlobjNVWmg5OFdoNjZPSzFMOFpjeEtzSFRieThaZjlWMVBmQnRIT2h2X0lMbDRv?oc=5",
-      "summary": "درس هایی که اسرائیل باید قبل از جنگ بعدی با ایران بیاموزد www.israelhayom.com",
-      "summary_original": "The lessons Israel must learn before the next war with Iran www.israelhayom.com",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-19T19:47:52+03:30",
-      "published_fa": "1405/07/27 - 19:47",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ترکیه و آستانه هسته ای - موسسه خاورمیانه",
-      "title_original": "Turkey and the Nuclear Threshold - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGbzdfbklKREdfWF9fVDg5emJOd0kyVEtEa3QxX2RRQVh1TnV3VXRBYzV5eFJkU2hiZ3hEZUxRcmVlRVBZOTVWZ3JHYjBTQlNoYy1NQV9aU1pUQkl3cmYyZWJwNDVubWlMVFRFOQ?oc=5",
-      "summary": "ترکیه و موسسه آستانه هسته ای خاورمیانه",
-      "summary_original": "Turkey and the Nuclear Threshold Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-19T19:41:19+03:30",
-      "published_fa": "1405/07/27 - 19:41",
       "translated": true,
       "verified_source": true
     },
@@ -4625,24 +4527,6 @@
       "verified_source": true
     },
     {
-      "title": "آیا حمایت ترامپ از نتانیاهو به کمپین انتخاباتی او دامن می زند یا فیزل؟ - نیویورک تایمز",
-      "title_original": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2lFeml6LWdOenhlUzdGQmcwRks5azdHWHFxNWdOQVdtbzQ0VGV3WTl0UGRmOU1JQ19UX0cwSV8wOHJhMzJXVlB3bFJPdDQtZ04xWk9vRDVRZUhmcEpENmFYbWlqdmxSd0EyeU9SeUxYWkFsVlV0Y0Q1blluMWkxT3BaelpDSU82dmRtOV9sWjRUTUstTzNVdA?oc=5",
-      "summary": "آیا حمایت ترامپ از نتانیاهو به کمپین انتخاباتی او دامن می زند یا فیزل؟ نیویورک تایمز",
-      "summary_original": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle? The New York Times",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-19T17:51:13+03:30",
-      "published_fa": "1405/07/27 - 17:51",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "در حالی که مبارزات استقلال کانادا را فرا گرفته، آلبرتا رای غیر الزام آور جدایی برگزار می کند",
       "title_original": "Alberta holds non-binding separation vote as independence fight grips Canada",
       "link": "https://www.foxnews.com/world/alberta-holds-non-binding-separation-vote-independence-fight-grips-canada",
@@ -4654,6 +4538,24 @@
       "urgent": false,
       "published": "2026-10-19T17:47:50+03:30",
       "published_fa": "1405/07/27 - 17:47",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "حمایت ترامپ از نتانیاهو در آستانه انتخابات اسرائیل با استناد به تهدید ایران - thejewishnews.com",
+      "title_original": "Trump Endorses Netanyahu Ahead of Israeli Elections, Citing Iranian Threat - thejewishnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZFRnWVQtNzMzUnZ6cmZfQzZ5LW14eUJvY3BIQWxhczR2MHZoRFJpcEhyRDlKeFQxWm1uekN5a01Nam9qaXczMm5sZnRxamltN0xKdlVxNnV1OE82WjFTdFJHRUdPSzVyYnNhTFVzSW52OXNDck5OVG1sZkF3R0VrUXVWdXIzczRhUUtpTlZ1QW1MaFhxNUkxdmVMU3lwaGY5YmNSWWMtSTlfamZLUEk1QThLRzlxRW9oZHlXYUtab19IWm9oWmlRT1RKQzRZeUp6X3ZZSjNlOWRNb2JBVXFzbXJKbEFuOVlwLXctUE9KcGljRkh6WVFoX3pWMVpPR2V1MXktWG9PZlVQcUk?oc=5",
+      "summary": "حمایت ترامپ از نتانیاهو در آستانه انتخابات اسرائیل به نقل از تهدید ایران thejewishnews.com",
+      "summary_original": "Trump Endorses Netanyahu Ahead of Israeli Elections, Citing Iranian Threat thejewishnews.com",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-19T17:42:00+03:30",
+      "published_fa": "1405/07/27 - 17:42",
       "translated": true,
       "verified_source": true
     },
@@ -4673,21 +4575,20 @@
       "verified_source": true
     },
     {
-      "title": "تحلیل • چرا حمایت ترامپ از نتانیاهو بسیار خطرناک است - هاآرتص",
-      "title_original": "Analysis • Why Trump's endorsement of Netanyahu is so dangerous - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcGc2T0ZHcE1WZmttbWIzRDdhMFZ6a0VFOU82dXdWTEtsZ0J3WmUycnBJb3dRNDE2TEFrLU9xWXVUcENSRW9RQW9BQkdfYXlfZnJCa2UzWlgtNDQ2UnQ4MG9Nc05OcnZIMF9fdGpzTzQxdjV5QlpHaUdPb25CSkRHQjVwVnpEb2JpU1otdlZyb3dGY0I0YW81dV80NzNEa3BNcTZQXzRsaUtLazBEMUwxeFVSZTJMaFRkUHB4T29UOW1TbUZLOWYwc1FMaFg2VElMUi1PTGxKX2V5UUY1bFhPTDdvNW1nQ3FzT1ptbzZsU0huLWFwc2VHSGNMTQ?oc=5",
-      "summary": "تحلیل • چرا حمایت ترامپ از نتانیاهو اینقدر خطرناک است هاآرتص؟",
-      "summary_original": "Analysis • Why Trump's endorsement of Netanyahu is so dangerous Haaretz",
+      "title": "آیا حمایت ترامپ از نتانیاهو به کمپین انتخاباتی او دامن می زند یا فیزل؟ - نیویورک تایمز",
+      "title_original": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2lFeml6LWdOenhlUzdGQmcwRks5azdHWHFxNWdOQVdtbzQ0VGV3WTl0UGRmOU1JQ19UX0cwSV8wOHJhMzJXVlB3bFJPdDQtZ04xWk9vRDVRZUhmcEpENmFYbWlqdmxSd0EyeU9SeUxYWkFsVlV0Y0Q1blluMWkxT3BaelpDSU82dmRtOV9sWjRUTUstTzNVdA?oc=5",
+      "summary": "آیا حمایت ترامپ از نتانیاهو به کمپین انتخاباتی او دامن می زند یا فیزل؟ نیویورک تایمز",
+      "summary_original": "Will Trump’s Endorsement of Netanyahu Fire Up His Campaign or Fizzle? The New York Times",
       "source": "Google News",
       "category": "politics",
       "tags": [
         "ترامپ",
-        "نتانیاهو",
-        "تحلیلگران"
+        "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-19T17:06:00+03:30",
-      "published_fa": "1405/07/27 - 17:06",
+      "published": "2026-10-19T15:48:51+03:30",
+      "published_fa": "1405/07/27 - 15:48",
       "translated": true,
       "verified_source": true
     },
@@ -4707,13 +4608,13 @@
       "verified_source": true
     },
     {
-      "title": "ایالات متحده هشدار هشدار قرمز نادر خاورمیانه را به شهروندان خود در منطقه صادر می کند - Euronews.com",
-      "title_original": "US issues rare Middle East red alert warning to its citizens in the region - Euronews.com",
+      "title": "ایالات متحده هشدار هشدار قرمز نادر خاورمیانه را به شهروندان خود در منطقه صادر کرد - یورونیوز",
+      "title_original": "US issues rare Middle East red alert warning to its citizens in the region - Euronews",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3FXMzA3eTZOeUZjQTkwRHNfc1FhLWZQdVZhb2xxajdqYTBUNVY4Y3g5R2ppZkotSW5HVTRFTFlWbkNXU3h2Qnl5ZHR1b0tYZnZ1dTY1R3Q4ZzVFSWVJN1Q1SVdWbGtrYzhtdHg2Ym5yV3YzNkNtQTU0ZXBNR2FOOUxweXA3b0g3QUsxbjVyMklDMFlRZGU5WFZ4MGVtUVVzUXN0SkE3R3dmR3J2dGtR?oc=5",
-      "summary": "ایالات متحده هشدار هشدار قرمز نادر خاورمیانه را به شهروندان خود در منطقه صادر می کند Euronews.com",
-      "summary_original": "US issues rare Middle East red alert warning to its citizens in the region Euronews.com",
+      "summary": "ایالات متحده هشدار هشدار قرمز نادر خاورمیانه را به شهروندان خود در منطقه یورونیوز صادر می کند",
+      "summary_original": "US issues rare Middle East red alert warning to its citizens in the region Euronews",
       "source": "Google News",
-      "category": "other",
+      "category": "economy",
       "tags": [],
       "urgent": false,
       "published": "2026-10-19T15:25:24+03:30",
@@ -4766,6 +4667,21 @@
       "urgent": false,
       "published": "2026-10-19T14:49:40+03:30",
       "published_fa": "1405/07/27 - 14:49",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "تروریسم و ​​ایران: چالش های دفاعی در خاورمیانه - کمیته نیروهای مسلح مجلس نمایندگان (.gov)",
+      "title_original": "Terrorism and Iran: Defense Challenges in the Middle East - House Armed Services Committee (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NUWxyd3VVT0stVkN6elhUdm1ZUFZ3ZkQwczJqRmM0WkFlSTh4VThtb2RZQ211bjlhNHZVQkUwY2lJSkUtcmpzNkJfalBuUGRBR092RW1mRUtleTdVbkJrbkZ4emxqUXlDSmNyN1I5SmYzRUVjbzBCRENB?oc=5",
+      "summary": "تروریسم و ​​ایران: چالش های دفاعی در کمیته نیروهای مسلح مجلس نمایندگان خاورمیانه (.gov)",
+      "summary_original": "Terrorism and Iran: Defense Challenges in the Middle East House Armed Services Committee (.gov)",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-19T14:41:35+03:30",
+      "published_fa": "1405/07/27 - 14:41",
       "translated": true,
       "verified_source": true
     },
@@ -4896,21 +4812,6 @@
       "urgent": false,
       "published": "2026-10-19T12:57:13+03:30",
       "published_fa": "1405/07/27 - 12:57",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "وزیر امور خارجه روسیه در حالی به ایران می رود که مسکو به دنبال میانجیگری در جنگ است - العربیه انگلیسی",
-      "title_original": "Russian FM due in Iran as Moscow looks to mediate in war - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEdYemhUbjBsMW5yUkVEQUIxZ3ZyUlpubFNBYmE4bGp6aHpMbkFydUNJUjI0dXQ4cnEwOHExLVB1SGthUU5Mb2tuRXQ3MzRRa2JZM3U0aEdjcXFORGtDaVNycUpUcTFaOTl3YjdlNHcxSnY3aW5NTE1meTRtVDE0NEFlM0tMNFR0WWgzaXpuYkVMTEF2LV9aY0htb0JQeDVmTl9tTEpMZmNCbFc2ZlVuU1o5SlNSVUnSAbwBQVVfeXFMUDJDVUUwZ3ZIa3c3Xzk5QTdCUEN6V2U3S1dWUXpiTkZIcHFfU0lMQV9QVnhQSm04WnhBLWdZamI4cUZ2QTZNcHNUYTN2M2VqS0g1a2h2QkhhcXIxNklWa29DWEduRWYydm9xaU5IcjEyeUZ0QXhvdGVmbTQwcm0tZm9ydnNIQ29hOHRQcmsta2hKYVpiVGNtTHhqRXZxdks5bG9fd19fWkNpdkNGQXcxUm1VdkpYLTFJckhhc0w?oc=5",
-      "summary": "وزیر امور خارجه روسیه در حالی به ایران می رود که مسکو به دنبال میانجیگری در جنگ العربیه انگلیسی است",
-      "summary_original": "Russian FM due in Iran as Moscow looks to mediate in war Al Arabiya English",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-19T11:38:00+03:30",
-      "published_fa": "1405/07/27 - 11:38",
       "translated": true,
       "verified_source": true
     },
@@ -5113,24 +5014,6 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ چند روز قبل از انتخابات اسرائیل از نتانیاهو حمایت کرد - CNN",
-      "title_original": "Trump endorses Netanyahu days before Israeli elections - CNN",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHkyaDcyU1ZwenhxOXpmVDRBV0hCdDJXa1JXdGtUb0lTb0cweEF2Y25lY0JhZGM4WmVKSldLZVVVbzA4UUtvU0E4U0g4TmJzR1pyemtqb0gwRzBCd1RGUWVNNkItaVZkZ1lDRV9XZm92dWtGRkRxRll6ajNrZEJQeXMtNG1MQzNfY0xDcmRJdkFMUGlxdFBXNVdsa1NMcFE2QzdrOA?oc=5",
-      "summary": "ترامپ چند روز قبل از انتخابات اسرائیل از نتانیاهو حمایت کرد",
-      "summary_original": "Trump endorses Netanyahu days before Israeli elections CNN",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-19T05:41:23+03:30",
-      "published_fa": "1405/07/27 - 05:41",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ایران تهدید می کند که در صورت حمله به سایت های انرژی، اسرائیل را به \"سرزمین سوخته\" تبدیل خواهد کرد - گلف نیوز",
       "title_original": "Iran threatens to turn Israel into ‘scorched land’ if energy sites attacked - Gulf News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkVMaTdIaUtISXhRbDZ3X21SWGw5MHFTVFVFMEtJS09sSEhxaFE3V0hGRzcyczdkUWxUZmZ5aU5YWkc3SVR4dklQS2pwdlhSMzhsanlmdDhLbDJSb1VHak4xX241Nzl2Mk5IMDdkUW5TV1pfVDg4VXdna2paNWRXY1NNd2xhX0VOVWp6dmlFRzhzelg1TkppYXhOMVZqSVBEOU10SExvU3Y4YVYyTDI2dDJyZzZZU21F?oc=5",
@@ -5224,6 +5107,24 @@
       "verified_source": true
     },
     {
+      "title": "ترامپ نتانیاهو - TelegraphHerald.com",
+      "title_original": "Trump Netanyahu - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUl9iVWpVc2E5SE03aVdCS2JKZGlRMVlvOHhab0hUa2MtdU9zRDZhdHZuVTdRbGQzdTNxLXR4QXdhelk3WFpPTEVOaW5DeEh6TXF6Z1o1eGpaaDJnZ1ppNFJfaENLWDdiTkdwR3FEdUFVQlVTQlFwbEpCcWJhSmk0VnA2LWpJSWI2N2ZaSlZvR0ZYSHZRSnllWg?oc=5",
+      "summary": "ترامپ نتانیاهو TelegraphHerald.com",
+      "summary_original": "Trump Netanyahu TelegraphHerald.com",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-19T03:15:46+03:30",
+      "published_fa": "1405/07/27 - 03:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "پشت شعار «یک ملت، دو دولت»؛ ترکیه و جمهوری آذربایجان بر سر چه چیزهایی اختلاف دارند؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cw054e9jqnglo?at_medium=RSS&at_campaign=rss",
@@ -5283,6 +5184,24 @@
       "urgent": true,
       "published": "2026-10-19T01:34:00+03:30",
       "published_fa": "1405/07/27 - 01:34",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ پیش از انتخابات اسرائیل از «جنگجوی بزرگ» نتانیاهو حمایت می کند - ای بی سی نیوز و سرفصل ها - شرکت پخش استرالیایی",
+      "title_original": "Trump endorses 'great warrior' Netanyahu ahead of Israeli election - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHJIV0xtYS1aOWZhZTVVWExrYnhNbFdtb3ZKd3p4Ui1vVjhwSzRNZzVzeE1EQnlHTDZYbXpzcGo3WjNpQS0wYUxqcXlYWlJLVWd1ejljb09MR3c0aVFNdHJCbTBJTGFITFpSNE01Rm1IdkNSYk5CSkpLb2VrOGIwN1BGbTkzdGRtb1Jzb3oyRWJQNjE0akNQblZhMUplZERN?oc=5",
+      "summary": "ترامپ از «جنگجوی بزرگ» نتانیاهو قبل از انتخابات اسرائیل حمایت کرد ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary_original": "Trump endorses 'great warrior' Netanyahu ahead of Israeli election ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-19T00:43:30+03:30",
+      "published_fa": "1405/07/27 - 00:43",
       "translated": true,
       "verified_source": true
     },
@@ -5388,6 +5307,24 @@
       "verified_source": true
     },
     {
+      "title": "اسرائیل: ترامپ پیش از انتخابات از نتانیاهو حمایت کرد - DW.com",
+      "title_original": "Israel: Trump endorses Netanyahu ahead of elections - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3NmdkNNTTVQUUdyTVZyLVNIOWNGMnlOWDdsMW1zN245WTJhYUJ6dUJIZE90ZWRFM0dfZFZuYXZKTzNWSlNwLUpuNlBLZHlqSkw5T0xLOGRHVkNGa0dPcmpJX3RyelAxLVFaTkpZTExJaWJzV1R1Vy1ZQ0VuLUlnZzZ3ZDJfUTlDOXN30gGLAUFVX3lxTE5rMXY2NlRwNXlPQmJ5bjFYYno4WWVvNHVYSWRialhEbzRuUHhQaENOcElockgwaDdLeDFBV3RkdjNJZ3MzTW42ZEVZczc5aGpEaVo4NGhqVFV0eG5qUHFrY0VsWldWbTZCcUc2RlNEV0NuclBiaU1GZ3U5YkN2dmh5eU5pSy12QV9QMU0?oc=5",
+      "summary": "اسرائیل: ترامپ پیش از انتخابات از نتانیاهو حمایت کرد DW.com",
+      "summary_original": "Israel: Trump endorses Netanyahu ahead of elections DW.com",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-18T22:39:15+03:30",
+      "published_fa": "1405/07/26 - 22:39",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ایران می گوید بازگشایی تنگه هرمز، شرایط آتش بس هفت روزه همچنان روی میز است - سی بی اس نیوز",
       "title_original": "Iran says Strait of Hormuz reopening, seven-day ceasefire conditions still on the table - CBS News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3NTZE9fMEQ3MjZJZW1kbXZ0OE9RUlZTRkpUaTVQYmgtRE9GU3pKdVJmVFhZSUZBM3FrNjF0Q1VPdlU0MGFfZVBsQzhtTWszTWpvOThSNkpnaUJpaDZtUFNmYURteUJGZHdtNlpyVzNmRmJ6WHliZ19vWW1kYTNENE1BX3lUWTFrSHlZZW1uSGVvNWRETURlYXdBcXVyVUdj?oc=5",
@@ -5434,6 +5371,24 @@
       ],
       "urgent": false,
       "published": "2026-10-18T21:46:51+03:30",
+      "published_fa": "1405/07/26 - 21:46",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ از نتانیاهو برای انتخاب مجدد حمایت کرد - Politico",
+      "title_original": "Trump endorses Netanyahu for reelection - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0dCMDJsSy1TcTRPbHJXV1hQbHlQWFRvR0paSXM3SjI0OUUzOE5TQS1wa2V1aFp5MU5xcmVsQVFOWVVHNW94Qm9XanNYX0puY0k0eWhyN1lvNEdEdlFqc2Z0bHRia3ZmaUJwRXZ3bGlqZGg5bGhvdVNENmZSUXBZZWx2MF9LUlAyRWF1RjRSSGNtc3M?oc=5",
+      "summary": "ترامپ از نتانیاهو برای انتخاب مجدد پولتیکو حمایت کرد",
+      "summary_original": "Trump endorses Netanyahu for reelection Politico",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-18T21:46:00+03:30",
       "published_fa": "1405/07/26 - 21:46",
       "translated": true,
       "verified_source": true
@@ -5490,24 +5445,6 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ از نتانیاهو برای انتخاب مجدد حمایت کرد - Politico",
-      "title_original": "Trump endorses Netanyahu for reelection - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0dCMDJsSy1TcTRPbHJXV1hQbHlQWFRvR0paSXM3SjI0OUUzOE5TQS1wa2V1aFp5MU5xcmVsQVFOWVVHNW94Qm9XanNYX0puY0k0eWhyN1lvNEdEdlFqc2Z0bHRia3ZmaUJwRXZ3bGlqZGg5bGhvdVNENmZSUXBZZWx2MF9LUlAyRWF1RjRSSGNtc3M?oc=5",
-      "summary": "ترامپ از نتانیاهو برای انتخاب مجدد پولتیکو حمایت کرد",
-      "summary_original": "Trump endorses Netanyahu for reelection Politico",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-18T20:46:00+03:30",
-      "published_fa": "1405/07/26 - 20:46",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ترامپ می گوید ممکن است آمریکا «به زودی کارش را در مورد ایران تمام کند»، نتانیاهو قول داد رژیم ایران را سرنگون کند",
       "title_original": "Trump says US may ‘soon finish the job’ on Iran, Netanyahu vows to topple regime - Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSTmxWOUFCeEJadWZlNmpubGhjdGtMbThJd2k3ZVA5Z2wxYkF6VUFUQ0tpRHZHc05wRS1rSy1uZnkzTzBqRTd4WDN1Zlo4U25HRmc?oc=5",
@@ -5540,6 +5477,24 @@
       "urgent": false,
       "published": "2026-10-18T20:33:41+03:30",
       "published_fa": "1405/07/26 - 20:33",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ از نتانیاهو برای انتخاب مجدد به عنوان رهبر اسرائیل حمایت کرد - Bloomberg.com",
+      "title_original": "Trump Endorses Netanyahu for Reelection as Israeli Leader - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWFMOGFjZlA5SUhiS1ZKM3lyWnN2MVBrbUY4NlhWWllWSTE0U192RmxBTDY5azMzT2ttWFI2U195UkZGcUVOVnVsS0ZnX0tCX1RneVo2RTRZZ3Z3SFJDa0FzR0hYUmEzQ2VPclhrai1SX1o1eXdSa2huaENtUmdRWnV5MGhaS182X3pyQ2lPVy11d3JCUUMzUVJzSE1jY0hyVk5vVVhsQzNoSTVa?oc=5",
+      "summary": "ترامپ از نتانیاهو برای انتخاب مجدد به عنوان رهبر اسرائیل حمایت کرد Bloomberg.com",
+      "summary_original": "Trump Endorses Netanyahu for Reelection as Israeli Leader Bloomberg.com",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-18T20:23:57+03:30",
+      "published_fa": "1405/07/26 - 20:23",
       "translated": true,
       "verified_source": true
     },
@@ -5666,6 +5621,24 @@
       "verified_source": true
     },
     {
+      "title": "ترامپ پیش از انتخابات اسرائیل از نتانیاهو حمایت می کند - The Hill",
+      "title_original": "Trump endorses Netanyahu ahead of Israeli elections - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW1fZGxCNF8wVWxwa0RRQmgzRWpWZFhKdVY1VW90QlAwVXJPYWNHOXExb2I5bDBDZ2NsSHlLZVAyeHI3azVKQ2J4cjVqSXRVZjduMFFuekRMUHdJZ0R6MDVNZGFlY0ZWNy00TVhpbEhhU0RlXzdXUE5kX1duaWRaSGFHXzlGX0NyZWtoZWljQVZjd9IBlwFBVV95cUxOUkwzQnY0THNLS1VTZDRtQVRzU255XzVqWVFKeXQ1VUZKek5ZTlQ4c05hekN4bnk3UHlxdWw5LWNpdlgzQjRWLUJ5a016eUNCRFBUdVdqYzVzUkQxQURhUVB5amFCOW5vcGk1eTdVYVVjRVp0RmEzaHI3eVNIdEk4azF4WU9EXzVRTWJNTW9qdlF0VUx6Wm1B?oc=5",
+      "summary": "ترامپ پیش از انتخابات اسرائیل از نتانیاهو حمایت می کند",
+      "summary_original": "Trump endorses Netanyahu ahead of Israeli elections The Hill",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-18T19:15:00+03:30",
+      "published_fa": "1405/07/26 - 19:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "ملونی «باندهای اراذل و اوباش» را پس از اینکه اعتراضات در سراسر ایتالیا به خشونت کشیده شد، محکوم کرد",
       "title_original": "Meloni condemns ‘gangs of thugs’ after protests turned violent across Italy",
       "link": "https://www.foxnews.com/world/meloni-condemns-gangs-thugs-after-protests-turned-violent-across-italy",
@@ -5678,6 +5651,23 @@
       ],
       "urgent": false,
       "published": "2026-10-18T19:04:57+03:30",
+      "published_fa": "1405/07/26 - 19:04",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "بنیامین نتانیاهو روسیه را به کمک به ایران و اقدام علیه منافع اسرائیل متهم کرد - جروزالم پست",
+      "title_original": "Benjamin Netanyahu accuses Russia of aiding Iran, acting against Israeli interests - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pNHhDcnZ6N0s5UzI0LXpaYjBaRTFqMUJ0SXFqbFNUZ3lXTG1mb2pYUzhXQWZONDZtWTFwRTAyeG9jUTdVQzNDZVpZSDhZdjJTYmlGSFB2RnFwVlNuQU5N?oc=5",
+      "summary": "بنیامین نتانیاهو روسیه را به کمک به ایران و اقدام علیه منافع اسرائیل متهم کرد.",
+      "summary_original": "Benjamin Netanyahu accuses Russia of aiding Iran, acting against Israeli interests The Jerusalem Post",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-18T19:04:55+03:30",
       "published_fa": "1405/07/26 - 19:04",
       "translated": true,
       "verified_source": true
@@ -5783,21 +5773,6 @@
       "urgent": false,
       "published": "2026-10-18T18:24:00+03:30",
       "published_fa": "1405/07/26 - 18:24",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "زنده - هگزث پس از بازدید اسرائیل از ایران اینترنشنال می گوید: نیروهای آمریکایی آماده اقدام علیه ایران هستند",
-      "title_original": "Live - US troops ready to act against Iran, Hegseth says after Israel visit - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc?oc=5",
-      "summary": "زنده - پس از بازدید اسرائیل از ایران اینترنشنال، هگزت می گوید که نیروهای آمریکایی آماده اقدام علیه ایران هستند",
-      "summary_original": "Live - US troops ready to act against Iran, Hegseth says after Israel visit Iran International",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-18T16:26:53+03:30",
-      "published_fa": "1405/07/26 - 16:26",
       "translated": true,
       "verified_source": true
     },
@@ -5918,21 +5893,6 @@
       "verified_source": true
     },
     {
-      "title": "چرا جنگ ایران مانع چین در شرق آسیا نشده است - اولویت های دفاعی",
-      "title_original": "Why the Iran war hasn’t deterred China in East Asia - Defense Priorities",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYkdKcEtUNlRIUlYtUjdwdWtVOE04TGZLUUhYYjVfaEZxUFhqQnhjR0VJS3R0ZzIyUHlqU19yT2JjOGZSalVGdkdHbHhMYnRsSkxLTDB2Rndiem1yaWVMc2dmeVZfRkVRaURncUZfUV9JX2hEdGFCRzdrRkpGOHpHOVYwVzlNTVNkR2ljbE83RGQ1ckpEUHVYdA?oc=5",
-      "summary": "چرا جنگ ایران چین را در اولویت های دفاعی شرق آسیا منصرف نکرده است؟",
-      "summary_original": "Why the Iran war hasn’t deterred China in East Asia Defense Priorities",
-      "source": "Google News",
-      "category": "analysis",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-18T10:30:00+03:30",
-      "published_fa": "1405/07/26 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "تلفات و جراحات در پایگاه نیروهای کانادایی Wainwright در آلبرتا پس از \"حادثه\" آتش سوزی گزارش شده است.",
       "title_original": "Fatalities, injuries reported at Canadian Forces Base Wainwright in Alberta after 'incident' that sparked fire",
       "link": "https://www.foxnews.com/world/fatalities-injuries-reported-canadian-forces-base-wainwright-alberta-after-incident-sparked-fire",
@@ -6022,6 +5982,21 @@
       "published": "2026-10-18T00:25:44+03:30",
       "published_fa": "1405/07/26 - 00:25",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "مدیر عامل رافائل می گوید اسرائیل جنگ ایران را با رهگیرهای بیشتری از آنچه که با آن شروع کرده بود به پایان رساند - جروزالم پست",
+      "title_original": "Israel ended Iran war with more interceptors than it started with, Rafael CEO says - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FNWhJWVVFcXdsM1JScWZzb0RfUzVhNjZ6SFZxdWJUQTB0NGoxdjRZN0YwMkJGcFczVUF4Ni03bDNQVnFPM3ZSZ3VZQUZpQWE3Q1JxV3ZZdExpT0NHakE4TTc5TQ?oc=5",
+      "summary": "جروزالم پست، مدیر عامل رافائل می گوید اسرائیل جنگ ایران را با رهگیرهای بیشتری از آنچه که با آن شروع کرده بود به پایان رساند.",
+      "summary_original": "Israel ended Iran war with more interceptors than it started with, Rafael CEO says The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T21:46:57+03:30",
+      "published_fa": "1405/07/25 - 21:46",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -6137,17 +6112,19 @@
       "verified_source": true
     },
     {
-      "title": "جنگ ایران 2026 | نفت، توضیح داده شده، ایالات متحده، اسرائیل، تنگه هرمز، نقشه، و درگیری - بریتانیکا",
-      "title_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-      "summary": "جنگ ایران 2026 | نفت، توضیح داده شده، ایالات متحده، اسرائیل، تنگه هرمز، نقشه، و درگیری بریتانیکا",
-      "summary_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
+      "title": "انتخابات اسرائیل: بنیامین نتانیاهو نگران است که جنگ با ایران، انتخابات را به گادی آیزنکوت واگذار کند - جروزالم پست",
+      "title_original": "Israel election: Benjamin Netanyahu fears war with Iran could hand election to Gadi Eisenkot - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jM3VNbExndU0yMFM3eC1ldHdLSXJlLWRLRmd1eFBfbjlRTjh5SnZrY0FlYWtnREU4TENEcnVfUWRBemx6aDJwa2gwTUQ5Tmo5cWZzbGo5SnZYcmJIUEJjb054cXVlZEd4?oc=5",
+      "summary": "انتخابات اسرائیل: بنیامین نتانیاهو از جنگ با ایران می‌ترسد که گادی آیزنکوت انتخاب شود. جروزالم پست",
+      "summary_original": "Israel election: Benjamin Netanyahu fears war with Iran could hand election to Gadi Eisenkot The Jerusalem Post",
       "source": "Google News",
-      "category": "economy",
-      "tags": [],
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
       "urgent": false,
-      "published": "2026-10-15T08:30:00+03:30",
-      "published_fa": "1405/07/23 - 08:30",
+      "published": "2026-10-15T14:11:45+03:30",
+      "published_fa": "1405/07/23 - 14:11",
       "translated": true,
       "verified_source": true
     },
@@ -6345,6 +6322,23 @@
       "verified_source": true
     },
     {
+      "title": "به روز رسانی جنگ ایران: ائتلاف به رهبری عربستان به حوثی ها ضربه زد. گفتگوی پوتین و ترامپ درباره ایران - الجزیره",
+      "title_original": "Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1ZDbTBzS2w5TzZUNTQ2TFhqTnFRd1VoRUZDYnhTWE9VSmZkTDlaMkZXc0xLX18ycl94ZnJnanJ3SnJueXpWOUpIRVZFbklFb0lCdUNDSFY3Rk9rNTJTSE1UYzhYYVNSZDNpeHBUb1Q5QS1OR05NWWdJOXlKcGhTWlRsN2hmTHluRkVYM25VSHNSQzZtSThPWmk4U2ZFOEJzNEtmUEtmcXlPQjRaWktUM295a1RmUWtPOFBXbzB30gHDAUFVX3lxTE85QjZwYndUd1RiczR0WFg2akJ5aVdIdS1sbUMyYUxGTjFyUG1idjhsRmlhb0VNWlIteDROYm1VTkF3MXZPYzZ1cEE1RDFXc3NzWW1DTnliQWVVQWlCUF9BNHFMWHBROUZxdVhNYTdIZkNtbWFROFNtZlFnUy1hdHp4eDQyUmlkVWZ1aVJBbVBIalRWeHM2VHh2bzJKdm9iNjdsdldFa2tvZzBTTHZXYm1ORmhZdUw2WVhxSk9hWEVpSFdHaw?oc=5",
+      "summary": "به روز رسانی جنگ ایران: ائتلاف به رهبری عربستان به حوثی ها ضربه زد. گفتگوی پوتین و ترامپ با ایران الجزیره",
+      "summary_original": "Iran war updates: Saudi-led coalition hits Houthis; Putin, Trump talk Iran Al Jazeera",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-09T10:30:00+03:30",
+      "published_fa": "1405/07/17 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "به ارتش دستور داده شد تا برای حملات احتمالی ایران آماده باشند، زیرا ترامپ زمان بندی را می سنجد - Axios",
       "title_original": "Military ordered to be ready for possible Iran strikes as Trump weighs timing - Axios",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5",
@@ -6358,6 +6352,21 @@
       "urgent": false,
       "published": "2026-10-07T10:30:00+03:30",
       "published_fa": "1405/07/15 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "یاهو: ایران به آمریکا می گوید جنگ خاورمیانه راه حل نظامی ندارد",
+      "title_original": "Iran tells US there is no military solution to Middle East war - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkVIbEtsaVAxamRMTGdVOV95M2s5azF3RDVBSzFzU3dVZlZJbVB5MXN3UG03RW9RdW9QZ3Nic3h6eGZaYVZDZk5sMGZjR2xOaDE3MS0tZzNuLVRkQm9ES3ByLV9RMWpySUhzMDdmaU9nN25peEo3dmxsd21oTm1PZmp5WXVpWTNUU1E?oc=5",
+      "summary": "ایران به آمریکا می گوید جنگ خاورمیانه راه حل نظامی ندارد یاهو",
+      "summary_original": "Iran tells US there is no military solution to Middle East war Yahoo",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-04T10:30:00+03:30",
+      "published_fa": "1405/07/12 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6394,21 +6403,6 @@
       "verified_source": true
     },
     {
-      "title": "خاورمیانه فراتر از جنگ ایران - موسسه خاورمیانه",
-      "title_original": "The Middle East Beyond the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WREhlMmRIWjVDWG1OQnJia3pfTUhqT2p1ejJGQnRKaFZGb3ZXVUFGMnBWV3pHeXJvazd0LTRtY29OVHE2NDRoQVRMaGw0S1V0VGNWUkJIZmhlSlJIY3NmNzJEc2lWMWR0RnJr?oc=5",
-      "summary": "موسسه خاورمیانه فراتر از جنگ ایران",
-      "summary_original": "The Middle East Beyond the Iran War Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-28T10:30:00+03:30",
-      "published_fa": "1405/07/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "افزایش صادرات نفت خاورمیانه با شکست ایران در هرمز - WSJ",
       "title_original": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXZCOUR5RDZOTzRjOGhCVjJQRC1UR2I5SklaXzFSWW9WUzVDa2FZTTVoZ2xQakt1SXJCOThvckx5YnN0WWdYV0ZRWHA0YlB6ODFGdV9adng0ZHdjOC1PV3k5X05MYmE4VS15eW9RRkR6M3Y3TXhadmgyeU8tRnpONXBKQVB4TVBDb1RQQk5TQlZrQ1VfTUFMekFPNi03UkNkV2h2QTlsSmhPLVl4bVF2SHNQU0g2UzF4b19B?oc=5",
@@ -6439,28 +6433,26 @@
       "verified_source": true
     },
     {
-      "title": "ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز و دیگر اخبار خاورمیانه را رد کرد - PBS",
-      "title_original": "Trump rejects Iran's proposal to reopen the Strait of Hormuz, and other Middle East news - PBS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlZ0aWRwdmFJU1pOQ3ZUWlByckdUVEt1ZGRUb20xYUFNRVBfMDZHa1o0RUN1czZNbkdFWTNodkV1YUc2ZHRWb3FYakdnMkxBaG5yNDdkUWpabkhSSzhxbUVHWXVXTFIta0ZxbEVQc0w0UmlGOVpTX0VGV29FQkExaDlUT2xxYlQ5eEM3YXZnbHl1Rnlvd1lSSHdzcExyVXJnanRnY1dDNGZoalhpaDdKdDgxOVo2ZVVvY3ZTazZB?oc=5",
-      "summary": "ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز و دیگر اخبار خاورمیانه را PBS رد کرد",
-      "summary_original": "Trump rejects Iran's proposal to reopen the Strait of Hormuz, and other Middle East news PBS",
+      "title": "خاورمیانه فراتر از جنگ ایران - موسسه خاورمیانه",
+      "title_original": "The Middle East Beyond the Iran War - Middle East Institute",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55WXlRX0RmeXFaV0FuakVYUldQY0h2a2NhQjFxZS1qU0ROY0d4aFl1ckd0MXBBYU00bDF1cWRxN3diZW5OcW9QbnA0elREM2QySnhzanNRYW9mUmcySGZhYmd4TWhaZjlwV3Y1cUktRQ?oc=5",
+      "summary": "موسسه خاورمیانه فراتر از جنگ ایران",
+      "summary_original": "The Middle East Beyond the Iran War Middle East Institute",
       "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
+      "category": "other",
+      "tags": [],
       "urgent": false,
-      "published": "2026-09-26T10:30:00+03:30",
-      "published_fa": "1405/07/04 - 10:30",
+      "published": "2026-09-28T10:30:00+03:30",
+      "published_fa": "1405/07/06 - 10:30",
       "translated": true,
       "verified_source": true
     },
     {
-      "title": "ترامپ پیشنهاد ایران برای باز کردن هرمز و پایان دادن به جنگ را رد کرد - رویترز",
-      "title_original": "Trump rejects Iranian proposal to open Hormuz and end fighting - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZTlYWmNvWG9uODA3NXdWTTQ0d1EtNnFKczBKYThkcFExSmZGWjlqb2xmc0ZsUDNsYWxUWjhLNm1ocTRCcmJDMGdhUmZ1NC1WdjVJdWFxNDRzLTA0Mk11dUN6WHkyUUVpcFMxV1A1d2RFUXljR0xlY293UldHb2ZoUDAzT294ZmVUWVdCZUEzUTlGSkp4cEhTLTVqTllkU3lDNDREeXFqVlQzSUU1VGpnXzZYZ1ZSMXZ3dmU0Tg?oc=5",
-      "summary": "ترامپ پیشنهاد ایران برای باز کردن هرمز و پایان دادن به جنگ رویترز را رد کرد",
-      "summary_original": "Trump rejects Iranian proposal to open Hormuz and end fighting Reuters",
+      "title": "ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز و دیگر اخبار خاورمیانه را رد کرد - PBS",
+      "title_original": "Trump rejects Iran's proposal to reopen the Strait of Hormuz, and other Middle East news - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlZ0aWRwdmFJU1pOQ3ZUWlByckdUVEt1ZGRUb20xYUFNRVBfMDZHa1o0RUN1czZNbkdFWTNodkV1YUc2ZHRWb3FYakdnMkxBaG5yNDdkUWpabkhSSzhxbUVHWXVXTFIta0ZxbEVQc0w0UmlGOVpTX0VGV29FQkExaDlUT2xxYlQ5eEM3YXZnbHl1Rnlvd1lSSHdzcExyVXJnanRnY1dDNGZoalhpaDdKdDgxOVo2ZVVvY3ZTazZB0gHDAUFVX3lxTE1ZZEdtZVdrQ01mbk85Z0JVdTBOOF9BZ1FXcXBFOGxjNExaN3pySk5ERmRDZURUSWJWWkw4eUd1cllmd0hxNzZteHlOLUpKTDFKUDdKUzBQV3Y1X3AtaWhSMnBIa01OTVFFVzJ2SWtybHNjSGozY01vTE0weEN3THBVOVNtZ3ZfQlp3MnRtdEV6VjRyYXRFM2FjSU9ycHlJX3ZZZGMtOUdlN05vRWZqajNORThMaHhyRFduSG55YUZXZFZSTQ?oc=5",
+      "summary": "ترامپ پیشنهاد ایران برای بازگشایی تنگه هرمز و دیگر اخبار خاورمیانه را PBS رد کرد",
+      "summary_original": "Trump rejects Iran's proposal to reopen the Strait of Hormuz, and other Middle East news PBS",
       "source": "Google News",
       "category": "politics",
       "tags": [
@@ -6533,21 +6525,6 @@
       "verified_source": true
     },
     {
-      "title": "ایران و نظم امنیتی نوظهور در خاورمیانه - CSIS | مرکز مطالعات استراتژیک و بین المللی",
-      "title_original": "Iran and the Emerging Security Order in the Middle East - CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEVWtfWXRCTkVQdUsxNjN0STZDY2hnYTFMR09GZ2VsanV6eHJZNUVYRXFwNGZSYWhzejU4bmF3dVlBN0lhamVHTVdzSkg2OVlNRGk5Y1lMQVZTRmk3VHR3Q2V6bF9WeHEzUE05Ym1pdmJENTlQQUppQ2pCZVhmM00?oc=5",
-      "summary": "ایران و نظم امنیتی نوظهور در خاورمیانه CSIS | مرکز مطالعات استراتژیک و بین المللی",
-      "summary_original": "Iran and the Emerging Security Order in the Middle East CSIS | Center for Strategic and International Studies",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-14T10:30:00+03:30",
-      "published_fa": "1405/06/23 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "ترامپ - بی بی سی می گوید: جنگ ایران تا پس از انتخابات سرنوشت ساز نوامبر پایان نخواهد یافت",
       "title_original": "Iran war won't end until after crucial November elections, says Trump - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OM3F6X1RpZkkzWm1UMFFfVXlQLWFLSG5PNHZwVFN6ZnNNQzYwazlBamZzRkhoNmo3OEFNT25acm9PTWd3Y0pCLUdjWGxhZVAycnVtWEJ0UnFxQQ?oc=5",
@@ -6558,21 +6535,6 @@
       "tags": [
         "ترامپ"
       ],
-      "urgent": false,
-      "published": "2026-09-10T10:30:00+03:30",
-      "published_fa": "1405/06/19 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "به روز رسانی جنگ ایران: شورای امنیت سازمان ملل در مورد یمن پس از تصرف شهر موکا توسط حوثی ها تشکیل جلسه داد - الجزیره",
-      "title_original": "Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSi05Yl9uRDRWMVJyalZULUVmOGVmMzBwN2xtQTU4Qzh2NlBvVUNBX0tRam90VkI5b2Z0NXMxaUNENHVoejNaNkJoN3Byd29EX1FRQldDN25JQ0ZBcnBiMTg2YWg2VXFoUHFDTTBMM3IybWN4MUZ3dU1kdjV0QUd4ckRQOW9xbVplUWlZQl9FVGxHNlZiejBfWUxucGpvamYzeXIzUU13U2xqTFZaeEppYkVzUS13aGtTLTJZdtIBwgFBVV95cUxNbmdDM2Y5SlMxdnVlekM0RzUzM3IzZXZTMXRQYzd2b1ctWjVFNUxCaTA2d1Z4Qm9fcTltZ0lUdGRLQjlPM0hGUmQycFBuMkxEYVlsYXNpMzBXVS1BUFVqZHdsdmZiYzZmNjJ4UGpFMGh0bW1mLXJrMUtNZWtFTkJVQ1ZMeG1CRDBTZThNT3hhMFlNbC0wZm1WMFVsb2w0Z0RoT3pITnczOVp1MkJJSkNRdzV5RkVhVDNNbV9CQ0I0emg1dw?oc=5",
-      "summary": "به روز رسانی جنگ ایران: شورای امنیت سازمان ملل در مورد یمن پس از تصرف شهر موکا الجزیره توسط حوثی ها تشکیل جلسه داد.",
-      "summary_original": "Iran war updates: UNSC meets on Yemen after Houthis seize city of Mocha Al Jazeera",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
       "urgent": false,
       "published": "2026-09-10T10:30:00+03:30",
       "published_fa": "1405/06/19 - 10:30",
