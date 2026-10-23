@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T11:01:27.270775+00:00",
-  "generated_at_fa": "1405/08/01 - 14:31",
-  "count": 402,
+  "generated_at": "2026-10-23T11:34:15.226209+00:00",
+  "generated_at_fa": "1405/08/01 - 15:04",
+  "count": 403,
   "items": [
     {
       "title": "آنچه گذشت؛ رسانه‌های اسرائیل: رئیس ستاد ارتش گفته ضرورتی برای حمله به ایران پیش از انتخابات نمی‌بیند",
@@ -15,26 +15,101 @@
         "ترامپ"
       ],
       "urgent": true,
-      "published": "2026-10-23T14:28:45.501591+03:30",
-      "published_fa": "1405/08/01 - 14:28",
+      "published": "2026-10-23T15:00:47.572119+03:30",
+      "published_fa": "1405/08/01 - 15:00",
       "translated": false,
       "verified_source": true
     },
     {
-      "title": "رکورد جدید بهای نفت در آستانه انتخابات در اسرائیل و آمریکا؛ برنت بشکه‌ای ۱۱۳ دلار",
+      "title": "افزایش حملات به نفتکش‌ها در خلیج فارس، امارات از نشت نفت در سواحل خود خبر داد",
       "title_original": "",
       "link": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-      "summary": "بهای نفت همچنان رو به افزایش است و در آغاز معاملات روز جمعه، اول آبان، قیمت هر بشکه نفت برنت به بالای ۱۱۳ دلار آمریکا رسید. دونالد ترامپ مدعی شده است که ایران با انتشار «اخبار جعلی» سعی در بالابردن بهای نفت، آن هم در آستانه انتخابات میان دوره‌ای آمریکا دارد. فرمانده نیروی دریایی سپاه پاسداران در اظهاراتی مدعی شده است که «آمریکایی‌ها در خلیج فارس حضور ندارند.» او گفته است: «امروز آمریکایی‌ها در خلیج فارس حضور ندارند و ۶۰۰ تا ۷۰۰ کیلومتر از تنگه هرمز فاصله گرفته‌اند.»",
+      "summary": "با افزایش تنش‌ها در منطقه و حملات به کشتی‌ها در تنگه هرمز، امارات متحده عربی روز جمعه از نشت نفت از یک نفتکش در سواحل خود خبر داد. وزارت تغییر اقلیم و محیط زیست امارات گفت که در نتیجه این نشت نفت سواحل ام‌القوین در شمال دوبی بسته شده است و تیم‌ها بلافاصله عملیات مهار، محصور کردن، پاکسازی و احیای محیط زیست را آغاز کرده‌اند. در روزهای اخیر، بسیاری از ساکنان مناطق شمالی این کشور، از جمله ساکنان بخش‌های شمالی دوبی، در شبکه‌های اجتماعی از استشمام بوی نفت خبر داده‌اند. در هفته‌های اخیر، گزارش‌هایی از حملات مکرر به کشتی‌ها در نزدیکی تنگه هرمز منتشر شده است.",
       "summary_original": "",
       "source": "BBC Persian",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T15:00:47.570593+03:30",
+      "published_fa": "1405/08/01 - 15:00",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "نیروهای کمکی نظامی به سمت خاورمیانه حرکت می کنند. و میلیون ها آمریکایی زودتر رای می دهند - NPR",
+      "title_original": "Military reinforcements move to Mideast. And, millions of Americans vote early - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa29KcUNsazVzV2xtd0xheXQwTUdiUVY1THRSNVdSSjVYMUlzRzBiOTI0cGFVaW10UDZ2TjdQU2QySkV5WjVqMXIxdEZ3cm9mMDFCcUJ2eFJ1dTI3dC0wd1BaMWlwNUdTVzU4a2U1V09HcGI5UERDZlBwOVNGUlJXQXp2Tzk2TjU4ZFhIRG9HWlozZ2ZSZ2YxYlRmVlo?oc=5",
+      "summary": "نیروهای کمکی نظامی به سمت خاورمیانه حرکت می کنند. و میلیون ها آمریکایی رای اولیه NPR دارند",
+      "summary_original": "Military reinforcements move to Mideast. And, millions of Americans vote early NPR",
+      "source": "Google News",
       "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T14:52:25+03:30",
+      "published_fa": "1405/08/01 - 14:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "تصادف شدید آندره اونانا در ترکیه؛ دروازه‌بان ترابزون‌اسپور از مرگ گریخت",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610239707",
+      "summary": "آندره اونانا، دروازه‌بان کامرونی ترابزون‌اسپور، پس از پیروزی تیمش در لیگ کنفرانس اروپا، همراه خانواده‌اش در یک تصادف زنجیره‌ای گرفتار شد.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T14:42:03+03:30",
+      "published_fa": "1405/08/01 - 14:42",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "آتش‌سوزی‌های اندونزی نگاره‌های ۶۷ هزار ساله در غار را تهدید می‌کند",
+      "title_original": "",
+      "link": "https://www.iranintl.com/2026102380240",
+      "summary": "گرما و دود آتش‌سوزی‌های گسترده در اندونزی، خطر فرسایش کهن‌ترین نقاشی‌های شناخته‌شده در غار در جزیره سولاوسی را افزایش داده است. آتش تا ۸۰۰ متری یکی از غارها پیش رفته و بیش از ۲۷۰ هکتار از پارک ملی اطراف آن سوخته است.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T14:42:00+03:30",
+      "published_fa": "1405/08/01 - 14:42",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه - جروزالم پست",
+      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRmRGc3ZtM0I1MHFweHAyVW80Z3hnUkpVQmprX1ZIVDBZMXFvWGswdHBVSUxaX1M4WWZ4c21pU0xKYTdmS0NtQWk0OFk1RVNYS25iQ0UwZDBfN0NPLTgwS0ZaZFZiZEFtMTBYLVFZR3VoWUNnNzNwTEdYTF9sOEU?oc=5",
+      "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
+      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T14:30:05+03:30",
+      "published_fa": "1405/08/01 - 14:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "کاخ سفید سیاست های مرزی بایدن را پیش از سفر ترامپ به فلوریدا با اشاره به قتل وحشیانه با چکش مورد انتقاد قرار داد",
+      "title_original": "White House blasts Biden border policies ahead of Trump Florida visit, citing brutal hammer killing",
+      "link": "https://www.foxnews.com/politics/white-house-blasts-biden-border-policies-ahead-trump-florida-visit-citing-brutal-hammer-killing",
+      "summary": "اختصاصی - کاخ سفید به قتل بی‌رحمانه یک مادر فلوریدا با چکش اشاره می‌کند، در حالی که رئیس‌جمهور دونالد ترامپ آماده می‌شود تا سرفصل یک تجمع میان دوره‌ای در فورت مایرز را در روز جمعه برگزار کند، و سخنگویی به فاکس نیوز دیجیتال گفت که این پرونده عواقب سیاست‌های مرزی جو بایدن، رئیس‌جمهور سابق را نشان می‌دهد. ترامپ قرار است ساعت 2 بعدازظهر سخنرانی کند. در آلیکو آرنا دانشگاه خلیج فارس فلوریدا، پیش از انتخابات میان دوره ای 3 نوامبر. کاخ سفید در حالی به قتل در همان شهر اشاره می کند که آماده می شود تا سوابق اجرایی مهاجرت رئیس جمهور را مورد توجه قرار دهد. لورن بیس، سخنگوی کاخ سفید به فاکس نیو گفت: «چند ماه پیش، یک بیگانه غیرقانونی، زنی را در خارج از پمپ بنزین در فورت مایرز با ضربات متعدد چکش به سر او به طرز وحشیانه ای کشت.",
+      "summary_original": "EXCLUSIVE – The White House is highlighting the brutal hammer killing of a Florida mother as President Donald Trump prepares to headline a midterm rally in Fort Myers on Friday, with a spokesperson telling Fox News Digital that the case demonstrates the consequences of former President Joe Biden's border policies. Trump is scheduled to speak at 2 p.m. at Florida Gulf Coast University's Alico Arena, ahead of the Nov. 3 midterm elections. The White House is pointing to the killing in the same city as it prepares to put a spotlight on the president's immigration enforcement record. \"A few short months ago, an illegal alien barbarically killed a woman outside of a gas station in Fort Myers by hitting her on the head with a hammer multiple times,\" White House spokeswoman Lauren Bis told Fox News Digital exclusively. DEM-LED PUSH TO EXTEND PROTECTIONS FOR HAITIANS FACES OUTRAGE AFTER BRUTAL HAMMER KILLING \"This heinous murderer was RELEASED into the country by the Biden administration. Not only did the Biden administration release him into the country, but they then gave him Temporary Protected Status. This is the result of Democrats open-border policies. If you import the third world, you become the third world.\" Trump previously condemned the killing in an April Truth Social post, calling the surveillance video \"one of the most vicious things you will ever see\" and blaming the Biden administration for allowing the suspect into the country. \"This one killing should be enough for t",
+      "source": "Fox News",
+      "category": "politics",
       "tags": [
         "ترامپ"
       ],
       "urgent": false,
-      "published": "2026-10-23T14:28:45.500038+03:30",
-      "published_fa": "1405/08/01 - 14:28",
-      "translated": false,
+      "published": "2026-10-23T14:30:04+03:30",
+      "published_fa": "1405/08/01 - 14:30",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -117,6 +192,21 @@
       "verified_source": true
     },
     {
+      "title": "ژنرال بازنشسته درباره طرح آمریکا و اسرائیل برای حمله احتمالی به ایران بحث می کند - NPR",
+      "title_original": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnVxMnpPdU1HY3hTSHk2T3I3U0dvZHMwbU9DT2pvb1NEb1RnRDNxNWF1LVdKSm5QS2RQbThQRUtJbkE0OHpUX2pESGF2azBUUTNTMDMwQXZQY24yQkJ5UUtnTnMxemUxdW5xM1Z4bGFDTFZRYk4xR1V1ZHZ2UFZWVFVTdm9FWHF4bjBPWWVjeXpDMW00U0Z4aHJvU2tROXZtNkJhUHNNb2NDOGhyd1h4YktjMkJkeXZEUlFJbzJCTEo?oc=5",
+      "summary": "ژنرال بازنشسته درباره طرح آمریکا و اسرائیل برای حمله احتمالی به NPR ایران بحث می کند",
+      "summary_original": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran NPR",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": true,
+      "published": "2026-10-23T14:06:15+03:30",
+      "published_fa": "1405/08/01 - 14:06",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "زنده: نتانیاهو پس از تیراندازی کرانه باختری را «قطع کامل» اعلام کرد - الجزیره",
       "title_original": "Live: Netanyahu announces ‘full lockdown’ of West Bank following shooting - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3o4M2xXdHNxMjUycUNrdDRtTGNVNGJDcGpzRC1FR2luNGxVU3M2TjhzRE5mc3lQbV9UR1piZmI0b1F2UEtTS1NBQ0kxVXRnS3pySmF2YWhMRjRoZkdTQ1FaNGctOVV5WnR2VnMyZkM0NGljWS1ZNzhibXdENWxDMU1IWWpJR0k3aDRGeHNDNVJFMHYxNDJJZFRHLVgwZDFiM3dlcFdFaEp0Y0nSAbABQVVfeXFMT0x5NFRHWUFWQ3NIbjlZNlFYamhOcFRwdDFUaVB4c08tSjYtUTJwanVRSmc3RkQ0cWlQODNzNy0tSjRNXzkwQnBLTUZNVGNyWWZ3SmY5WEhXWXdkcmU5VUx6emp3cEEtRnFmM0ZxTG9aZk5zWHZ3QUlHOGw2NHNyd29CSUNrVUx0eVk3TVNKMTVpU1FidnNpRHZWc1Vvb3ZKOEw0VHlGQ3YtdkpBTVNBdTA?oc=5",
@@ -180,21 +270,6 @@
       ],
       "urgent": false,
       "published": "2026-10-23T13:30:17+03:30",
-      "published_fa": "1405/08/01 - 13:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه - جروزالم پست",
-      "title_original": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRmRGc3ZtM0I1MHFweHAyVW80Z3hnUkpVQmprX1ZIVDBZMXFvWGswdHBVSUxaX1M4WWZ4c21pU0xKYTdmS0NtQWk0OFk1RVNYS25iQ0UwZDBfN0NPLTgwS0ZaZFZiZEFtMTBYLVFZR3VoWUNnNzNwTEdYTF9sOEU?oc=5",
-      "summary": "به روز رسانی زنده: جدیدترین ها از اسرائیل، ایران و خاورمیانه The Jerusalem Post",
-      "summary_original": "Live Updates: Latest from Israel, Iran, and the Middle East The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-23T13:30:05+03:30",
       "published_fa": "1405/08/01 - 13:30",
       "translated": true,
       "verified_source": true
@@ -656,11 +731,13 @@
       "title": "دو مرد مسلح مظنون در تیراندازی به 5 اسرائیلی در کرانه باختری کشته شدند",
       "title_original": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
       "link": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
-      "summary": "به گفته مقامات، در تیراندازی روز جمعه در جنوب کرانه باختری پنج نفر زخمی شدند که حال دو نفر از آنها وخیم است و دو مرد مسلح مظنون کشته شدند. نیروهای دفاعی اسرائیل (IDF) گزارش دادند که به تیراندازی در منطقه Judea Junction در روز جمعه پاسخ دادند و دو نفر را که به عنوان \"تروریست\" شناسایی شدند، کشتند. ارتش اسرائیل گفت در حالی که آژانس به جستجوی منطقه ادامه می داد، محاصره ایجاد شد. به گزارش تایمز اسرائیل، مأموریت داخل اسرائیل برای آموزش غیرنظامیان برای توقف حمله تروریستی بعدی مانند 7 اکتبر، پنج اسرائیلی در این تیراندازی زخمی شدند. نیروهای امدادی اولیه به این منبع گفتند که دو نفر به شدت زخمی شدند و حال سه نفر از آنها خفیف تا متوسط ​​بود. پزشکی رزمی اسراییل پس از 7 اکتبر مرگ ارتش اسرائیل را کاهش داد و منافع نظامی ایالات متحده را جلب کرد Magen David Adom، ظهور اسرائیل",
-      "summary_original": "Five people were wounded, including two critically, and two suspected gunmen were killed in a shooting Friday in the southern West Bank, officials said. The Israel Defense Forces (IDF) reported that it responded to a shooting in the Judea Junction area Friday and killed two people it identified as \" terrorists. \" A blockade was established while the agency continued to search the area, the IDF said. INSIDE ISRAEL'S MISSION TO TRAIN CIVILIANS TO STOP THE NEXT OCT 7-LIKE TERROR ATTACK Five Israelis were wounded in the shooting, according to The Times of Israel. Two people were critically wounded and three were in light-to-moderate condition, first responders told the outlet. ISRAELI COMBAT MEDICINE SLASHES IDF DEATHS AFTER OCT 7, DRAWS US MILITARY INTEREST Magen David Adom , Israel's emergency medical service, said it treated two people in critical condition at the scene of the attack. The identities of the suspected gunmen were not immediately released. This is a developing story; check back for updates.",
+      "summary": "به گفته مقامات، در تیراندازی روز جمعه در جنوب کرانه باختری پنج نفر زخمی شدند که حال دو نفر از آنها وخیم است و دو مرد مسلح مظنون کشته شدند. به گزارش آسوشیتدپرس، نیروهای دفاعی اسرائیل (IDF) گزارش دادند که به تیراندازی در منطقه Judea Junction پاسخ دادند و دو نفر را که آنها را \"تروریست\" معرفی کرد، کشتند. بنیامین نتانیاهو، نخست وزیر رژیم صهیونیستی، جلسه اضطراری کابینه امنیتی خود را برگزار کرد و مدعی شد که حماس در حال برنامه ریزی برای یک حمله بزرگ با هدف کشتار غیرنظامیان بی گناه است. نتانیاهو گفت: «سربازان شجاع ما با شجاعت و قاطعیت، این حمله را خنثی کردند». فی",
+      "summary_original": "Five people were wounded, including two critically, and two suspected gunmen were killed in a shooting Friday in the southern West Bank, officials said. The Israel Defense Forces (IDF) reported that it responded to a shooting in the Judea Junction area Friday and killed two people it identified as \" terrorists. \" Hours after the attack, Israel ordered the army to prepare for a full closure of the West Bank, according to the Associated Press. Israeli Prime Minister Benjamin Netanyahu held an emergency meeting of his Security Cabinet, claiming Hamas was \"planning a major attack aimed at murdering innocent civilians.\" INSIDE ISRAEL'S MISSION TO TRAIN CIVILIANS TO STOP THE NEXT OCT 7-LIKE TERROR ATTACK \"Our brave soldiers thwarted this attack with courage and determination,\" Netanyahu said. Five Israelis were wounded in the shooting, according to The Times of Israel. Two people were critically wounded and three were in light-to-moderate condition, first responders told the outlet. ISRAELI COMBAT MEDICINE SLASHES IDF DEATHS AFTER OCT 7, DRAWS US MILITARY INTEREST Magen David Adom , Israel's emergency medical service, said it treated two people in critical condition at the scene of the attack. The identities of the suspected gunmen were not immediately released, but the Israeli army did identify them as Palestinians from Hebron armed with an M16 rifle and a handgun. Israeli intelligence groups and security forces conducted dozens of raids throughout the West Bank on Friday, apprehe",
       "source": "Fox News",
       "category": "military",
-      "tags": [],
+      "tags": [
+        "نتانیاهو"
+      ],
       "urgent": false,
       "published": "2026-10-23T11:35:06+03:30",
       "published_fa": "1405/08/01 - 11:35",
@@ -1598,23 +1675,6 @@
       "verified_source": true
     },
     {
-      "title": "به‌روزرسانی‌های جنگ ایران: ترامپ ایران را متهم می‌کند که حملات ساختگی به کشتی‌ها را برای افزایش قیمت نفت ساخته است - سی‌بی‌اس نیوز",
-      "title_original": "Iran War Updates: Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5",
-      "summary": "به‌روزرسانی‌های جنگ ایران: ترامپ ایران را متهم می‌کند که برای بالا بردن قیمت نفت، حملات ساختگی به کشتی‌ها ساخته است.",
-      "summary_original": "Iran War Updates: Trump accuses Iran of making up fake strikes on ships to drive up oil prices CBS News",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-23T02:39:00+03:30",
-      "published_fa": "1405/08/01 - 02:39",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گزارش: ترامپ به تهاجم چند روزه ایران پس از میان دوره ای چشم دوخته است - اخبار ملی اسرائیل",
       "title_original": "Report: Trump eyes multi-day Iran offensive after midterms - Israel National News",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RnRZU3JLTUZ4ZnJtRmNpekdpMEx5WXd5VXl4WnNYM2pUM0dodUpaeXFyWVpmWUU1eGdLZXJjc09iVDc5U2lWbkhGRnBlM3FRdldpYnExeFJSUQ?oc=5",
@@ -2039,11 +2099,11 @@
       "verified_source": true
     },
     {
-      "title": "جروزالم پست: طرح ایالات متحده و اسرائیل حملات میان دوره ای به ایران را با تمرکز بر حملات کوتاه مدت و شدید از سر گرفتند.",
-      "title_original": "US, Israel plan renewed Iran strikes after midterms, focusing on short, intense attacks - report - The Jerusalem Post",
+      "title": "روزنامه جروزالم پست آمریکا و اسرائیل برنامه های مفصلی برای حملات مجدد به ایران طراحی کرده اند",
+      "title_original": "US, Israel have drawn up detailed plans for renewed strikes on Iran - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5",
-      "summary": "جروزالم پست گزارش داد: طرح ایالات متحده و اسرائیل حملات میان دوره ای به ایران را با تمرکز بر حملات کوتاه مدت و شدید از سر گرفتند.",
-      "summary_original": "US, Israel plan renewed Iran strikes after midterms, focusing on short, intense attacks - report The Jerusalem Post",
+      "summary": "آمریکا و اسرائیل برنامه‌های مفصلی برای حملات مجدد به ایران طراحی کرده‌اند. جروزالم پست",
+      "summary_original": "US, Israel have drawn up detailed plans for renewed strikes on Iran The Jerusalem Post",
       "source": "Google News",
       "category": "military",
       "tags": [],
@@ -2944,21 +3004,6 @@
       "verified_source": true
     },
     {
-      "title": "سناتور ایالت ویرجینیا متهم به رهبری یک شرکت توزیع ماری جوانا است",
-      "title_original": "Virginia state senator indicted, accused of leading a marijuana distribution enterprise",
-      "link": "https://www.foxnews.com/politics/virginia-state-senator-indicted-accused-leading-marijuana-distribution-enterprise",
-      "summary": "به گفته وزارت دادگستری ایالات متحده، سناتور لیلی لوئیز لوکاس، سناتور ایالت ویرجینیا، روز پنجشنبه به پنج اتهام شامل قاچاق مواد مخدر، پولشویی، کلاهبرداری و اتهامات سلاح گرم متهم شد. تاد بلانچ، دادستان کل، در یک کنفرانس مطبوعاتی روز پنجشنبه گفت که لوکاس در میان هفت مورد متهم در طرح گسترده سرقت مسلحانه است، گروهی که شامل دو دختر او، لیزا لوکاس برک و ترزا لوکاس لمب و نوه‌اش رایان آیکلبرگر است. بلانچ در بیانیه وزارت دادگستری گفت: «لوئیز لوکاس بیش از سه دهه در جایگاه اعتماد عمومی در کشورهای مشترک المنافع ویرجینیا خدمت کرده است. اتهامات مطرح شده در این کیفرخواست نشان دهنده رفتار یک کارمند دولتی است که منافع مالی خود را در اولویت قرار داده است.",
-      "summary_original": "Virginia state Senator Lillie Louise Lucas was indicted Thursday on five charges that include drug trafficking, money laundering, fraud and firearms charges after being accused of running a marijuana distribution enterprise, according to the U.S. Department of Justice. Lucas is among seven indicted in the sprawling racketeering scheme, a group that includes her two daughters, Lisa Lucas-Burke and Theresa Lucas-Lamb, and her grandson Ryan Eichelberger, Attorney General Todd Blanche said in a Thursday press conference. \"Louise Lucas has served in a position of public trust in the Commonwealth of Virginia for over three decades,\" Blanche said in a DOJ statement. \"The charges alleged in this indictment reveal the behavior of a public servant who put her own financial interests before the people she was elected to serve. Our federal prosecutors will continue to be guided by the facts and evidence that led a grand jury to indict Ms. Lucas and her alleged co-conspirators.\" DEMS BLAST TRUMP OVER VIRGINIA FBI RAID BUT PROBE STARTED UNDER HIS PREDECESSOR The 82-year-old Lucas has served as a Virginia state senator since 1991, and as the president pro tempore of the state's Senate since 2020. As president pro tempore, she is the presiding member of the state senate in the absence of the state's lieutenant governor. She has also served as chair of the state's Senate Finance and Appropriations Committee since 2024. \"During that time, as alleged in the indictment, her and her six co-conspi",
-      "source": "Fox News",
-      "category": "politics",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-22T17:44:32+03:30",
-      "published_fa": "1405/07/30 - 17:44",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "فرانسه نخستین مورد ابتلای انسان به ویروس دامی شاموندا را پس از مرگ بیمار گزارش کرد",
       "title_original": "",
       "link": "https://www.iranintl.com/202610223397",
@@ -3317,36 +3362,6 @@
       "urgent": false,
       "published": "2026-10-22T15:04:22+03:30",
       "published_fa": "1405/07/30 - 15:04",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "مدیرعامل تراکتور: اگر به هواپیمای خودمان مجوز ندهند، برای بازی با العین به امارات نمی‌رویم",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610227698",
-      "summary": "حجت کریمی، مدیرعامل باشگاه تراکتور از احتمال انصراف این تیم از حضور در دیدار مقابل العین در هفته سوم لیگ نخبگان آسیا خبر داد.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-22T15:02:18+03:30",
-      "published_fa": "1405/07/30 - 15:02",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "انجمن حمل‌ونقل ریلی: مجوز افزایش ۳۹ درصدی قیمت بلیت قطار را داریم اما ۲۰ درصد گران می‌شود",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610220823",
-      "summary": "دبیر انجمن صنفی شرکت‌های حمل‌ونقل ریلی اعلام کرد قیمت بلیت قطارهای مسافری از اول آبان ۲۰ درصد افزایش می‌یابد، در حالی که مجوز افزایش قیمت تا سقف ۳۹ درصد صادر شده است. او افزایش هزینه‌های قطعات یدکی، نیروی انسانی و نرخ ارز را از دلایل ضرورت اصلاح قیمت بلیت قطار عنوان کرد.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-22T15:00:06+03:30",
-      "published_fa": "1405/07/30 - 15:00",
       "translated": false,
       "verified_source": true
     },
@@ -4026,6 +4041,21 @@
       "verified_source": true
     },
     {
+      "title": "گزارش - Anadolu Ajansı: آمریکا و اسرائیل برنامه‌هایی را برای حملات مجدد به ایران پس از انتخابات میان‌دوره‌ای توسعه می‌دهند.",
+      "title_original": "US, Israel develop plans for renewed strikes on Iran after midterm elections: Report - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLTNtaUlPOFB5M1EtSktDVmFzUDhuaS1pNmlmc3NGdkplQTNseHRpOXBySDVXNVA0UjJnU2x5M0ZrV0k1RjJvZ0hRV09TMjBkNGNPTGI2UjJybFBQU3Jka3RrdDF0TGkzdmJhSHhFQkdIZk12RVNNOTJDVE40WkNtWUxhYWFfZGRsY3plcXM0by14SHczVWhiZk5yd1BRNmJuYmF3NUxvemc5N1AxM3lMX1hldENob2ZnWDVUamppbXFJWGxGSmc?oc=5",
+      "summary": "گزارش Anadolu Ajansı: ایالات متحده و اسرائیل برای حملات مجدد به ایران پس از انتخابات میان دوره ای برنامه ریزی می کنند.",
+      "summary_original": "US, Israel develop plans for renewed strikes on Iran after midterm elections: Report Anadolu Ajansı",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T03:13:31+03:30",
+      "published_fa": "1405/07/30 - 03:13",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "جی دی ونس گزینه عدم حمایت از بنیامین نتانیاهو اسرائیل در کنار دونالد ترامپ را کم اهمیت می داند - جروزالم پست",
       "title_original": "JD Vance downplays choice not endorse Israel's Benjamin Netanyahu alongside Donald Trump - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5waDU4clBGY1U2SkZBMXA1ZEVHUDBPUEdFWHE5dmM5YWhYclJXVmZTZmhNNG5JT3RCT3JodFBJNUkxNW8tRGk2dExHZFJ1UTJwUUhQS2E3WGlmRTNFazlDRngyNGRNLVc5?oc=5",
@@ -4439,23 +4469,6 @@
       "verified_source": true
     },
     {
-      "title": "گزارش - NDTV: اسرائیل در ماه اکتبر قصد بمباران ایران را داشت، اما به خاطر ترامپ متوقف شد",
-      "title_original": "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGE1WmRHaUV1X09RaHo4N2dXRTN4YXczUV9qMmd3NXRRZUdLdWhIeE5yZ3FJcy1mWV9ya1ptbjRsMHoyWC1pamU5emhMVnoxZGx5SDd4am5Ud0ZwdDQ5dGNxZlE3UHZ4ZWQyd2t4NWpzV3FiNVNQN1RpelRoRnRBQXVMcXhQSjUyVG1RLTRXV1RKMnZlSDdwaU1Jd0ItRW5DQ3dGNmdZeWxOSmFhcnpPODh6aE1uQdIBvgFBVV95cUxQem1BcWVyRjNqVjEzNmU4LUcxZlZTZnloUE5qOXkyU2RPSjU1WHlvUV9xSlN0Q29LMjlqRDFYVC1XZjNqa0NXNkRJV1VXOU1uS1RhTkpySFR4bVg2bFZNLUxSejdKY2NaUlFmU3B2VUN1TEQ1NzZzOXRraTE5V2UtNkp2OThtVndwSFh5dzNGd2VLNGdpUGVCZDVRRXhxTnBiakNtTTBIRnI3dmJvZHpqcmdvXzcwdnR2QmNDUmh3?oc=5",
-      "summary": "گزارش NDTV: اسرائیل در ماه اکتبر قصد بمباران ایران را داشت، اما به خاطر ترامپ متوقف شد",
-      "summary_original": "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report NDTV",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-21T20:29:41+03:30",
-      "published_fa": "1405/07/29 - 20:29",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "\"این تصمیم اوست\": نتانیاهو می‌گوید انتخاب چگونگی ادامه با ایران با ترامپ است - ABC News - اخبار فوری، آخرین اخبار و ویدئوها",
       "title_original": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3N3QWRxSWRObVZaQ1JBQWxYOUxwQU9DNl9IdWJ5Yk5jelc4aEpPMnZkblhGRXRLckpxWmNISmg4WUVBZ2o1RWxsQmdsSE1LMmF6V0ZOQW1wNjQtejVHYlJRZVNwalVOSndIZkZFLWNCNi00Tm1qM3BMMGlxdzlFUTRqOG1XWl9OZE5nSmZkN1PSAZYBQVVfeXFMTUt0b2FHckFRN2sxb2VLZUU4UnhCSjNiVnpyczRmdW42RkVPRzZxMzluTFM2clNQb0c4WWppNEFtb0xNQ2Z3TkN4Nm93ZWFOWnJKQ0xBbHd0QWlHYXpDSkczekhhUWR0dTA4SGRQXzh6ajlrbmtnMHNEdlkyX2NPUFdJc3RZR0ZtdEQ3VERlMHdsRGVHRHpB?oc=5",
@@ -4505,6 +4518,23 @@
       "urgent": false,
       "published": "2026-10-21T17:41:52+03:30",
       "published_fa": "1405/07/29 - 17:41",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "ترامپ ایران را متهم به ساخت حملات ساختگی به کشتی‌ها برای افزایش قیمت نفت کرد - سی‌بی‌اس نیوز",
+      "title_original": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5",
+      "summary": "ترامپ ایران را به ساخت حملات ساختگی به کشتی‌ها برای افزایش قیمت نفت متهم می‌کند",
+      "summary_original": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices CBS News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-21T17:15:00+03:30",
+      "published_fa": "1405/07/29 - 17:15",
       "translated": true,
       "verified_source": true
     },
@@ -4560,7 +4590,7 @@
       "title": "نتانیاهو: جنگ در ایران تمام نشده است، به ترامپ گفت: ما باید کار را تمام کنیم - NewsNation",
       "title_original": "Netanyahu hints war in Iran isn’t over, tells Trump ‘We have a job to finish’ - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGJtclFYLUZFeFBNNURfWGtlVkVkbWdlNnNWZGQ5Rk9QRUhObmU3eTNmdnAxdHNieUprWENVYXlRZUk3SUo2S21sYXFjQ0poYmlyU0dlbFFXVHRqb3NaMW4ydzhnRWd2ZEl3WENjd29WYVc5bWwxWU5vM2dCYUZZcTZQVWbSAYoBQVVfeXFMUEdLaTVoSTlGQnhtQ1dwX0Y0Vm9LX2VVY29IaHk3U25wWmE5RWdnUlJGREQ0MUFrNEl6M1dINnE2TmNNOWplRzRMT2ZKNmtrcWV2cWxmVWlEeWhUUHZZeGlfZm9uT2pzZ2V4TW5jZnJQX05nNXhjUzFlTGlGRzNvRUh2dmk0UG5BWnZB?oc=5",
-      "summary": "نتانیاهو اشاره کرد که جنگ در ایران تمام نشده است و به ترامپ گفت: ما باید کار را تمام کنیم.",
+      "summary": "نتانیاهو اشاره کرد که جنگ در ایران تمام نشده است، به ترامپ گفت: ما باید کار را تمام کنیم.",
       "summary_original": "Netanyahu hints war in Iran isn’t over, tells Trump ‘We have a job to finish’ NewsNation",
       "source": "Google News",
       "category": "politics",
@@ -4609,10 +4639,10 @@
       "verified_source": true
     },
     {
-      "title": "نتانیاهو در بحبوحه تنش های منطقه ای با ترامپ و هگزت درباره ایران گفت و گو می کند - هفته نامه عرب",
+      "title": "نتانیاهو در بحبوحه تنش های منطقه ای با ترامپ و هگزث درباره ایران گفت و گو می کند - هفته نامه عرب",
       "title_original": "Netanyahu discusses Iran with Trump, Hegseth amid regional tensions - The Arab Weekly",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczFCQWZkV3Z2TkhCN1pjMDBtZ2xnWDZHMXh0RjMtY3AwOFJ0R2tZa2xRVWZGMTNiT3RpZ1YwN3FaeVJuSUVHcmxLZlpoZWF0Z0Z1cHZmREtGSTlqMTNjS3hhd2VkSkoyLTZlOHJjWmxTU2N6Y0UxV0d2SWczaGlfeG9JV3Q5azNZalVWcnhUZEs?oc=5",
-      "summary": "نتانیاهو در بحبوحه تنش های منطقه ای با ترامپ و هگزث درباره ایران گفت و گو می کند هفته نامه عرب",
+      "summary": "نتانیاهو در بحبوحه تنش‌های منطقه‌ای با ترامپ و هگزث درباره ایران گفت‌وگو می‌کند هفته نامه عرب",
       "summary_original": "Netanyahu discusses Iran with Trump, Hegseth amid regional tensions The Arab Weekly",
       "source": "Google News",
       "category": "politics",
@@ -4815,7 +4845,7 @@
       "title": "گزارش: ترامپ با حملات پیشنهادی نتانیاهو در اوایل اکتبر علیه ایران مخالفت کرد - هاآرتص",
       "title_original": "Report: Trump Opposed Netanyahu's Proposed Early October Strikes on Iran - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOLWpPZVdqOUkzUDN1bTFhSnliYzQxNC16bmRkNE9NeTltMjFIaFhQekdLOUVTckx2cXB1MDlnWEtDY2tjdEcwTlo5VmxIVnVycFU1LWU3R1p3eWFmMG01SkNKblZfNEpSNkU1cU0tTEl3Z3VuNmV2V2ZRakM2SXlvSE8xelZlaXJSai1CdUJUQmJkQVRhUVVFX2MtUkFtVVcyOVN6YWJXNHFVR2RBYlo2TmI1N2hlZDVYclRqM3hVNklWbktvbVlZcVd1Nm55U1VNdHpLMWhIZjNLS0FmaDBWcnJ4bExKeGZXRjd1dEE0MGVfZ3plVmZWNVQxS0xOTEgwcHotdkNB?oc=5",
-      "summary": "گزارش: ترامپ با حملات پیشنهادی نتانیاهو در اوایل اکتبر به ایران هاآرتص مخالفت کرد",
+      "summary": "گزارش: ترامپ با حملات پیشنهادی نتانیاهو در اوایل اکتبر علیه ایران هاآرتص مخالفت کرد",
       "summary_original": "Report: Trump Opposed Netanyahu's Proposed Early October Strikes on Iran Haaretz",
       "source": "Google News",
       "category": "military",
@@ -4881,7 +4911,7 @@
       "verified_source": true
     },
     {
-      "title": "فایننشال تایمز - نتانیاهو اوایل ماه جاری برنامه‌هایی برای از سرگیری حملات ایران داشت",
+      "title": "فایننشال تایمز - نتانیاهو اوایل این ماه برنامه‌هایی برای از سرگیری حملات ایران داشت",
       "title_original": "Netanyahu made plans to restart Iran strikes earlier this month - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTc5RTJDQlJSVUF5V2ctTk9wT2k3RGsxTjJFdWdEYmRsNzk1SW9idnlxMUJ5Q09ZVllWUkYwZ2I0a2FmWlpIeThhVFVKRE9DYmFjOXZldHNCR29LbDdKZWNFOVFXaVVQSlJUdnRobDk5T2NtQUpfb3Q3WEpGc2J2TWNXM3o?oc=5",
       "summary": "نتانیاهو در اوایل ماه جاری برنامه‌هایی برای از سرگیری حملات به ایران داشت",
@@ -5875,7 +5905,7 @@
       "verified_source": true
     },
     {
-      "title": "چرخش نتانیاهو ترامپ در حالی صورت می‌گیرد که اسرائیل می‌ترسد حمایت آمریکا را از دست بدهد و با تحریم‌های اروپا روبرو شده است - Ynetnews",
+      "title": "چرخش نتانیاهو ترامپ در حالی صورت می‌گیرد که اسرائیل می‌ترسد حمایت آمریکا را از دست بدهد و با تحریم‌های اروپا مواجه شده است - Ynetnews",
       "title_original": "Trump's Netanyahu U-turn comes as Israel fears losing US support and faces European sanctions - Ynetnews",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUF81Sk5nUlBkRlRnXzlXVnE2SVlQeXdFYW1vSnVTRnlXSEVFSjMwcDJuVC1aSXV6YlNQRkhpRm1WT3hIRzNKZ0k4WjNkT3h6SXlKTzFR?oc=5",
       "summary": "چرخش نتانیاهو ترامپ در حالی صورت می‌گیرد که اسرائیل می‌ترسد حمایت آمریکا را از دست بدهد و با تحریم‌های اروپا مواجه شده است Ynetnews",
@@ -6413,21 +6443,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmgyY1puRkp4MWxPUXdlV1NMLUxDbzhjcDBiWTRnY25tR1pDWERHeG50MWhSOFpqUVl0Y3ZULWtoWmVtZjczZmItRmhHaUxnN1M1Q1dEVlBTWGlRWVh2amhPcDV5RExndXAzUm0wZVdGUnRMbEx4cTNkT2U2RVU3RHB0aVY5NThKWTZIWTU3ZHRFU1E?oc=5",
       "summary": "تفکر استراتژیک ایران: درس‌های آموخته شده و آنچه در آینده می‌آید موسسه خاورمیانه",
       "summary_original": "Iran’s Strategic Thinking: Lessons Learned and What Comes Next Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-09-28T10:30:00+03:30",
-      "published_fa": "1405/07/06 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "خاورمیانه فراتر از جنگ ایران - موسسه خاورمیانه",
-      "title_original": "The Middle East Beyond the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WREhlMmRIWjVDWG1OQnJia3pfTUhqT2p1ejJGQnRKaFZGb3ZXVUFGMnBWV3pHeXJvazd0LTRtY29OVHE2NDRoQVRMaGw0S1V0VGNWUkJIZmhlSlJIY3NmNzJEc2lWMWR0RnJr?oc=5",
-      "summary": "موسسه خاورمیانه فراتر از جنگ ایران",
-      "summary_original": "The Middle East Beyond the Iran War Middle East Institute",
       "source": "Google News",
       "category": "other",
       "tags": [],
