@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T00:31:49.221214+00:00",
-  "generated_at_fa": "1405/08/04 - 04:01",
-  "count": 408,
+  "generated_at": "2026-10-26T01:27:37.258311+00:00",
+  "generated_at_fa": "1405/08/04 - 04:57",
+  "count": 419,
   "items": [
     {
       "title": "آنچه گذشت؛ گزارش‌ها از سفر میانجی‌های قطری به تهران با افزایش نگرانی‌ از احتمال جنگ",
@@ -16,8 +16,8 @@
         "مذاکره"
       ],
       "urgent": false,
-      "published": "2026-10-26T03:58:14.436386+03:30",
-      "published_fa": "1405/08/04 - 03:58",
+      "published": "2026-10-26T04:53:34.268425+03:30",
+      "published_fa": "1405/08/04 - 04:53",
       "translated": false,
       "verified_source": true
     },
@@ -33,9 +33,197 @@
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-26T03:58:14.435088+03:30",
-      "published_fa": "1405/08/04 - 03:58",
+      "published": "2026-10-26T04:53:34.267074+03:30",
+      "published_fa": "1405/08/04 - 04:53",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "آیا اوکراین حاضر است برای صلح از بخشی از خاک خود بگذرد؟",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cwe9l1e5l7jno?at_medium=RSS&at_campaign=rss",
+      "summary": "موج تازه‌ای از تلاش‌های دیپلماتیک درباره جنگ اوکراین باعث شده پیشنهادهای قدیمی صلح دوباره مطرح شوند، از جمله طرح‌هایی که مستلزم امتیازدهی ارضی از سوی اوکراین هستند.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T04:50:19+03:30",
+      "published_fa": "1405/08/04 - 04:50",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "title_original": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+      "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "summary_original": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "source": "Al Jazeera",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-26T04:32:57+03:30",
+      "published_fa": "1405/08/04 - 04:32",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "روایت آسوشیتدپرس از ذخیره غذا تا بستن چمدان؛ ایرانیان از بازگشت جنگ تمام‌عیار می‌ترسند",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610262362",
+      "summary": "شماری از ساکنان تهران در گفت‌وگو با آسوشیتدپرس از ذخیره دارو و غذا و آماده شدن برای ترک پایتخت خبر داده‌اند؛ هم‌زمان با نزدیک شدن انتخابات آمریکا و اسرائیل، تهدیدهای نظامی تازه و فشار گرانی، نگرانی آن‌ها از بازگشت جنگ تمام‌عیار را تشدید کرده است.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T04:32:08+03:30",
+      "published_fa": "1405/08/04 - 04:32",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Serbia celebrates historic election win for student-backed movement",
+      "title_original": "Serbia celebrates historic election win for student-backed movement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+      "summary": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
+      "summary_original": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T04:28:21+03:30",
+      "published_fa": "1405/08/04 - 04:28",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "لولا با شکست فلاویو بولسونارو برای چهارمین بار رئیس‌جمهور برزیل شد",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cw8dz0rjv22zo?at_medium=RSS&at_campaign=rss",
+      "summary": "لوئیس ایناسیو لولا دا سیلوا، رئیس‌جمهور چپ‌گرای برزیل، در انتخاباتی نزدیک و پرتنش با شکست فلاویو بولسونارو، رقیب راست‌گرای خود، برای چهارمین بار به ریاست‌جمهوری این کشور انتخاب شد.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "politics",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T04:22:18+03:30",
+      "published_fa": "1405/08/04 - 04:22",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "‘We have to finish the job’: Trump doubles down on Netanyahu support after PM’s reported request - The Times of Israel",
+      "title_original": "‘We have to finish the job’: Trump doubles down on Netanyahu support after PM’s reported request - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDZWTnBVZjZORE1Sb1I5UnRMYVZFUE13c2dSOU5EQVVBREl0M2dsdzM4YnYyTWZuZWdzZ0ZveDJ3UFF0VVlVb1ZHZy05SlpKMFVQNVBFWUM5ODZvQndyZHROZFJHdEdZTlVMY2hhaElNRmtDVmNnV2FQSXVOZk9lZEpQVVhPdV8yN3hNQUNMNmx6QTlRcmpubHlPZHRXN0xaUFpOeHVjdjRMVFhrWVJRZEdyX1d3QkxBQUxPVktNanLSAcYBQVVfeXFMTnF0MHh1Y2VyMUpSby02NHJGTGZGNmtWT2JsUlZoZHVGRUw0VU9mV2ZpSkt0RlFWWG9RNmNjR0pibjJ1dml6YW9zbHZhQ1RTQ1pmSDU2ZHR2a0NJbjV3YzJVci1wTFNGVk9abnFfNXptOURjZ0h2bVNfZHdlYUlfUU91ZEs5dnNlLXkzQjZxYVkwNEZUTGE3akQyZ0otaS1jczQxb0NqZ3Bsd0lGVkxoaDhkdXpoUG1kVDJYUm1ZbWd1M0J5cWZB?oc=5",
+      "summary": "‘We have to finish the job’: Trump doubles down on Netanyahu support after PM’s reported request The Times of Israel",
+      "summary_original": "‘We have to finish the job’: Trump doubles down on Netanyahu support after PM’s reported request The Times of Israel",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-26T04:17:41+03:30",
+      "published_fa": "1405/08/04 - 04:17",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+      "title_original": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+      "link": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
+      "summary": "The Israeli military launched large-scale domestic military exercises on Sunday to counter surprise border infiltrations and ground raids across northern and central Israel, mobilizing multiple divisions and air assets amid rising regional tensions. The drills, set to continue over 48 hours, came as an Israeli security expert invoked the 1973 Yom Kippur War, when Egypt and Syria used exercises to disguise preparations for a surprise attack, warning that escalating tensions in the region could in fact trigger what he described as a \"dangerous miscalculation.\" The large-scale maneuvers, the IDF said, involve the Northern Command’s 210th Division, the West Bank Division, and the Central Command’s 98th and 96th divisions, alongside the Israeli Air Force. IRAN TARGETS US WITH PSYCHOLOGICAL WARF",
+      "summary_original": "The Israeli military launched large-scale domestic military exercises on Sunday to counter surprise border infiltrations and ground raids across northern and central Israel, mobilizing multiple divisions and air assets amid rising regional tensions. The drills, set to continue over 48 hours, came as an Israeli security expert invoked the 1973 Yom Kippur War, when Egypt and Syria used exercises to disguise preparations for a surprise attack, warning that escalating tensions in the region could in fact trigger what he described as a \"dangerous miscalculation.\" The large-scale maneuvers, the IDF said, involve the Northern Command’s 210th Division, the West Bank Division, and the Central Command’s 98th and 96th divisions, alongside the Israeli Air Force. IRAN TARGETS US WITH PSYCHOLOGICAL WARFARE CAMPAIGN TO MANIPULATE AMERICANS, EMBARRASS TRUMP: EXPERTS The exercise, scheduled just ahead of Israel's elections Oct. 27, aims to \"maintain the forces’ alertness and readiness, strengthen the ability to defend communities, and make full use of aerial capabilities for defense in the area,\" according to the IDF. On Friday, the IDF said troops would practice \"a variety of scenarios, including a surprise attack and infiltration into Israeli territory by air and land,\" incorporating lessons learned from the Oct. 7, 2023, Hamas-led attacks on Israel. \"This exercise is mostly about non-state actors with or without Iranian support,\" Israeli national security analyst Dr. Ehud Eilam told Fox Ne",
+      "source": "Fox News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T04:12:24+03:30",
+      "published_fa": "1405/08/04 - 04:12",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+      "title_original": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+      "link": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+      "summary": "Incumbent leftist President Luiz Inácio Lula da Silva narrowly defeated conservative Sen. Flavio Bolsonaro in Sunday's presidential runoff, according to The Associated Press. The deeply polarized nation returned to the polls for a second round runoff on Sunday. Lula’s victory followed chaos at polling places after a Supreme Court justice ordered a last-minute, two-hour voting extension, a move that could face a legal challenge from Bolsonaro. While the Flavio Bolsonaro campaign had also requested an extension in certain areas impacted by heavy rains, the unusual decision by the court to extend voting hours nationwide by two hours will certainly draw scrutiny. BRAZIL BECOMES NEXT TEST FOR LATIN AMERICA’S SURGING CONSERVATIVE MOVEMENT Lula petitioned for the extension, claiming that buses we",
+      "summary_original": "Incumbent leftist President Luiz Inácio Lula da Silva narrowly defeated conservative Sen. Flavio Bolsonaro in Sunday's presidential runoff, according to The Associated Press. The deeply polarized nation returned to the polls for a second round runoff on Sunday. Lula’s victory followed chaos at polling places after a Supreme Court justice ordered a last-minute, two-hour voting extension, a move that could face a legal challenge from Bolsonaro. While the Flavio Bolsonaro campaign had also requested an extension in certain areas impacted by heavy rains, the unusual decision by the court to extend voting hours nationwide by two hours will certainly draw scrutiny. BRAZIL BECOMES NEXT TEST FOR LATIN AMERICA’S SURGING CONSERVATIVE MOVEMENT Lula petitioned for the extension, claiming that buses were not circulating to take voters to the polls as expected. \"I've never complained about anything in any election before. Whether I won or lost, I'd just accept it and get ready for the next one. But this time, something abominable is happening,\" Lula argued. The Bolsonaro camp is likely to claim that the extension favored Lula. Bolsonaro narrowly won the first round on Oct. 4, with 47% of the vote, to Lula's 45%, but fell short of the 50% majority required to win the election outright. The victory marks an unprecedented fourth presidential term for Lula, and a remarkable comeback victory. The result is even more surprising given that Bolsonaro had led, albeit by tight margins, in recent pol",
+      "source": "Fox News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T03:57:54+03:30",
+      "published_fa": "1405/08/04 - 03:57",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "جدال تلخ بر سر خدمت سربازی؛ موضوعی که می‌تواند آینده اسرائیل را تغییر دهد",
+      "title_original": "",
+      "link": "https://www.bbc.com/persian/articles/cq0ldx6zgnn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "در حالی که جنگ غزه فشار بر ارتش اسرائیل را افزایش داده، مناقشه بر سر معافیت یهودیان ارتدوکس افراطی از خدمت سربازی به یکی از عمیق‌ترین شکاف‌های سیاسی و اجتماعی این کشور تبدیل شده است؛ اختلافی که می‌تواند نه تنها آرایش قدرت در انتخابات، بلکه آینده رابطه دولت و جامعه حریدی را نیز دگرگون کند.",
+      "summary_original": "",
+      "source": "BBC Persian",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T03:57:41+03:30",
+      "published_fa": "1405/08/04 - 03:57",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "لولا با شکست پسر بولسونارو، برای چهارمین بار رییس‌جمهوری برزیل شد",
+      "title_original": "",
+      "link": "https://www.iranintl.com/202610268679",
+      "summary": "دادگاه انتخاباتی برزیل پیروزی لوئیس ایناسیو لولا دا سیلوا را در دور دوم انتخابات ریاست‌جمهوری تایید کرد. این رهبر چپ‌گرا با شکست فلاویو بولسونارو، چهارمین دوره غیرمتوالی خود را به دست آورد؛ اما با کنگره‌ای محافظه‌کار و فشارهای اقتصادی روبه‌رو خواهد بود.",
+      "summary_original": "",
+      "source": "Iran International",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T03:56:26+03:30",
+      "published_fa": "1405/08/04 - 03:56",
+      "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Trump Again Endorses Netanyahu Ahead of Election - Yahoo",
+      "title_original": "Trump Again Endorses Netanyahu Ahead of Election - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXZrTFNBSy1xZUpfcUY4NWtxbHBEMWlwZzZmWXR2eGxCVTdLX1owZF9zckxzcmdTSmZaNWxNMnJhTm5wX1dDZGZlckhtRGVmdkhsQUV6MkZfNG5vSVQzWmhsczBUZnN2XzNpcmNkbjBKYXJTSHNHbFFjaFpQaWhHVXMxUUdhZ1dISnpiTkFwaS1pWl9GM1I1TGJQWlQ?oc=5",
+      "summary": "Trump Again Endorses Netanyahu Ahead of Election Yahoo",
+      "summary_original": "Trump Again Endorses Netanyahu Ahead of Election Yahoo",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-26T03:55:00+03:30",
+      "published_fa": "1405/08/04 - 03:55",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "title_original": "Lula holds off far right with victory in Brazil presidential election",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "summary": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "summary_original": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "source": "Al Jazeera",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T03:46:29+03:30",
+      "published_fa": "1405/08/04 - 03:46",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -106,21 +294,6 @@
       "verified_source": true
     },
     {
-      "title": "The Blogs: Smash Eagle 44 Before Iran Soars - The Times of Israel",
-      "title_original": "The Blogs: Smash Eagle 44 Before Iran Soars - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92VzBfTjJicVdDZkJndDRGazlyRTUwcjVtT2w1aURMQ2tUaG91T1JCRlpBSGdodWhIOEFWTTZuMEZvaTFNZGphZVV6LVNRZEs4S2JuVXdZUEduV3pWclNoMmdZRFJFRWNCbVhybVpNUlhLbU0?oc=5",
-      "summary": "The Blogs: Smash Eagle 44 Before Iran Soars The Times of Israel",
-      "summary_original": "The Blogs: Smash Eagle 44 Before Iran Soars The Times of Israel",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-26T03:28:00+03:30",
-      "published_fa": "1405/08/04 - 03:28",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump calls on Israelis to vote for 'outstanding Warrior' Netanyahu - ABS-CBN",
       "title_original": "Trump calls on Israelis to vote for 'outstanding Warrior' Netanyahu - ABS-CBN",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmNzQ1phUnFiZkdyNW9CaUJxNXVyRjdNdU9FaEFvRE5FR0VVQXRHeGV4bUFRbTJ5MUdQU2xCX0dwSE1zeGQ4bDVvTnFaTWZrc0NiZnluekRJZnI1VlpYQncwUWI5ZGFfNDdTcFFTR2xCRy1XNjVtQzV0ZVhxWW1tZFlsSmdUWWdpcmFOeEhZYTNHV3ByWGJpWWNPMWNqU2VVUkwzZUxtQzBXNTZkYVJoMFI4b3JBRWM?oc=5",
@@ -141,7 +314,7 @@
     {
       "title": "Trump reiterates his endorsement of Netanyahu, urges Israel to ‘finish the job’ in Iran - Anadolu Ajansı",
       "title_original": "Trump reiterates his endorsement of Netanyahu, urges Israel to ‘finish the job’ in Iran - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlpLLXJpejdmOEtreUNacEZMamxLdWdTYlZMNTZxTUJzVTlKM2xPaGNLeVR0NHFnaFBkQ1NuZkRadUZteDQ3WDBxM250T0ZNM2pFcXlCbnA3MEJFNU8xYWREVk5rWXVrOHEzYS1ncXRxSnNtNXNaUmEtTEg1TDVlTHl0c0dxc19pZ2hrSS1jNndMVjBDLVZfRnhINmdWYWNTV3hwUksxZHRSbi1pNmZXUHVhcUtCR2pHaG5OVkZuWnlCVFA4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkRjY3o1SVJSdGxKbWcyZ3Z2Z215TGFUcUN2SEtJOV9OQU5oWDZFbGNFSnU0QkhQLVpoMkVLM19vM3BnSHMxRElPcjhwbVZZM3VwOW9lMC10TUhIcTI5ekpnZkFyUjVuRmZ3eHREaTAtV1I3NF9penhremNGTG0wSEhSUG15bUJSbldUNThQdUtua0FzS0I0UUVNNjhIVXFyM1FhSHAtTFNiMldOTjZYSUtNaUZaNzFxU3hyekxBYw?oc=5",
       "summary": "Trump reiterates his endorsement of Netanyahu, urges Israel to ‘finish the job’ in Iran Anadolu Ajansı",
       "summary_original": "Trump reiterates his endorsement of Netanyahu, urges Israel to ‘finish the job’ in Iran Anadolu Ajansı",
       "source": "Google News",
@@ -153,6 +326,24 @@
       "urgent": false,
       "published": "2026-10-26T03:20:19+03:30",
       "published_fa": "1405/08/04 - 03:20",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump reiterates endorsement of Netanyahu in Israeli elections - Middle East Eye",
+      "title_original": "Trump reiterates endorsement of Netanyahu in Israeli elections - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGhtNzhfb2hiMloxaC15TkRUSDBSZWxfbE1nMDJmLVdxVVZhcEdFcTktSnh2Z1hYaUJMRGxCYVlxcmpVNkxEeUNkd0hhSWxLd0p1NG1tSHlaY0dmaXBqdHVTQUZhYW8yODFTWXpEMDhSajNjQmZrT1BWMlBFZjE4d0hxUThxaGgtNFdfX0gzckUzX3g5T1NPbWh3OWpvaG9XU1lPcmMzY0NwNGlFWEdLNTktaw?oc=5",
+      "summary": "Trump reiterates endorsement of Netanyahu in Israeli elections Middle East Eye",
+      "summary_original": "Trump reiterates endorsement of Netanyahu in Israeli elections Middle East Eye",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-26T03:17:00+03:30",
+      "published_fa": "1405/08/04 - 03:17",
       "translated": true,
       "verified_source": true
     },
@@ -240,6 +431,23 @@
       "verified_source": true
     },
     {
+      "title": "US-Iran War Live Updates: Trump says US and Israel must ‘finish the job’ - The Indian Express",
+      "title_original": "US-Iran War Live Updates: Trump says US and Israel must ‘finish the job’ - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNjl0dGttZVpnU3JBUkdQaElGenkyZ0R1Y3hWSUNFWkxfejkwMDRpUmk0azhLTkZneVFjN2J1VHRLWDVFNXVoSVJtaGJWZW1rZW9RWGJybm9JT0k2cTByVjdOUkkwMUJyUjA4V092NWtFQlJ3bWFuTE5qNVZ2UFZDcFpFT2dHZ2dMcUNrMW1VWGlJeHNjb1VsQkhiSWloWGdoUHhCVFpHWndUN2UxYU5mWDd2YkwxZDZjZEM3M2xzeE1WR1NGVWhEU2xwUXJBcTc2aDJmbWs5THJjaUh0VVpnX3hCVU1waEtDUHRhdzBoQ25oQdIB-AFBVV95cUxQRUo0Y0pJY2Y5djlXSTVBblBESjhPbkF5STkzMG02Z19nZkdmbFNPZ0pLWkJERHNxVUppeUotM09YNllPY1FScWtRTFhabkdGanJvWVp6OTB4MURwZjhUbEFqbHEwMEE4LTc0TVl0enhySnZQNTFNQUtQTUlNcEZ2RlFmZzRWbVJGMjNISzN1MUllQmljLWU1NjZWOXNzYzkwNERhcHJzUEVuNW5pQWV5bndXakVkcG1lTURRYlVVVk8xLUdoUDUwNVJzZVlsLThmNmwtVUtlb0FFdXZpZEhHeUNHSXlKdzRBdmFDVGR0S0F2NmF4Y2ltMA?oc=5",
+      "summary": "US-Iran War Live Updates: Trump says US and Israel must ‘finish the job’ The Indian Express",
+      "summary_original": "US-Iran War Live Updates: Trump says US and Israel must ‘finish the job’ The Indian Express",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-26T02:59:52+03:30",
+      "published_fa": "1405/08/04 - 02:59",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Thousands protest in Prague against public media funding reforms",
       "title_original": "Thousands protest in Prague against public media funding reforms",
       "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
@@ -305,16 +513,16 @@
       "verified_source": true
     },
     {
-      "title": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG - i24NEWS",
-      "title_original": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHZRd2NCdlZId2xaSDd5Z1NEcG5BVEFaR2NITXRJZHY1V0JaS1lodS04Q1RpVUpHRlNWcWl2amRwOFUtMmdpM1NQT0IzNzdvSkIyRktxWWdNeU84UHRvYU5BN0xWUzEtdlgtSV9IZmRTMGFiRGNFaFAzc3NMSi00R2cwbjUzeHpHdFZlY2JhMng4UWhlaE1pTk5mMGllOFlJNF9mbGVXc1pBZDNZYl9FeUR0ZlRKRzlhcXh0WVZldGtkZUpa?oc=5",
-      "summary": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG i24NEWS",
-      "summary_original": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG i24NEWS",
+      "title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic - The New Voice of Ukraine",
+      "title_original": "Middle East war and Panama drought strain critical global shipping routes — NV infographic - The New Voice of Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbG9OVjhOQTRwaTBWVFJuT29mVndxQzdMV0tQMEJUMGZBWTN6Nkp6V2JyM0tXNmJEbHZsa25fMFJxVjl5WV9reHFhQ2tlUkdORlF4ZUwyREJvZ2x4UDIxLUIxUlpFV09hdnF3WVNVTFFUanduWWl5R011SFdCei05X0dzVjlHeWNPQmhtMDBhLTBCbkpOdk00Y29uRlhVUWdCYmZuZ2EwNHRzaEVLYzZ1VXU2dkppaWPSAbMBQVVfeXFMTUMzaTZPYzZ5b2VBS1E3YWpLUUxSUHZHcHVFalFLd3JxeVI3czFpdWpwLUgzSEQwU0xvSjcxZElpRV9fSUxGTlRQSnFTYUszeDNnVFBCN09mZ2pfSDhTWDVCTUU1QVpXYlN5TlpMSGhRQWkySHdVakpidU94Y0pvbGFlUzdscURhd20xc0JsanBkbm9fZWtuelFUZWR3VDQ3bjctYl95ZktyQ3ZtbXRoR09ORlU?oc=5",
+      "summary": "Middle East war and Panama drought strain critical global shipping routes — NV infographic The New Voice of Ukraine",
+      "summary_original": "Middle East war and Panama drought strain critical global shipping routes — NV infographic The New Voice of Ukraine",
       "source": "Google News",
       "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-26T02:49:18+03:30",
+      "published": "2026-10-26T02:49:00+03:30",
       "published_fa": "1405/08/04 - 02:49",
       "translated": true,
       "verified_source": true
@@ -425,21 +633,6 @@
       "verified_source": true
     },
     {
-      "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes - WSJ",
-      "title_original": "Aboard USS George Washington as It Rearms for Possible Iran Strikes - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUxveWNyQjdJTWRlS2FqTWxnQnp2TFB0WHplWjBCTTlpZ3VEUzFqNmtDbDA1ZVZtUktmUUpQMEprNDlKcm1nUkRtOVEybFZ3eGc2MjBTWVM1NVRUZFU2VExzNXpTdi1QRlpORUZIZTlsRUg2aG1WLVloenozUkJuM1ZuWnF1cTBONjhreTRhUGJlSnNTa0YxT1ZXM1NURjNCbFlwZTNhNFIwWmFwS29TbkJkUWkwSURndHZMckROUDM?oc=5",
-      "summary": "Aboard USS George Washington as It Rearms for Possible Iran Strikes WSJ",
-      "summary_original": "Aboard USS George Washington as It Rearms for Possible Iran Strikes WSJ",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-26T02:34:08+03:30",
-      "published_fa": "1405/08/04 - 02:34",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Oil Prices Rise Despite Middle East Export Recovery - Yahoo Finance",
       "title_original": "Oil Prices Rise Despite Middle East Export Recovery - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZW54NS1fN2U3NlZjMzgzcWdTNVNMb1hMQnFzZmR2Z1pBMy1Qc2xCTlBQaDF3alNjd0lpdkZjMjFxQm10a2tWU204LUZmc1B5bGRZUGNVSXgxTDlZZWh6bEdnWGRsZ2syejAxY0EtaWFpV1NGVkNHNTNBTVVyS1FlQndhdG5lUWVRQTh4MFhmVUY?oc=5",
@@ -502,23 +695,6 @@
       "verified_source": true
     },
     {
-      "title": "Report: IDF chief pushes back on Netanyahu's order - France 24",
-      "title_original": "Report: IDF chief pushes back on Netanyahu's order - France 24",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0VjLVpqb3VBR1pKbldWWWk5SEpLUmhQa0V3VE81NmRnbXZrQWhuY014MWhLQlhXQkt6a0pWN3hicXB2TjNkWEI4U09iVjVPekJDZjNsM3EwUUJiZDVMWU5MN29nS29FLWlZZDRIMUMxWG9hYnhmYVptdExESHhuTUk4RHd6WmdJYU5mLWU0UQ?oc=5",
-      "summary": "Report: IDF chief pushes back on Netanyahu's order France 24",
-      "summary_original": "Report: IDF chief pushes back on Netanyahu's order France 24",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-26T02:10:30+03:30",
-      "published_fa": "1405/08/04 - 02:10",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "در پی بازداشت و فشارهای امنیتی؛ روژان ابراهیمی، ورزشکار رشته‌های رزمی، اقدام به خودکشی کرد",
       "title_original": "",
       "link": "https://www.iranintl.com/202610251490",
@@ -564,6 +740,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran Update, October 25, 2026 - Institute for the Study of War",
+      "title_original": "Iran Update, October 25, 2026 - Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkNJMmRzS1FXTkZ5OFNCRVN5cmlBTl9oTnRaeEdZVnZ0c2VMQlFubzUtaVRzbUhablhNaUdxcG1rSTU5YW9wbFdmWDZRZFIzd1BEZHEzbFQ4SnNSTEMzdWdwSmI5dmY0NmxWU0o1ZWVyYnJPYlRVc0d6cUdQSW9kMzBTOUw?oc=5",
+      "summary": "Iran Update, October 25, 2026 Institute for the Study of War",
+      "summary_original": "Iran Update, October 25, 2026 Institute for the Study of War",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-26T01:42:42+03:30",
+      "published_fa": "1405/08/04 - 01:42",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump prepares for Iran escalation after U.S., Israeli elections - Anchorage Daily News",
       "title_original": "Trump prepares for Iran escalation after U.S., Israeli elections - Anchorage Daily News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0F0NnRzbEliNHdfNm5xVGdZN3Y1LXhVWG5vQ2dYcjJuREw0V01OUEJkblRjY3JlUldfZ1Nmek5hdVBVdVVWTlliV2RmcF9RUVdPN1ZSZW1VaVFUeTEwOEVPMGJ1RlVoV1RkOWJoZE9VXzhQSVpZSFNwYWJVLVhTTmpGR3NPVmxOdFFTSEFtNXB2VUxJejcwX0V2OVJaczh6Uml0dDYyMEdlUQ?oc=5",
@@ -596,21 +787,6 @@
       "verified_source": true
     },
     {
-      "title": "Israel fuel prices could top NIS 9 per liter as tax cut expires after elections - The Jerusalem Post",
-      "title_original": "Israel fuel prices could top NIS 9 per liter as tax cut expires after elections - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xMTQ0RGlIam5FR3c2ZmJ0bjF3SGZfdVhnTmswYkZpZXd2ZlliZHR1N1hqQW9yYlRQaW5EYndBcnpkTVRNcHRodU1va2F5RnprbDhiV1RyaFc5WExDekVEMjgxaUZnQk9majBWQQ?oc=5",
-      "summary": "Israel fuel prices could top NIS 9 per liter as tax cut expires after elections The Jerusalem Post",
-      "summary_original": "Israel fuel prices could top NIS 9 per liter as tax cut expires after elections The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-26T01:33:53+03:30",
-      "published_fa": "1405/08/04 - 01:33",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "بارسلونا ۱-۲ رئال‌مادرید؛ با دبل امباپه، الکلاسیکو به کام مورینیو شد",
       "title_original": "",
       "link": "https://www.iranintl.com/202610254789",
@@ -623,6 +799,23 @@
       "published": "2026-10-26T01:30:14+03:30",
       "published_fa": "1405/08/04 - 01:30",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Iran says it never left talks, accuses US of unilateral demands - Yeni Şafak English",
+      "title_original": "Iran says it never left talks, accuses US of unilateral demands - Yeni Şafak English",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkZPOHBuelFxOC1vdUxQTm5lOE9aWlBOU0wwbTk4bmVQdWVnY000YUs1TGdRSk90VE1ieU80Z1F2MUlkMm5aWEE2Tnc4cmVsVUVyU0VzclNOQy1YN1BEajNlTlNidUE1c0RoSzQ2Tm1RYVhjWFNSTkdmYzdHeHBTY3pxeWxFRUtyM2EteUZ5akdaMV9Wa2x1UXljWEtfRWZ0R2lV?oc=5",
+      "summary": "Iran says it never left talks, accuses US of unilateral demands Yeni Şafak English",
+      "summary_original": "Iran says it never left talks, accuses US of unilateral demands Yeni Şafak English",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-26T01:29:22+03:30",
+      "published_fa": "1405/08/04 - 01:29",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -675,23 +868,6 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical - The Times of Israel",
-      "title_original": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRU44TnBhRjczV0NDZ2tyNDRHQjE1YXdCNE1SLTNHUExFVms1WkxnT29EUzlJYmdzMzA0ME9mYnlKS3NMRzRETk5KTU5xNmt3UDFmSlJZVUFCWDk0WUZfWUVDbDhaRVhUR3R6NHZ3alVpM19Rb0F1NWVEbVIwdlpLaEtocXRzQ2kwamhqV0lFckVydF9OTlpUVWJFR2gtdDNJemRaV1NxcGVUbUlJWE40N00xNnpoZ9IBuwFBVV95cUxPS2NSemxVRGJCT2RFUnoxczhja3R1ZXh4ZGlUZUFFUjkwOEFTd3BVVHBkVG4wcHdodllBU0JrUEpEU1pneG43WXVaUmgwTG84Y3QwNzcySkxySm15cU1BYS1xSWJVUWtDYWU2ZmROeTNMYkFUU0laRmhVUXJyTjNmT1JFSHRFa05zZ04xM3lBN0wtWVVkbHlXSHRndTEtR2lhcnF3aWdINjBGdnI4OGdqUmNjLWtkTW16TGJV?oc=5",
-      "summary": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical The Times of Israel",
-      "summary_original": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical The Times of Israel",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-26T01:15:00+03:30",
-      "published_fa": "1405/08/04 - 01:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
       "title_original": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
       "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
@@ -737,23 +913,6 @@
       "verified_source": true
     },
     {
-      "title": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election - Haaretz",
-      "title_original": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMlUweVp5TnJWUDhnRkx0ZmY1alRaemtaRTc1TTZjNm5BVTFPaDJxeDZfcmt6Y3FxbXEtRFdBSkFwbC1iZDBjUXlBZFVVZmRqeXhvTTBaZ2NWZE1pNVN1TTM1MGM4U25XS1ZpZ2F5T3pEZzh1UDlwRndKOTZBbmNlV1B0YzJRWkN6ODlITFU4cWhwakhsWmtELU14blpDa3dzTkpISXNFbTM2SmtmeG9KTmNYNmR6SjRQLWZRZ2ZyalppdHBma2VCZTZfY1NpZmMwZVhPTDl1Yk54YUNwaldQX2JPeFBWWnB5c2JZelhHcjU4U2UtanYwRDBJQVlXc25yVTY4TThGT3Q3N1d4QWVwaWdqZlU2YnptM1BMMw?oc=5",
-      "summary": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election Haaretz",
-      "summary_original": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election Haaretz",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-26T01:06:00+03:30",
-      "published_fa": "1405/08/04 - 01:06",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump Says It’s Time to Strike Iran or Make a Deal - Bloomberg.com",
       "title_original": "Trump Says It’s Time to Strike Iran or Make a Deal - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFjWlV2NUF3UjFHRGcwdjFBYVJCUjhNTFYtSDhGUGNkTUlzRUEtTkdEUTJVVjg1SUVuZ2FfU2tleHpvbzFCRXE1X0FIRkVxV2JvMWJGbmNUc3hkbjZNQk5rR1RyS09uRTNqMHE3cDFzdXlPT0lGSzluWHNNR0RpUDVxTm1jWWhXT3IxR1JHdENtS2RnT1J4LTBJWlpwaVRIU2ZpSE5WZw?oc=5",
@@ -789,23 +948,6 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu on reported clash with IDF chief over Iran strike: It’s ‘nonsense’ - The Times of Israel",
-      "title_original": "Netanyahu on reported clash with IDF chief over Iran strike: It’s ‘nonsense’ - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUVaOVF3NmlLUVJEejUzc3puODVqYV96QkwyU28yUXhjM2djd0hHdHBqRkNORFpFZ2tFdUVkUWk2ZGcyRzJ2OS1fdWdKUmVZSFhpS0NyY1JoT1YzbXNMWWJTY1JSRGZEZzA3YW9ZbUplQ21BZG9adVRuX2hlamVCOWlNRHlodlJOV0pkQ1R0YnpfaE1MdC00aGpZcnI0NkNDbG11QlZHYUhyd0VlNlMyeHUyajBVQjV5U0E?oc=5",
-      "summary": "Netanyahu on reported clash with IDF chief over Iran strike: It’s ‘nonsense’ The Times of Israel",
-      "summary_original": "Netanyahu on reported clash with IDF chief over Iran strike: It’s ‘nonsense’ The Times of Israel",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-26T00:51:25+03:30",
-      "published_fa": "1405/08/04 - 00:51",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Israeli election TESTS Trump’s endorsement power as Netanyahu seeks another term - Modern Ghana",
       "title_original": "Israeli election TESTS Trump’s endorsement power as Netanyahu seeks another term - Modern Ghana",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BWGFLT1J3eDJ1cW4tUWtybkZEUmpGaXBMLWhLejdjcUtjamc5N0lqWENWVDk0Rk9VdEtkcV9vUk5LdGFCLVh5X2ZnVnBZN2Q5emFPekM1WGk3UUxSTXFN0gFcQVVfeXFMUEdsSWY4OVp5bGpTZmp5YzllTTJ5c2hqaFdEUTdHTXNtTzlvTkdJenFMajdxQmttaUhISEpYNTFQS0FQSHhZelFfcm9DVHl2bHp2bGhBS3dJcEpieHc?oc=5",
@@ -820,38 +962,6 @@
       "urgent": false,
       "published": "2026-10-26T00:50:00+03:30",
       "published_fa": "1405/08/04 - 00:50",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran - Arab News",
-      "title_original": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran - Arab News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3kzT0RXUEJMZEw3cHIxY2kzQ2JRUW42eVpXRFBJVHNJY2VMSmlCWm5IenRoWkNwTkNkZWoyNERIQmZ6czRUNzRwbWJ2aUlhSE5pT1JJZDBTX3JmTkI0NjNfd0wwcTJtMUtXMC1CTkFwc3Vld0ZSTnB5OVU2N1VmVENPLTZyQjlfTGJkdVJTTEcwbTBXVjh4UmktNUVpQWxPbHI0ejBvRmM4dFJhZHNfMHdn?oc=5",
-      "summary": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran Arab News",
-      "summary_original": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran Arab News",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-26T00:40:23+03:30",
-      "published_fa": "1405/08/04 - 00:40",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran slams Germany, EU for ‘contradictory’ positions on US-Israeli aggression - Tehran Times",
-      "title_original": "Iran slams Germany, EU for ‘contradictory’ positions on US-Israeli aggression - Tehran Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTVVYUlUUkhtY3VScml6WXppM2NQM1NOX1llMGo5WEQtZ0Vtb0s2cXpoMk1udEJZaW9TSDdWdDlWNGlFS0NweS15YzdZSGF1aEZJdzNqTzZSdVlROUNlZGpwbXpXWWRGbUEwWmQ4Mk0wRE5XNzZpNVIyZXB1dl9IbjNsVUE1ZF9OenZZNkhIQ2w0ZnpqaG1PcmlkYVhiY1dPdTZpVW1R?oc=5",
-      "summary": "Iran slams Germany, EU for ‘contradictory’ positions on US-Israeli aggression Tehran Times",
-      "summary_original": "Iran slams Germany, EU for ‘contradictory’ positions on US-Israeli aggression Tehran Times",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-26T00:37:30+03:30",
-      "published_fa": "1405/08/04 - 00:37",
       "translated": true,
       "verified_source": true
     },
@@ -886,23 +996,6 @@
       "verified_source": true
     },
     {
-      "title": "Israeli military chief opposes Netanyahu over Iran strike plans - TodayPress.tv",
-      "title_original": "Israeli military chief opposes Netanyahu over Iran strike plans - TodayPress.tv",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVlVa3U2UFZmT0dZT19QcGF5LXJDcm8yMWNqejM1dDNFOVpWQ2JtOGl0bWhNOFhzNDd4REYxbm9FRWVvYWFneWFmZXFjRGE3MVVWWm11eXE4Nk9hamFvZS11U01FMzR0d3dwN0tGeUx5ZHBhTTExUzFLb3pKcFNWN0w3UXExOXV2TEVVQnBfVkFIVFYwY3pkZDV3?oc=5",
-      "summary": "Israeli military chief opposes Netanyahu over Iran strike plans TodayPress.tv",
-      "summary_original": "Israeli military chief opposes Netanyahu over Iran strike plans TodayPress.tv",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-26T00:14:54+03:30",
-      "published_fa": "1405/08/04 - 00:14",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack - The Media Line",
       "title_original": "White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTJQTVpHXzl0ejdmN0Vya0FNRlpVa3k5NXU2UVJBU3VUN244X0xTOVQ0dU02c2tnY1FKTmtrcXJhRktTbVNURGoxQkdnOVFjaW5lamFOU0tielZhOURVemdOWC16NU9IQkJtbHB3c25faEl4aGxzbDNTdkpEazhJcjdVcmNzWTBxLWQ4aXJtWHdNb290bWdGX3BjZW8yV2t5bHZXeA?oc=5",
@@ -920,41 +1013,11 @@
       "verified_source": true
     },
     {
-      "title": "The Blogs: Bibi’s Iran Gamble Undermined U.S.–Israel Ties - The Times of Israel",
-      "title_original": "The Blogs: Bibi’s Iran Gamble Undermined U.S.–Israel Ties - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVROOUNuSGZEMnhPb08wRTd3aUREeUVYU3BDZUZZY2lJYXlSTXNNbU9ZSm1na3BMa3JQdGlicGxYMlFhWEJaamxiS2R4Q1R3cHFfcVZFMUxjZ09scFl6TW1hNUF6djZjTEpQb2ZybU95U2xhWmcwNm1KRXljVzl4cWFuRQ?oc=5",
-      "summary": "The Blogs: Bibi’s Iran Gamble Undermined U.S.–Israel Ties The Times of Israel",
-      "summary_original": "The Blogs: Bibi’s Iran Gamble Undermined U.S.–Israel Ties The Times of Israel",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-26T00:09:00+03:30",
-      "published_fa": "1405/08/04 - 00:09",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "IDF Fears Iran Confrontation Could Be Used To Influence Israeli Elections - Report - i24NEWS",
-      "title_original": "IDF Fears Iran Confrontation Could Be Used To Influence Israeli Elections - Report - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajBfZTR6Rk5LZFJudDZ0cVB3YkNHNFlCa1ZONElRZHdHVzhzWmNMRm1vRWpUTmF1T3dsMmNNdENrbm9SNEtpOXZQdFVicDBIcTllTVhQLXV4R0tBYmNHZGh4ek1HaWEyOGQ1d1JFc2UzbTdXenNuRmJ5TUpJY05lUFFNczk4NmpZNkp1MncyTUJIRlpFY2NRakZzMThub19lbUx0SEw3YnFFUjNQMndPcHk3MGx1NjlzVFQ3S0VSdUZkT1lQU0hMSllDYw?oc=5",
-      "summary": "IDF Fears Iran Confrontation Could Be Used To Influence Israeli Elections - Report i24NEWS",
-      "summary_original": "IDF Fears Iran Confrontation Could Be Used To Influence Israeli Elections - Report i24NEWS",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-26T00:02:00+03:30",
-      "published_fa": "1405/08/04 - 00:02",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections - The Jerusalem Post",
       "title_original": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0d3JCQWVEQTEyNVh3UWQwYlpjdHg2UXQ4MU9YcWlfbnctbDZHbHFIMG5PZUdJQ0FTaHBBbjBZQWlKa19XamZ4Q2h1X3RtMkdzMTZoOTVlMHRlME1za21hSVJGRFpyMG5RZnNmaFFB?oc=5",
-      "summary": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections The Jerusalem Post",
-      "summary_original": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections The Jerusalem Post",
+      "summary": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections The Jerusalem Post Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election Haaretz Politics, not strategy, could mean more Israeli strikes on Iran The Economist",
+      "summary_original": "Report: Benjamin Netanyahu, Eyal Zamir clash over Iran military 'action' before elections The Jerusalem Post Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election Haaretz Politics, not strategy, could mean more Israeli strikes on Iran The Economist",
       "source": "Google News",
       "category": "military",
       "tags": [
@@ -1017,11 +1080,11 @@
       "verified_source": true
     },
     {
-      "title": "Brazil election results 2026 live: Lula, Bolsonaro voters await final tally",
-      "title_original": "Brazil election results 2026 live: Lula, Bolsonaro voters await final tally",
+      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
+      "title_original": "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-      "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil&#039;s polarised political landscape.",
-      "summary_original": "Legal challenges are likely, as the voting extension adds tension to Brazil&#039;s polarised political landscape.",
+      "summary": "Brazil&#039;s veteran president has secured an unprecedented fourth term after edging past right-wing challenger in runoff",
+      "summary_original": "Brazil&#039;s veteran president has secured an unprecedented fourth term after edging past right-wing challenger in runoff",
       "source": "Al Jazeera",
       "category": "other",
       "tags": [],
@@ -1050,23 +1113,6 @@
       "verified_source": true
     },
     {
-      "title": "Benjamin Netanyahu is the only candidate feared by Iran - The Jerusalem Post",
-      "title_original": "Benjamin Netanyahu is the only candidate feared by Iran - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CX2o2TXNNWHg4Y0d6VUhldVdGZkpoalNPSG5MR0VyNXRUR3dxalFCNGhpZE5tUXdxSTFNeXFCaU9VNEdiUjNYeENtLUwyRWt0YVFJVG84QQ?oc=5",
-      "summary": "Benjamin Netanyahu is the only candidate feared by Iran The Jerusalem Post",
-      "summary_original": "Benjamin Netanyahu is the only candidate feared by Iran The Jerusalem Post",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T23:16:06+03:30",
-      "published_fa": "1405/08/03 - 23:16",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran says it has never left negotiating table, accuses US of imposing unilateral demands - Anadolu Ajansı",
       "title_original": "Iran says it has never left negotiating table, accuses US of imposing unilateral demands - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVpDbEh0LWpocTlrUDNRSzFMMF9nMDhwaVFQM0RHX0RfMW1UXzlSUzdhQ1docmJKX2w1TjJxSDEyY1I3cFE4cy1vZmZUbk1ab3hjMkZsSHEyc2toQVMxeVM1ZjZHTFFlQnRibkJiYXhxZl9raTRPN1RBeFU2Z2d3elA1ckVjTnRCN2s3d3N2c0tYMVBtZ0xBSERHOFB3bzNiWlRwclFHQnFqODBNVXFEVWt6Vk5zd1QySWNEOEc4TmhobDNPTExz?oc=5",
@@ -1080,21 +1126,6 @@
       "urgent": false,
       "published": "2026-10-25T23:14:56+03:30",
       "published_fa": "1405/08/03 - 23:14",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "'Missiles from Iran': TikTok and Instagram feed us scary news from the past - Haaretz",
-      "title_original": "'Missiles from Iran': TikTok and Instagram feed us scary news from the past - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOdFRCUURRaF9Ra2c4Mm91Tnl4OTk2alZ0dlpuN2l3ajhjNFpvb0Z2WEZnM1hLZG9ubnROaG04UUFsYUdseXpUeDdzUnMxRDhHN0ZkRXNYcTVabnZ0eG5uVTBEWHdFUzVHWlo3NTRYYkc4WnM1TXdEWU41cEFLUEkydThWUEhqeWthcFRpVVcycUNYNUZ2SkJqMndnVjd2ZlF5YVpwY21ZX0VrVEl0NFczTHFfVmhqUFg0Sm1PWU1FZk9NVW5YcVJJWjlIWkJRZzQtTDI4NUZDSTB0Nm9FdGZQdjU1RmFmRmxoT0FNbEpOSDFhODFyeTVXdVJySThuV1F1c2d5QTNVaFdyR2phMGhlb2UtQngxYWdkWTdxYXJuaw?oc=5",
-      "summary": "'Missiles from Iran': TikTok and Instagram feed us scary news from the past Haaretz",
-      "summary_original": "'Missiles from Iran': TikTok and Instagram feed us scary news from the past Haaretz",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T23:13:00+03:30",
-      "published_fa": "1405/08/03 - 23:13",
       "translated": true,
       "verified_source": true
     },
@@ -1151,21 +1182,6 @@
       "verified_source": true
     },
     {
-      "title": "Israel's Kingmakers: Why a Government Propped Up by Arab Parties Would Change the West Bank, Not the Iran War - Modern Diplomacy",
-      "title_original": "Israel's Kingmakers: Why a Government Propped Up by Arab Parties Would Change the West Bank, Not the Iran War - Modern Diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzAydlluaFo3QUp5MDdvaUJTM1JOeEpMekszOFNya1JOcDNKQmJQZlIwNDdIZUR2NlhrRDBHdDNDQ1dCbEk3ZktEenk5U08wSE8zSVJCNFZ6NGl1aFFObVhTU0U2YTA3b2NEVHp5UFd4REVRQXZ4b0ZmZDcxQUFRSzFDcjg1c200bDZmbHU2TDM4aHRZUzJpSlQ5TXhsTHVlejNlZmhB?oc=5",
-      "summary": "Israel's Kingmakers: Why a Government Propped Up by Arab Parties Would Change the West Bank, Not the Iran War Modern Diplomacy",
-      "summary_original": "Israel's Kingmakers: Why a Government Propped Up by Arab Parties Would Change the West Bank, Not the Iran War Modern Diplomacy",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T23:09:01+03:30",
-      "published_fa": "1405/08/03 - 23:09",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "The narrative battle over France’s unrest",
       "title_original": "The narrative battle over France’s unrest",
       "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
@@ -1210,23 +1226,6 @@
       "urgent": false,
       "published": "2026-10-25T23:04:46+03:30",
       "published_fa": "1405/08/03 - 23:04",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Israeli opposition leaders accuse Netanyahu of spreading ‘terror, panic’ ahead of election - Anadolu Ajansı",
-      "title_original": "Israeli opposition leaders accuse Netanyahu of spreading ‘terror, panic’ ahead of election - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQXFVaHU1M0x6bGlPMlZZWGM5R2V5Z1BqYWllYmJnY3VtR3NBb01kbXBFOWpGMzVGeUtLVkdnMDFLMk52b1lNQms4c3BLYlIyWHZYYkFzTmNmc1M0Y1VZU2pHTldEN05xRkhKaTdEZk9fdF8yLU9lVFBGbGdPeDV0SUNLWF9qQ1dCbTJCQXM1d3FQd3ZwSkh2ZVFPR18yQlMzOG9PcXE5TWZDTlM1Zk1la1RmbUhlUEtzQVNfV1gxRXhzQkc1T0NPT3JENVA?oc=5",
-      "summary": "Israeli opposition leaders accuse Netanyahu of spreading ‘terror, panic’ ahead of election Anadolu Ajansı",
-      "summary_original": "Israeli opposition leaders accuse Netanyahu of spreading ‘terror, panic’ ahead of election Anadolu Ajansı",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T23:03:38+03:30",
-      "published_fa": "1405/08/03 - 23:03",
       "translated": true,
       "verified_source": true
     },
@@ -1406,6 +1405,21 @@
       "urgent": false,
       "published": "2026-10-25T22:25:39+03:30",
       "published_fa": "1405/08/03 - 22:25",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Haley Stevens Gives Tepid Endorsement of Abdul El-Sayed on CNN — Calls Out His Israel-Iran Comments - Mediaite",
+      "title_original": "Haley Stevens Gives Tepid Endorsement of Abdul El-Sayed on CNN — Calls Out His Israel-Iran Comments - Mediaite",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenpDdDluSWhORFJtWlBlYkJNcTRmbkcwN2VydUlMb1RfclB4ajNkQ0xoT2ltZWljQW9aaE0tTHZKcDRjODY5aEFJSzdNOExZcjVKVy1IYkZMdXdRdUVKU3RiYlhNTXR2UExzMkVpUjJ1ZGhmRWhSaG9VRDhOSl9HazFld014dlBmT1p3UXBsRFdmQThDVFNRcGktNWVWUG1YdUE?oc=5",
+      "summary": "Haley Stevens Gives Tepid Endorsement of Abdul El-Sayed on CNN — Calls Out His Israel-Iran Comments Mediaite",
+      "summary_original": "Haley Stevens Gives Tepid Endorsement of Abdul El-Sayed on CNN — Calls Out His Israel-Iran Comments Mediaite",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-25T22:24:00+03:30",
+      "published_fa": "1405/08/03 - 22:24",
       "translated": true,
       "verified_source": true
     },
@@ -1639,21 +1653,6 @@
       "verified_source": true
     },
     {
-      "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-      "title_original": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
-      "summary": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
-      "summary_original": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T21:35:14+03:30",
-      "published_fa": "1405/08/03 - 21:35",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Resumption of war would not change its stances: Iran - New Age BD",
       "title_original": "Resumption of war would not change its stances: Iran - New Age BD",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3JfWUEydFdaRDhISFlKcTlaYUlxcFM0SmhVZEQzdDhydDd0V0hIZDl1OG5yMzMySnNLU1FIZDlJT25ybFRBQ0FwMmI4NzdBdTExbFJTWHVyMzBPV2k5b2JnV2l1UzRXNWQ3b0QwVkVkaW50RWNqaVZoSWQ1UjFqa3hjZDY3SUs2SXFmWnM0MXFsRmhzQ0RXYnBsXzZINTFoeVE?oc=5",
@@ -1665,21 +1664,6 @@
       "urgent": false,
       "published": "2026-10-25T21:30:00+03:30",
       "published_fa": "1405/08/03 - 21:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "US and Israel elections: New leaders, same policies?",
-      "title_original": "US and Israel elections: New leaders, same policies?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-      "summary": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
-      "summary_original": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
-      "source": "Al Jazeera",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T21:23:23+03:30",
-      "published_fa": "1405/08/03 - 21:23",
       "translated": true,
       "verified_source": true
     },
@@ -1734,51 +1718,6 @@
       "verified_source": true
     },
     {
-      "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach - AP News",
-      "title_original": "Iranians fear a possible return to all-out war as US and Israeli elections approach - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVERVeGhKVnFuNV82YUV2SEFmNEF6SUIwSWszbi00MC1ObThxa1dtQVY3ZG1JcUFjZlRzWmhTT0Jwbk5IV3VJMlVlNE9wSTlOZ3B1bGU1aFpldmtMei1TckZBemhNckxUdXVZNjkwWlBNWjhHSncxdVRhOTIwNDZPem1uNXN0YmI2bUdBNmJNYjVSTTg?oc=5",
-      "summary": "Iranians fear a possible return to all-out war as US and Israeli elections approach AP News",
-      "summary_original": "Iranians fear a possible return to all-out war as US and Israeli elections approach AP News",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T21:15:00+03:30",
-      "published_fa": "1405/08/03 - 21:15",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Can protests in Europe bring about change?",
-      "title_original": "Can protests in Europe bring about change?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-      "summary": "People have been taking to the streets to demand action.",
-      "summary_original": "People have been taking to the streets to demand action.",
-      "source": "Al Jazeera",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T21:09:42+03:30",
-      "published_fa": "1405/08/03 - 21:09",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Sri Lanka rescues 40 Iranian sailors from stranded ships - Iran International",
-      "title_original": "Sri Lanka rescues 40 Iranian sailors from stranded ships - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5laHNxcmRGTEVtZXF2eHhsTlNHbFR4NFNqZ1d2cWI5X1lPSnUydmRzQ3preHdGNFZIOUhjaWJ0RXJKNFZGSzFHbmNqM1oydHRnN0E?oc=5",
-      "summary": "Sri Lanka rescues 40 Iranian sailors from stranded ships Iran International",
-      "summary_original": "Sri Lanka rescues 40 Iranian sailors from stranded ships Iran International",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T21:05:39+03:30",
-      "published_fa": "1405/08/03 - 21:05",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
       "title_original": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
       "link": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe",
@@ -1809,24 +1748,6 @@
       "urgent": false,
       "published": "2026-10-25T20:59:00+03:30",
       "published_fa": "1405/08/03 - 20:59",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump Weighs Iran Deal Or “Finish Them Off,” Araghchi Says War Won’t Change Iran Policy: 14 outlets compared - NewsCord",
-      "title_original": "Trump Weighs Iran Deal Or “Finish Them Off,” Araghchi Says War Won’t Change Iran Policy: 14 outlets compared - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazVSNndxQlFRbmg4dVRlRTY5N0VFOENWZjZ0MzNRN19Ba0M0dEd1SHJIa1Y4cTN4TlluX0NpdEc3M080NWduUy10WkpocThtT0lsUU85VUd4VEFuYlFVRVplMVNGNHN3ZVBPbXUzUGt3cGZDM1BCTnczVDdyZC1meGNoT2JGU0doVFE0Y1pfSXAxbWZlQTZlQU1nRHFkd2FFazNNUFduQ0lNSnZBS1FSV1VaalVIZ0tHNXRHODUzT09Ga2hSdmJSWDhFZkZsX1Uzbi1zU2tzZXFzVXhiZDVNREpoRDZDNWtTRmc?oc=5",
-      "summary": "Trump Weighs Iran Deal Or “Finish Them Off,” Araghchi Says War Won’t Change Iran Policy: 14 outlets compared NewsCord",
-      "summary_original": "Trump Weighs Iran Deal Or “Finish Them Off,” Araghchi Says War Won’t Change Iran Policy: 14 outlets compared NewsCord",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T20:57:10+03:30",
-      "published_fa": "1405/08/03 - 20:57",
       "translated": true,
       "verified_source": true
     },
@@ -1878,23 +1799,6 @@
       "verified_source": true
     },
     {
-      "title": "‘Don’t test us': Netanyahu warns Iran against attempts to disrupt Israel’s October 27 elections | World News - Hindustan Times",
-      "title_original": "‘Don’t test us': Netanyahu warns Iran against attempts to disrupt Israel’s October 27 elections | World News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUFBDVTlWZmFYSHRSSVQyWS1WSzd2STVMemJVWGRJVDdzM0lhckdyT2pRaTFyaGktVlFrdENjWGthNDNJbTRYMDY0NEdXb2ZzSnlNOEdYdGlHeUNDNk9ZczRpLUZmTDVqclNST0k3aVJwZVotY0gxdDE4bm9SQWctd2RUMmxRYzNhNUNrRmdtdV9fUldFdERFWEthakZrQnlnUVpManlWMVIwME5tZU81bkNsUndhblA5cUhGbG1wNllOVkd2UWExdUNPclgwLUJ4Vm1BWHVDeXZZQXZOV0RHWVIyNHJseW9jTlHSAe8BQVVfeXFMTkR2cG1fQldGNWlneWJFNHRoV1lDWkJUYTUyWnV4T1Bkd2ZUZ1p3dWdSOWxidklYM25Od19GUERGSHpMMmEyU1dNb05waGZWN09RRXhITkxQaUJQYWRMYl9NWndHTFhmNEdFS2pZZ1RJYTdoWkpVaEZLLXoyTXR2bjZTWkpBV0VEWTd6X3MtLTF1SGk3TWxxMWJfYzJVdGRxcENEM0ZBUjZwY3NSa19mWndBTXJGUWNXcTdyZXJ3OTY2YVFTUmlqTXRGSjhJVEg1QzZvOHp6eU1iVlMxYllRaUdsMTNSRDBuQTU4al9ZNzA?oc=5",
-      "summary": "‘Don’t test us': Netanyahu warns Iran against attempts to disrupt Israel’s October 27 elections | World News Hindustan Times",
-      "summary_original": "‘Don’t test us': Netanyahu warns Iran against attempts to disrupt Israel’s October 27 elections | World News Hindustan Times",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T20:37:59+03:30",
-      "published_fa": "1405/08/03 - 20:37",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran - The Jerusalem Post",
       "title_original": "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeVBKZWd6VHJ4QjdOdFdSTzNVT2NDQUlsaUpfLXdvbjB6RndMSG4wUFZEbUk2R0M1MVRfOXBNTTU0NU1XRnNpVWxCaUlqUWVEd3B6ZTktX1VENnI2Q2E2cTN5RkxiN1BWVlE?oc=5",
@@ -1906,21 +1810,6 @@
       "urgent": false,
       "published": "2026-10-25T20:35:03+03:30",
       "published_fa": "1405/08/03 - 20:35",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Israel Election 2026: What does Gadi Eisenkot’s Yashar stand for? - The Jerusalem Post",
-      "title_original": "Israel Election 2026: What does Gadi Eisenkot’s Yashar stand for? - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CWEZLN1hzeVRuQ2MzNFZQUlkyUWMtdXR1eHA1ZlVSVXdMdUF3eFhTWXU3VnpuRjZQWWxGQUQ5LXJTbHdScFpCMW9tN0tnazdCdnRGR0Jjd1Y3Vkc0Y2pyekFEYjJURV95?oc=5",
-      "summary": "Israel Election 2026: What does Gadi Eisenkot’s Yashar stand for? The Jerusalem Post",
-      "summary_original": "Israel Election 2026: What does Gadi Eisenkot’s Yashar stand for? The Jerusalem Post",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T20:26:21+03:30",
-      "published_fa": "1405/08/03 - 20:26",
       "translated": true,
       "verified_source": true
     },
@@ -1975,23 +1864,6 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us' - The Hindu",
-      "title_original": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us' - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZS1vREZhMlNreTlSQzVlVDJORU1TNmhFaEkyMTVaS0JRSlNyZzhyN2xXQXhGWmZieGc0MHltUVMzYkR5LUw5Z21KWlFiYlNrc0RUR0NWWXVYdkRiTWYwTDU2V1BYbnpmQkdZc3FxaWdLT1lSeXZBNU1IR3k2ZnIxU1Z5NnJPaDRRdVNCVk1rQklXYXozZnRQbnh0dHlJWTd1T1BKRFVnVlI5ZVc2Q1M4VktScDR5cFRyUmMxYm13ZDFDdTJWcWxHQ2NuU2V4ejdVU1Jv0gHaAUFVX3lxTE9uTEZMUF9HdE15eTlIWFhNcE95NUFubU5XMFl6bFc4UllrVDhFbzdwdFB5azNqdEN5QThsVkxhYmJpZU5LSTBBeDcxTmx3Q1l5VGROMWNUbEx2Sm83ZmxJb3MtakVVX1M4QVpNWTRoRFU1RFFXUFFFM2t5MGVGZFBFeVl0VC1BSkhqcE9xbTJZcmdxN2s2S25yM241SVVBUzQxVXJuYjhrV1RuRVdOQy1sSERCYnJBVHdWYXFuVUlfM21QZW51RksxTkhwcUthMEJCMHBmZzRHWEFR?oc=5",
-      "summary": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us' The Hindu",
-      "summary_original": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us' The Hindu",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T20:10:22+03:30",
-      "published_fa": "1405/08/03 - 20:10",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government - Reuters",
       "title_original": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlk2VkFXVkdJWWhnUXFnSFNuN25YOHpiSHdWczV3X3BHQURLcVhtVzdIVXlRbE5CWU9KSG45dkNqemxwZXBSRHpMR2hkdmhRSFhrNkpHU2dZa2RNbm1hQ3dMTUQtWGlIbElrNHhrb2Zsem4xY19hOHoxNmNlMjJPb3BUd2YybklKZXREeVNKZVNBRGJHTW5jcG5LaVdzZUhLTExFT3ZBV0Nwc29NRXhZXzJFbkRQTjR5UDQ5dVo4b2Jhcm5oVzF3ekt0MA?oc=5",
@@ -2026,19 +1898,17 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu warns Israelis of ‘existential threat’ from Iran, posts AI image of nuclear strike - WION",
-      "title_original": "Netanyahu warns Israelis of ‘existential threat’ from Iran, posts AI image of nuclear strike - WION",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXRPaU9UOGtndGhYVU01YXM3dDdQd2p4dS1uRi1DTHJlOHp4Yy0yRkNDTEczM3ptODZ6QXlZa0lSUVNMUzItNkUwYzIza3RJWVJaLTJXRDdGY2NybHg5UmZfSWg1Rlktd0RGMXpLYUhobVA2QXgwd2RrWGVOZGw3QnBDbXhRR0xUQ1FlTzlraWVSY1dWQUl2T1N3blZjMnFuVUpic0pLRUpxVDFld2pYbHpYMHZvWWVuSGFGNDFKZXVvUdIBxwFBVV95cUxPU1ZlZURoTUVqaFZDSWRxaDJQQVduWm9xZnBiUmRSbGpnRW9uUHMtbXYwLUlfamNXS1BrcEhiQXBRTFI5RWhDSWx1dFNPYmJJU1FYcXRXd1Rxb25MUUNER3BNWGhlLWRlWTZla1p6c2R3R0dBQlN6SFZKeUVOcTRod0Z4LVhVdlVEd2VCMEpVdWhPY1NlbVpHVzQwbUpPTXMwc09NSzVUMnQ3QTdLMDRDRHRxWERtZGdXcl9ZTzJxWkRHS2tIQ29n?oc=5",
-      "summary": "Netanyahu warns Israelis of ‘existential threat’ from Iran, posts AI image of nuclear strike WION",
-      "summary_original": "Netanyahu warns Israelis of ‘existential threat’ from Iran, posts AI image of nuclear strike WION",
+      "title": "Former Mossad Chief Says Israel Released Iran Operation Footage To Trigger Mass Arrests And Shield Agents - VINnews",
+      "title_original": "Former Mossad Chief Says Israel Released Iran Operation Footage To Trigger Mass Arrests And Shield Agents - VINnews",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdDFzWVc2R1FIZ1g5UGlWWHJVRTlteTU1UlNHRHFpTlJwV1pMZUhWNlVobFU4NFdvSW83UktMNUZjVlgzbFZQcWxTWU1HN1VaMnlleE5JRVpBUC12cVcwUnhCdTBSR1pLOXF6WGp1eUlrd3lxQ05hb0VtRGpJRDF3Qm1mTFNrRW02dktkRzBTRnRlaG1fTTJNTmg0ajdUY21TVHBFUXFBVGxpeERDSW1NR2R1TE9HZlBPUnMtakxGTFgyNHhadVhuMDlWRmdLYkh2b1Fn?oc=5",
+      "summary": "Former Mossad Chief Says Israel Released Iran Operation Footage To Trigger Mass Arrests And Shield Agents VINnews",
+      "summary_original": "Former Mossad Chief Says Israel Released Iran Operation Footage To Trigger Mass Arrests And Shield Agents VINnews",
       "source": "Google News",
-      "category": "military",
-      "tags": [
-        "نتانیاهو"
-      ],
+      "category": "other",
+      "tags": [],
       "urgent": false,
-      "published": "2026-10-25T19:45:00+03:30",
-      "published_fa": "1405/08/03 - 19:45",
+      "published": "2026-10-25T19:48:19+03:30",
+      "published_fa": "1405/08/03 - 19:48",
       "translated": true,
       "verified_source": true
     },
@@ -2090,19 +1960,19 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu claims Iran may try to disrupt election, warns, ‘Don’t test us’ - The Times of Israel",
-      "title_original": "Netanyahu claims Iran may try to disrupt election, warns, ‘Don’t test us’ - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXhLeHNmNVJrMWxxendnQzFqZVdCeWdudElmSjNXd0Nldm5VLVhXS0lzNHdxOUNfWTZaUGlXSHB1aFNCOFlCS0ZTZ1M4WWVpelFkNTFPUUh0b0VMOGtXV1FnckJYdjdUaHFvS1NhYU14VERqRllycVBaODVXNkhjcGctdkxhajhtZlo1UDlQekl4aW5wUFdPUDJiMEpzcUpMeFhNUXBSQmd0eTJibzJtakFqQUY?oc=5",
-      "summary": "Netanyahu claims Iran may try to disrupt election, warns, ‘Don’t test us’ The Times of Israel",
-      "summary_original": "Netanyahu claims Iran may try to disrupt election, warns, ‘Don’t test us’ The Times of Israel",
+      "title": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical - The Times of Israel",
+      "title_original": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRU44TnBhRjczV0NDZ2tyNDRHQjE1YXdCNE1SLTNHUExFVms1WkxnT29EUzlJYmdzMzA0ME9mYnlKS3NMRzRETk5KTU5xNmt3UDFmSlJZVUFCWDk0WUZfWUVDbDhaRVhUR3R6NHZ3alVpM19Rb0F1NWVEbVIwdlpLaEtocXRzQ2kwamhqV0lFckVydF9OTlpUVWJFR2gtdDNJemRaV1NxcGVUbUlJWE40N00xNnpoZ9IBuwFBVV95cUxPS2NSemxVRGJCT2RFUnoxczhja3R1ZXh4ZGlUZUFFUjkwOEFTd3BVVHBkVG4wcHdodllBU0JrUEpEU1pneG43WXVaUmgwTG84Y3QwNzcySkxySm15cU1BYS1xSWJVUWtDYWU2ZmROeTNMYkFUU0laRmhVUXJyTjNmT1JFSHRFa05zZ04xM3lBN0wtWVVkbHlXSHRndTEtR2lhcnF3aWdINjBGdnI4OGdqUmNjLWtkTW16TGJV?oc=5",
+      "summary": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical The Times of Israel",
+      "summary_original": "Netanyahu posts AI image of nuke hitting Tel Aviv, warns of ‘2nd Holocaust’ if he’s not elected; Eisenkot: He’s hysterical The Times of Israel",
       "source": "Google News",
       "category": "politics",
       "tags": [
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-25T19:11:21+03:30",
-      "published_fa": "1405/08/03 - 19:11",
+      "published": "2026-10-25T19:06:00+03:30",
+      "published_fa": "1405/08/03 - 19:06",
       "translated": true,
       "verified_source": true
     },
@@ -2184,6 +2054,21 @@
       "published": "2026-10-25T18:47:27+03:30",
       "published_fa": "1405/08/03 - 18:47",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach - Toronto Star",
+      "title_original": "Iranians fear a possible return to all-out war as US and Israeli elections approach - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM2ZjRkZPYVRXX1l4eGdKTGxNOU9ub3ZfV3NGRTFXaFBvRWg0NnRaR0R6UlZ0dUNuaEl0bUVvN1cwbnpwN0NoVUFQREl3SWZJWEkwRVpPYmxrd0ozY0syYjBQSFJXTmxOaXJRZldwbmtqemR4Y0lwR2ZiOHNuMlpVeHl2bGxkbWFJbHMzVllNODNJUWp4T21BZWZXRUpCaHoxRzQzUFJqT0xlNk10U0N5OGE2S0dRSVpKWUJoUlJFeUxHanlIVW1hYTZLNE1mQi1hZ3JvRERhZXpiVk15bVNxS1dwU1lsYzlQOVdMbnlOdHVIdjkzbFRwOXo0UGRSUjlHVnAxTHd0XzNIOGYy?oc=5",
+      "summary": "Iranians fear a possible return to all-out war as US and Israeli elections approach Toronto Star",
+      "summary_original": "Iranians fear a possible return to all-out war as US and Israeli elections approach Toronto Star",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-25T18:33:00+03:30",
+      "published_fa": "1405/08/03 - 18:33",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -2395,6 +2280,21 @@
       "verified_source": true
     },
     {
+      "title": "The Iran war’s toxic impact on one of the planet’s most unique seas - Egypt Independent",
+      "title_original": "The Iran war’s toxic impact on one of the planet’s most unique seas - Egypt Independent",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjNFVzJGZXkxR1BsVVh2T19hYkhmbzNqZUtvX3I3aVdfYnIzd0ZtaFRPYjJlY2ZHUk11Vmdrd0N5ekIyWk5ybktrM3hOa0pNNmk2VmJZQ1AyeUhJeTh1T1dScDNQQ3gtSkJWbGtSNTNyN2ZqdnFOMVlseHhVb1VGaTZoN0JyTjV4Nk9DWWFQZnRjWjNwVndfV0p6NjBrWko5?oc=5",
+      "summary": "The Iran war’s toxic impact on one of the planet’s most unique seas Egypt Independent",
+      "summary_original": "The Iran war’s toxic impact on one of the planet’s most unique seas Egypt Independent",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-25T17:25:22+03:30",
+      "published_fa": "1405/08/03 - 17:25",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "اینتر ۲-۱ فیورنتینا؛ کامبک دراماتیک اینتر مقابل فیورنتینا با گل‌های دقیقه ۹۱ و ۹۷",
       "title_original": "",
       "link": "https://www.iranintl.com/202610253500",
@@ -2488,69 +2388,6 @@
       "published": "2026-10-25T16:43:24+03:30",
       "published_fa": "1405/08/03 - 16:43",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "بازداشت بیش از ۱۳۰۰ نفر در اعتراض‌های گسترده فرانسه؛ درگیری معترضان و پلیس در پاریس",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/crvg6pl00977o?at_medium=RSS&at_campaign=rss",
-      "summary": "وزارت کشور فرانسه اعلام کرد که در جریان اعتراضات سراسری روز شنبه بیش از ۱۳۰۰ نفر بازداشت شدند. همچنین ده‌ها مامور پلیس در ناآرامی‌های پاریس و دیگر شهرها مجروح شدند، اما سطح بی‌نظمی‌ها نسبت به هفته گذشته کمتر بود. صدها هزار نفر روز شنبه، ۲۴ اکتبر، در اعتراض به افزایش هزینه‌های زندگی و وضعیت نامناسب مدارس و خدمات عمومی به خیابان‌ها آمدند و در پایان تجمع‌های عمدتا مسالمت‌آمیز، درگیری‌هایی میان معترضان و پلیس در پاریس و چند شهر دیگر روی داد.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "social",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T16:28:13+03:30",
-      "published_fa": "1405/08/03 - 16:28",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis - CNBC",
-      "title_original": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjVjTmdHOUVQdHBNYk9zRUlGWDVXXzRFTmFzUWJaZno0Y2ZkU2ZQcDJ4YUt4Q29lclZwWmw5eTdaWEczNDY4ZTVQNnI5OVFCQjl1VndQVkN6SFM4NzJRb0pfTUVDejVSMktPeENjd3NxVnRTRUpPMWU4OWFKYkhIZkI0UjJDSXVEcG9fY9IBkgFBVV95cUxPQzlTRWw1RFVBdlVvT1VpdkdQSkh3UjhQZURkZElXRTlMWFZQT29UVFJRTXhCbXlEbjY5ZW01dDZnRFBiaWNnbGVrTGtDS0QwRzF6ZGZOYzVtemkzUDVPSlFqbHBsSTZHRnVOazhkNWNaX2NIWmVmcEc2eUlGZ3Z5d01QLXJ0TWxGRjVoa1ZEdG5sdw?oc=5",
-      "summary": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis CNBC",
-      "summary_original": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis CNBC",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T16:19:33+03:30",
-      "published_fa": "1405/08/03 - 16:19",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "ماسک می‌گوید استارلینک را برای اوکراین محدود کرد چون برای عملیات هجومی استفاده می‌شد",
-      "title_original": "",
-      "link": "https://www.bbc.com/persian/articles/cjwy9rpkyr0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "ایلان ماسک می‌گوید که اسپیس‌ایکس خدمات اینترنت استارلینک در اوکراین را محدود کرده است در حالی‌که مقامات اوکراین گفته بودند محدودیت در اتصال به این سامانه اینترنت ماهواره‌ای برطرف شده‌ است. آقای ماسک اوکراین را به نقض شروط استفاده از استارلینک و به کار گرفتن آن برای عملیات نظامی متهم کرد؛ او اما مشکل مشابهی را که همزمان در دسترسی ارتش اوکراین به استارشیلد پیش آمد منتسب به شرکتش ندانست. استارشیلد نسخه نظامی استارلینک است و در مدیریت دولت و ارتش آمریکاست.",
-      "summary_original": "",
-      "source": "BBC Persian",
-      "category": "military",
-      "tags": [
-        "تصاویر ماهواره‌ای",
-        "NetBlocks"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T16:06:56+03:30",
-      "published_fa": "1405/08/03 - 16:06",
-      "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "Iranian FM: Another attack by the US won’t change our policies - The Times of Israel",
-      "title_original": "Iranian FM: Another attack by the US won’t change our policies - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVm9BcnNFU3NjaE0wUmZjYkdORmhSdGFKMTc2WGhYSjFWeHRjOVhQSGJhMVdqZnFWNUtLcUMwQjlVT3lrSnFXRXNiZVpRblQydkZmUUJ5OUExS0xoUXFyXzBtSnVnTWtjOHNocVp1ZGNmeDJfdFZ1a25mbFdRb1N4ZE56Q2phM3B2WUZRc1A2bllLckdoQ0dwYnZGNHc2M2xCdWZydnNHbjRFZw?oc=5",
-      "summary": "Iranian FM: Another attack by the US won’t change our policies The Times of Israel",
-      "summary_original": "Iranian FM: Another attack by the US won’t change our policies The Times of Israel",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T16:00:21+03:30",
-      "published_fa": "1405/08/03 - 16:00",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -2659,23 +2496,6 @@
       "verified_source": true
     },
     {
-      "title": "Iran war updates: Trump says no strike today; Qatari mediators visit Tehran - Al Jazeera",
-      "title_original": "Iran war updates: Trump says no strike today; Qatari mediators visit Tehran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRy1XR2xLRHBpdDFLWmZBY0Q0QW95SXpadWRTS1Z2dlFYUWtfaEFsNTBfTEloZXRuTFlyWUdkLU9FSF84VkNoMmx6UXZiTWhyNmI4WnZZVlgtWHhHcllTcGgtRlV0RGMxWnRvczBuMDFBRXhwdUUxYXNaZVdUbkN6VTZrY3JTd1VIR0JPTWItOXp1NDFBWjlRMGdQeW03aGlpc3JVWm1BTThmNGQzZHgzVHNMRXJwZjFGVEE4Rk14SUHSAcYBQVVfeXFMTzk5N2k2NXlJMUtfdW9EZXh4dU9sdk1YdTJNMWh1cnpER2ZqR2pXZ2xmVU5peWVGMnduRlpDeklHcXJLX0dUQ25jY1dpWGg3aXAwaWNIdmpKdzlHV3ZHLWxveThZNlVCRGx2Wkd0T1ViVUhZc20yUDFHX0t0SW4yYkxmeU8yV1RUeG50SmVoYXpLalpaLW1UMlBmeUdnT1YzdUxrbHZWYWhxSTFfMGNaTUxsTTBxV0lvSE9GYmtGNnM4SVpiYVpB?oc=5",
-      "summary": "Iran war updates: Trump says no strike today; Qatari mediators visit Tehran Al Jazeera",
-      "summary_original": "Iran war updates: Trump says no strike today; Qatari mediators visit Tehran Al Jazeera",
-      "source": "Google News",
-      "category": "military",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T15:24:57+03:30",
-      "published_fa": "1405/08/03 - 15:24",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "مگان مارکل در نامه‌ای با اشاره به اتهام سوءاستفاده از کودکان، ارتباط با پدرش را قطع کرد",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cqwyrgw9m4vpo?at_medium=RSS&at_campaign=rss",
@@ -2704,54 +2524,6 @@
       "urgent": false,
       "published": "2026-10-25T15:11:52+03:30",
       "published_fa": "1405/08/03 - 15:11",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu - Axios",
-      "title_original": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX1VCUW9wbldZbmU5eG1taUsteGwtek1WaUtEWHJiM0t0TnJ5cWxTTDZPa3R6dU5vcDc1aG50NW5mdjNTYjJDT3dCOERwZV9lX0Y4Y29aSjJiejhLZGpfTmVucXh5dThPdWowN2htLVY3WGNBMW11a2RVMzVQZw?oc=5",
-      "summary": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Axios",
-      "summary_original": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Axios",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T14:51:26+03:30",
-      "published_fa": "1405/08/03 - 14:51",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran unlikely to change position even if US, Israel resume war | Daily Sabah - Daily Sabah",
-      "title_original": "Iran unlikely to change position even if US, Israel resume war | Daily Sabah - Daily Sabah",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTF2a054SEo5d3diUWlfUWRZNUFzY2ozeExfTElwVDZqejZnTXJiSVJ3SUYzaGpnQm1mTnhnZ3RZOGxYYlotWlVDMXlBOC12WHk0M2VuZXlrYWpJYlNsLUZCTFFDU1FUOE1BUjZiLTZ2RVFjbU1KTlQ4M2x1czVFWUduQmJfVVpMblgySk1ESHQ2V0JST1BfYzJlbFA4aG9qa1NhUDdB0gGrAUFVX3lxTFBMZ1ZZcjNkQTJMa09YemdZcy1SS3RJdHVWZlVfRVpLNEFmMk11czFpZmw4c1gzWEZVaXJTSzdncXRvT3J0UDRuUjVmVUJrMXZvVEVkMnhDX1lOM1VrOUtkWFpoLU8xSV84Qnc2MjFFRGtJSC04LVpxSHZEaFdtRnBlZGxCdGdkOFVVV1pGOTNfYVhmSXJsQ3BEOXVDVERYRlRrUTZoOWU2aHUxOA?oc=5",
-      "summary": "Iran unlikely to change position even if US, Israel resume war | Daily Sabah Daily Sabah",
-      "summary_original": "Iran unlikely to change position even if US, Israel resume war | Daily Sabah Daily Sabah",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T14:46:00+03:30",
-      "published_fa": "1405/08/03 - 14:46",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues - Iran International",
-      "title_original": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NWF81NHNuMzBMaE1aSTRmMWdJaTFOcXZKTFlIZXBneXlRc2Y2OFM0LUczd1VqNVotR1lHZzZ1NGZmeG5hUXhuMkE5M3JnekN4WWc?oc=5",
-      "summary": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues Iran International",
-      "summary_original": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues Iran International",
-      "source": "Google News",
-      "category": "military",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T14:37:28+03:30",
-      "published_fa": "1405/08/03 - 14:37",
       "translated": true,
       "verified_source": true
     },
@@ -3005,23 +2777,6 @@
       "verified_source": true
     },
     {
-      "title": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger - Fox News",
-      "title_original": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaERTVlQ2SEhXTU4xOUFEUFJCcUk0QzlNX1g0X1NCS2dOQ2RXUFB3ZGFZMHBIN2lsMXlyYUpxQVZoYmVTY2ZXUVFESEpGeWlVU2lOZ1B0Qmo1T0ZpWlI1Unk0ZmhmU0F1OUFjVnVqTEdONXR1NlAxSTZSMVpsTTQzQWUwRDBjZXozSTVmMDZRalhwUl9oQmh3aHg5RmZOUDFxVUtGMS02Z1BoOHdhNElyMHk2MDlxeGvSAbwBQVVfeXFMTldSb3FJWXJlUlVGckxjN1NvQS02WVZTSzk3ZlAzay1mT00tM3luZTBwbmZFbVBVaDNxY2pnV3dSRG9tbFkwV0c2TVMtaG9EOGpmQXBxc3FvSTBQZHdXbnFnVDRPSzRaTnd0VjZHdU9HR21kbjFkZzk1bVA3Uk93UlVhdFg3cldtSllwRG9lUElxQ29nT2tXWno2X3VIWFloaU1OaEhSUW9GaUhVdHpzdXI4ck5uNGZtLWRQclA?oc=5",
-      "summary": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger Fox News",
-      "summary_original": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger Fox News",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T13:30:15+03:30",
-      "published_fa": "1405/08/03 - 13:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "رییس کمیسیون بهداشت مجلس: هزینه‌های دارو و درمان کمرشکن شده است",
       "title_original": "",
       "link": "https://www.iranintl.com/202610259445",
@@ -3037,17 +2792,17 @@
       "verified_source": true
     },
     {
-      "title": "2 Iranian officials confirm Tehran preparing to target US diplomats, personnel – report - The Times of Israel",
-      "title_original": "2 Iranian officials confirm Tehran preparing to target US diplomats, personnel – report - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnJoU2h6UFRuQzlaaHE3M0NlQXM4Z2w5NHNXUWJyOTFfY1RWc2E2c2d4Zy16MUxwTUkwaVNHb3ZmeGxIc01hOGdjNjhQQ21uOS1vNTd1d3gxYkhlVEdqZG1XQ1k0TkZKcldhRVNQUGVWZHF5alFBYU1jYzFyREpZcUVsQzYxVHlEaVJuX2hIMUhqWl9SZDh6NmdlRzFuaW9HNWZodnp3OGRTbFBIYUFtcTRZR0hxZ9IBuwFBVV95cUxOdDZBX1RwV0ZHUUpsTmdiVnpnR3duZkFYWjJORHV6TXBHdUdFY3J5YUhLYzYtalBIOXJEbE9YaW1vQ3J0amxPS3ViTDR5Rl9reUNvWm9neHJLVUlPYkNwazkwekJQYlNpYWZSR24ybE13ZGtnRWNMU29kblBuUDF0dWRVSjJ6VFdSY1BfSk9hTm9Nb3pBMEIzUUhnZ3BwY1RSSzBCSm9TSkk1bHR6VVlMTXdPUmxDYUdlTlA4?oc=5",
-      "summary": "2 Iranian officials confirm Tehran preparing to target US diplomats, personnel – report The Times of Israel",
-      "summary_original": "2 Iranian officials confirm Tehran preparing to target US diplomats, personnel – report The Times of Israel",
+      "title": "Potential resumption of war with Israel, US will not change Iran's positions: Araghchi - Dawn",
+      "title_original": "Potential resumption of war with Israel, US will not change Iran's positions: Araghchi - Dawn",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WNUh5YlgtM0RoOVIyRF9fNll3RmYtQWxlM3dheUVYcEpPc1Rra05BVmJsLWRTSHdtc09kUGtTUTJZVzRxcWhEZg?oc=5",
+      "summary": "Potential resumption of war with Israel, US will not change Iran's positions: Araghchi Dawn",
+      "summary_original": "Potential resumption of war with Israel, US will not change Iran's positions: Araghchi Dawn",
       "source": "Google News",
       "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-25T13:15:00+03:30",
-      "published_fa": "1405/08/03 - 13:15",
+      "published": "2026-10-25T13:10:19+03:30",
+      "published_fa": "1405/08/03 - 13:10",
       "translated": true,
       "verified_source": true
     },
@@ -3079,6 +2834,21 @@
       "published": "2026-10-25T12:42:11+03:30",
       "published_fa": "1405/08/03 - 12:42",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "US Embassies on Alert Across Middle East as Iran Plots Against Americans Reach ‘Advanced Stages:’ Report - Benzinga",
+      "title_original": "US Embassies on Alert Across Middle East as Iran Plots Against Americans Reach ‘Advanced Stages:’ Report - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbzkzeG9BQ0xMOC1Qcnh0VEZQRDZTS0MyTGNjMnpaMXFMYnU4Wnd1cWxuZF9ncUJpVTRjakphOXJNbjZ1aVBsYzZheUpydTRjNTRQRG1iQW5QbmFEcW03THJ4bmhCRGJsZXVRUmVaekhQWDltSm5xN3pPMEtDNWV0ZUx0ZUdjYm02VXpOSHBUemZSOEtwYXFKajNTWXBSaERFcWtIWFRudF9rLXBaX205UnJvbERnRHF4UXNPSVk5UnFMQTJzcDNfSEEyakVONEt1SmZrc2JUU2lsMDVoVlJTM0xzM2JnNmhyQVk4?oc=5",
+      "summary": "US Embassies on Alert Across Middle East as Iran Plots Against Americans Reach ‘Advanced Stages:’ Report Benzinga",
+      "summary_original": "US Embassies on Alert Across Middle East as Iran Plots Against Americans Reach ‘Advanced Stages:’ Report Benzinga",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-25T12:38:49+03:30",
+      "published_fa": "1405/08/03 - 12:38",
+      "translated": true,
       "verified_source": true
     },
     {
@@ -3269,24 +3039,6 @@
       "verified_source": true
     },
     {
-      "title": "Trump advisers see post-Netanyahu Israel as easier partner - Yeni Şafak English",
-      "title_original": "Trump advisers see post-Netanyahu Israel as easier partner - Yeni Şafak English",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRW54SnFYZ1lQQmI4UkEyTjdRak45NkNxMUpuMURxaUpYR0dYUjJCc3RCS1A1NVcwWU5QU1p0LUxXYzY1TF9Rd3lMSWtfbnVDMGUzTW1jZnZCaUhZZnVtY3d6NlNGZGVkc0RrTHk3dllUdFE0YzlqSUY5SDZ1ZkpMNVhyNFFpM3J6VExDaXcyLUVNMDlSSlFESGszRWczZw?oc=5",
-      "summary": "Trump advisers see post-Netanyahu Israel as easier partner Yeni Şafak English",
-      "summary_original": "Trump advisers see post-Netanyahu Israel as easier partner Yeni Şafak English",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T09:54:15+03:30",
-      "published_fa": "1405/08/03 - 09:54",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "گروگان‌هایی که آزاد نشدند؛ چرا «غافلگیری اکتبر» با نام ایران گره خورده است؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/c6pvgjzw20p1o?at_medium=RSS&at_campaign=rss",
@@ -3422,6 +3174,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG - i24NEWS",
+      "title_original": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHZRd2NCdlZId2xaSDd5Z1NEcG5BVEFaR2NITXRJZHY1V0JaS1lodS04Q1RpVUpHRlNWcWl2amRwOFUtMmdpM1NQT0IzNzdvSkIyRktxWWdNeU84UHRvYU5BN0xWUzEtdlgtSV9IZmRTMGFiRGNFaFAzc3NMSi00R2cwbjUzeHpHdFZlY2JhMng4UWhlaE1pTk5mMGllOFlJNF9mbGVXc1pBZDNZYl9FeUR0ZlRKRzlhcXh0WVZldGtkZUpa?oc=5",
+      "summary": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG i24NEWS",
+      "summary_original": "Iran Threatens Gulf Civilian Targets If US, Israel Renew Air Campaign | LIVE BLOG i24NEWS",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-25T07:52:00+03:30",
+      "published_fa": "1405/08/03 - 07:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances' - Middle East Eye",
       "title_original": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances' - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUENtT1Q2dVpwSHZPRkRvLXlWS1M4SjY4OTNaNlZPeU93QlpuX2xoT0wwYnRNdDEwYjVsOVc3R2hlMEFlakM3cE5fd3A3WFpabzNGd0ItUzM4eUJGR2RFeWlOYWxDVk9reFprY3didndVRkdxOGpSMkE5aDJXQ0t6enFhUkpuVldScnhQOXpGZXNFUFMyTFlQc1dUejF6dE1fSWwzOEhjdUlUOG5uNS1tbUZDLURoakJEMFpxdA?oc=5",
@@ -3437,32 +3204,17 @@
       "verified_source": true
     },
     {
-      "title": "Iran's supreme leader urges compensation for US-Israeli ‘crimes’ - chinadailyhk",
-      "title_original": "Iran's supreme leader urges compensation for US-Israeli ‘crimes’ - chinadailyhk",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWXRrWDA3V3hkZjF1bTh1YjN1TGNyOVFtMjhZS3RuQ1RuSG9HTk83RTA5YVpuZzZkV3lOME5JV1lNYUxPamZVOUNFSTItUFRpTFpRRVJHbWs?oc=5",
-      "summary": "Iran's supreme leader urges compensation for US-Israeli ‘crimes’ chinadailyhk",
-      "summary_original": "Iran's supreme leader urges compensation for US-Israeli ‘crimes’ chinadailyhk",
+      "title": "Iran can make Israel uninhabitable in under an hour - Mehr News Agency",
+      "title_original": "Iran can make Israel uninhabitable in under an hour - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckhveXVWQW9WYXF5bEFBdTROU1M2NlhuTWthaS15N3NlZXVhSW91V1gtU3BCMjliSWExOTI5LUZENEhfZkNzazdveWZDeDR2UnV6Ymc3b1ZpVHZ5YkRRN08xUWZuVEdPbXBiTjZSMFMxQlNOV1BhUjVkQWRJWVhKQXczTlk5U2t2WUNXRkVIOA?oc=5",
+      "summary": "Iran can make Israel uninhabitable in under an hour Mehr News Agency",
+      "summary_original": "Iran can make Israel uninhabitable in under an hour Mehr News Agency",
       "source": "Google News",
       "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-25T06:40:50+03:30",
-      "published_fa": "1405/08/03 - 06:40",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran Update, October 24, 2026 - Institute for the Study of War",
-      "title_original": "Iran Update, October 24, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUy1oVUkwV2F4LTdiOElJTjJ6UlFZcTNLZHpzS1Rob1dSRHo1V2FTNXY0QmdaWTNBWF9EYXlxQmpYcXM2dEpicU9taDdmWF8zUDZFSThidU10bVhsV19lZEV0YzZETTQybEYyelhqTk43YTBXWlB4eHRJeFRuTzB4NmlaVlg?oc=5",
-      "summary": "Iran Update, October 24, 2026 Institute for the Study of War",
-      "summary_original": "Iran Update, October 24, 2026 Institute for the Study of War",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-25T06:16:19+03:30",
-      "published_fa": "1405/08/03 - 06:16",
+      "published": "2026-10-25T06:32:00+03:30",
+      "published_fa": "1405/08/03 - 06:32",
       "translated": true,
       "verified_source": true
     },
@@ -3581,6 +3333,39 @@
       "verified_source": true
     },
     {
+      "title": "Report: US military has strike plans ready for Iran - Israel National News",
+      "title_original": "Report: US military has strike plans ready for Iran - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMRThqZVk1LWhGSlBEQTNubUl6RWVQN0pnM0g1bmlITGg3WUE5OHdCNWhNUDA5dlVpN3V2TTNDU3dISVdZbjh5YkZwV3NqX3l5RmwxX0Z4ckg5QQ?oc=5",
+      "summary": "Report: US military has strike plans ready for Iran Israel National News",
+      "summary_original": "Report: US military has strike plans ready for Iran Israel National News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-25T03:52:34+03:30",
+      "published_fa": "1405/08/03 - 03:52",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal' - Middle East Eye",
+      "title_original": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal' - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1FOQ0J2N2hkbmxKeEM4SFpwY0paNDFuRC1HVUdlVHctOWhIQnV4aEJrYlNXTmFpYm0ySlFpelFSbmpWR0l6cm1qRjJ1ejdteTRLSnc3cHFvRXp2Yk40TkdDeTR2OGM2aTFEN19kRy1QUW1DWHhLR0Z0N0tUNTZmX3VXWkNjRVd0ZzJTamM4Wm9lT3ppTlhQVXlMSmFGb3ZYajZzbjZiLVRSRlp2bnZ5cWRheWo2LVQzY3o0?oc=5",
+      "summary": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal' Middle East Eye",
+      "summary_original": "Trump says 'could strike Iran tomorrow, or strike a beautiful deal' Middle East Eye",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ",
+        "مذاکره"
+      ],
+      "urgent": false,
+      "published": "2026-10-25T02:43:00+03:30",
+      "published_fa": "1405/08/03 - 02:43",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل کیست؟",
       "title_original": "",
       "link": "https://www.bbc.com/persian/articles/cqn06gp7g5leo?at_medium=RSS&at_campaign=rss",
@@ -3627,23 +3412,6 @@
       "urgent": false,
       "published": "2026-10-25T02:41:29+03:30",
       "published_fa": "1405/08/03 - 02:41",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump prepares for Iran escalation after U.S. and Israeli elections - The Japan Times",
-      "title_original": "Trump prepares for Iran escalation after U.S. and Israeli elections - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWRRX05xUkkzckpBTS1xbXNIQ180OXNaX3JkTWUzNGcwWVNrdFVyWVpoMHJpU29KdWZpVkstc2JRYjAtMUZKSWQ5emRneXExX2VUZ0JGd1AybGVXNGVKVjdNUXctLU5LR1U0RHE1TTdPekRJRnN4ZnQ2YVdxdmZiQlp3T1ZGSzV3eDRfSHBUSXVNUXg2?oc=5",
-      "summary": "Trump prepares for Iran escalation after U.S. and Israeli elections The Japan Times",
-      "summary_original": "Trump prepares for Iran escalation after U.S. and Israeli elections The Japan Times",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ"
-      ],
-      "urgent": false,
-      "published": "2026-10-25T02:30:00+03:30",
-      "published_fa": "1405/08/03 - 02:30",
       "translated": true,
       "verified_source": true
     },
@@ -3725,20 +3493,19 @@
       "verified_source": true
     },
     {
-      "title": "Trump says more strikes on Iran before midterms possible, but deal also possible - The Times of Israel",
-      "title_original": "Trump says more strikes on Iran before midterms possible, but deal also possible - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanhqSXNGa3VDdWhTZWQ0UGE0b0stU2tfTWNXclNoS3I2cmxrTm1nWFFjOVp3SVlLUWRmSUNTcjRFTFlJSV9TS1U0VUtqYWR4MFZ5c3hHeVZXc1dXUFpaUDBMTnNCZFdnek53aHM3aWswNmxscFhGdmxVdXZlY082SDZwczFzQndBM19PZkZxY0lIakMtNDFuSmo4cU1uRi11aV9WVDk4Qk1kdnphbFNPTDV1aWpycjZsY0F4RW9rN0NNR2s?oc=5",
-      "summary": "Trump says more strikes on Iran before midterms possible, but deal also possible The Times of Israel",
-      "summary_original": "Trump says more strikes on Iran before midterms possible, but deal also possible The Times of Israel",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks - Al Jazeera",
+      "title_original": "Iran blames US for deal failure, urges new try amid fear of new attacks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ05XMkJCM0VsWlpad3c3TDI0OTBlWEl4SnJrdlNfRmFyRXdTOGpEZUk2YWlUMFZHZ25qOTctZ282NXo1bXN6SXZGUFZTNTZwN2JBbVJtNjZzY1lmYkQzU3l6Y3N0U2ZERmJ4eHUwc3kxX3otMUFiUm12RWY2MVJWTUs4Sk54V3lOZURVOUYzQ2hWZzBQU3lhYTBQd0NCOGNFUUJ1QUdEREhXaTBLQkpDRTlB0gG3AUFVX3lxTE81TzJSMTVEOHE5ZWVybzFEVXRiWFJiYWo1VkJsVTJjbEp4WVE0eFFwSFp3VjhmVWpuSHRKVy1rdjFndzdQTG4xd0w1ejN0anp6T1U0a25Delkxc2Z5N0R6elBjMDVYVDU4SWlyQW5xQUFBcUtQVGtHRjM4TWk4eC0zUFUtd3VTdnd4ZnhBdUUwejUwdFE4eG1RSHlnRGNmNG9VXy1fNVRDUkFiNkVPc2djMFRfM2NsZw?oc=5",
+      "summary": "Iran blames US for deal failure, urges new try amid fear of new attacks Al Jazeera",
+      "summary_original": "Iran blames US for deal failure, urges new try amid fear of new attacks Al Jazeera",
       "source": "Google News",
       "category": "military",
       "tags": [
-        "ترامپ",
         "مذاکره"
       ],
       "urgent": false,
-      "published": "2026-10-25T01:15:07+03:30",
-      "published_fa": "1405/08/03 - 01:15",
+      "published": "2026-10-25T01:06:25+03:30",
+      "published_fa": "1405/08/03 - 01:06",
       "translated": true,
       "verified_source": true
     },
@@ -3824,6 +3591,21 @@
       "verified_source": true
     },
     {
+      "title": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca - Al Jazeera",
+      "title_original": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEQ3dDlXS3dlUDRVbThyWHBYODlFYVI0TzZwVmlVT1NGNTUxd2hpUlFtcndING95SUFTNGVZZzhoYUNvR0ZXRVF3dkdEMWEzYnAzdDZGQVA2bld1ODZ1WGxoS0dCQ1BwVjZJS2NtVmRWZ1drb3AzUlVYVnRNYno3WEhfWXpXV2xKWWhwV0MzRktUYVQwVHBHTzRkVTR2X2pXWE80Qkl6eDJsNHgxQVo2bF9XSTBMd2lVQUtz0gHAAUFVX3lxTE9vSTZXbnZFVVAwem5GaFpCNng3VVVYU19jOXFqN1ZoNWduY19UblA4aTB6WUt5UV9ZZ1cyRGNFRGh0WXBSdWpLX3FXLUN5NlFzZ0ZhYV9maUcxZC12cVNUZVRnYUxGNTZkT2lIc1B0aWdGdF9LeXlmNW80Y3ZmMno5ZGZObHRqcFM2anB0b1NPLTUyTTJUaWpLbkNYV3ZLUVdCaHlPNlVqNzRTa0VpeTJCaGtURnFqSzR3YkVLS0RENg?oc=5",
+      "summary": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca Al Jazeera",
+      "summary_original": "Iran war updates: Houthis attack Aden, missile debris falls on Mecca Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-24T23:45:00+03:30",
+      "published_fa": "1405/08/02 - 23:45",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Trump weighs new Iran strikes as US sends more warships to Middle East: Report - Anadolu Ajansı",
       "title_original": "Trump weighs new Iran strikes as US sends more warships to Middle East: Report - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVDQ2dXhwMnBRNnJnVmllVmZxZ3ZsT1JhNGVLQWtoeDNxZnpCU1ZiSHNVSnN3cU5CTHdDUzJoLUZXMU9zMElBOXhzYWJjZTRBOEhybzZSUG1TalRVb2huU2ktZHU1Zlp0Y01jY0lRQl9NckVLNnNweTUxTmRVLS1COVgwcy1IVGcwcWZCbjM5WkZpX09MaG00VnVCWG9wNWMzejNXT0dUbFV4WVp6d2ZsSUJGRVB1ZGZIS29v?oc=5",
@@ -3837,6 +3619,21 @@
       "urgent": false,
       "published": "2026-10-24T23:35:17+03:30",
       "published_fa": "1405/08/02 - 23:35",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran reportedly ready to target submarine cables if war resumes - Israel National News",
+      "title_original": "Iran reportedly ready to target submarine cables if war resumes - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wNWhicHVYWEhwejRtZzlaTWdjSW0zQUJ3Ny0ydUg4XzdIUGtNTDFsb01vNzZYdXQtS1VZSUV4Vy15TmQ0YUkzdWhIVGRIVXplU2NsNkJxaEV5Zw?oc=5",
+      "summary": "Iran reportedly ready to target submarine cables if war resumes Israel National News",
+      "summary_original": "Iran reportedly ready to target submarine cables if war resumes Israel National News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-24T23:30:55+03:30",
+      "published_fa": "1405/08/02 - 23:30",
       "translated": true,
       "verified_source": true
     },
@@ -3871,33 +3668,35 @@
       "verified_source": true
     },
     {
-      "title": "چلسی ۰-۲ تاتنهام؛ اسپرز از کابوس شش هفته اول لیگ برتر فاصله می‌گیرد",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610240455",
-      "summary": "تیم فوتبال تاتنهام در هفته هشتم لیگ برتر با پیروزی ۲ بر صفر مقابل چلسی در استمفوردبریج، دومین برد پیاپی خود در لیگ برتر را به دست آورد و به رده دوازدهم جدول رسید. این سومین شکست چلسی در این فصل بود. آبی‌های لندن با ۱۳ امتیاز، فعلا در رده چهارم لیگ برتر هستند.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "other",
-      "tags": [],
+      "title": "How Netanyahu failed to save Israel from Iran's nuclear threat - Ynetnews",
+      "title_original": "How Netanyahu failed to save Israel from Iran's nuclear threat - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwX0JMLUNWQWJwNG11NzRnTERSYTdiOFVqTl8tRTBLeHJFQjZSeUpRWTZ2ejNlcDVMeWZiSXppcGFBejNranJKT1RSSGhOejk3VC1WQU5OUFYtR0FPNVJTYUgwdzhheDU5cXU3U3ROMA?oc=5",
+      "summary": "How Netanyahu failed to save Israel from Iran's nuclear threat Ynetnews",
+      "summary_original": "How Netanyahu failed to save Israel from Iran's nuclear threat Ynetnews",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
       "urgent": false,
-      "published": "2026-10-24T22:13:12+03:30",
-      "published_fa": "1405/08/02 - 22:13",
-      "translated": false,
+      "published": "2026-10-24T22:20:41+03:30",
+      "published_fa": "1405/08/02 - 22:20",
+      "translated": true,
       "verified_source": true
     },
     {
-      "title": "ناپولی ۳-۳ رم؛ دو دبل، ۶ گل و تساوی حسرت‌بار برای آلگری و گاسپرینی",
-      "title_original": "",
-      "link": "https://www.iranintl.com/202610244607",
-      "summary": "ناپولی در دیداری پرگل، با وجود دو بار پیش افتادن مقابل رم، به تساوی ۳ بر ۳ رضایت داد. اسکات مک‌تامینی برای ناپولی و لئوناردو بالردی برای رم دبل کردند. بالردی در دقیقه ۹۰ گل تساوی رم را به ثمر رساند و ماسیمیلیانو آلگری، سرمربی ناپولی، نیز به دلیل اعتراض اخراج شد.",
-      "summary_original": "",
-      "source": "Iran International",
-      "category": "social",
+      "title": "Iran judiciary says chief holds rare meeting with supreme leader - Middle East Eye",
+      "title_original": "Iran judiciary says chief holds rare meeting with supreme leader - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckNmd0h1VDJuVm1aSENNX1FvTHN5QmZ3Rm85Q2xXb0FaRUpQRHRiSmJiTENUbXVRUTZvejRRWHVJV3dBNHFFYmJfTktyR1k4N013ZE1IS3hOLW5uU1VTREExOUFSeUc2cGZZU2dhVzVIRU5zeFlJdGFKcXVhSEtFUzJfdXRTREFFbUNPWmZSWlFRb0xXcndYV3d4dXU4RlhGSkNBNXhNSnN5TnBJSWdPR0IyVTZscHc?oc=5",
+      "summary": "Iran judiciary says chief holds rare meeting with supreme leader Middle East Eye",
+      "summary_original": "Iran judiciary says chief holds rare meeting with supreme leader Middle East Eye",
+      "source": "Google News",
+      "category": "other",
       "tags": [],
       "urgent": false,
-      "published": "2026-10-24T21:58:37+03:30",
+      "published": "2026-10-24T21:58:00+03:30",
       "published_fa": "1405/08/02 - 21:58",
-      "translated": false,
+      "translated": true,
       "verified_source": true
     },
     {
@@ -3932,24 +3731,6 @@
       "urgent": false,
       "published": "2026-10-24T21:21:56+03:30",
       "published_fa": "1405/08/02 - 21:21",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Trump Advisers See Opportunity Beyond Benjamin Netanyahu After Donald Trump Endorses Him: 7 outlets compared - NewsCord",
-      "title_original": "Trump Advisers See Opportunity Beyond Benjamin Netanyahu After Donald Trump Endorses Him: 7 outlets compared - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVVKUHlWdGdhQk5wcFZzaGtBSWtBWVZWZFpRY01BSEJsWDRrOFdMUGxiOXhnVDNyY2lPOWtfbU04RHVkdUNSRFgwMl9qUTM1S2FMZDlKYzJMREtHajRjblVBd0RNVkZadzZiMzNTc0FBeXJvcnhRZUE2UnkzRDVUMlJ0LTgxY1hrOHdzVGVfMzM0a3VFMUViTGYzRHpHUHRTM3ZsOHlaWUNWV0RnZElhU0JjOWdJNjg4NFlvcFZtWVZJRXhEc19SMkRzN3poY3c?oc=5",
-      "summary": "Trump Advisers See Opportunity Beyond Benjamin Netanyahu After Donald Trump Endorses Him: 7 outlets compared NewsCord",
-      "summary_original": "Trump Advisers See Opportunity Beyond Benjamin Netanyahu After Donald Trump Endorses Him: 7 outlets compared NewsCord",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "نتانیاهو"
-      ],
-      "urgent": false,
-      "published": "2026-10-24T20:54:25+03:30",
-      "published_fa": "1405/08/02 - 20:54",
       "translated": true,
       "verified_source": true
     },
@@ -4272,6 +4053,24 @@
       "verified_source": true
     },
     {
+      "title": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu - Axios",
+      "title_original": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu - Axios",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX1VCUW9wbldZbmU5eG1taUsteGwtek1WaUtEWHJiM0t0TnJ5cWxTTDZPa3R6dU5vcDc1aG50NW5mdjNTYjJDT3dCOERwZV9lX0Y4Y29aSjJiejhLZGpfTmVucXh5dThPdWowN2htLVY3WGNBMW11a2RVMzVQZw?oc=5",
+      "summary": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Axios",
+      "summary_original": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Axios",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ",
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-24T16:31:18+03:30",
+      "published_fa": "1405/08/02 - 16:31",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera",
       "title_original": "Is Iran planning attacks on Americans; why is the US on alert? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLW1VRmdINS01R1dERWVkVzVMbEotdHBvbHZVSGhYV3EwSm1fdjIybjhWQjVwUTh5dmRwS19yRFRwSEpOMnpvQlZmNWtHX2FKd3JVdC01SU9GV0FJVnJSUFpfUndUSk9XampPNV9iZ1Qwc3hUcnlGb2JiSi1QU185YVdGNl9oV0JibXVwd2JObFlBbjRYZGJjVXNBRnQycS1POGt0eNIBqgFBVV95cUxNdmdPeEQzVDhtUDJVRVRLTUYzQ0xCZjFWZGU2ZlNjWDNlVlhTRzJqSm1mZmphWEdZTjlWRTVVUUFRWFVOdm5TRUt2eDRDWUNRdHpVVjlEV2dWTl9oVC1ULW1Sdk1QMUNDcS1aeklWNGZWcVJBX01YUjBKYmNXWnJrYUNUX1ljRXZKM3ZTaWxtcDhlcERILW82bjdZWHJtRUthVWwyN0ZFakRzdw?oc=5",
@@ -4414,21 +4213,6 @@
       "verified_source": true
     },
     {
-      "title": "Baluch insurgency tests the limits of a war-weakened Islamic Republic - Iran International",
-      "title_original": "Baluch insurgency tests the limits of a war-weakened Islamic Republic - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE?oc=5",
-      "summary": "Baluch insurgency tests the limits of a war-weakened Islamic Republic Iran International",
-      "summary_original": "Baluch insurgency tests the limits of a war-weakened Islamic Republic Iran International",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-24T13:33:21+03:30",
-      "published_fa": "1405/08/02 - 13:33",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Minnesota candidate ‘stress tests’ state’s new fraud law; what she found raised major red flags",
       "title_original": "Minnesota candidate ‘stress tests’ state’s new fraud law; what she found raised major red flags",
       "link": "https://www.foxnews.com/politics/minnesota-candidate-stress-tests-states-new-fraud-law-what-she-found-raised-major-red-flags",
@@ -4440,6 +4224,36 @@
       "urgent": false,
       "published": "2026-10-24T13:30:07+03:30",
       "published_fa": "1405/08/02 - 13:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran ‘plotting against US officials abroad’ as diplomats withdrawn - The Times",
+      "title_original": "Iran ‘plotting against US officials abroad’ as diplomats withdrawn - The Times",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3JLbnNxZjlncjJjcnR4Wm4tUW1Oa0tQMkVFeG5Qcy1hU0Y1N1hlYW1lc3pMNzk1d21ZOGdhMThzZGc5WnI2dTNDY08ydk4xUHdqOVNKTGhUS3B1WDZETWwyMUVzMmd4NHdMSEsxdkhmWEEtWjVkVkZ0TDViVk5hYmlqOG9Gd0xpRHBUN3hKYUtPaFplT3ZMWklFWDNfalk4RlFlUUswaWQ5SUhq?oc=5",
+      "summary": "Iran ‘plotting against US officials abroad’ as diplomats withdrawn The Times",
+      "summary_original": "Iran ‘plotting against US officials abroad’ as diplomats withdrawn The Times",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-24T13:09:46+03:30",
+      "published_fa": "1405/08/02 - 13:09",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes - WSJ",
+      "title_original": "Aboard USS George Washington as It Rearms for Possible Iran Strikes - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUxveWNyQjdJTWRlS2FqTWxnQnp2TFB0WHplWjBCTTlpZ3VEUzFqNmtDbDA1ZVZtUktmUUpQMEprNDlKcm1nUkRtOVEybFZ3eGc2MjBTWVM1NVRUZFU2VExzNXpTdi1QRlpORUZIZTlsRUg2aG1WLVloenozUkJuM1ZuWnF1cTBONjhreTRhUGJlSnNTa0YxT1ZXM1NURjNCbFlwZTNhNFIwWmFwS29TbkJkUWkwSURndHZMckROUDM?oc=5",
+      "summary": "Aboard USS George Washington as It Rearms for Possible Iran Strikes WSJ",
+      "summary_original": "Aboard USS George Washington as It Rearms for Possible Iran Strikes WSJ",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-24T13:02:00+03:30",
+      "published_fa": "1405/08/02 - 13:02",
       "translated": true,
       "verified_source": true
     },
@@ -4536,6 +4350,21 @@
       "urgent": false,
       "published": "2026-10-24T11:18:09+03:30",
       "published_fa": "1405/08/02 - 11:18",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US Pulls Diplomats from Middle East Posts As Fears of Iranian Retaliation Grow - تسنیم",
+      "title_original": "US Pulls Diplomats from Middle East Posts As Fears of Iranian Retaliation Grow - تسنیم",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnRpN1Z5TlZZZEE4aV8xWDdUMm5UX0oySTdkUDhBeUJEbEtYOHExWE9fRUNGNVZzV0NrbU13cnNyajZCb1ppWVNmb2d4YzVGbnRVcE0tVUxaWmhiUjNxUV9XRVdXQmF4WHlOc2JBLU1LR1pMbGI4UjN6Y3d4bEFYME1pSkI1NExkd0pGUTVBTkFiVXZsd01fNDU5NjhnVlpTX3JsdkpEeVZEVlI4MDMyNXptWERQTXV3SXFtZDB5Sm92NncwbTEzNFVsY9IB0AFBVV95cUxORV85OERUQzlHdFQ4cWR0TFBGZ0x3clYtMHhlZ01MRTl3dWVqRWx3SGx0MTAyaHRSZ2V5UW1jQW11WjNOTWVjZUZJRG5UbVk4ekR1cUNGTkFlMkhuQnRpdDRPMXMwYU9sYU53V0p6YTBITGdsZ19zMUh5SDlwMzVlWlNEUGtzeTcxVkdLRzV6UDlnRHd3Yzl4bWw1Wm1sT1UxcUE2Rks0MmpfOTFXRzExLUlmNkJ3bEdTREN6TUlVYlR3YUlmaXdkaHpJSmZjS3li?oc=5",
+      "summary": "US Pulls Diplomats from Middle East Posts As Fears of Iranian Retaliation Grow تسنیم",
+      "summary_original": "US Pulls Diplomats from Middle East Posts As Fears of Iranian Retaliation Grow تسنیم",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-24T11:17:24+03:30",
+      "published_fa": "1405/08/02 - 11:17",
       "translated": true,
       "verified_source": true
     },
@@ -4709,6 +4538,23 @@
       "verified_source": true
     },
     {
+      "title": "Netanyahu calls for US and Israel to overthrow Iran as Brent crude hits five-month high - Fox News",
+      "title_original": "Netanyahu calls for US and Israel to overthrow Iran as Brent crude hits five-month high - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlk4OFFybXduNmdhc1dVNUQ3aVlWbTM5alJ0UUsyRndDSE9UZFFyOE14MWdLZlVPbEgyS2J4bUx6OEsxWEgxMENYMmtJcUtZQk53TjliVlFmMklmU3Y0MlYtc054NzRDVUlud3NFM1ZKMm5BZVlRdHhEWktCNUpnQVdSa2RGTTNrYVE?oc=5",
+      "summary": "Netanyahu calls for US and Israel to overthrow Iran as Brent crude hits five-month high Fox News",
+      "summary_original": "Netanyahu calls for US and Israel to overthrow Iran as Brent crude hits five-month high Fox News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-24T05:06:34+03:30",
+      "published_fa": "1405/08/02 - 05:06",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "No love for Trump or Netanyahu in Israeli town battered by Hezbollah - MS NOW",
       "title_original": "No love for Trump or Netanyahu in Israeli town battered by Hezbollah - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByQ3lXRmhHUHNZQmpSTEoydGM1SnZXY1J3UXVGMTBBaHlOX253eVo3OTlqTjRMdDA2WEJCZS1kVzdmNVd2S2UxTjdzZzJ5MkpLWllXTzBuZnQ5aS02TWUzMGpqNnM5UWpiZGlCTWdMbw?oc=5",
@@ -4738,6 +4584,21 @@
       "urgent": false,
       "published": "2026-10-24T04:41:26+03:30",
       "published_fa": "1405/08/02 - 04:41",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation - The Hill",
+      "title_original": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2k3eTl5VVh2RUxsbWREby1mUFRZblNhdGhfTkhNSHhuZlJkWHR5TkpZdG1LeEJLTUttSlNIcnZkdDRhRHFGY0lHWWJvWjJEXzBFelFYakdTUzRpNW54R0czY3pZeVIwV2xDcmNCZ2xFUl9RZldxcDQ2WWNQVldkUUZBTHBDZjFlbkJj0gGQAUFVX3lxTE1vN0R0YlVPa0dCSVRPNG5BYTUtYnhlMlZ1TEJJTU1vM1ZqMmVlLW93dmpjRG14X1pERG1mUF9hbnU1TkZDTlZaVFZPSFo4dXRyVEo5d0Vqakt6WVR1U0NBOFV4NmViS3BlZk51NW11WnRpNHBLNmttdHhUT3hESEc5Yy13ZHRRaWVUMk50b2ZLTg?oc=5",
+      "summary": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation The Hill",
+      "summary_original": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation The Hill",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-24T04:14:04+03:30",
+      "published_fa": "1405/08/02 - 04:14",
       "translated": true,
       "verified_source": true
     },
@@ -5138,6 +4999,38 @@
       "verified_source": true
     },
     {
+      "title": "Israel, Iran ramp up war rhetoric, as prospect of open conflict looms - Semafor",
+      "title_original": "Israel, Iran ramp up war rhetoric, as prospect of open conflict looms - Semafor",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVE5ck9oRlFLdTAxZmtONGt6X3ZVVVVId0QxUUJMQVRiX1l1c1VsS2lIbzNheGRDQTdkazAxb0VjMmUtZjU5MkJqMVB6M1pJVDcycTh3LVQ2ZkVZTWxqQ090VE9TN3RCMm54NGFGdnRfNkVYZlI4dFJPbW1RXzJrZklJRUxJa3V5VlZOWmdqMmVEWTV6QnZET20yd0RXdXh3SDdRTl9hQUMxRnJYX1JN?oc=5",
+      "summary": "Israel, Iran ramp up war rhetoric, as prospect of open conflict looms Semafor",
+      "summary_original": "Israel, Iran ramp up war rhetoric, as prospect of open conflict looms Semafor",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T14:18:00+03:30",
+      "published_fa": "1405/08/01 - 14:18",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Donald Trump could broker an Israeli unity government to confront Iran - The Jerusalem Post",
+      "title_original": "Donald Trump could broker an Israeli unity government to confront Iran - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QYnptVU1ZcUpVWC10ZFVQaXJLOG8xLWwzaXZIYTBrNlNOMS10MFRISHIzdmVuOTAwdlZFS3p0cHRHcC1aRWF2QTVoS3o5d0FSYmtxMHY2RQ?oc=5",
+      "summary": "Donald Trump could broker an Israeli unity government to confront Iran The Jerusalem Post",
+      "summary_original": "Donald Trump could broker an Israeli unity government to confront Iran The Jerusalem Post",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-23T14:08:08+03:30",
+      "published_fa": "1405/08/01 - 14:08",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "U.S. and Israel are planning for a possible attack on Iran after the midterms - NPR",
       "title_original": "U.S. and Israel are planning for a possible attack on Iran after the midterms - NPR",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0RnVkhiRE0yM2VUR0tlUnpiNmtYRDkxRzlSbHR2R1duVERtWElyQ3F2MldySS0wX0g3RFVsTl8tQ3hoNmxDdnprTVl0UWNXRDVjck9nS1ZkXzMwZFZNT0N5MFZBMmx3S0FTTDJZTDRVd09ScUFZYlhOb1ptTFhWMW9oXzRWeE9tX042dmdpbHBwcHpKUWwxRnBZbUpRbUdWdlZNNVc4dEhOYWtDRElCTndCdW5SeEVaR0lHRUhR?oc=5",
@@ -5171,6 +5064,21 @@
       "verified_source": true
     },
     {
+      "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East - CNBC",
+      "title_original": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5",
+      "summary": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East CNBC",
+      "summary_original": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East CNBC",
+      "source": "Google News",
+      "category": "economy",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T12:32:44+03:30",
+      "published_fa": "1405/08/01 - 12:32",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Israel’s election is yet another test for Trump’s endorsement - MS NOW",
       "title_original": "Israel’s election is yet another test for Trump’s endorsement - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5ODFBTEgxbVZlbVl3M0ItczhZUkVyNXRxSnNsS0ktV29iWmp2SENfNTFpX1gyRmlfR1RSOVAxblZRSjRFR1hVYVM2S1FGU2dQRk5mbEREbWFfVDlqTlU1Q1A0SHFNVHVwX0hXTWgwbw?oc=5",
@@ -5200,21 +5108,6 @@
       "published": "2026-10-23T12:24:55+03:30",
       "published_fa": "1405/08/01 - 12:24",
       "translated": false,
-      "verified_source": true
-    },
-    {
-      "title": "The Iran war’s toxic impact on one of the planet’s most unique seas - CNN",
-      "title_original": "The Iran war’s toxic impact on one of the planet’s most unique seas - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw?oc=5",
-      "summary": "The Iran war’s toxic impact on one of the planet’s most unique seas CNN",
-      "summary_original": "The Iran war’s toxic impact on one of the planet’s most unique seas CNN",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-23T12:16:57+03:30",
-      "published_fa": "1405/08/01 - 12:16",
-      "translated": true,
       "verified_source": true
     },
     {
@@ -5313,21 +5206,6 @@
       "verified_source": true
     },
     {
-      "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-      "title_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-      "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
-      "summary_original": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-23T08:30:00+03:30",
-      "published_fa": "1405/08/01 - 08:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Analysis • A Netanyahu-Trump escalation could push the Gulf countries closer to Iran - Haaretz",
       "title_original": "Analysis • A Netanyahu-Trump escalation could push the Gulf countries closer to Iran - Haaretz",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUUpnTUFiRE9rUFYzeE9IQlRHd2ZfM0NtTmd0dGNMWVhHM2xPWm9uNElVbDVhdWN4bURwcVlhWXRFY1VkYlJfZTNDcWNDN2tOMXRiYlFqNjAxSS1HYXRLTkk2eFVCaWR4YTZDRlZkaDVSNVQ0TC1ySmllRUFJdnN1MW5vc2d4LXhaU29sck9XeHhwbUEwNXk2aEtOLVdYUVhnY2RPNndpY1BUN214aldiRTlxbzJ2VW4yTzE2NG03NlVVT296eTlyVzItaE9lRFFhajhFVUpmU29yMUdGaGUyUnUtNTFscXRfeWFhMEFDWHFYQlFvak4zY2RCRHRuSC14ckhOZEk0eXNQLVdtbWZTNHhPa2RvUzFvVlRlQ09xZFI?oc=5",
@@ -5378,21 +5256,6 @@
       "verified_source": true
     },
     {
-      "title": "Opinion | Oil’s great escape from the Middle East - The Washington Post",
-      "title_original": "Opinion | Oil’s great escape from the Middle East - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBBQkJLYmlzMGtrT3g5bVNHdGtCd2Z0YzA4QzNpQlBOYWpsck1iTDRuTUQwdVdJdEUwdVIzZ1hOV0xpaEl3N3V2eFNNRmF4VU52MTRRa2k4U2FHVGdxbDd6ZFNhTnJXeWtrVVhqRmZEdmJydzJQT251a2xYNUZpTjNwZkVFYmdvU1ZiSlRSU0JRZ3lzdTJJ?oc=5",
-      "summary": "Opinion | Oil’s great escape from the Middle East The Washington Post",
-      "summary_original": "Opinion | Oil’s great escape from the Middle East The Washington Post",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-23T04:02:09+03:30",
-      "published_fa": "1405/08/01 - 04:02",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Iran Update, October 22, 2026 - Institute for the Study of War",
       "title_original": "Iran Update, October 22, 2026 - Institute for the Study of War",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVVtM2hLOW1RQU4xRUVUWlJaaXhxc2ZqNnRnMzdmYWY0Rm9tWkZmT2ZjR0FOVnRDdHBvM1F2WUFPQ3U4SkF3UFRYVlVzbDZLN0lxb3VlSFFjUkFaQWtNRWd2bU42Vy0yTmJCQUdkOE9MakZKNzB6SHdZMU84ODg4NnJ3SHA?oc=5",
@@ -5404,21 +5267,6 @@
       "urgent": false,
       "published": "2026-10-23T02:48:13+03:30",
       "published_fa": "1405/08/01 - 02:48",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news - PBS",
-      "title_original": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUdQalhkeHV6MjBUcDhWSGNFcUpEcGI2em40Y19zcFB2aVNaMVZveXc1QmMweUx5Mm9yak9ZWUtwSDNPdkVkaWw2NzRlZTZBdkRpQnlXdDBlOVVjN0hfLW9YR3lHR2NFdEU3WktoYzk4M1NGV0RwV25tVjBUUDFjVkJ2b3pMNlc1NG43bUkwcEwxa3JmYk9zMHV3YjhSc1J4WjMtc21tMlRQLVJNT0gwY1JyUdIBuAFBVV95cUxPWHI0VlZ2NlpRSGlRNXdGUFFQZ3J4bFdEdVpBYTY4Vjl6UDZnQS13anNtci1yRGhtdkJHWklnaFc1dGZ0RWt3VGpxczlyT1FUSTBBRWFJUDhUeXdYT29jWjVRYU13NTRZeHR6b2hTOUlLek5PRS03Rl91Rm80eE55MV94TWNZSFNxTkRlQWtrdWI3ZjhfNTJrUElXMWNlREZVdnZTT01aTWJIajdla1BZczBTNXdSb2t4?oc=5",
-      "summary": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news PBS",
-      "summary_original": "Iran says 7 oil tankers damaged in Strait of Hormuz, and other Middle East news PBS",
-      "source": "Google News",
-      "category": "economy",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-23T02:18:30+03:30",
-      "published_fa": "1405/08/01 - 02:18",
       "translated": true,
       "verified_source": true
     },
@@ -5508,6 +5356,36 @@
       "verified_source": true
     },
     {
+      "title": "Report: IDF chief says no operational need for strike on Iran before Israeli election - The Times of Israel",
+      "title_original": "Report: IDF chief says no operational need for strike on Iran before Israeli election - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGk4Y3lyVnlzNnlHdHgyYkI2ZENwOXk0TWk2bTA1YVlpU0lJQ1V4VXk3OE8wck9LSFJTZGlEcXhQYWpWZFhLZEVoOU1DUE5qeFJoVHEyRmdUQmJQU3htdHUxaU1aamdjUTN4NGY2Q3o3di1KMEl4d2xCeHhFaEZZWHJaYmlHS3phQlhXaHVmclNkZ2F2NTAzVUM2X09Sc1RDRThxVXFn0gGrAUFVX3lxTE5xSVVyaDMtaG9hVDdMd2FFWUdtN0t2ZGpoNXZMRHVSU01neVRCMmFWZ005anliS1RiVjZ1Z1pNMXVqczAtVVRsUmZmUXNJa0RIejh0aExQbzNUdDBHaW05Z3NJRnRPMUNFek9meVJNa0c3TnhhYm9QM0hrUi0zNlZXdjdYR1czM242WTJyLU1wdkdLZE1GT2wwYjc5Nzc5SFVqZFd5Z3I4VHY1MA?oc=5",
+      "summary": "Report: IDF chief says no operational need for strike on Iran before Israeli election The Times of Israel",
+      "summary_original": "Report: IDF chief says no operational need for strike on Iran before Israeli election The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-23T00:22:00+03:30",
+      "published_fa": "1405/08/01 - 00:22",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US, Israel have drawn up detailed plans for renewed strikes on Iran - The Jerusalem Post",
+      "title_original": "US, Israel have drawn up detailed plans for renewed strikes on Iran - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5",
+      "summary": "US, Israel have drawn up detailed plans for renewed strikes on Iran The Jerusalem Post",
+      "summary_original": "US, Israel have drawn up detailed plans for renewed strikes on Iran The Jerusalem Post",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T23:29:47+03:30",
+      "published_fa": "1405/07/30 - 23:29",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks - The Guardian",
       "title_original": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5",
@@ -5534,6 +5412,36 @@
       "urgent": false,
       "published": "2026-10-22T20:08:45+03:30",
       "published_fa": "1405/07/30 - 20:08",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US, Israel weigh new Iran strikes as attacks on Hormuz shipping mount - Stars and Stripes",
+      "title_original": "US, Israel weigh new Iran strikes as attacks on Hormuz shipping mount - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFU1NkJqRURqVVAzck4xVkpmbjF5ZEJMblM5OUMwQWt5YWZyVTY5LUVMRFdSdDF5T0IzOU1nU3RmQXhRMHZsc2J5MVNPVGo5dThmUHlpV0VTaHptRGhoZWp5NjM1bDBCVHNZemZwWGpjX09hY29OVFhfTzBYVTZrQVNaZVB0bE9oVnhOX1NwLTdiLUt2VWlWczV5bFdVdTg?oc=5",
+      "summary": "US, Israel weigh new Iran strikes as attacks on Hormuz shipping mount Stars and Stripes",
+      "summary_original": "US, Israel weigh new Iran strikes as attacks on Hormuz shipping mount Stars and Stripes",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T20:05:29+03:30",
+      "published_fa": "1405/07/30 - 20:05",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict' - France 24",
+      "title_original": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict' - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnAyZHA0SFRoOXBVVXBIVFhRLTRKclFzbVZTTFFUWHVWd2ZBUEM2MVl1REpmUzB1YTFkM3VrT2xLY1NqRm52ZXc4MTlLTzVENU84OENhenJDMEN6ZkVyUV95Z1I0VFE0R1dqa0JGTkpVUnd4aXpOSDJCbUNxek9SXzdMNmVLYXFMb19wd3JNWkRvVHJRQjdlLUw3enVNX282dm4yWXFTRnNOb1ZHamJORnZCbExWbV9VNXpxaGxXem1kQQ?oc=5",
+      "summary": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict' France 24",
+      "summary_original": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict' France 24",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T18:59:33+03:30",
+      "published_fa": "1405/07/30 - 18:59",
       "translated": true,
       "verified_source": true
     },
@@ -5603,6 +5511,53 @@
       "verified_source": true
     },
     {
+      "title": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program - The New York Times",
+      "title_original": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0ZDTWRYZExZYzdPY0ZYWk0wYjFLVWZtX0N1MmlEWXpKM0pncmU2VV9BTmZrQS1YR2ZjVXBiYjBLRUgtcnpfMlU0Z2NscWY0dDlTcTNnOHhkVlhReHI1UEpSSUJvQnZzUzZLQkRUMEM1X1RTWWt3RXhtVnhaVXM5Q3F2Rkc5VVFKclc4WGxHcmFPZ3VFM0tRczQybXptZw?oc=5",
+      "summary": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program The New York Times",
+      "summary_original": "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program The New York Times",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-22T13:32:49+03:30",
+      "published_fa": "1405/07/30 - 13:32",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "U.S. Reportedly Considering Major Strikes on Iran After Midterms - Time Magazine",
+      "title_original": "U.S. Reportedly Considering Major Strikes on Iran After Midterms - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hN2RlY0Vwc2hiQ1NHYkJibHctZm9WMWNlQ2x5VFY0NVhSdTdJQUdaQmZOZGxULVFXRC11aEVMMmNjQXlYV3J3SW9LME1YNVpCZmE0d1FFNjJjN1lER2lnM2FaOWR0dkRZa3hrVnZaYVU4U2Vvb2RXdUVBbzU?oc=5",
+      "summary": "U.S. Reportedly Considering Major Strikes on Iran After Midterms Time Magazine",
+      "summary_original": "U.S. Reportedly Considering Major Strikes on Iran After Midterms Time Magazine",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T13:30:00+03:30",
+      "published_fa": "1405/07/30 - 13:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "US, Israel said to draft plans for resumed strikes on Iran after midterm elections - The Times of Israel",
+      "title_original": "US, Israel said to draft plans for resumed strikes on Iran after midterm elections - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORG5EaGdJUGZNRDc3XzA5eUphY0hrMl9zS0V6djFQQVJCVG5HSEVreDNrTFdIWjczQ1pURjFrQ2xQSVhPa3Zva3hxNkRpMDhnZHAxTkpXLVpJMDlkQklvWXViTzNEV01FRXo5Z3ZSWTI0c0VZUW1ON05YVFJmTERTMHQ1T0pvYWs0RU5FQjR4UXlSX1BkdE5DREtiS3ZpZUluVzZmU2JBUnpkYzRvU2NyNTJn0gG3AUFVX3lxTE9Ma0l6QW1yS0tVQXpuOXlnNjhSa3p3Q1hRSTNPak1DS1JVRHR3SWtwRFNkOHZDcGxTdlkwV1NFeEZQV1I5NDl2bDVFbFMtS1RsOVdsTUNxMk5ZNWdyMEhSaml6XzlDeWw0YXZrVXY0NHZBOVVZYy11X1FLRzZnYzE4S1VoRVpJOEF3cWh0TGFSNWxhbURaV0R4QmM1Y250RmZmRWF4eTNNNnh3aEx2MWx0R3NwWkJDQQ?oc=5",
+      "summary": "US, Israel said to draft plans for resumed strikes on Iran after midterm elections The Times of Israel",
+      "summary_original": "US, Israel said to draft plans for resumed strikes on Iran after midterm elections The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T12:48:00+03:30",
+      "published_fa": "1405/07/30 - 12:48",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "U.S. and Israel are planning for a possible post-midterms attack on Iran - NPR",
       "title_original": "U.S. and Israel are planning for a possible post-midterms attack on Iran - NPR",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfUFZtRXd6TnpuQzBORzRVVl9IMG1uUnExaHFFUjNwVXdLM3ZvTTVxX09zMlBZNUJuclVhNHlsUjZCVzM4WHJOM0wyNF9kelR0T2pFLVFTSFplN1A1UkdsV2dHMEZLbW1UMWhCdVZiZnI?oc=5",
@@ -5648,23 +5603,6 @@
       "verified_source": true
     },
     {
-      "title": "Middle East latest: Pezeshkian says US must recognise Iran's rights before talks can resume - The National",
-      "title_original": "Middle East latest: Pezeshkian says US must recognise Iran's rights before talks can resume - The National",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1Rrak9DUVcxWUFNREEyZTgtVGRyT1ladW9xeldkR0tadEQxWGFDaS0zR0RrN3U1T3VTNmV2QnVrNHNramJTY0FRZ21IX0FMUWt5N0JGSk5qc2pyQXZBbFFDRkliU3NYanFLbC0tQnNzV0FoaXJuUWoyQ0Z4aDZ0eVY4WmFzbFlwd0JPLTBVNktWYmxQMjlSbzJYY0VtZ28?oc=5",
-      "summary": "Middle East latest: Pezeshkian says US must recognise Iran's rights before talks can resume The National",
-      "summary_original": "Middle East latest: Pezeshkian says US must recognise Iran's rights before talks can resume The National",
-      "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-22T07:42:15+03:30",
-      "published_fa": "1405/07/30 - 07:42",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Israel's elections are for Israelis to decide, not Donald Trump - The Jerusalem Post",
       "title_original": "Israel's elections are for Israelis to decide, not Donald Trump - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HU1ZiUnVmcmdTdEZCcmdqeVpuLVlmQjNsUGFUOEIxSVdjTzlhRUEtT0FERkVfbU05UjZIaHh6bF9FT2loNUdpRlk0T0Eydm5wNEc2ZnNCRQ?oc=5",
@@ -5678,6 +5616,21 @@
       "urgent": false,
       "published": "2026-10-22T06:32:49+03:30",
       "published_fa": "1405/07/30 - 06:32",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Report: U.S. and Israel Have Drawn up Plans for Iran Strikes After Midterms - Haaretz",
+      "title_original": "Report: U.S. and Israel Have Drawn up Plans for Iran Strikes After Midterms - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWjREN05kUm9mb1lTWV9tNWxaOUlSY2x0NUpvM01tZVRWa3NVenR5TURDNC1hVmJNOHJKUlhvbDRqd2RtYm5rb0xYR0VrWDljUTN4YUdmVDl6TUlQaGhlWkhNMnljYWhsNUNsRlUzVGZkejh5cHNrYV9BMVk1TzJGNG5zSkdYdWRLY0VXX2p2akNvMV9pT25JTUtYY2xDbG44TVNVWEdUY2IzeGNBc3oyTnlCQ294M1hyLXEtY293bERuYVRyMXZKc3lXWW9oMFJ5aXdEOW1sVjZJQXliR0FXODJoZnl3MkhIWnJiaFVZXzRpY19EbTRUalpsXy1NdkpyZW9Db0NyU2F4aGJPbEw3RTRHMk9MMmZX?oc=5",
+      "summary": "Report: U.S. and Israel Have Drawn up Plans for Iran Strikes After Midterms Haaretz",
+      "summary_original": "Report: U.S. and Israel Have Drawn up Plans for Iran Strikes After Midterms Haaretz",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T04:40:00+03:30",
+      "published_fa": "1405/07/30 - 04:40",
       "translated": true,
       "verified_source": true
     },
@@ -5714,6 +5667,21 @@
       "verified_source": true
     },
     {
+      "title": "Reports: Israeli jets flew to Iran’s border; some US sources suspect bid to rile Tehran - The Times of Israel",
+      "title_original": "Reports: Israeli jets flew to Iran’s border; some US sources suspect bid to rile Tehran - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVNMVlDQzNSYndVWUhJdU9nYzdybTh0cWZtWnZWTHdGQ1NBMkZqZmpiRE9OYnVfdmRQZ1M0NmlNVV9pWU82VlZ5amQ5YWI1V1NNSC1XT3A2LUFJUlEyMjE4QW9yVFdnODNVLWNBZVp1VThVVlBWRi0tT3BfUXdFRXBPY0dHQlNuZWo0Wlp4Y1BaTHlRV0N6RUVSTDlZc2hrVjJzbVI4QjhEb0ZzRE5RUWZmczljUdIBuwFBVV95cUxPMkw4UUhFdGVGVXBMak43ZEZueG4wMjQ4MHJvYzVLY2NfLXdUM0ZLUmVjVUw4S2xlWW0wUlUwd0laemx2TGcwTWNNbzJ0eTFtTURUdjBvTTFRUFJtbGowS01SOGRTVjlBSDFNaGhoVHE2X0RubkRLWHU5MVNFVkR6YnlJdTktcTlyaUFoaXdDakp0WGtEdW9mc0JRYklQaWc3VVhRMFVNbmoyV1ZpamMyQU10SDQyal9ORnlN?oc=5",
+      "summary": "Reports: Israeli jets flew to Iran’s border; some US sources suspect bid to rile Tehran The Times of Israel",
+      "summary_original": "Reports: Israeli jets flew to Iran’s border; some US sources suspect bid to rile Tehran The Times of Israel",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-22T00:10:00+03:30",
+      "published_fa": "1405/07/30 - 00:10",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Pope Leo XIV needs no further cancer treatment after lung tumor removed, doctors say",
       "title_original": "Pope Leo XIV needs no further cancer treatment after lung tumor removed, doctors say",
       "link": "https://www.foxnews.com/world/pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say",
@@ -5742,6 +5710,23 @@
       "urgent": false,
       "published": "2026-10-21T22:09:17+03:30",
       "published_fa": "1405/07/29 - 22:09",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Benjamin Netanyahu says IDF, Mossad ordered to overthrow Iranian regime over nukes - The Jerusalem Post",
+      "title_original": "Benjamin Netanyahu says IDF, Mossad ordered to overthrow Iranian regime over nukes - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVTNBUWhaZ2VkSWhYd0VsNWI1c2JKOXNHbHE2ZVhkbnhrX0JINU40SG9YSE5BQVlYSGdRUU9DVFNrc3kwTllpZ3BEQ2oyRGxhVzhwU2pQSC1nQjdBOVp0OVRBU0d0Mnpwa1ZFdzBB?oc=5",
+      "summary": "Benjamin Netanyahu says IDF, Mossad ordered to overthrow Iranian regime over nukes The Jerusalem Post",
+      "summary_original": "Benjamin Netanyahu says IDF, Mossad ordered to overthrow Iranian regime over nukes The Jerusalem Post",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-21T21:52:45+03:30",
+      "published_fa": "1405/07/29 - 21:52",
       "translated": true,
       "verified_source": true
     },
@@ -5779,24 +5764,6 @@
       "verified_source": true
     },
     {
-      "title": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
-      "title_original": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
-      "link": "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
-      "summary": "Ukrainian President Volodymyr Zelenskyy told \"Fox Friends\" on Wednesday that he is open to freezing the front lines of the Ukraine-Russia war in an effort to bring the long-running conflict to an end. Zelenskyy made the remark after being asked by Brian Kilmeade if he would \"accept a peace deal that freezes everything the way it is right now, where you still keep 75% or more of your country, regardless of how it started.\" \"Yes, right now, we have to freeze,\" Zelenskyy responded. \"And I think this is [a] real way to end this war. We call it ceasefire or ‘stop killing’ like President Trump called it. \"Freeze and stop. And, of course, this is the minimum of what we need from Russia today. Then, of course, we will go to [the] president and to Europeans, and we'll ask security guarantees,\" he c",
-      "summary_original": "Ukrainian President Volodymyr Zelenskyy told \"Fox Friends\" on Wednesday that he is open to freezing the front lines of the Ukraine-Russia war in an effort to bring the long-running conflict to an end. Zelenskyy made the remark after being asked by Brian Kilmeade if he would \"accept a peace deal that freezes everything the way it is right now, where you still keep 75% or more of your country, regardless of how it started.\" \"Yes, right now, we have to freeze,\" Zelenskyy responded. \"And I think this is [a] real way to end this war. We call it ceasefire or ‘stop killing’ like President Trump called it. \"Freeze and stop. And, of course, this is the minimum of what we need from Russia today. Then, of course, we will go to [the] president and to Europeans, and we'll ask security guarantees,\" he continued. RUSSIA RELEASES AMERICAN TEACHER IMPRISONED ON UKRAINE MERCENARY CHARGES AFTER TRUMP PRESSED PUTIN \"This is the most important … not to be afraid,\" Zelenskyy also said. \"We need 9.5 million people [who have] lost their houses, which are abroad, everywhere. We need them to come back to Ukraine just to live and to build their country.\" Russia has often rejected ceasefire deals with Ukraine, saying they would give Kyiv time to rearm themselves. VIDEO: TRUMP SUGGESTS ZELENSKYY DOES NOT WANT TO END WAR WITH RUSSIA \"There will be no ceasefire to bring him back to his senses and pump him full of weapons,\" Russian Foreign Minister Sergey Lavrov said last week, according to the Interfax new",
-      "source": "Fox News",
-      "category": "politics",
-      "tags": [
-        "ترامپ",
-        "مذاکره"
-      ],
-      "urgent": false,
-      "published": "2026-10-21T17:41:52+03:30",
-      "published_fa": "1405/07/29 - 17:41",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
       "title_original": "Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5",
@@ -5829,34 +5796,20 @@
       "verified_source": true
     },
     {
-      "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-      "title_original": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-      "link": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
-      "summary": "President Donald Trump secured the release from Russia of a retired U.S. teacher who was locked up on charges of fighting as a mercenary in Ukraine. \"Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week,\" according to a Wednesday morning Truth Social post issued by Trump . \"Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return â an unprecedented situation for Russia. There was no âswapâ necessary for this release. This major return should have taken place long ago through the Biden Administrati",
-      "summary_original": "President Donald Trump secured the release from Russia of a retired U.S. teacher who was locked up on charges of fighting as a mercenary in Ukraine. \"Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week,\" according to a Wednesday morning Truth Social post issued by Trump . \"Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return â an unprecedented situation for Russia. There was no âswapâ necessary for this release. This major return should have taken place long ago through the Biden Administration, which got nowhere in its negotiations with the Kremlin. Stephen is on his way back home. \"'Welcome home Stephen, itâs great to have you back,'\" Trump said, according to the post. RUSSIA JAILS AMERICAN STEPHEN HUBBARD OVER FIGHTING AS A MERCENARY IN UKRAINE Another Truth Social post issued by Trump added, \"Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didnât know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been placed, certainly those negotiations would have come to a complete and total halt.\" The president added in ",
-      "source": "Fox News",
-      "category": "politics",
+      "title": "Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report - The Times of Israel",
+      "title_original": "Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2tFek1CVWlzWW53MkZQekkzaUlZQkJwWEpHcm1mTmVfMWo0MkJMN0lhQ194ek5kYVpZUDI3TmdFVnNxelkyd1YwOHNQT0EtN2s2aGl3YmJjZmpGNTljdTJzOHZtZkluczNrVXhLX2RqMEZjQ2ZfV2ZlMldtendyR1IyWXBPNnRSOTJ6cXpoR2NpYVBBZnlQVDhzVEVkSlFyWXoyWGFqcVAwZmxUOGtn0gG0AUFVX3lxTFB4WXdiZm4zVlZxZy1EZDlUTy1rckxMSjlKSFJleURFdExHU3BoLWhCekp6R203ejJGVjZXaVRIRm56d3lienU2N2lqT2t6YmVFaHdBN1R2enhNbm05R3lXSzhXZE1HcUhqZTVsd2JWSHFjYlNhNEYzUjZiNktHQy10M1JMNG1iaXFWdFZ4bGdaWThqMGpBY3puQ0toZW80Q2lubW91V2NDeU9FUF9oOEFhNXVJQQ?oc=5",
+      "summary": "Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report The Times of Israel",
+      "summary_original": "Netanyahu planned attack on Iran earlier this month, but Trump opposed it – report The Times of Israel",
+      "source": "Google News",
+      "category": "military",
       "tags": [
-        "ترامپ"
+        "ترامپ",
+        "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-21T13:13:13+03:30",
-      "published_fa": "1405/07/29 - 13:13",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "MEI Report Launch | The Middle East Beyond the Iran War - Middle East Institute",
-      "title_original": "MEI Report Launch | The Middle East Beyond the Iran War - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZW1YTTF6TzIwQUFUMVBXU0JmMkVTdDloZlptRnNidmozRVJOZVNTb3BvNnl2SDJfLU9mMUFHQV9CX2tfMjhZSmVaMlQycFlpeU9BbFRabE5rZkdiU0dISHExeGc0V1BCU0dlSVBUeENtYkNVU2x1SmZNWTU1UEVSWm9Ibw?oc=5",
-      "summary": "MEI Report Launch | The Middle East Beyond the Iran War Middle East Institute",
-      "summary_original": "MEI Report Launch | The Middle East Beyond the Iran War Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-21T10:30:00+03:30",
-      "published_fa": "1405/07/29 - 10:30",
+      "published": "2026-10-21T15:14:00+03:30",
+      "published_fa": "1405/07/29 - 15:14",
       "translated": true,
       "verified_source": true
     },
@@ -5878,20 +5831,70 @@
       "verified_source": true
     },
     {
-      "title": "Bannon ‘not wild’ about Trump endorsing Netanyahu - The Hill",
-      "title_original": "Bannon ‘not wild’ about Trump endorsing Netanyahu - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGRpcGFaY0R0MTdMQWNoblJRSzl1akxSTXpGa0J0c1dzdklIeC1yTk1HSG5EWDhITm05WEtYTWh2VGMwQUZRcTVkQnJBOW1MX2JRUk43S05CWDN1RDVXSDFVWjAxd1Jkemxzd3JwUk5rSDJvaDZudHBQbzdycVoya0VzN194QWRWWUtybnM2cUlKaDUyN2NjMmtGMNIBoAFBVV95cUxNdEpGMHFVS3ZJZ3Z2VExFOHRQWUFtaWFpdHNUVDhEMElhZEZqRnRReG1Xd3BGNnNJZ2gzZkdBZVE4NUtha2ItRE9QWm03R093bGJmSV9pYk9vVXE5aVVPNWhUVU8xRDB6T01LQzBpZlU4aUlnd0xKRkhvdzF1RkNfRlpiMm44NW9iZ0pDT0tOc05NaGx3VHJac3ItcXU0a1lQ?oc=5",
-      "summary": "Bannon ‘not wild’ about Trump endorsing Netanyahu The Hill",
-      "summary_original": "Bannon ‘not wild’ about Trump endorsing Netanyahu The Hill",
+      "title": "Netanyahu made plans to restart Iran strikes earlier this month - Financial Times",
+      "title_original": "Netanyahu made plans to restart Iran strikes earlier this month - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTc5RTJDQlJSVUF5V2ctTk9wT2k3RGsxTjJFdWdEYmRsNzk1SW9idnlxMUJ5Q09ZVllWUkYwZ2I0a2FmWlpIeThhVFVKRE9DYmFjOXZldHNCR29LbDdKZWNFOVFXaVVQSlJUdnRobDk5T2NtQUpfb3Q3WEpGc2J2TWNXM3o?oc=5",
+      "summary": "Netanyahu made plans to restart Iran strikes earlier this month Financial Times",
+      "summary_original": "Netanyahu made plans to restart Iran strikes earlier this month Financial Times",
       "source": "Google News",
-      "category": "politics",
+      "category": "military",
       "tags": [
-        "ترامپ",
         "نتانیاهو"
       ],
       "urgent": false,
-      "published": "2026-10-20T20:14:00+03:30",
-      "published_fa": "1405/07/28 - 20:14",
+      "published": "2026-10-21T07:31:00+03:30",
+      "published_fa": "1405/07/29 - 07:31",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran - CBS News",
+      "title_original": "Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXBXMWdNYVRIU0pDdjdkTnZLOEhXdnE0dW9UYkl6NjVpcDRlWEE0MHoxS2VObkNYSjJsbzJCMkVxNlZaTHplRmV3aEtrMFNueEtRT1RreXNtLVhvNWoxVExlalo5UW9zU0hrQVhOMzBRZjhQMjRFNWN4SVduaTJ5Yi1uNE1sbjlBLThsZnln?oc=5",
+      "summary": "Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran CBS News",
+      "summary_original": "Iran lauds ties with Russia, contradicting Trump's claim of little Russian support for Tehran CBS News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "ترامپ"
+      ],
+      "urgent": false,
+      "published": "2026-10-21T04:28:00+03:30",
+      "published_fa": "1405/07/29 - 04:28",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Hegseth, Netanyahu Meet About Iran War Without Governments' Disclosure - Military.com",
+      "title_original": "Hegseth, Netanyahu Meet About Iran War Without Governments' Disclosure - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmFOX2I5aG4yc1YxUHVBNVk3YjdJaTNoVlJtRXlCU3pJblp2ZEN6cEl0ekxrUjdHNVhnMVVjSEFPM3VNVVp1SVlxdnA2eGozOXdvZXd0SlRPZzZUaXQ3aW9OcnR2NmNLWm1Ec19ZY3JwZWhULVhSS2k1dTY1QjNta3RPRUFqRWZrWXhudDJDVE4zRnIzNEE?oc=5",
+      "summary": "Hegseth, Netanyahu Meet About Iran War Without Governments' Disclosure Military.com",
+      "summary_original": "Hegseth, Netanyahu Meet About Iran War Without Governments' Disclosure Military.com",
+      "source": "Google News",
+      "category": "military",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T20:22:00+03:30",
+      "published_fa": "1405/07/28 - 20:22",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say - Defense News",
+      "title_original": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNWZveDNhRFVZNlhoRXQ4WFJKbHBrLTJwV2FIeXY2YzEwWEh6a2hkb3BQN0JEd3dzblNBR3ctekJFMGRTeWQxTkdGaHBZR1FxX1N0S3NKMlNITGRXNncyZVNvNU9YMzFUQy1zbkVjcjdNRFd5ZGtwV01zb2hRMlJsRHR5VjlIVzNhTWY1Z0o5c0MyLXI2cDkwRW1GYklfMjFJaGExYnNEcUEzUXU3MG1WNGRpYXJndUpkNnBJX1lwOTNUZC0yWHNNMnFjYmlkUTMyZ2xBN1dfdmEyRjNh?oc=5",
+      "summary": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say Defense News",
+      "summary_original": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say Defense News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T19:26:57+03:30",
+      "published_fa": "1405/07/28 - 19:26",
       "translated": true,
       "verified_source": true
     },
@@ -5927,6 +5930,38 @@
       "urgent": false,
       "published": "2026-10-20T17:15:15+03:30",
       "published_fa": "1405/07/28 - 17:15",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Iran says US attack means ‘destruction’ throughout region - Al Jazeera",
+      "title_original": "Iran war updates: Iran says US attack means ‘destruction’ throughout region - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wRmU1RzJvUnBDSDFoNnRnZ0ZFdUtDWDNkMGlsSHRkSHhPN1RBaFZDNG0zd3E0TDFubVRidWkxTlg3ZVNHRGF4YnNiN2t2SVZBSU1GSl9nM0VVa2RIT21jTklHLUV6ZFI1dXfSAW9BVV95cUxQa2FxRGFjdHc1Y3dzTVhIZFJ5b1huMTdVeWw2R0Q5a1B0RTZGSlFyZmR4Yl9sZmE0anY2Ukw5VDNzem9mWU96UHRtd3JOYWd2cXlKX3RDNjE5bVZVU29LOEpvLUhydjc1UTl4Y2dsZms?oc=5",
+      "summary": "Iran war updates: Iran says US attack means ‘destruction’ throughout region Al Jazeera",
+      "summary_original": "Iran war updates: Iran says US attack means ‘destruction’ throughout region Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-20T12:17:39+03:30",
+      "published_fa": "1405/07/28 - 12:17",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
+      "title_original": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanFrNWx2a3l3QklhbTBtSlN4UnhSSnZ1Z2J6SkR2WGVrNUM5cmYzSmtqMmFNLWdwOE94OEVWaFJZYXF6bHlXTDZiQ3YzMFlxMWFkZ1BBUGI3MWRwbzdIb0RDNzJhV0I0Y0NYWkJfRks0b0JGQTNEV2JrLXpzTlZXS3JqR3lTenM?oc=5",
+      "summary": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war CBS News",
+      "summary_original": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war CBS News",
+      "source": "Google News",
+      "category": "politics",
+      "tags": [
+        "نتانیاهو"
+      ],
+      "urgent": false,
+      "published": "2026-10-20T08:17:00+03:30",
+      "published_fa": "1405/07/28 - 08:17",
       "translated": true,
       "verified_source": true
     },
@@ -6003,21 +6038,6 @@
       "verified_source": true
     },
     {
-      "title": "The Iran War Has Changed the World Forever - Middle East Institute",
-      "title_original": "The Iran War Has Changed the World Forever - Middle East Institute",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QOGtjTDV3QnZRV0dpTkhjYjZEWVkwdklTUk5OTU9nWko5QTFPNDh5VXBGWGF0aERyTFNhQ2o0SEtsWDRJd1U0ck5YNUJUaDNYc1ozcHZRa1BuZk0ta3VqMGtyc0p0QXpKdTFYZnZ4NUN0OGFvYnRZTTJERQ?oc=5",
-      "summary": "The Iran War Has Changed the World Forever Middle East Institute",
-      "summary_original": "The Iran War Has Changed the World Forever Middle East Institute",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-19T15:46:03+03:30",
-      "published_fa": "1405/07/27 - 15:46",
-      "translated": true,
-      "verified_source": true
-    },
-    {
       "title": "Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship - Time Magazine",
       "title_original": "Trump Endorses Netanyahu Days Before Israeli Election as Iran War Tests Friendship - Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGpOOWxtVmkyYUM5V1dyMjdBQjlUbzhWcWJUNXJNOFZmTkRRUE80ODNpZFdfVWhadGd0dmpoTEtlbk5oNjB1VWdMRlhzOHNBckV0dm9wcDJpSTBWZ2R5WERqQ2s0R2RkUENncGQ2MHJVaFZuWEUybDR5ZUg5UGY0YXVYaldfUDQ?oc=5",
@@ -6032,6 +6052,21 @@
       "urgent": false,
       "published": "2026-10-19T14:00:14+03:30",
       "published_fa": "1405/07/27 - 14:00",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "A renewed Iran war is only a matter of time, Israeli experts warn - Jewish Telegraphic Agency",
+      "title_original": "A renewed Iran war is only a matter of time, Israeli experts warn - Jewish Telegraphic Agency",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1d2RVhJXzJINlNMemVtRzNMajNsX29JcDM0WW14eUdCRlF2WmtIZ2J5cVY2TjZtN3AxcWtEYmExRzFjRE5PakVyZnkxRWhUTkM5TEpyemt1MnVSSmZlTmxOUzNYU1NJdC1JZWhtc1lQazJhWVM3bWRhMlpZczZLZ1JUNHBSSmI3ZTlSLU1QSEkxQTg5M2pSbDk5YU1oTE80bHItRA?oc=5",
+      "summary": "A renewed Iran war is only a matter of time, Israeli experts warn Jewish Telegraphic Agency",
+      "summary_original": "A renewed Iran war is only a matter of time, Israeli experts warn Jewish Telegraphic Agency",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-19T12:19:33+03:30",
+      "published_fa": "1405/07/27 - 12:19",
       "translated": true,
       "verified_source": true
     },
@@ -6068,6 +6103,21 @@
       "urgent": false,
       "published": "2026-10-19T04:09:03+03:30",
       "published_fa": "1405/07/27 - 04:09",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: 58 recruits killed, 200 hurt in Houthi attacks in Yemen - Al Jazeera",
+      "title_original": "Iran war updates: 58 recruits killed, 200 hurt in Houthi attacks in Yemen - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjFlTlRqQkJBNFNTYTgtOVZMTXpUOEE4U3dtT2xuRXBydTZkd1FPcl9vMUNidUR5SUU2X251NUtSZnZseXlOdnJrMnRNLVpFamNRQnF4WFVYcG9UbEoxV054QkQ3UkVFUEZyeENidkQ0U1dlUVRtMWlFSlFCbTVhTkdjMkJ6VkVwRW13MERpS2JHSGc2MDktX1NKYTk3YVdUa1JTVXFsNHlDeHdMSHJMLWU3bVg1V044RUt2anVJd07SAcYBQVVfeXFMTWZYeGhfVWxhNVpuTUMxOXZXVkw1Y3hWWWt0ak1PLUo0N3QxdnFQek1leHQ5TW1mMWhIMlZST1UzeTQwZElscjRIX09BZlBMaS13ZUdtU2JPRWVCdTBWZzF2V3dSUlhFYnhlUmV3dEFvQ3c2empwS0tKTTRIWXNyb2FwMnBEOTNxX1ktWktGdXVYR1MwbzFBMG5UWmJWRVVVR0szUDU3RFBUZS1lZTJIaHAtci1jZnBiTUFPSmdwVWwyWGwtYm93?oc=5",
+      "summary": "Iran war updates: 58 recruits killed, 200 hurt in Houthi attacks in Yemen Al Jazeera",
+      "summary_original": "Iran war updates: 58 recruits killed, 200 hurt in Houthi attacks in Yemen Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-19T03:29:47+03:30",
+      "published_fa": "1405/07/27 - 03:29",
       "translated": true,
       "verified_source": true
     },
@@ -6306,16 +6356,61 @@
       "verified_source": true
     },
     {
-      "title": "Netanyahu says he is not seeking to attack Iran again before Israel election - Reuters",
-      "title_original": "Netanyahu says he is not seeking to attack Iran again before Israel election - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWQySUR2MFRlc1ZmU2lEaFRLU0VVWU14UVZhNm1Jc05obTk2SFV6UzZwLWhySUlaTXJISmdnc00wWnpNZHd0WGlIeC03ZmVnbzJuOUV6Zm96OE9sdTExbU5LdzBoa0U1S2QtMlNoWWQ1VUQtM1FzZHBXTGFxMDczVVRoWjNZbjIzaUpwMGlSS0s0VDAtZ3J5M0laNVlrT09Mc3ZwcjQwbE9YSDN4c2V0UmpWZ1lhanNDdS1hU3BtSUJzQ2tfbXc?oc=5",
-      "summary": "Netanyahu says he is not seeking to attack Iran again before Israel election Reuters",
-      "summary_original": "Netanyahu says he is not seeking to attack Iran again before Israel election Reuters",
+      "title": "How Netanyahu could attack Iran to force Israel into unity government after elections - Al-Monitor",
+      "title_original": "How Netanyahu could attack Iran to force Israel into unity government after elections - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMEJhMUdvNkVVcS1BZG9CMW1iR0JwYjRMc09nczFKSjgyUmR0cDIzbEc0N1V2bDBVdS1NTElmOHRVN3hFSUk3aHJWSDJJWE9DVTZGYlBHQmdDZHA2TU1jd0RFVXlzbFM5ZUY4d2hGdHpJTkNnUmJZTDlVWGhUTkFtN1Y0V2RhY1FkSmc3NmpnRHlCUXhKUng0YlF6RENwV0JGMnFZcG1Ic3lRdzZUbnI0NGVDRDNCSUQ4cnpxeFFrMA?oc=5",
+      "summary": "How Netanyahu could attack Iran to force Israel into unity government after elections Al-Monitor",
+      "summary_original": "How Netanyahu could attack Iran to force Israel into unity government after elections Al-Monitor",
       "source": "Google News",
       "category": "military",
       "tags": [
         "نتانیاهو"
       ],
+      "urgent": false,
+      "published": "2026-10-18T10:30:00+03:30",
+      "published_fa": "1405/07/26 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh - Al Jazeera",
+      "title_original": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tVG50UENTRlZCYURUeTlpZjlxZ2w5VVVvRTdMWWdrRGZTYWNBMnRmblNIaGZtYlFvQmxEQjltZUwzZUZKYU9RSHV2SXFLaVpLWlNuQTV6aV85dUtWSV9lNi1rUFc4WTV6NVHSAW9BVV95cUxQalFsSzFzeHphVUVyU1NuanptU0h1QlF3LXc0dmQ2NEhXSDRZd0xwenVTWk5NMkhjZnFYTUJHQWNhT0lMb2RyTkhTX19LQV9paHkzTjRrYkdtQnlOc2QxUWtheXJEU3Q0dkhGZXRreUk?oc=5",
+      "summary": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh Al Jazeera",
+      "summary_original": "Iran war updates: Tankers reported hit in Hormuz; drones downed near Riyadh Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-17T10:30:00+03:30",
+      "published_fa": "1405/07/25 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack | US-Israel war on Iran News - Al Jazeera",
+      "title_original": "Iran war updates: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack | US-Israel war on Iran News - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTRUUUk1T3A4eVQ1MnhCQ2ZkaGlHWDM2M2RQV3BxYWJzZ3JpUDVRTVFSMUg5MjFlNFlfakttOVdlamc1cVUwclhwc1BjemRRSzJsVW1IbHZVUld1Q3BjMzBtRmtpbTg3WGRDdXVvS21lNURLeEdfUkNEaVFMcmtTSXR1d2RCMlhfVlFHRF9lSUpQVlhKQzI0d1M0ekdYRFl5aVJjcENnV0tBcnoxVng4ejJiX3Q2dHhyV3JxQ19yUW5uQQ?oc=5",
+      "summary": "Iran war updates: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack | US-Israel war on Iran News Al Jazeera",
+      "summary_original": "Iran war updates: Cargo ships sunk in Hormuz, Houthis claim Riyadh attack | US-Israel war on Iran News Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-14T10:30:00+03:30",
+      "published_fa": "1405/07/22 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Senate Candidate Abdul El-Sayed says Israel and Iran both threat to U.S. - NBC News",
+      "title_original": "Senate Candidate Abdul El-Sayed says Israel and Iran both threat to U.S. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHNTdTAyckhZQjNrbmtDc1l2Rnp3ZVBobFFYeG0tdGFCcTBEaVNfbkhrRGxmODBfRWJnR1oxam9xVDlfX3U0cjdGR1FVeXNDcjR1akRndUtVTEN5M2pGaHpUVnFqcElsMGdMeFV6VEc0UG91WW96YWE0YktybElBU3hwOUI2Y3k4SGNPUkNyUlFEV1djZXNaekRPUW5hbGt4Q2ZsaWVzeW1QLVJsRDhZb3lLcXJvN0dnVllEeW9uVmZxVnhoVEE?oc=5",
+      "summary": "Senate Candidate Abdul El-Sayed says Israel and Iran both threat to U.S. NBC News",
+      "summary_original": "Senate Candidate Abdul El-Sayed says Israel and Iran both threat to U.S. NBC News",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
       "urgent": false,
       "published": "2026-10-14T10:30:00+03:30",
       "published_fa": "1405/07/22 - 10:30",
@@ -6341,6 +6436,21 @@
       "verified_source": true
     },
     {
+      "title": "Middle East latest: Houthis 'launch new missile strikes' on Saudi Arabia - Sky News",
+      "title_original": "Middle East latest: Houthis 'launch new missile strikes' on Saudi Arabia - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjExQVpfbUt5dFNlNDEyRWYyU1hScFh2Zk1oS0g3THFISlQ2VG0yNWRiVU1TemhFMWtZRXZqRU5YZFYwbnlBcFA1blhrazNUR015WUs2UFNCTHVucVlLUTA1UTJJOGtBNVFqLXVFbjBhTFFVTENEa2c2MldzQ0xpdXc5dVJBODF4SjBpMjR6Y0VldEZrTURXckJpYw?oc=5",
+      "summary": "Middle East latest: Houthis 'launch new missile strikes' on Saudi Arabia Sky News",
+      "summary_original": "Middle East latest: Houthis 'launch new missile strikes' on Saudi Arabia Sky News",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-13T10:30:00+03:30",
+      "published_fa": "1405/07/21 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
       "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios",
       "title_original": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JUndhMTg1cVBLbzA0Wjk0WTViZVF1c2pBTmhzNzI3eFNpQi1lVDhiUGJUUU1WdmNrSUNwOHRLMU5uelNQc0NVSUdHd1Nra3ZCOThHRzYyTVU1aG1MQlJ5anZjSm84YWc2NmlGUHMyelJ1ZnEwU0E?oc=5",
@@ -6352,6 +6462,21 @@
         "ترامپ",
         "نتانیاهو"
       ],
+      "urgent": false,
+      "published": "2026-10-13T10:30:00+03:30",
+      "published_fa": "1405/07/21 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Houthis fire missiles at Saudi Arabia - Al Jazeera",
+      "title_original": "Iran war updates: Houthis fire missiles at Saudi Arabia - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEs4LUc1VGI2Tm03R05nd09BY1dtS0JLYmdlcFc3aUdjRG5SWFZaQzNodEVUc0RZRkRtMHBKSG1fLWh6djZ1Wk9FcXdvVm9MYk5KNks3RzM5LWE2T0haMVhIUDdObldxY1RWN3FMVkx5YlFqMm5lUUtCZFR2Q1lMLVlkcnhMV2x5cTBfMlpwaUxGRmNLQnVTa2tEOG94Q000Mjh5NGVGNkZSX3p2QjZteHBBN3RXc1BkSC1YVtIBwgFBVV95cUxPSk1uX1YxaDVmUW9qQzU2TWZPSE5CY0JmRnJxT2h0dVQtV2dZWGpuS2Q0UWE4NFhfM1pjWkFzWU5IclVuaGdNZXJqTEx5Y0ZfbFN3dHNvYUVmTzMzb1FheXZHNFN3LUdWTDJoM21nOXpOX3BNQ1ZreHlXUXhlMjdHNjBVcHNpUWVLT3hVbXN4UlBOSEMxWEUtcjJJTnFrYzg3bmd0ZXNoSkFNOTNacHBXamJBNEpEX2dyNlZVNW1hNnp4UQ?oc=5",
+      "summary": "Iran war updates: Houthis fire missiles at Saudi Arabia Al Jazeera",
+      "summary_original": "Iran war updates: Houthis fire missiles at Saudi Arabia Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
       "urgent": false,
       "published": "2026-10-13T10:30:00+03:30",
       "published_fa": "1405/07/21 - 10:30",
@@ -6377,16 +6502,29 @@
       "verified_source": true
     },
     {
-      "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
-      "title_original": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
-      "summary": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes PBS",
-      "summary_original": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes PBS",
+      "title": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks - Al Jazeera",
+      "title_original": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGtkLXd1c0tZZlVxNER3Tmc4V1RodWo0UE5Xc3pWSjU3bkJRdDJFRVpmLXprUnlDTUYtQnk4U281TFNqQk5USWdkalJscDhGZzdJZ0tWaTV5MHZNQ2hFcE16VlNpdGN1SUtpb21felQ4cTdfcnM3MnJEbFdRWm5ubG5UbzNYVDdUSjFzZ1FrWS15U1lDNXlEZF9iX3l5MHczX2VVRS1pQVhRcEE1OS00Z1dXaDRVMldrcGQ5MTd30gHDAUFVX3lxTE84MkxvSFZFMjJnblFxWGZoLVAzRkxXUVZSLUQyWG1RR3BJMk8zTVJzQ2dHVVRrNHA3Z1BlRkg3bHU0aXBqZ1FaNW80ZXdmY3Z1UkN0SXpXcWI4eGZxOEl1dE5sNlNBcV9mTzJ1VXJ4TmJZVU5ON0llVTBRWXdRYzAwV2N0UHRkMVB5ZzVGREhZUVVOWEloaEIzTEUwUDlIanFla1pLczdxem5SUmJGTllEVERNWTJJNS1wR1pFSWRyNnNPWQ?oc=5",
+      "summary": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks Al Jazeera",
+      "summary_original": "Iran war updates: Saudi downs Houthi missiles during ongoing deadly attacks Al Jazeera",
       "source": "Google News",
-      "category": "politics",
-      "tags": [
-        "نتانیاهو"
-      ],
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-10-12T10:30:00+03:30",
+      "published_fa": "1405/07/20 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport - Al Jazeera",
+      "title_original": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG4wRG0xOU5UdG45YWVFYzNfSE5xMGJPY3M3bTMwT0NJLWFnSGJpd211eHBTVGNSNXlBekVHZFJIZ3FFLW1pV0RLSlhIdmxRZE1OTHRJNTg1SW1qemxqTTdMZk5zZjdYeE40bTB3Q2t2b2ktWHBXNHc5bGdaZXQ4dDlwY3Axc3dYaDBaMllmUUVvQmxmTFU2SVM0bldoVWZPUkN6bVhPMXNHdDVFeDZSSGFtQjdXdXFFSUNIbklTTnlWd9IBxwFBVV95cUxQTUdPNUxLbldYa1ZvckFxelBsWFBkaEFSN0NITWpqT21xU1V4aU1hdEphWGFqMXdSZ05lWFBqNUdhNjVDdHJUSW1hcjk3QWxTMEk2cWF5S0NlUTZMX3lYSTZJTC1TNUhOdDBwSXprM284RWlmZmJtRHB5T0FQQ1A1d0IxeVhXei1KREozV2dyMTFXMVRzWXRxNGRHMU5wMzZXMFBVLXM3Sy16cE93Z2wydU9sSnpOMkVVZ29uSXFjTnJXSjJGOTFF?oc=5",
+      "summary": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera",
+      "summary_original": "Iran war updates: Injuries after new Houthi attack on Saudi Arabia airport Al Jazeera",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
       "urgent": false,
       "published": "2026-10-11T10:30:00+03:30",
       "published_fa": "1405/07/19 - 10:30",
@@ -6409,62 +6547,19 @@
       "verified_source": true
     },
     {
-      "title": "Map of Middle East redrawn after October 7 - Al Jazeera",
-      "title_original": "Map of Middle East redrawn after October 7 - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnMwMngxTlloRUZYS0NLb0F6aXJGWHEzSUxWeHRSeXljWXFhWDBxaTJpRkVCZHZNVzRRbGt2ekhsUE1iNEc4bzlpV1k4d00zbDVuWlFFNDlJU1pkWGx4UWV2bVRSdHJ6LWpYNExpYmhJeUJKXzNXU2NBWENNczlpajVpclpDZFBVUlJROHhkM3lyZ9IBlwFBVV95cUxOUFRXRlQwejkxYnlyMjM3UGJuTEpKS2FaWC1KOE0tcE9LRW9YaDgtRTZTWllSdVZNdnRxN3puZHhfdFlLdnE2bVRkMlA5cXJRakQ3UkNJR3RzN2tMNVN2bDBPSmhjVzhZMThOc3hPbFBVVGtlQXQyU0wtU3VHSDJSaVl4b3N4U2lWaUZhM0U1SHNWZl9ITlVN?oc=5",
-      "summary": "Map of Middle East redrawn after October 7 Al Jazeera",
-      "summary_original": "Map of Middle East redrawn after October 7 Al Jazeera",
+      "title": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
+      "title_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG1vM25faW5LcklvY082VWw2bHJ2MFdzR1NRekV1TzI2SzloOTFrZGhPTEVyWlY4bGpiRXprNWVhTUxqbF8zc3pxNGFFZzJIalNteWs5UV9oWkI3V1dBX2hjckVwejBiZmtSVnFTUUVVeFdGS19nZE9kOVB4OTUwUUcxOWZzY25FWXJPNXg3WGprdw?oc=5",
+      "summary": "US sends third aircraft carrier to Middle East amid stalemate in Iran war The Guardian",
+      "summary_original": "US sends third aircraft carrier to Middle East amid stalemate in Iran war The Guardian",
       "source": "Google News",
       "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T10:30:00+03:30",
-      "published_fa": "1405/07/16 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran Update, October 8, 2026 - Institute for the Study of War",
-      "title_original": "Iran Update, October 8, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm9RODIxUUVwNkRFaGFzTzJCdkZ2c0hGTm5uLWpYRUZMUXJ1b2k0U0JDam1wLW1LXzFQbElWdmlJN1J5QmNMSzE0b2FKSUQ2U0Z4dWZYU1JJQUtqY0ZZRVVxbGpzRUxCRTc0VUt1NjNLM2wzT2trOWhLMzUwV1JlT1l3dw?oc=5",
-      "summary": "Iran Update, October 8, 2026 Institute for the Study of War",
-      "summary_original": "Iran Update, October 8, 2026 Institute for the Study of War",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-08T10:30:00+03:30",
-      "published_fa": "1405/07/16 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran Update, October 7, 2026 - Institute for the Study of War",
-      "title_original": "Iran Update, October 7, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEpzbmVfZjZnczJEeTRudzFxZkg2MUtQNXJPQnpkRGN0NmloaUhZeGozem95Wnd3VXQ2Ti02Y0FCWHpwcTV6RmNIcXBBbW4wSlpvWTVaUG9tWWFWdjlVYVdVSjZ0TmZsdjYzMVJkaVZmWFNMR0s5UDBobHJBUHpjd05scw?oc=5",
-      "summary": "Iran Update, October 7, 2026 Institute for the Study of War",
-      "summary_original": "Iran Update, October 7, 2026 Institute for the Study of War",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-07T10:30:00+03:30",
-      "published_fa": "1405/07/15 - 10:30",
-      "translated": true,
-      "verified_source": true
-    },
-    {
-      "title": "Iran Update, October 6, 2026 - Institute for the Study of War",
-      "title_original": "Iran Update, October 6, 2026 - Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWhsam5HS3VrUmJ2VTc1NXlNU2I2UWFzVTY2YzZkR1ctYWRibXZkRmtaUzJXOWNIRjA3RkVrcWpZUzNBaXVNTDYxaUtCV2dfbXpCalRVUUZNRERRcmNMZHV5aXhBNFhBb2JPRnFyc3ZxcE1LQ2pUcmZOTHFreXhRRnpRRQ?oc=5",
-      "summary": "Iran Update, October 6, 2026 Institute for the Study of War",
-      "summary_original": "Iran Update, October 6, 2026 Institute for the Study of War",
-      "source": "Google News",
-      "category": "other",
-      "tags": [],
-      "urgent": false,
-      "published": "2026-10-06T10:30:00+03:30",
-      "published_fa": "1405/07/14 - 10:30",
+      "tags": [
+        "ناو آمریکا"
+      ],
+      "urgent": true,
+      "published": "2026-10-01T10:30:00+03:30",
+      "published_fa": "1405/07/09 - 10:30",
       "translated": true,
       "verified_source": true
     },
@@ -6535,6 +6630,66 @@
       "published": "2026-09-22T08:09:38+03:30",
       "published_fa": "1405/06/31 - 08:09",
       "translated": false,
+      "verified_source": true
+    },
+    {
+      "title": "What are Iran’s latest conditions to end its war with the US? - Al Jazeera",
+      "title_original": "What are Iran’s latest conditions to end its war with the US? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5",
+      "summary": "What are Iran’s latest conditions to end its war with the US? Al Jazeera",
+      "summary_original": "What are Iran’s latest conditions to end its war with the US? Al Jazeera",
+      "source": "Google News",
+      "category": "other",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-20T10:30:00+03:30",
+      "published_fa": "1405/06/29 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "USA/Israel/Iran: Investigation into US-Israeli strikes on Tehran neighbourhoods reveals devastating civilian harm - Amnesty International",
+      "title_original": "USA/Israel/Iran: Investigation into US-Israeli strikes on Tehran neighbourhoods reveals devastating civilian harm - Amnesty International",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeWFlc1Zsem1ubmFHWTVtVXpYR0tiam9TYVphN1FzekNHdGUtVTNlRTd5OFBhQkFPNm5oMUpSUVItVjNHY3A1N3Bib1c1Qy04SzJKbUZ2UFZhU3dROGxIWnlzQ1BuNXgxWmpUSnFuRFBQbnBncHZldV9Uckw5Sl9NTzlIbVBpZExHTGYwMk1sb0tLYW1NRDNmaVZ1MjBvb244U3BnazNqWHdKTWktLTB1QWh1dGVvQVR0MmdnTEVlbmlkTUh0aW5wRHc4bWJZc1FWeGJLUXI0TDJsR21oS29NcXluWmw0N3JZd3FULW82ZWQ1QQ?oc=5",
+      "summary": "USA/Israel/Iran: Investigation into US-Israeli strikes on Tehran neighbourhoods reveals devastating civilian harm Amnesty International",
+      "summary_original": "USA/Israel/Iran: Investigation into US-Israeli strikes on Tehran neighbourhoods reveals devastating civilian harm Amnesty International",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-08T10:30:00+03:30",
+      "published_fa": "1405/06/17 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes - CNBC",
+      "title_original": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObk5EbElublhva1o0aEYxbmpnTFB1aEU1dTNvenR2eHJndXFvYjVTTFJmYk5EQWpSVXdlaXhiM2lFeks5aFh6M1hQd2hJSDgwRXB1b3ducmllX19mam9CRFRjN0dlQVp5ak1QaEphcE8wUXpkYW4xUS1JYWpiTDJvcS1EOHduTjN5OWJWNy11anpKMlVoYlgtM2dwNGnSAaIBQVVfeXFMT0FyOVVHZVpXUUtqTWpKZ0hYdnVEZ1FhWTRWNk44bnZlS2Y2dkV5VTVGZjVYbm94MXcwMzN4TUY5YXBPX05qUUM2Q09sM3BYYl9uWlVFcmZsbmFCMjhCZE11bEN3bmt5VFpVdmdybHFfSExucWpXSVpZNVZjQTVOOFZIdXI3VWVvdjdsV1o2b1doQk9ZT0NxUldDTEdaRmZ3Mjh3?oc=5",
+      "summary": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes CNBC",
+      "summary_original": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes CNBC",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-07T10:30:00+03:30",
+      "published_fa": "1405/06/16 - 10:30",
+      "translated": true,
+      "verified_source": true
+    },
+    {
+      "title": "Iran Planning Bigger 'October 7' Style Attack On Israel Using Proxies: Report - NDTV",
+      "title_original": "Iran Planning Bigger 'October 7' Style Attack On Israel Using Proxies: Report - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEprbFRuNl9UV3FuS1RvNFNJWHFyR3hJMUJpaFFPNUZnd0lOTlRJQ1YtUE16bnRzMHdWU2pyOVZTTE1jWmx5djhxUFhJVUhWZG9sYmxfRkR2NGFMYWJGVDNpMHBxRzhXcDJWbmhRZFNkVWFCb1RGTEdMamt1U3FNeDZPdXpwYnRqT2F3bHJza2dCX0hWVVR6QS1NNFZQWEc1NkFXQVp2eGlhMTdPaURwcndQR3pHd9IBvgFBVV95cUxNOWQ1QjNtUUlPMW1zZ2M4enNtSE1vakUyZmVjNWJMY2ZkRkdkc0dYQm9qby1CbXQ3OXVaaGVNbktvNVczeGN0UjhrZjk0NjVWOGEwcTd6ZDlqVzlLOC1tb2x4Wm9NNDlzWVd6NkxVNWE0ZkNOQjFVRDlCTV9MMFBiUEN6LTBlNURINmxVbi03Z1BzRnNidnhIRnlxVDF2LW12RFF4MU9JSEVXQXJUMV9WTGZPZjFSVnUxTDlrV19B?oc=5",
+      "summary": "Iran Planning Bigger 'October 7' Style Attack On Israel Using Proxies: Report NDTV",
+      "summary_original": "Iran Planning Bigger 'October 7' Style Attack On Israel Using Proxies: Report NDTV",
+      "source": "Google News",
+      "category": "military",
+      "tags": [],
+      "urgent": false,
+      "published": "2026-09-06T10:30:00+03:30",
+      "published_fa": "1405/06/15 - 10:30",
+      "translated": true,
       "verified_source": true
     },
     {
